@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T14:58:01.901Z",
-  "count": 36,
+  "updatedAt": "2026-11-16T15:07:04.147Z",
+  "count": 37,
   "deals": [
+    {
+      "id": "amz:B0H624K81D",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Aqueria Fresh Underarm Brightening Roll On with 5.5% AHA BHA Pack of 3 | 48H Odour Control | Flora Fragrance with 2% Niacinamide | Multi ...",
+      "description": "",
+      "dealPrice": 222,
+      "mrp": 1275,
+      "savings": 1053,
+      "discountPct": 83,
+      "rating": null,
+      "reviewCount": "662",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61DQq6IB2sL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H624K81D?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T15:06:52.465Z"
+    },
     {
       "id": "amz:B0H3T3MFW8",
       "type": "amazon",
