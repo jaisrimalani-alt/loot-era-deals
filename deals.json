@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T14:07:17.045Z",
-  "count": 32,
+  "updatedAt": "2026-11-16T14:22:05.015Z",
+  "count": 33,
   "deals": [
+    {
+      "id": "amz:B0HJ1RFP76",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Aqueria Saver Pack Serum Infused Brightening Body Wash 875ml | Removes Body Acne, Tan & Uneven Skin Tone | With Salicylic Acid, Lactic Ac...",
+      "description": "",
+      "dealPrice": 246,
+      "mrp": 1499,
+      "savings": 1253,
+      "discountPct": 84,
+      "rating": null,
+      "reviewCount": "73",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51+x0a5bvlL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HJ1RFP76?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T14:21:48.879Z"
+    },
     {
       "id": "amz:B0C1P65Y4H",
       "type": "amazon",
