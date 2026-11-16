@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T21:22:05.785Z",
-  "count": 62,
+  "updatedAt": "2026-11-16T21:37:05.086Z",
+  "count": 63,
   "deals": [
+    {
+      "id": "amz:B0DFC56YM1",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Height Increase Insoles for Men & Women Soft 4-Layer Height Hoppers for Men Comfortable Breathable & Adjustable Height Insoles for Men Li...",
+      "description": "",
+      "dealPrice": 369,
+      "mrp": 999,
+      "savings": 630,
+      "discountPct": 63,
+      "rating": null,
+      "reviewCount": "886",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71PoGaTt13L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DFC56YM1?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T21:36:54.103Z"
+    },
     {
       "id": "amz:B0BNHD7MM3",
       "type": "amazon",
