@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T20:58:30.560Z",
-  "count": 60,
+  "updatedAt": "2026-11-16T21:07:04.812Z",
+  "count": 61,
   "deals": [
+    {
+      "id": "amz:B0HGLRQKZW",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "DAFFODIL 3 Ply Facial Tissue Soft Pack – 500 Pulls / 1500 Sheets | Ultra Soft & Absorbent Facial Tissue | Made from Virgin Pulp | 100 Pul...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 600,
+      "savings": 401,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "96",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61WB61TDbiL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HGLRQKZW?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T21:06:51.814Z"
+    },
     {
       "id": "amz:B00J420JEC",
       "type": "amazon",
