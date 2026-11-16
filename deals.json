@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T19:52:04.656Z",
-  "count": 55,
+  "updatedAt": "2026-11-16T20:07:07.740Z",
+  "count": 56,
   "deals": [
+    {
+      "id": "amz:B0CXPY1X7G",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Water-Resistant Sling Bag for Men with 1 Year Warranty | Stylish Crossbody & Messenger Bag | Compact Office & Travel Side Bag | Waterproo...",
+      "description": "",
+      "dealPrice": 319,
+      "mrp": 899,
+      "savings": 580,
+      "discountPct": 65,
+      "rating": null,
+      "reviewCount": "1,221",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/91dZ2Es-1zL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CXPY1X7G?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T20:06:53.525Z"
+    },
     {
       "id": "amz:B0BTTNR391",
       "type": "amazon",
