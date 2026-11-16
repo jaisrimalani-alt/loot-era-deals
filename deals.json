@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T21:37:05.086Z",
-  "count": 63,
+  "updatedAt": "2026-11-16T21:52:02.379Z",
+  "count": 64,
   "deals": [
+    {
+      "id": "amz:B0FVM34BQM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "DALUCI Top Load Fully Automatic Washing Machine Cover for 6 kg, 6.5 kg, 7kg & 7.5 kg | Waterproof & Dustproof Polyester Fabric with Zippe...",
+      "description": "",
+      "dealPrice": 351,
+      "mrp": 999,
+      "savings": 648,
+      "discountPct": 65,
+      "rating": null,
+      "reviewCount": "1,782",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61yl1XCjIyL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FVM34BQM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T21:51:48.697Z"
+    },
     {
       "id": "amz:B0DFC56YM1",
       "type": "amazon",
