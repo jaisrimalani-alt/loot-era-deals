@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T19:07:17.527Z",
-  "count": 53,
+  "updatedAt": "2026-11-16T19:22:07.375Z",
+  "count": 54,
   "deals": [
+    {
+      "id": "amz:B097JJ2CK6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Safari Omega spacious/large laptop backpack with Raincover, college bag, travel bag for men and women, Black, 30 Litre",
+      "description": "",
+      "dealPrice": 759,
+      "mrp": 3396,
+      "savings": 2637,
+      "discountPct": 78,
+      "rating": null,
+      "reviewCount": "18,261",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71maWXZscfL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B097JJ2CK6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T19:21:55.151Z"
+    },
     {
       "id": "amz:B0FKT3NYWR",
       "type": "amazon",
