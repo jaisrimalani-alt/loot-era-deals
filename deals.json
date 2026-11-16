@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T22:52:03.752Z",
-  "count": 68,
+  "updatedAt": "2026-11-16T23:07:19.060Z",
+  "count": 69,
   "deals": [
+    {
+      "id": "amz:B0C65RV6WH",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Black Design watch box for 12 watches (WITHOUT WATCHES)",
+      "description": "",
+      "dealPrice": 480,
+      "mrp": 2099,
+      "savings": 1619,
+      "discountPct": 77,
+      "rating": null,
+      "reviewCount": "100",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/818RoK4QKfL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0C65RV6WH?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T23:07:04.929Z"
+    },
     {
       "id": "amz:B0G2BZQNYY",
       "type": "amazon",
