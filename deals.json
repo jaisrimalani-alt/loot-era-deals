@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T13:52:01.874Z",
-  "count": 31,
+  "updatedAt": "2026-11-16T14:07:17.045Z",
+  "count": 32,
   "deals": [
+    {
+      "id": "amz:B0C1P65Y4H",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Xiaomi Air Purifier 4 Lite for home|360 m3/hr CADR covers 640 sq.ft.|3Stage HighEfficiencyFilter| 160 Sq.ft in 6 mins | App+Voice control...",
+      "description": "",
+      "dealPrice": 10990,
+      "mrp": 14999,
+      "savings": 4009,
+      "discountPct": 27,
+      "rating": null,
+      "reviewCount": "1,028",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81juk45eY2L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0C1P65Y4H?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T14:07:06.080Z"
+    },
     {
       "id": "amz:B0H7NSFNT6",
       "type": "amazon",
