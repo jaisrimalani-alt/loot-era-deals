@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T16:07:16.229Z",
-  "count": 41,
+  "updatedAt": "2026-11-16T16:22:00.935Z",
+  "count": 42,
   "deals": [
+    {
+      "id": "amz:B0DP9MGDLC",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Kids Edition 3D Cartoon Analog Watch with Lights | 3D Cartoon Character On Strap | for Kids",
+      "description": "",
+      "dealPrice": 229,
+      "mrp": 1299,
+      "savings": 1070,
+      "discountPct": 82,
+      "rating": null,
+      "reviewCount": "939",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71j4XCqQHDL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DP9MGDLC?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T16:21:48.692Z"
+    },
     {
       "id": "amz:B08M4QF7V9",
       "type": "amazon",
