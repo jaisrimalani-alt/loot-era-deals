@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T23:37:17.681Z",
-  "count": 71,
+  "updatedAt": "2026-11-16T23:51:59.402Z",
+  "count": 72,
   "deals": [
+    {
+      "id": "amz:B0HGG3M3S5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Reusable Sticky Ear Cleaner Tool Set, 24 Pcs Soft Silicone Adhesive Ear Wax Removal Sticks with Washable Resin Tips for Safe Ear Cleaning...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 499,
+      "savings": 300,
+      "discountPct": 60,
+      "rating": null,
+      "reviewCount": "83",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61D5Sy+esjL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HGG3M3S5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T23:51:47.780Z"
+    },
     {
       "id": "amz:B0FB8VST2G",
       "type": "amazon",
