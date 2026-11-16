@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T18:37:09.169Z",
-  "count": 51,
+  "updatedAt": "2026-11-16T18:52:04.775Z",
+  "count": 52,
   "deals": [
+    {
+      "id": "amz:B0F9TGLHXB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "ZUKU (1 PCS) No Drill Toilet Paper Roll Holder Self Adhesive/Toilet Paper Holder Self Adhesive/Hand Towel Holder for Bathroom Accessories",
+      "description": "",
+      "dealPrice": 117,
+      "mrp": 349,
+      "savings": 232,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "479",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51WfqAXb85L._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0F9TGLHXB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T18:51:50.165Z"
+    },
     {
       "id": "amz:B0CJYJSTXW",
       "type": "amazon",
