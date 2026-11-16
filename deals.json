@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T20:51:59.247Z",
-  "count": 59,
+  "updatedAt": "2026-11-16T20:58:30.560Z",
+  "count": 60,
   "deals": [
+    {
+      "id": "amz:B00J420JEC",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "The Original Scrub Daddy - FlexTexture Sponge, Soft in Warm Water, Firm in Cold, Deep Cleaning, Dishwasher Safe, Multi-use, Scratch Free,...",
+      "description": "",
+      "dealPrice": 219,
+      "mrp": 499,
+      "savings": 280,
+      "discountPct": 56,
+      "rating": null,
+      "reviewCount": "3,275",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71lWC50vu-L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B00J420JEC?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T20:58:18.969Z"
+    },
     {
       "id": "amz:B0FSCS6592",
       "type": "amazon",
