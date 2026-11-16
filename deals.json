@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T17:37:03.929Z",
-  "count": 47,
+  "updatedAt": "2026-11-16T17:52:02.721Z",
+  "count": 48,
   "deals": [
+    {
+      "id": "amz:B0BM4GR6TN",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (3 Jars & 2 Blades, Gold) - 1 Year Warranty",
+      "description": "",
+      "dealPrice": 1799,
+      "mrp": 6000,
+      "savings": 4201,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "21,181",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71SWv-f70VL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BM4GR6TN?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T17:51:49.463Z"
+    },
     {
       "id": "amz:B0FN7ZQ16J",
       "type": "amazon",
