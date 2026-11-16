@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T22:07:02.083Z",
-  "count": 65,
+  "updatedAt": "2026-11-16T22:22:04.585Z",
+  "count": 66,
   "deals": [
+    {
+      "id": "amz:B0H3BM7WP6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Noise New Launch ColorFit Pulse Air Smartwatch with BT Calling, 1.85\" TFT Display, Lightweight 45g Design, Heart Rate & Step Tracking, Mu...",
+      "description": "",
+      "dealPrice": 1399,
+      "mrp": 4999,
+      "savings": 3600,
+      "discountPct": 72,
+      "rating": null,
+      "reviewCount": "8,563",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61nEWps6SXL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H3BM7WP6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T22:21:50.047Z"
+    },
     {
       "id": "amz:B0H6RYY9GJ",
       "type": "amazon",
