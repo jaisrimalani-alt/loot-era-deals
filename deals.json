@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T12:07:02.818Z",
-  "count": 24,
+  "updatedAt": "2026-11-16T12:22:08.916Z",
+  "count": 25,
   "deals": [
+    {
+      "id": "amz:B07VKM2HR5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "NIVEA Nourishing Body Milk 600ml Body Lotion with Hyaluronic Acid | 72Hr Hydration | Deep Moisture Care for Very Dry Skin | Enriched with...",
+      "description": "",
+      "dealPrice": 399,
+      "mrp": 760,
+      "savings": 361,
+      "discountPct": 48,
+      "rating": null,
+      "reviewCount": "67,754",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/4125gF+XmHL._SL1000_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07VKM2HR5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T12:21:56.310Z"
+    },
     {
       "id": "amz:B0HKY1SS74",
       "type": "amazon",
