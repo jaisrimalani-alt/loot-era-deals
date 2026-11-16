@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T13:37:00.163Z",
-  "count": 30,
+  "updatedAt": "2026-11-16T13:52:01.874Z",
+  "count": 31,
   "deals": [
+    {
+      "id": "amz:B0H7NSFNT6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "SAKIT MFi Certified 27W Type C to Lightning Super Fast Charging Cable, High-Speed Data Sync, Durable Type C to iPhone Charger Cord,1M (3....",
+      "description": "",
+      "dealPrice": 300,
+      "mrp": 1900,
+      "savings": 1600,
+      "discountPct": 84,
+      "rating": null,
+      "reviewCount": "31,209",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/617KjRh+YwL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H7NSFNT6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T13:51:49.881Z"
+    },
     {
       "id": "amz:B0G1T2GZP9",
       "type": "amazon",
