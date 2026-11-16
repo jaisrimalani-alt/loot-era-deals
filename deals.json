@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T11:52:02.041Z",
-  "count": 23,
+  "updatedAt": "2026-11-16T12:07:02.818Z",
+  "count": 24,
   "deals": [
+    {
+      "id": "amz:B0HKY1SS74",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "KROYWEN Eye Washer Cups for Daily Eye Cleaning - Eye Wash Cup with Pump, Netra Shuddhi Cup, Portable Eyewash Cup for Eye Wash, Dust and D...",
+      "description": "",
+      "dealPrice": 99,
+      "mrp": 499,
+      "savings": 400,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "13",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71qbRKvVhWL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HKY1SS74?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T12:06:49.953Z"
+    },
     {
       "id": "amz:B07XCM6T4N",
       "type": "amazon",
