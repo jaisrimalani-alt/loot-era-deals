@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T15:52:02.437Z",
-  "count": 40,
+  "updatedAt": "2026-11-16T16:07:16.229Z",
+  "count": 41,
   "deals": [
+    {
+      "id": "amz:B08M4QF7V9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Vaseline Deep Moisture Body Lotion |For Dry Skin | Cushion Soft Skin| With Ceramides Hyaluron Moisture Fillers 400ml",
+      "description": "",
+      "dealPrice": 215,
+      "mrp": 535,
+      "savings": 320,
+      "discountPct": 60,
+      "rating": null,
+      "reviewCount": "73,814",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51ik8kWsenL._SL1000_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B08M4QF7V9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T16:07:01.636Z"
+    },
     {
       "id": "amz:B0FS7N1DX1",
       "type": "amazon",
