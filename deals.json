@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T19:22:07.375Z",
-  "count": 54,
+  "updatedAt": "2026-11-16T19:37:18.665Z",
+  "count": 55,
   "deals": [
+    {
+      "id": "amz:B0H63CZQ2R",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "LUMONY® Spray Bottle 300ml-Refillable Empty Mist Water Spray Bottle for Taming Hair in Morning, Hairstyling, Plants, Hair, Face, Garden, ...",
+      "description": "",
+      "dealPrice": 179,
+      "mrp": 599,
+      "savings": 420,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "104",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41Y24yw6paL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H63CZQ2R?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T19:37:07.440Z"
+    },
     {
       "id": "amz:B097JJ2CK6",
       "type": "amazon",
