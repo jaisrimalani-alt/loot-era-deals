@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T15:07:04.147Z",
-  "count": 37,
+  "updatedAt": "2026-11-16T15:22:04.881Z",
+  "count": 38,
   "deals": [
+    {
+      "id": "amz:B0GN36R8HW",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Zebronics HDMI 2.0 Cable with ARC, 4K@60Hz UHD, 1.5 Meter Cable, 18 Gbps High Speed Data Transmission, Supports 3D, CEC, 32 Audio Channel...",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 699,
+      "savings": 550,
+      "discountPct": 79,
+      "rating": null,
+      "reviewCount": "1,202",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61tfrifc32L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GN36R8HW?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T15:21:51.941Z"
+    },
     {
       "id": "amz:B0H624K81D",
       "type": "amazon",
