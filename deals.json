@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T16:37:10.255Z",
-  "count": 43,
+  "updatedAt": "2026-11-16T16:52:09.043Z",
+  "count": 44,
   "deals": [
+    {
+      "id": "amz:B0CCM8L54V",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Fr...",
+      "description": "",
+      "dealPrice": 249,
+      "mrp": 1299,
+      "savings": 1050,
+      "discountPct": 81,
+      "rating": null,
+      "reviewCount": "11,441",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61WnmpLwAQL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CCM8L54V?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T16:51:57.778Z"
+    },
     {
       "id": "amz:B01MTQ5M7B",
       "type": "amazon",
