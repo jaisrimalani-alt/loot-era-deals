@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T22:36:59.983Z",
-  "count": 67,
+  "updatedAt": "2026-11-16T22:52:03.752Z",
+  "count": 68,
   "deals": [
+    {
+      "id": "amz:B0G2BZQNYY",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "(Black, 300ml) Refillable Empty Mist Water Spray Bottle for Taming Hair in Morning, Hairstyling, Plants, Pets (Black, 300ml)",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 399,
+      "savings": 250,
+      "discountPct": 63,
+      "rating": null,
+      "reviewCount": "1,214",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41YY8ISLeUL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G2BZQNYY?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T22:51:49.870Z"
+    },
     {
       "id": "amz:B0GVT5NF8W",
       "type": "amazon",
