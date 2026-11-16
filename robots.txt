@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jaisrimalani-alt.github.io/loot-era-deals/sitemap.xml
