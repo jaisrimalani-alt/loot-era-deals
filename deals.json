@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T17:07:00.509Z",
-  "count": 45,
+  "updatedAt": "2026-11-16T17:22:08.129Z",
+  "count": 46,
   "deals": [
+    {
+      "id": "amz:B0GDTRYXYF",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "HAMMER Airflow Neo Earbuds with 80H Playtime, 13mm Titanium Driver, 40ms Gaming Mode, Fast Charging Buds, Type-C Charging, Voice Assistan...",
+      "description": "",
+      "dealPrice": 587,
+      "mrp": 2499,
+      "savings": 1912,
+      "discountPct": 77,
+      "rating": null,
+      "reviewCount": "2,716",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51vASaeUnxL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GDTRYXYF?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T17:21:53.425Z"
+    },
     {
       "id": "amz:B0HK22M87Z",
       "type": "amazon",
