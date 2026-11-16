@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T13:07:03.190Z",
-  "count": 28,
+  "updatedAt": "2026-11-16T13:22:03.635Z",
+  "count": 29,
   "deals": [
+    {
+      "id": "amz:B0FQPDGX5D",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Portable Paper Soap Travel Combo - 2 Test Tubes Flower Soap Flakes & 2 Cases Scented Soap Strips - Mini Disposable Hand Wash Sheets for O...",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 440,
+      "savings": 291,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "429",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61FCCiTqY4L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FQPDGX5D?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T13:21:50.998Z"
+    },
     {
       "id": "amz:B0C4Q178LG",
       "type": "amazon",
