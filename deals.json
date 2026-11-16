@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T11:36:50.019Z",
-  "count": 22,
+  "updatedAt": "2026-11-16T11:52:02.041Z",
+  "count": 23,
   "deals": [
+    {
+      "id": "amz:B07XCM6T4N",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "STRIFF Adjustable Laptop Tabletop Stand Patented Riser Ventilated Portable Foldable Compatible with MacBook Notebook Tablet Tray Desk Tab...",
+      "description": "",
+      "dealPrice": 240,
+      "mrp": 1499,
+      "savings": 1259,
+      "discountPct": 84,
+      "rating": null,
+      "reviewCount": "55,620",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Zf9uUp+GL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07XCM6T4N?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T11:51:51.609Z"
+    },
     {
       "id": "cue:132465",
       "type": "cuelinks",
