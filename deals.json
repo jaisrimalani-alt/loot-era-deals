@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T20:37:23.209Z",
-  "count": 58,
+  "updatedAt": "2026-11-16T20:51:59.247Z",
+  "count": 59,
   "deals": [
+    {
+      "id": "amz:B0FSCS6592",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Zebronics Type C to HDMI Cable, 4K @ 60Hz | 1080p @ 240Hz, 18Gbps Data Transfer, 3D Compatible, 1M (3.2ft) Braided Cable, for Laptop, Mob...",
+      "description": "",
+      "dealPrice": 699,
+      "mrp": 2999,
+      "savings": 2300,
+      "discountPct": 77,
+      "rating": null,
+      "reviewCount": "2,111",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71rEL7aZbhL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FSCS6592?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T20:51:48.175Z"
+    },
     {
       "id": "amz:B0H3BXLJ3T",
       "type": "amazon",
