@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T23:22:15.774Z",
-  "count": 70,
+  "updatedAt": "2026-11-16T23:37:17.681Z",
+  "count": 71,
   "deals": [
+    {
+      "id": "amz:B0FB8VST2G",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Robustt Heavy Duty Rubber Hand gloves - 1 Pair (Free Size, Multicolor) for Dishwashing, gardening, kitchen cleaning",
+      "description": "",
+      "dealPrice": 125,
+      "mrp": 249,
+      "savings": 124,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "3,288",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71kw7Pk0pAL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FB8VST2G?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T23:37:05.600Z"
+    },
     {
       "id": "amz:B0F7HCGKR3",
       "type": "amazon",
