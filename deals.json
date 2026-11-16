@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T17:52:02.721Z",
-  "count": 48,
+  "updatedAt": "2026-11-16T18:07:01.543Z",
+  "count": 49,
   "deals": [
+    {
+      "id": "amz:B0G2H8SGPR",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Gel Heel cups Silicone Heel Pad for Heel Ankle Pain, Heel Spur Shoe Support Pad for Men and Women Shock Cushion Pad for Heels",
+      "description": "",
+      "dealPrice": 150,
+      "mrp": 499,
+      "savings": 349,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "1,307",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/614fZ-1+aQL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G2H8SGPR?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T18:06:50.307Z"
+    },
     {
       "id": "amz:B0BM4GR6TN",
       "type": "amazon",
