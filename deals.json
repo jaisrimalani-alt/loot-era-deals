@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T16:22:00.935Z",
-  "count": 42,
+  "updatedAt": "2026-11-16T16:37:10.255Z",
+  "count": 43,
   "deals": [
+    {
+      "id": "amz:B01MTQ5M7B",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "ASIAN Wonder-13 Men's Running Shoe | Lightweight Sports Design, Soft Cushioning, Reliable Grip for Casual, Travel & Gym",
+      "description": "",
+      "dealPrice": 579,
+      "mrp": 999,
+      "savings": 420,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "114,169",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61utX8kBDlL._SL1100_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B01MTQ5M7B?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T16:36:57.412Z"
+    },
     {
       "id": "amz:B0DP9MGDLC",
       "type": "amazon",
