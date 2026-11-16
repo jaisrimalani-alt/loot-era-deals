@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T21:07:04.812Z",
-  "count": 61,
+  "updatedAt": "2026-11-16T21:22:05.785Z",
+  "count": 62,
   "deals": [
+    {
+      "id": "amz:B0BNHD7MM3",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Matrix Black, Blue, White Dial, Day & Date Functioning, Stainless Steel Strap Analog Watch for Men & Women",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 2499,
+      "savings": 2200,
+      "discountPct": 88,
+      "rating": null,
+      "reviewCount": "3,966",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/816eXKgDfIL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BNHD7MM3?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T21:21:52.925Z"
+    },
     {
       "id": "amz:B0HGLRQKZW",
       "type": "amazon",
