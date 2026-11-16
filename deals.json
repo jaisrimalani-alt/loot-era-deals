@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T12:22:08.916Z",
-  "count": 25,
+  "updatedAt": "2026-11-16T12:36:59.303Z",
+  "count": 26,
   "deals": [
+    {
+      "id": "amz:B07MDGSP8F",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog Day Date Functioning Stainless Steel Chain Watch for Men",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 1799,
+      "savings": 1500,
+      "discountPct": 83,
+      "rating": null,
+      "reviewCount": "17,538",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81nj6IlZpVL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07MDGSP8F?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T12:36:46.614Z"
+    },
     {
       "id": "amz:B07VKM2HR5",
       "type": "amazon",
