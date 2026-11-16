@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T16:52:09.043Z",
-  "count": 44,
+  "updatedAt": "2026-11-16T17:07:00.509Z",
+  "count": 45,
   "deals": [
+    {
+      "id": "amz:B0HK22M87Z",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Electric Toothbrush with 4 Dupont Brush Heads, IPX7 Waterproof Rechargeable Toothbrush 6 Cleaning Modes, Fast Charging & Long Battery Lif...",
+      "description": "",
+      "dealPrice": 239,
+      "mrp": 699,
+      "savings": 460,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "161",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/712SnjyIkWL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HK22M87Z?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T17:06:47.683Z"
+    },
     {
       "id": "amz:B0CCM8L54V",
       "type": "amazon",
