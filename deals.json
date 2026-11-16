@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T15:37:01.401Z",
-  "count": 39,
+  "updatedAt": "2026-11-16T15:52:02.437Z",
+  "count": 40,
   "deals": [
+    {
+      "id": "amz:B0FS7N1DX1",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "12-in-1 Tubeless Tyre Puncture Repair Kit for Cars & Bikes | Heavy-Duty T-Handle Tools & 10 High-Grip Repair Strips | with Plier, Solutio...",
+      "description": "",
+      "dealPrice": 308,
+      "mrp": 1250,
+      "savings": 942,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "2,000",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81OZUJUO2-L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FS7N1DX1?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T15:51:50.919Z"
+    },
     {
       "id": "amz:B0GX9KQN5V",
       "type": "amazon",
