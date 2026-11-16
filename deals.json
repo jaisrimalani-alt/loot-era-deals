@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T18:22:02.940Z",
-  "count": 50,
+  "updatedAt": "2026-11-16T18:37:09.169Z",
+  "count": 51,
   "deals": [
+    {
+      "id": "amz:B0CJYJSTXW",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Height Increase Insoles for Men, Invisible Height Increasing Shoe Insoles, Elevator Insoles with Heel Lift, Height Boosting Shoe Inserts ...",
+      "description": "",
+      "dealPrice": 328,
+      "mrp": 999,
+      "savings": 671,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "1,147",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51meNEL4OEL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CJYJSTXW?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T18:36:51.940Z"
+    },
     {
       "id": "amz:B0DR5T2DVP",
       "type": "amazon",
