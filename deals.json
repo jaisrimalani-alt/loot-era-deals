@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T21:52:02.379Z",
-  "count": 64,
+  "updatedAt": "2026-11-16T22:07:02.083Z",
+  "count": 65,
   "deals": [
+    {
+      "id": "amz:B0H6RYY9GJ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "LUMONY® Migraine Relief Cap for Headache & Migraine Pain | Hot & Cold Therapy Cooling Gel Mask | Sinus, Stress, Tension Relief Head Wrap ...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 799,
+      "savings": 500,
+      "discountPct": 63,
+      "rating": null,
+      "reviewCount": "14,027",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Q2vCxG3ML._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H6RYY9GJ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T22:06:49.088Z"
+    },
     {
       "id": "amz:B0FVM34BQM",
       "type": "amazon",
