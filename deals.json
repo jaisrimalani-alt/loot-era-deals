@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T14:22:05.015Z",
-  "count": 33,
+  "updatedAt": "2026-11-16T14:37:00.941Z",
+  "count": 34,
   "deals": [
+    {
+      "id": "amz:B0C2D7QMKV",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Premium White Dial Diamond Pink Analog Watch Love Heart Diamond Bracelet for Girls Best Design Butterfly Combo 3 Pack of 3",
+      "description": "",
+      "dealPrice": 335,
+      "mrp": 1999,
+      "savings": 1664,
+      "discountPct": 83,
+      "rating": null,
+      "reviewCount": "1,781",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61uvM-Uix+L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0C2D7QMKV?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T14:36:47.014Z"
+    },
     {
       "id": "amz:B0HJ1RFP76",
       "type": "amazon",
