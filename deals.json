@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T14:51:59.504Z",
-  "count": 35,
+  "updatedAt": "2026-11-16T14:58:01.901Z",
+  "count": 36,
   "deals": [
+    {
+      "id": "amz:B0H3T3MFW8",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "LIT AC Remote Competible with Bluestar ACS (Backlight Feature) Exact Same Remote Will Work Please Match with Your Old Remote Before Purchase",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 999,
+      "savings": 700,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "15",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61kyUxFPW7L._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H3T3MFW8?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T14:57:50.682Z"
+    },
     {
       "id": "amz:B0GG9ZTCFG",
       "type": "amazon",
