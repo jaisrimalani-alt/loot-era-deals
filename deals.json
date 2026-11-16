@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T15:22:04.881Z",
-  "count": 38,
+  "updatedAt": "2026-11-16T15:37:01.401Z",
+  "count": 39,
   "deals": [
+    {
+      "id": "amz:B0GX9KQN5V",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Zebronics NS2000 Plus Laptop Stand, Supports Up to 17-Inch Laptops, 5kg Load Capacity, 7-Level Adjustable Height, Ergonomic Foldable Desi...",
+      "description": "",
+      "dealPrice": 349,
+      "mrp": 1499,
+      "savings": 1150,
+      "discountPct": 77,
+      "rating": null,
+      "reviewCount": "5,149",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61OjMAZnxEL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GX9KQN5V?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T15:36:48.392Z"
+    },
     {
       "id": "amz:B0GN36R8HW",
       "type": "amazon",
