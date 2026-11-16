@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T13:22:03.635Z",
-  "count": 29,
+  "updatedAt": "2026-11-16T13:37:00.163Z",
+  "count": 30,
   "deals": [
+    {
+      "id": "amz:B0G1T2GZP9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "boAt Lunar Discovery Neo, 1.39\" (3.5 cm) Round HD Display, Premium Metallic Finish, Animated Watchfaces, 100+ Sports Mode, Bluetooth Call...",
+      "description": "",
+      "dealPrice": 1399,
+      "mrp": 6999,
+      "savings": 5600,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "22,081",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61frMaBqWgL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G1T2GZP9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T13:36:47.680Z"
+    },
     {
       "id": "amz:B0FQPDGX5D",
       "type": "amazon",
