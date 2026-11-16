@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T20:07:07.740Z",
-  "count": 56,
+  "updatedAt": "2026-11-16T20:22:07.921Z",
+  "count": 57,
   "deals": [
+    {
+      "id": "amz:B00M6P68NU",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Gala Sponge Wipe for Kitchen Cleaning, Biodegradable Cellulose Cleaning Sponge for Home & Utensils (5 Pcs Pack)",
+      "description": "",
+      "dealPrice": 126,
+      "mrp": 280,
+      "savings": 154,
+      "discountPct": 55,
+      "rating": null,
+      "reviewCount": "9,786",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/814N+x9jHpL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B00M6P68NU?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T20:21:55.350Z"
+    },
     {
       "id": "amz:B0CXPY1X7G",
       "type": "amazon",
