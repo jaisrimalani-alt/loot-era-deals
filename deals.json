@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T22:22:04.585Z",
-  "count": 66,
+  "updatedAt": "2026-11-16T22:36:59.983Z",
+  "count": 67,
   "deals": [
+    {
+      "id": "amz:B0GVT5NF8W",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Zebronics Type-C Fast Charging Cable, Upto 480 Mbps, 36W Rapid Charge, 3A Output, Charge & Sync Data Cable, 1 Meter Length, Tangle-Free D...",
+      "description": "",
+      "dealPrice": 109,
+      "mrp": 399,
+      "savings": 290,
+      "discountPct": 73,
+      "rating": null,
+      "reviewCount": "481",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ORJVB+IFL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GVT5NF8W?tag=looteradea0b5-21",
+      "postedAt": "2026-11-16T22:36:47.957Z"
+    },
     {
       "id": "amz:B0H3BM7WP6",
       "type": "amazon",
