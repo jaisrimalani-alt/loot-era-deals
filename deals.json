@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T05:22:15.088Z",
+  "updatedAt": "2026-11-17T05:37:01.881Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HFWWTZ1C",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog Watch with Brown Dial for Women's & Girls",
+      "description": "",
+      "dealPrice": 499,
+      "mrp": 1999,
+      "savings": 1500,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "76",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/715FnJZ3T7L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HFWWTZ1C?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T05:36:49.390Z"
+    },
     {
       "id": "amz:B0HBKYWGL3",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Frforrabbit.com%2Fcollections%2Fall",
       "postedAt": "2026-11-16T11:03:06.188Z"
-    },
-    {
-      "id": "amz:B0G9MQKMRR",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "AESTHETIC Women’s Shoulder Handbag | Elegant PU Leather Tote with Chain Strap | Stylish Daily Use Purse for Office, College & Casual Outi...",
-      "description": "",
-      "dealPrice": 282,
-      "mrp": 999,
-      "savings": 717,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "655",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51ivBuhty9L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G9MQKMRR?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T11:03:02.819Z"
     }
   ]
 }
