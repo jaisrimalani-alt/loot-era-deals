@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T11:22:07.829Z",
+  "updatedAt": "2026-11-17T11:37:00.210Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DRKK4JJX",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Badminton Shoes for Man Lightweight Non Marking Shoes for Badminton Breathable Anti Skid Shoe for Man Shuttle Non Marking Indoor Shoe for...",
+      "description": "",
+      "dealPrice": 909,
+      "mrp": 3499,
+      "savings": 2590,
+      "discountPct": 74,
+      "rating": null,
+      "reviewCount": "3,365",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61YtGSDqdHL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DRKK4JJX?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T11:36:48.211Z"
+    },
     {
       "id": "amz:B0DZ2YY9NC",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/712SnjyIkWL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HK22M87Z?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T17:06:47.683Z"
-    },
-    {
-      "id": "amz:B0CCM8L54V",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Fr...",
-      "description": "",
-      "dealPrice": 249,
-      "mrp": 1299,
-      "savings": 1050,
-      "discountPct": 81,
-      "rating": null,
-      "reviewCount": "11,441",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61WnmpLwAQL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CCM8L54V?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T16:51:57.778Z"
     }
   ]
 }
