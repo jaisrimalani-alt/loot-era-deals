@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T06:36:58.812Z",
+  "updatedAt": "2026-11-17T06:52:03.375Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B01DGVKBC6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "FEDUS Cat6 Ethernet Cable, 10M High Speed 550MHZ / 10 Gigabit Speed UTP LAN Cable, Network Cable Internet Cable RJ45 Cable LAN Wire, Patc...",
+      "description": "",
+      "dealPrice": 289,
+      "mrp": 499,
+      "savings": 210,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "21,527",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81sGkqckhDL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B01DGVKBC6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T06:51:50.985Z"
+    },
     {
       "id": "amz:B0FNWNZZ1B",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Zf9uUp+GL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07XCM6T4N?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T11:51:51.609Z"
-    },
-    {
-      "id": "cue:132465",
-      "type": "cuelinks",
-      "source": "Firstcry",
-      "categoryName": "Brand Offer",
-      "title": "Winter Wonderland - Unbelievable Flat 40% OFF on Curated Products!",
-      "description": "Step into winter savings with a Flat 40% OFF on select items. Prices kick off at just Rs 319! Save up to a whopping Rs. 7000! Offer valid on listed sizes & colors only available on our page.",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "HW40",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.firstcry.com%2Ftopoffers%3Fmoid%3D32471%26c%3DHW40%26ref2%3Dtid34_MerchF_ROI_HW_Nov2026_combo9_ncl_seq9_d__HW40%26ban_name_r%3DMerchF_ROI_HW_Nov2026%26hpos_r%3D9%26tmp_name_r%3Dtid34%26ban_seg_id_r%3DNA%26param11%3Dhomepage",
-      "postedAt": "2026-11-16T11:36:50.017Z"
     }
   ]
 }
