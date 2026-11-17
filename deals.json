@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T16:07:18.651Z",
+  "updatedAt": "2026-11-17T16:22:03.030Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HCN8TFJC",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Magnetic Nose Strips for Breathing | Snoring Stopper for Men And Women | Nasal Strips for Breathing | Nasal Dilators For Breathing | Inst...",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 440,
+      "savings": 291,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "51",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51K+sfLs8WL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HCN8TFJC?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T16:21:50.047Z"
+    },
     {
       "id": "amz:B0GXPD559W",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61ORJVB+IFL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GVT5NF8W?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T22:36:47.957Z"
-    },
-    {
-      "id": "amz:B0H3BM7WP6",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Noise New Launch ColorFit Pulse Air Smartwatch with BT Calling, 1.85\" TFT Display, Lightweight 45g Design, Heart Rate & Step Tracking, Mu...",
-      "description": "",
-      "dealPrice": 1399,
-      "mrp": 4999,
-      "savings": 3600,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "8,563",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61nEWps6SXL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H3BM7WP6?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T22:21:50.047Z"
     }
   ]
 }
