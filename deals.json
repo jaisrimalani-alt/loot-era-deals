@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T02:06:58.981Z",
+  "updatedAt": "2026-11-17T02:21:59.160Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GN7Y3CB1",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Lymphatic Contour Face Brush, Manual Lymphatic Drainage Massager, Natural Makeup Brushes with Durable Soft Bristles, Hypoallergenic Ergon...",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 440,
+      "savings": 291,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "196",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Kj5yVCtYL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GN7Y3CB1?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T02:21:46.891Z"
+    },
     {
       "id": "amz:B0FY67CG6W",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.plushforher.com%2Fproducts%2Funderarm-sweat-pads-20-pcs",
       "postedAt": "2026-11-14T21:37:35+00:00"
-    },
-    {
-      "id": "seed-cue:17",
-      "type": "cuelinks",
-      "source": "Gharsoaps",
-      "categoryName": "Brand Offer",
-      "title": "Get HeadMaster Shampoo For Rs. 349 Today!",
-      "description": "Secure 1 pack of HeadMaster Anti-Dandruff Shampoo at the price of Rs. 349.Keep your scalp healthy; this offer won’t last long!Limited time deal - make your move now!Open to all customers - don’t delay!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "2027-02-28",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.gharsoaps.shop%2Fproducts%2Fhead-master-anti-dandruff-shampoo",
-      "postedAt": "2026-11-14T21:22:25+00:00"
     }
   ]
 }
