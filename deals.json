@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T16:37:17.125Z",
+  "updatedAt": "2026-11-17T16:52:43.307Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BR5RTKC1",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Men's Leather Sandal",
+      "description": "",
+      "dealPrice": 1649,
+      "mrp": 4095,
+      "savings": 2446,
+      "discountPct": 60,
+      "rating": null,
+      "reviewCount": "617",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51rAFQfFD4L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BR5RTKC1?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T16:52:29.910Z"
+    },
     {
       "id": "amz:B0BK85265D",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/818RoK4QKfL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0C65RV6WH?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T23:07:04.929Z"
-    },
-    {
-      "id": "amz:B0G2BZQNYY",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "(Black, 300ml) Refillable Empty Mist Water Spray Bottle for Taming Hair in Morning, Hairstyling, Plants, Pets (Black, 300ml)",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 399,
-      "savings": 250,
-      "discountPct": 63,
-      "rating": null,
-      "reviewCount": "1,214",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41YY8ISLeUL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G2BZQNYY?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T22:51:49.870Z"
     }
   ]
 }
