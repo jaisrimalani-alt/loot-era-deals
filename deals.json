@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T11:52:00.148Z",
+  "updatedAt": "2026-11-17T12:07:04.055Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FQNVY42Q",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Vaseline Intensive Care Cocoa Radiant Body Oil | With Cocoa Butter | Non-Greasy Formula for Dry Skin | 200 ML",
+      "description": "",
+      "dealPrice": 443,
+      "mrp": 799,
+      "savings": 356,
+      "discountPct": 45,
+      "rating": null,
+      "reviewCount": "298",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51RxmAxet1L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FQNVY42Q?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T12:06:50.774Z"
+    },
     {
       "id": "amz:B094VL1V76",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61yYxfezonL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FN7ZQ16J?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T17:36:52.282Z"
-    },
-    {
-      "id": "amz:B0GDTRYXYF",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "HAMMER Airflow Neo Earbuds with 80H Playtime, 13mm Titanium Driver, 40ms Gaming Mode, Fast Charging Buds, Type-C Charging, Voice Assistan...",
-      "description": "",
-      "dealPrice": 587,
-      "mrp": 2499,
-      "savings": 1912,
-      "discountPct": 77,
-      "rating": null,
-      "reviewCount": "2,716",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51vASaeUnxL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GDTRYXYF?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T17:21:53.425Z"
     }
   ]
 }
