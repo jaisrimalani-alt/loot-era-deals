@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T10:06:59.962Z",
+  "updatedAt": "2026-11-17T10:21:58.948Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BVNRXFHT",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Yubico - Security Key C NFC - Basic Compatibility - Multi-Factor authentication (MFA) Security Key and passkey, Connect via USB-C or NFC,...",
+      "description": "",
+      "dealPrice": 3789,
+      "mrp": 6599,
+      "savings": 2810,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "2,918",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41DkFsG8yEL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BVNRXFHT?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T10:21:47.400Z"
+    },
     {
       "id": "amz:B0H3DW3ZL5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61tfrifc32L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GN36R8HW?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T15:21:51.941Z"
-    },
-    {
-      "id": "amz:B0H624K81D",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Aqueria Fresh Underarm Brightening Roll On with 5.5% AHA BHA Pack of 3 | 48H Odour Control | Flora Fragrance with 2% Niacinamide | Multi ...",
-      "description": "",
-      "dealPrice": 222,
-      "mrp": 1275,
-      "savings": 1053,
-      "discountPct": 83,
-      "rating": null,
-      "reviewCount": "662",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61DQq6IB2sL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H624K81D?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T15:06:52.465Z"
     }
   ]
 }
