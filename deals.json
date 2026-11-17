@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T21:20:08.374Z",
+  "updatedAt": "2026-11-17T21:22:12.780Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FTQ5Q7BZ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "One94Store 5 Meter Smart LED Strip Light with App & Remote Control, Music Sync RGB Lights, 16 Million Colors, Flexible SMD Rope Light for...",
+      "description": "",
+      "dealPrice": 599,
+      "mrp": 999,
+      "savings": 400,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "1,514",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Yopyki0VL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FTQ5Q7BZ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T21:22:01.662Z"
+    },
     {
       "id": "amz:B0HBBTV4J4",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61rXeQIF0XL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FM37T5JX?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T03:46:02.233Z"
-    },
-    {
-      "id": "amz:B0G1YLGDN2",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Portronics AA Lithius Type C Rechargeable Batteries, Pack of 2, Lithium Ion Cell Composition, Upto 1480mAh Capacity, Low Self Discharge, ...",
-      "description": "",
-      "dealPrice": 352,
-      "mrp": 699,
-      "savings": 347,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "2,863",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61tpLEbIgsL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G1YLGDN2?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T03:36:50.046Z"
     }
   ]
 }
