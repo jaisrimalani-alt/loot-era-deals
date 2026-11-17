@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T23:37:03.303Z",
+  "updatedAt": "2026-11-17T23:52:00.937Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B073P9RLWP",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog Watch for Women with Round Dial & Water Resistant Women's Wrist Watches",
+      "description": "",
+      "dealPrice": 2239,
+      "mrp": 4995,
+      "savings": 2756,
+      "discountPct": 55,
+      "rating": null,
+      "reviewCount": "2,438",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Vvqb1kyNL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B073P9RLWP?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T23:51:50.527Z"
+    },
     {
       "id": "amz:B00CXK623E",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51n07j1rqdL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B08NT854TM?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T06:06:48.301Z"
-    },
-    {
-      "id": "amz:B0H2F8Q17H",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Trendy Canvas Embroidery sling bag for women | Tote bag For women | Ladies purse",
-      "description": "",
-      "dealPrice": 399,
-      "mrp": 1999,
-      "savings": 1600,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "189",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41QJGrVqSCL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H2F8Q17H?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T05:51:47.535Z"
     }
   ]
 }
