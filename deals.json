@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T00:37:02.351Z",
-  "count": 75,
+  "updatedAt": "2026-11-17T00:52:20.406Z",
+  "count": 76,
   "deals": [
+    {
+      "id": "amz:B0GCNF4KXH",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Women's Luxury Black Analog Watch – Rose Gold Roman Numerals with Stylish Metal Chain Strap Wrist Watches for Women's & Girls&Miss&Ladies",
+      "description": "",
+      "dealPrice": 473,
+      "mrp": 1999,
+      "savings": 1526,
+      "discountPct": 76,
+      "rating": null,
+      "reviewCount": "681",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71B9Kz-L-NL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GCNF4KXH?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T00:52:08.728Z"
+    },
     {
       "id": "amz:B0GSZ8DDJX",
       "type": "amazon",
