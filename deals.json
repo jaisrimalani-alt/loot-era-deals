@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T02:37:08.575Z",
+  "updatedAt": "2026-11-17T02:52:01.900Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B09RV5JVMM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | ...",
+      "description": "",
+      "dealPrice": 689,
+      "mrp": 1699,
+      "savings": 1010,
+      "discountPct": 59,
+      "rating": null,
+      "reviewCount": "8,641",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/716Mf4sDXsL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B09RV5JVMM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T02:51:49.538Z"
+    },
     {
       "id": "amz:B09DPZFXMQ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fluxury.tatacliq.com%2F%3Fcid%3Daf%3Ahomepage%3Aadmitad%3A301233_20261112clae7wtpqubd%3A508843b2ab89ec8256b93004678f2c7e",
       "postedAt": "2026-11-14T23:02:53+00:00"
-    },
-    {
-      "id": "amz:B0DSKMV3ZC",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Gray, 12GB RAM, 256GB Storage), 200MP Camera, 5000mAh Ultra Long Battery, QHD+ Dynami...",
-      "description": "",
-      "dealPrice": 94999,
-      "mrp": 129999,
-      "savings": 35000,
-      "discountPct": 27,
-      "rating": 4.4,
-      "reviewCount": "4,559",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://cdn4.telesco.pe/file/JFb4TIie42xRCwl9qAMpOtCBJP9bewyDlWyksOJEbryqezy14KWbXc0xY8X9EJBFuDFJVoRKrM-JYouqVzlEdce4pTUSOaRHKLBYU6jUwZAYNxHwHIU5jVIYlvpvycYAVw608xF7SPqY6he8Ba4hCMencLcAd4hLNo7gfbrOjYLmf2orF6mPXDkVcg4DWpxlGiWy701dru0woo8AZN-tSPTDT_krKe86CGmvn5eBTBmgbavBp3l9SQdn9i8HWXuKmAwvo9t_Gl5gjTJ8Pegnci4V_i3_hX3p_7BdCyJY8aGu5jpsv-zGfse9pMWSUH2qoO_tlZQCp4QHVb7XuHNEYA.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DSKMV3ZC?tag=looteradea0b5-21",
-      "postedAt": "2026-11-14T23:02:48+00:00"
     }
   ]
 }
