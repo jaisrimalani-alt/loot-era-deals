@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T09:37:14.380Z",
+  "updatedAt": "2026-11-17T09:52:03.173Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H4H12WZG",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Qubo InstaView Edge Wired Video Door Phone | 2MP Full HD Camera, 7-inch TFT Display, 150° Wide View, Motion Detection, IR Night Vision, A...",
+      "description": "",
+      "dealPrice": 7990,
+      "mrp": 15990,
+      "savings": 8000,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "1,974",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/610qStwyAoL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H4H12WZG?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T09:51:51.838Z"
+    },
     {
       "id": "amz:B0BRL22YLB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61kyUxFPW7L._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H3T3MFW8?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T14:57:50.682Z"
-    },
-    {
-      "id": "amz:B0GG9ZTCFG",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "2-in-1 Penguin Slide for Kids with Basketball Hoop with Ball| Medium | Indoor & Outdoor | Safe for Boys & Girls | Age 2-4 Years | Easy As...",
-      "description": "",
-      "dealPrice": 1899,
-      "mrp": 5999,
-      "savings": 4100,
-      "discountPct": 68,
-      "rating": null,
-      "reviewCount": "5,897",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71nC0AIXhjL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GG9ZTCFG?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T14:51:48.787Z"
     }
   ]
 }
