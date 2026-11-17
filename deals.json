@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T08:07:18.127Z",
+  "updatedAt": "2026-11-17T08:21:59.132Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HBBGL6C2",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Lenovo Idea Tab ( Smartchoice) with Tab Pen | WiFi+5G |11\" 2.5K IPS Display |6GB RAM + 128GB ROM (Expandable Upto 2TB)| MediaTek Dimensit...",
+      "description": "",
+      "dealPrice": 29999,
+      "mrp": 53000,
+      "savings": 23001,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "79",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81r-RPv-HxL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HBBGL6C2?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T08:21:47.303Z"
+    },
     {
       "id": "amz:B0FPWWH55W",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61frMaBqWgL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G1T2GZP9?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T13:36:47.680Z"
-    },
-    {
-      "id": "amz:B0FQPDGX5D",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Portable Paper Soap Travel Combo - 2 Test Tubes Flower Soap Flakes & 2 Cases Scented Soap Strips - Mini Disposable Hand Wash Sheets for O...",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 440,
-      "savings": 291,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "429",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61FCCiTqY4L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FQPDGX5D?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T13:21:50.998Z"
     }
   ]
 }
