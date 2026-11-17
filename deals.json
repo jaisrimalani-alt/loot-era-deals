@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T11:37:00.210Z",
+  "updatedAt": "2026-11-17T11:52:00.148Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B094VL1V76",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "TP-Link VIGI NVR1016H VIGI 16 Channel Network Video Recorder | H.265+ | 24/7 Continuous Recording | Real-Time Live View | Remote Monitori...",
+      "description": "",
+      "dealPrice": 6099,
+      "mrp": 13999,
+      "savings": 7900,
+      "discountPct": 56,
+      "rating": null,
+      "reviewCount": "110",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61KTvgVhrAL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B094VL1V76?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T11:51:48.193Z"
+    },
     {
       "id": "amz:B0DRKK4JJX",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51vASaeUnxL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GDTRYXYF?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T17:21:53.425Z"
-    },
-    {
-      "id": "amz:B0HK22M87Z",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Electric Toothbrush with 4 Dupont Brush Heads, IPX7 Waterproof Rechargeable Toothbrush 6 Cleaning Modes, Fast Charging & Long Battery Lif...",
-      "description": "",
-      "dealPrice": 239,
-      "mrp": 699,
-      "savings": 460,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "161",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/712SnjyIkWL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HK22M87Z?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T17:06:47.683Z"
     }
   ]
 }
