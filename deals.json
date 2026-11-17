@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T23:51:59.402Z",
-  "count": 72,
+  "updatedAt": "2026-11-17T00:07:02.951Z",
+  "count": 73,
   "deals": [
+    {
+      "id": "amz:B0H875KBDT",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "HP Campus Core 16 laptop Backpack - Black",
+      "description": "",
+      "dealPrice": 599,
+      "mrp": 1798,
+      "savings": 1199,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "27",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51FI1JjNGYL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H875KBDT?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T00:06:49.825Z"
+    },
     {
       "id": "amz:B0HGG3M3S5",
       "type": "amazon",
