@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T03:46:15.710Z",
+  "updatedAt": "2026-11-17T03:52:17.421Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G2GN8LYS",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Soft Silicone Back Scrubber Long Handle Bath Brush + Body Scrubber Bath Brush + Scalp Massager for Hair + Face Scrubber Brush, Combinatio...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 440,
+      "savings": 241,
+      "discountPct": 55,
+      "rating": null,
+      "reviewCount": "2,021",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61uyORrSsXL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G2GN8LYS?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T03:52:04.390Z"
+    },
     {
       "id": "amz:B0FM37T5JX",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://cdn4.telesco.pe/file/PCK2f64PP6lyC56hO7Bp3yFTwlUmEAVcfuuJi6ZTAYbacDRgrJMEopLvxPwztPJDDxO21q2rm9M7_lQMZF7FWWuekzULTx9CFPnedDVkDs1BhVE_96qbKvBU1YZjXZ1_4KR65rcJUWfuFxLnvkZWbaDKAmcwc_9K3dnu6hK7jlL0lovPxQTpQEcR_JjYa3tfEj6LZsY_uvNXWoqYNbT6KYqac9rWx7Cv6M5nd-O8nkX6YeM9towQEJJQ_asxGnkGcVKk4dlrwW5CTMld0LzPCeTOqY14JFqDAEgwNcZbYQBhGoJp36LtNXBPXmLvvda4FmlOMqRcUaGLxfAkhhoI2w.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CJY4RL6Y?tag=looteradea0b5-21",
       "postedAt": "2026-11-14T23:51:46+00:00"
-    },
-    {
-      "id": "seed-cue:26",
-      "type": "cuelinks",
-      "source": "Tata Cliq",
-      "categoryName": "Brand Offer",
-      "title": "Transform Your Look: Get Rs. 1200 OFF on Eye Wear!",
-      "description": "Grab a flat Rs. 1200 off on exquisite eye wear. Limited time offerBrowse from collection of designer spectacles. Order now.",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "EYE1200",
-      "validTill": "2026-12-01",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fluxury.tatacliq.com%2F%3Fcid%3Daf%3Ahomepage%3Aadmitad%3A301233_20261112clae7wtpqubd%3A508843b2ab89ec8256b93004678f2c7e",
-      "postedAt": "2026-11-14T23:39:02+00:00"
     }
   ]
 }
