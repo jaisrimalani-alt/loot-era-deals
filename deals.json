@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T07:52:00.125Z",
+  "updatedAt": "2026-11-17T08:07:18.127Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FPWWH55W",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Mamaearth Ubtan Natural Glow Face Wash with Turmeric & Saffron for Tan Removal – 200 ml | Removes Tan | Brightens Skin | Exclusively Avai...",
+      "description": "",
+      "dealPrice": 274,
+      "mrp": 549,
+      "savings": 275,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "58,697",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/514ozr0WPZL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FPWWH55W?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T08:07:06.493Z"
+    },
     {
       "id": "amz:B0F43VMBD7",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61FCCiTqY4L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FQPDGX5D?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T13:21:50.998Z"
-    },
-    {
-      "id": "amz:B0C4Q178LG",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "5 FT Steel Wool Fine Wire Roll Pad for Glass Furniture Tray Metal Precision Hardware Cloth, Gap Blocker, Keep Mice Away from Holes/Siding...",
-      "description": "",
-      "dealPrice": 188,
-      "mrp": 1299,
-      "savings": 1111,
-      "discountPct": 86,
-      "rating": null,
-      "reviewCount": "32",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81qxs80EFZL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0C4Q178LG?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T13:06:49.847Z"
     }
   ]
 }
