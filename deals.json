@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T23:07:03.471Z",
+  "updatedAt": "2026-11-17T23:22:00.663Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BLJ3FJRJ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Havells Zeta 1500 watt Immersion Heater | ISI Mark Heavy Duty 3 Pin Moulded Plug, Touch Protection Cover | Waterproof, Heating Indicator,...",
+      "description": "",
+      "dealPrice": 649,
+      "mrp": 1090,
+      "savings": 441,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "986",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/510WX836ZQL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BLJ3FJRJ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T23:21:50.507Z"
+    },
     {
       "id": "amz:B0GHYBDYW5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/715FnJZ3T7L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HFWWTZ1C?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T05:36:49.390Z"
-    },
-    {
-      "id": "amz:B0HBKYWGL3",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "LUMONY® Makeup Pouch Bag Leather Large Capacity Travel Toiletries Organizer Cosmetic Bag with Handle and Divider Multifunctional Makeup B...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 599,
-      "savings": 400,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "2,677",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81t7nzSKQ0L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HBKYWGL3?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T05:22:01.845Z"
     }
   ]
 }
