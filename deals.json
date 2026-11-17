@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T22:37:04.215Z",
+  "updatedAt": "2026-11-17T22:52:01.639Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G2BBWKCP",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Redmi 15C 5G Prime Edition (Midnight Black, 6GB + 128GB) | Massive 6000mAh Battery | Segment's Largest 17.53cm Display Up to 120Hz | Medi...",
+      "description": "",
+      "dealPrice": 18999,
+      "mrp": 31999,
+      "savings": 13000,
+      "discountPct": 41,
+      "rating": null,
+      "reviewCount": "1,270",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZhqpWm9oL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G2BBWKCP?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T22:51:47.936Z"
+    },
     {
       "id": "amz:B0H667K4WP",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71lJnttqcML._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CR6JQT6F?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T05:06:55.458Z"
-    },
-    {
-      "id": "amz:B0GS5TSQ46",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "boAt Ultra-Slim (8.7mm) Magnacharge Air Magsafe 4800mAh Power Bank, 22W Wired & 15W Wireless Magnetic Fast Charging; Type-C Ports; Suitab...",
-      "description": "",
-      "dealPrice": 1599,
-      "mrp": 4999,
-      "savings": 3400,
-      "discountPct": 68,
-      "rating": null,
-      "reviewCount": "3,916",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71PAi9ZwQUL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GS5TSQ46?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T04:52:07.598Z"
     }
   ]
 }
