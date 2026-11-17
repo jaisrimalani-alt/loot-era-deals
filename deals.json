@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T00:07:02.951Z",
-  "count": 73,
+  "updatedAt": "2026-11-17T00:22:01.452Z",
+  "count": 74,
   "deals": [
+    {
+      "id": "amz:B0FWR5HMJK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "RECLUSE 12 PCS Highlighter Pastel Pen Marker Pastel Assorted Colours, Aesthetic Marker Pens Highlighter Set, Perfect for Diary or Noteboo...",
+      "description": "",
+      "dealPrice": 184,
+      "mrp": 499,
+      "savings": 315,
+      "discountPct": 63,
+      "rating": null,
+      "reviewCount": "228",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61xKh05eooL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FWR5HMJK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T00:21:48.259Z"
+    },
     {
       "id": "amz:B0H875KBDT",
       "type": "amazon",
