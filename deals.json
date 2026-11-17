@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T08:51:58.851Z",
+  "updatedAt": "2026-11-17T09:07:06.435Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FLDTJQJ8",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "(PACK OF 2) 500 ML SPRAY BOTTAL,Transparent Clear Empty Water Spray Bottles,Water Liquid Sprayer Set for Face, Hair, Garden, Sanitizer, P...",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 440,
+      "savings": 291,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "1,831",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41i5Ms4OsZL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FLDTJQJ8?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T09:06:55.732Z"
+    },
     {
       "id": "amz:B0GMJMS5DG",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51+x0a5bvlL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HJ1RFP76?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T14:21:48.879Z"
-    },
-    {
-      "id": "amz:B0C1P65Y4H",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Xiaomi Air Purifier 4 Lite for home|360 m3/hr CADR covers 640 sq.ft.|3Stage HighEfficiencyFilter| 160 Sq.ft in 6 mins | App+Voice control...",
-      "description": "",
-      "dealPrice": 10990,
-      "mrp": 14999,
-      "savings": 4009,
-      "discountPct": 27,
-      "rating": null,
-      "reviewCount": "1,028",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81juk45eY2L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0C1P65Y4H?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T14:07:06.080Z"
     }
   ]
 }
