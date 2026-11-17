@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T13:07:03.427Z",
+  "updatedAt": "2026-11-17T13:22:01.915Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GD7JFTJ8",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Trendy Korean Sling Bag for Women | Canvas Stylish Ladies Crossbody Shoulder Bag | Compact Lightweight Handbag for Regular Use, Travel, C...",
+      "description": "",
+      "dealPrice": 289,
+      "mrp": 999,
+      "savings": 710,
+      "discountPct": 71,
+      "rating": null,
+      "reviewCount": "162",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51CaOHnGmrL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GD7JFTJ8?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T13:21:49.261Z"
+    },
     {
       "id": "amz:B09RWYBVYG",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/815s2tmyNkL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BTTNR391?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T19:51:51.555Z"
-    },
-    {
-      "id": "amz:B0H63CZQ2R",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "LUMONY® Spray Bottle 300ml-Refillable Empty Mist Water Spray Bottle for Taming Hair in Morning, Hairstyling, Plants, Hair, Face, Garden, ...",
-      "description": "",
-      "dealPrice": 179,
-      "mrp": 599,
-      "savings": 420,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "104",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41Y24yw6paL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H63CZQ2R?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T19:37:07.440Z"
     }
   ]
 }
