@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T05:07:10.444Z",
+  "updatedAt": "2026-11-17T05:22:15.088Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HBKYWGL3",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "LUMONY® Makeup Pouch Bag Leather Large Capacity Travel Toiletries Organizer Cosmetic Bag with Handle and Divider Multifunctional Makeup B...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 599,
+      "savings": 400,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "2,677",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81t7nzSKQ0L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HBKYWGL3?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T05:22:01.845Z"
+    },
     {
       "id": "amz:B0CR6JQT6F",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51ivBuhty9L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G9MQKMRR?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T11:03:02.819Z"
-    },
-    {
-      "id": "seed-cue:35",
-      "type": "cuelinks",
-      "source": "Oyela",
-      "categoryName": "Brand Offer",
-      "title": "Shine Bright with Affordable Women's Jewelry Below Rs. 599",
-      "description": "Upgrade your jewelry collection today!Explore unique designs from earrings to bracelets.Quality craftsmanship at unbeatable prices.Order now.",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "2026-11-21",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Foyela.in%2Fcollections%2Fjewellery",
-      "postedAt": "2026-11-15T00:11:58+00:00"
     }
   ]
 }
