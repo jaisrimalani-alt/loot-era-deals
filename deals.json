@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T06:21:57.643Z",
+  "updatedAt": "2026-11-17T06:36:58.812Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FNWNZZ1B",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Samsung Galaxy Tab S10 Lite [Smartchoice], 10.9-inch (27.7 CM), LCD Display, 6GB RAM, 128GB ROM, Wi-Fi, Dual Speakers, S Pen, Gray, AI En...",
+      "description": "",
+      "dealPrice": 30999,
+      "mrp": 57999,
+      "savings": 27000,
+      "discountPct": 47,
+      "rating": null,
+      "reviewCount": "618",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61CEEuPRM9L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FNWNZZ1B?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T06:36:46.109Z"
+    },
     {
       "id": "amz:B0G5XYNDGL",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.firstcry.com%2Ftopoffers%3Fmoid%3D32471%26c%3DHW40%26ref2%3Dtid34_MerchF_ROI_HW_Nov2026_combo9_ncl_seq9_d__HW40%26ban_name_r%3DMerchF_ROI_HW_Nov2026%26hpos_r%3D9%26tmp_name_r%3Dtid34%26ban_seg_id_r%3DNA%26param11%3Dhomepage",
       "postedAt": "2026-11-16T11:36:50.017Z"
-    },
-    {
-      "id": "amz:B0FLF44GTQ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "boAt Wave Call 3 Smartwatch 1.83” HD Display with Animated Watch Faces; BT Calling, Functional Crown, Multiple Sports Modes, IP68, HR, Sp...",
-      "description": "",
-      "dealPrice": 1399,
-      "mrp": 6999,
-      "savings": 5600,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "27,393",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71UdDIKDlEL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FLF44GTQ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T11:36:48.663Z"
     }
   ]
 }
