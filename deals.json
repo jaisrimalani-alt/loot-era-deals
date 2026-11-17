@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T13:52:18.492Z",
+  "updatedAt": "2026-11-17T14:07:02.276Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FG2QT7H2",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "boAt Rockerz 512 ANC,(~40dB) Hybrid ANC, 80H Battery, 40mm Drivers, 40ms Low Latency, ENx Tech, App Support, Bluetooth Headphones, Wirele...",
+      "description": "",
+      "dealPrice": 3099,
+      "mrp": 7990,
+      "savings": 4891,
+      "discountPct": 61,
+      "rating": null,
+      "reviewCount": "32,102",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61YaEO8qY6L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FG2QT7H2?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T14:06:47.502Z"
+    },
     {
       "id": "amz:B0G1T2147Y",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Vz7+rNAxL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H3BXLJ3T?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T20:37:11.249Z"
-    },
-    {
-      "id": "amz:B00M6P68NU",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Gala Sponge Wipe for Kitchen Cleaning, Biodegradable Cellulose Cleaning Sponge for Home & Utensils (5 Pcs Pack)",
-      "description": "",
-      "dealPrice": 126,
-      "mrp": 280,
-      "savings": 154,
-      "discountPct": 55,
-      "rating": null,
-      "reviewCount": "9,786",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/814N+x9jHpL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B00M6P68NU?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T20:21:55.350Z"
     }
   ]
 }
