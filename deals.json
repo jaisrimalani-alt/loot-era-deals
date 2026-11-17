@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T22:07:02.293Z",
+  "updatedAt": "2026-11-17T22:22:15.499Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G4RNDJF6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "DALUCI Set of 2 Metal Bathroom Corner Shelf Rack | No Drilling Self Adhesive Wall Mounted Storage Organizer for Bathroom & Kitchen | Rust...",
+      "description": "",
+      "dealPrice": 297,
+      "mrp": 699,
+      "savings": 402,
+      "discountPct": 57,
+      "rating": null,
+      "reviewCount": "2,444",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81VF4kpZlwL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G4RNDJF6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T22:22:02.733Z"
+    },
     {
       "id": "amz:B01M61Z6ZG",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51I4L9YqxkL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FPGBLBRN?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T04:36:49.394Z"
-    },
-    {
-      "id": "amz:B078XJ45KB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Elevator Increased Insoles Shoe Lifts, Height Increasing Insole for MEN WOMEN, 6cm 2.36 Inches Adjustable Breathable Insoles- 1 Pair",
-      "description": "",
-      "dealPrice": 255,
-      "mrp": 599,
-      "savings": 344,
-      "discountPct": 57,
-      "rating": null,
-      "reviewCount": "2,786",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61bPwd6R+-L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B078XJ45KB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T04:21:51.109Z"
     }
   ]
 }
