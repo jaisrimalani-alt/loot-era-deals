@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T17:07:21.113Z",
+  "updatedAt": "2026-11-17T17:22:55.877Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GX52LD7V",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Visio World VW 109 cm (43 Inches) SmartChoice Spectra Series Full HD Smart QLED Android TV VW43AQ3",
+      "description": "",
+      "dealPrice": 15436,
+      "mrp": 29999,
+      "savings": 14563,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "17,252",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/817R+GUhSXL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GX52LD7V?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T17:22:42.838Z"
+    },
     {
       "id": "amz:B0GL7WJZKZ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71kw7Pk0pAL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FB8VST2G?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T23:37:05.600Z"
-    },
-    {
-      "id": "amz:B0F7HCGKR3",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "ORTHO JOY Doctor Orthopedic Soft Slippers For Ladies Daily Use/mcr chappals for women/ortho slippers women",
-      "description": "",
-      "dealPrice": 416,
-      "mrp": 999,
-      "savings": 583,
-      "discountPct": 58,
-      "rating": null,
-      "reviewCount": "6,583",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61D0pn6EzNL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0F7HCGKR3?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T23:21:56.474Z"
     }
   ]
 }
