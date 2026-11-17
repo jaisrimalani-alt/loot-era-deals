@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T03:22:03.528Z",
+  "updatedAt": "2026-11-17T03:37:02.437Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G1YLGDN2",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Portronics AA Lithius Type C Rechargeable Batteries, Pack of 2, Lithium Ion Cell Composition, Upto 1480mAh Capacity, Low Self Discharge, ...",
+      "description": "",
+      "dealPrice": 352,
+      "mrp": 699,
+      "savings": 347,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "2,863",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61tpLEbIgsL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G1YLGDN2?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T03:36:50.046Z"
+    },
     {
       "id": "amz:B00M6P65ZQ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://cdn4.telesco.pe/file/SkMXvmtWNa2S8r9AISNMY4HB5AVJNxUvGYk1WekZ7PI3uJpoWBNtUiOHZiSGUG2A2_1GkqOzYlpi2yjAOOHAvppiFd1qCIOGXDgCS0sPYGiZAJ_NzLSqxQYQo3Pb8jjgE0nRmy1oD2cZHEtcZu2mo9gY6L_im544xgKWzARsPOwG_85Qpch7eZTGnmakjMHsOSWVerP4O9TEz119YFamzXQOZp4IfpZsWLBiDeW5efXJMnHSNK52fGpiGzvGbSVNtsHl5zMcAlYhTRI-cCaLCiyd98r4LdyBf7x0DqZ3aeRdaT2bjkQvhUabU8OIj-ElQ3J7MZfLZLgfF3X2ioJraA.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G4MZ85QG?tag=looteradea0b5-21",
       "postedAt": "2026-11-14T23:38:57+00:00"
-    },
-    {
-      "id": "seed-cue:24",
-      "type": "cuelinks",
-      "source": "Tata Cliq",
-      "categoryName": "Brand Offer",
-      "title": "Save Rs. 500 on Eyewear with Minimum Purchase of Rs. 10,000",
-      "description": "Save Rs. 500 on eyewear purchases above Rs. 10,000.Discover sophisticated designs and styles.Make the most of this amazing deal!Shop now and step up your eyewear game!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "EYE500",
-      "validTill": "2026-12-01",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fluxury.tatacliq.com%2F%3Fcid%3Daf%3Ahomepage%3Aadmitad%3A301233_20261112clae7wtpqubd%3A508843b2ab89ec8256b93004678f2c7e",
-      "postedAt": "2026-11-14T23:16:57+00:00"
     }
   ]
 }
