@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T01:52:05.531Z",
+  "updatedAt": "2026-11-17T02:06:58.981Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FY67CG6W",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Parachute Advansed Jasmine Gold Non-Sticky Coconut Hair Oil with Vitamin E For Super Shiny Hair, 600ml",
+      "description": "",
+      "dealPrice": 230,
+      "mrp": 490,
+      "savings": 260,
+      "discountPct": 53,
+      "rating": null,
+      "reviewCount": "5,383",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/5109ClSswXL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FY67CG6W?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T02:06:48.550Z"
+    },
     {
       "id": "amz:B0GWW7V4KG",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.gharsoaps.shop%2Fproducts%2Fhead-master-anti-dandruff-shampoo",
       "postedAt": "2026-11-14T21:22:25+00:00"
-    },
-    {
-      "id": "amz:B000LQUA6M",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Simple Kind To Skin Refreshing Facial Wash 150 ml | 100% Soap-Free Facewash that doesn't dry out your skin| For All Skin Types",
-      "description": "",
-      "dealPrice": 288,
-      "mrp": 490,
-      "savings": 202,
-      "discountPct": 41,
-      "rating": 4.3,
-      "reviewCount": "38,737",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://cdn4.telesco.pe/file/G9gBQxEgOL4ZD_zuKWBcGJX88IxwHI007TVHFYrBdgFcSHH-ZSIbPvNPpjcGtfNIWC_k-OcM9E-8xDLkmvdyjFuM2OK78taRf5pDxz4s8prYAApwdDqaW5BbNcMQzJxmTMIkIvDUA0tys2Ha0-pqmiJ8UIkG7HQLNQhBlXviAZ3UEPM3X_9PLTqkzm9z_wiwRXqXb6sDk5WHl_0lTvieo4poN9F9D5eQBOocWqivGWtcAR7zDpBTb0p8iBabN8XogJLi_gNqc8oEFS_ylqOB_u8OwJVYDUsuIoXeE4Gn1g3bg0QtI2TRapyTRfR5My3zYFRZGmcDs5rGVXV0ylmKuw.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B000LQUA6M?tag=looteradea0b5-21",
-      "postedAt": "2026-11-14T21:22:19+00:00"
     }
   ]
 }
