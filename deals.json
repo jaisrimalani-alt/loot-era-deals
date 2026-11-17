@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T00:52:20.406Z",
-  "count": 76,
+  "updatedAt": "2026-11-17T01:07:00.866Z",
+  "count": 77,
   "deals": [
+    {
+      "id": "amz:B0GPXS6WS1",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Sports Shoe Cleaner With Brush 150 ml | Removes Tough Stains | No Water Required | Ready To Use",
+      "description": "",
+      "dealPrice": 174,
+      "mrp": 450,
+      "savings": 276,
+      "discountPct": 61,
+      "rating": null,
+      "reviewCount": "1,514",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/616l1XbCkDL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GPXS6WS1?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T01:06:49.262Z"
+    },
     {
       "id": "amz:B0GCNF4KXH",
       "type": "amazon",
