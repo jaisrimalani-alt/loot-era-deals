@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T14:52:04.261Z",
+  "updatedAt": "2026-11-17T15:07:13.196Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G3P9D4QK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Ingco 20V Cordless Impact Wrench 405NM, Variable Speed 2400RPM, With 1Pcs Work Lamp, 2Pcs 2.0Ah Battery And Charger, 10Pcs Socket, 10pcs ...",
+      "description": "",
+      "dealPrice": 6860,
+      "mrp": 12609,
+      "savings": 5749,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "383",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81AJjS9NluL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G3P9D4QK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T15:06:58.059Z"
+    },
     {
       "id": "amz:B0FBG3W8BJ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/816eXKgDfIL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BNHD7MM3?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T21:21:52.925Z"
-    },
-    {
-      "id": "amz:B0HGLRQKZW",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "DAFFODIL 3 Ply Facial Tissue Soft Pack – 500 Pulls / 1500 Sheets | Ultra Soft & Absorbent Facial Tissue | Made from Virgin Pulp | 100 Pul...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 600,
-      "savings": 401,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "96",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61WB61TDbiL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HGLRQKZW?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T21:06:51.814Z"
     }
   ]
 }
