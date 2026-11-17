@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T17:22:55.877Z",
+  "updatedAt": "2026-11-17T17:37:04.362Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0C4PVS224",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "XIAOMI Mi 33W Fast Charging Cable USB C Quick Charge 4.0 Soniccharge Cord Compatible withMi, Redmi, iPhone 15 Pro Samsung Galaxy Android ...",
+      "description": "",
+      "dealPrice": 275,
+      "mrp": 699,
+      "savings": 424,
+      "discountPct": 61,
+      "rating": null,
+      "reviewCount": "4,387",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51AMGrSb7lL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0C4PVS224?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T17:36:51.842Z"
+    },
     {
       "id": "amz:B0GX52LD7V",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61D5Sy+esjL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HGG3M3S5?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T23:51:47.780Z"
-    },
-    {
-      "id": "amz:B0FB8VST2G",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Robustt Heavy Duty Rubber Hand gloves - 1 Pair (Free Size, Multicolor) for Dishwashing, gardening, kitchen cleaning",
-      "description": "",
-      "dealPrice": 125,
-      "mrp": 249,
-      "savings": 124,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "3,288",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71kw7Pk0pAL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FB8VST2G?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T23:37:05.600Z"
     }
   ]
 }
