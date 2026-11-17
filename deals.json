@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T06:07:00.171Z",
+  "updatedAt": "2026-11-17T06:21:57.643Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G5XYNDGL",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Naturaltein Magnesium Glycinate 1200mg (150mg Elemental) | Chelated High Absorption Magnesium | Supports Sleep Quality & Normal Muscle Fu...",
+      "description": "",
+      "dealPrice": 349,
+      "mrp": 800,
+      "savings": 451,
+      "discountPct": 56,
+      "rating": null,
+      "reviewCount": "1,635",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71PKtPiCetL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G5XYNDGL?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T06:21:46.035Z"
+    },
     {
       "id": "amz:B08NT854TM",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71UdDIKDlEL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FLF44GTQ?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T11:36:48.663Z"
-    },
-    {
-      "id": "amz:B0GWPZ5TSL",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "AGARO Dual Channel TENS and EMS Unit TM2421, 24 Modes, 20 Intensity Levels, Rechargeable, Full Body Muscle Relaxation Device, 10 Gel Pads...",
-      "description": "",
-      "dealPrice": 1599,
-      "mrp": 4999,
-      "savings": 3400,
-      "discountPct": 68,
-      "rating": null,
-      "reviewCount": "3,480",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71MuxW2JiwL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GWPZ5TSL?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T11:21:48.606Z"
     }
   ]
 }
