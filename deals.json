@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T22:52:01.639Z",
+  "updatedAt": "2026-11-17T23:07:03.471Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GHYBDYW5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Zebronics Wireless Mouse, 2.4GHz, 3200 DPI, 3 Buttons, Comfortable & Ergonomic, USB Nano Receiver, On/Off Switch, Power-Saving Mode, Work...",
+      "description": "",
+      "dealPrice": 229,
+      "mrp": 699,
+      "savings": 470,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "4,375",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51FzsqYo06L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GHYBDYW5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T23:06:50.797Z"
+    },
     {
       "id": "amz:B0G2BBWKCP",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81t7nzSKQ0L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HBKYWGL3?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T05:22:01.845Z"
-    },
-    {
-      "id": "amz:B0CR6JQT6F",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Portronics Konnect X USB to Type C Cable with 3A Output, Fast Charging & Data Transfer, Nylon Braided, Aluminium Alloy Shell, 1M Length c...",
-      "description": "",
-      "dealPrice": 150,
-      "mrp": 599,
-      "savings": 449,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "10,392",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71lJnttqcML._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CR6JQT6F?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T05:06:55.458Z"
     }
   ]
 }
