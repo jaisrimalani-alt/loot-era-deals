@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T15:52:00.435Z",
+  "updatedAt": "2026-11-17T16:07:18.651Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GXPD559W",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "AGARO Elite Lint Remover with Cord, for Woolen Sweaters, Blankets, Jackets/Burr Remover Pill Remover from Carpets, Curtains",
+      "description": "",
+      "dealPrice": 399,
+      "mrp": 699,
+      "savings": 300,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "8,517",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/712Rc9YYmCL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GXPD559W?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T16:07:05.504Z"
+    },
     {
       "id": "amz:B0DSHZLRQB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61nEWps6SXL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H3BM7WP6?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T22:21:50.047Z"
-    },
-    {
-      "id": "amz:B0H6RYY9GJ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "LUMONY® Migraine Relief Cap for Headache & Migraine Pain | Hot & Cold Therapy Cooling Gel Mask | Sinus, Stress, Tension Relief Head Wrap ...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 799,
-      "savings": 500,
-      "discountPct": 63,
-      "rating": null,
-      "reviewCount": "14,027",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Q2vCxG3ML._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H6RYY9GJ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T22:06:49.088Z"
     }
   ]
 }
