@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T18:22:21.237Z",
+  "updatedAt": "2026-11-17T18:37:47.667Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BTLSPV1D",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Shoe Crease Protector for Sneakers | Anti Crease Toe Box Guard Insert | Breathable, Flexible & Washable | Crease Free Shoes",
+      "description": "",
+      "dealPrice": 284,
+      "mrp": 549,
+      "savings": 265,
+      "discountPct": 48,
+      "rating": null,
+      "reviewCount": "951",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Iax8z3cLL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BTLSPV1D?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T18:37:36.887Z"
+    },
     {
       "id": "amz:B0FFBD2VLT",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71B9Kz-L-NL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GCNF4KXH?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T00:52:08.728Z"
-    },
-    {
-      "id": "amz:B0GSZ8DDJX",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "VASELINE Gluta Hya Dewy Radiance Body Lotion, 330 ml, for Dewy Glowing Skin from 1st Use, with Glutathione, Hyaluron & Niacinamide, Non-S...",
-      "description": "",
-      "dealPrice": 280,
-      "mrp": 599,
-      "savings": 319,
-      "discountPct": 53,
-      "rating": null,
-      "reviewCount": "10,489",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51gkejY0bwL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GSZ8DDJX?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T00:36:49.535Z"
     }
   ]
 }
