@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T09:21:57.565Z",
+  "updatedAt": "2026-11-17T09:37:14.380Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BRL22YLB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "YOHO Drizzle Soft Slippers for Women, Mild Acupressure, Lightweight, Anti Skid & Slip, Diabetic Footwear for Woman, Home Wear Bathroom Ch...",
+      "description": "",
+      "dealPrice": 559,
+      "mrp": 1499,
+      "savings": 940,
+      "discountPct": 63,
+      "rating": null,
+      "reviewCount": "4,250",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61eqR68SDUL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BRL22YLB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T09:37:01.903Z"
+    },
     {
       "id": "amz:B0D6MV32Y8",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71nC0AIXhjL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GG9ZTCFG?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T14:51:48.787Z"
-    },
-    {
-      "id": "amz:B0C2D7QMKV",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Premium White Dial Diamond Pink Analog Watch Love Heart Diamond Bracelet for Girls Best Design Butterfly Combo 3 Pack of 3",
-      "description": "",
-      "dealPrice": 335,
-      "mrp": 1999,
-      "savings": 1664,
-      "discountPct": 83,
-      "rating": null,
-      "reviewCount": "1,781",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61uvM-Uix+L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0C2D7QMKV?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T14:36:47.014Z"
     }
   ]
 }
