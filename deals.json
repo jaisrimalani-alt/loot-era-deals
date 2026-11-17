@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T19:52:04.007Z",
+  "updatedAt": "2026-11-17T20:07:06.174Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FMXW5DR3",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Alternate Scents LUST Long Lasting 40ML Perfume For Men |Strong& long Lasting with 30% Oil Concentration| Fresh Fruity-Aquatic | Fragranc...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 999,
+      "savings": 700,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "755",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61W6LBz3aFL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FMXW5DR3?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T20:06:55.134Z"
+    },
     {
       "id": "amz:B0FXXTCH54",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Kj5yVCtYL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GN7Y3CB1?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T02:21:46.891Z"
-    },
-    {
-      "id": "amz:B0FY67CG6W",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Parachute Advansed Jasmine Gold Non-Sticky Coconut Hair Oil with Vitamin E For Super Shiny Hair, 600ml",
-      "description": "",
-      "dealPrice": 230,
-      "mrp": 490,
-      "savings": 260,
-      "discountPct": 53,
-      "rating": null,
-      "reviewCount": "5,383",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/5109ClSswXL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FY67CG6W?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T02:06:48.550Z"
     }
   ]
 }
