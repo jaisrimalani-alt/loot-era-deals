@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T13:37:05.281Z",
+  "updatedAt": "2026-11-17T13:52:18.492Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G1T2147Y",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "boAt Lunar Discovery Neo, 1.39\" (3.5 cm) Round HD Display, Premium Metallic Finish, Animated Watchfaces, 100+ Sports Mode, Bluetooth Call...",
+      "description": "",
+      "dealPrice": 1499,
+      "mrp": 6999,
+      "savings": 5500,
+      "discountPct": 79,
+      "rating": null,
+      "reviewCount": "22,086",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61zHGwxgsdL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G1T2147Y?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T13:52:04.473Z"
+    },
     {
       "id": "amz:B0GFF42LML",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/814N+x9jHpL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B00M6P68NU?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T20:21:55.350Z"
-    },
-    {
-      "id": "amz:B0CXPY1X7G",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Water-Resistant Sling Bag for Men with 1 Year Warranty | Stylish Crossbody & Messenger Bag | Compact Office & Travel Side Bag | Waterproo...",
-      "description": "",
-      "dealPrice": 319,
-      "mrp": 899,
-      "savings": 580,
-      "discountPct": 65,
-      "rating": null,
-      "reviewCount": "1,221",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/91dZ2Es-1zL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CXPY1X7G?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T20:06:53.525Z"
     }
   ]
 }
