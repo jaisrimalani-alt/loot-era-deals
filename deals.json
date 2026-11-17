@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T12:37:04.003Z",
+  "updatedAt": "2026-11-17T12:52:02.784Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07KB1Y75J",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Muuchstac Ocean Face Wash for Men | Fight Acne & Pimples, Brighten Skin, Clears Dirt, Oil Control, Refreshing Feel - Multi-Action Formula...",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 299,
+      "savings": 150,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "23,043",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51FodsevJrL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07KB1Y75J?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T12:51:50.054Z"
+    },
     {
       "id": "cue:132548",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71maWXZscfL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B097JJ2CK6?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T19:21:55.151Z"
-    },
-    {
-      "id": "amz:B0FKT3NYWR",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Zebronics HDMI 2.0 Cable with ARC, 4K@60Hz UHD, 3 Meter, 18 Gbps High Speed Data Transmission, Supports 3D, ARC, CEC, 32 Audio Channels, ...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 799,
-      "savings": 600,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "1,202",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Oga6oOfmL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FKT3NYWR?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T19:07:05.637Z"
     }
   ]
 }
