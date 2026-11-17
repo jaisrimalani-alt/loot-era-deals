@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T03:07:00.614Z",
+  "updatedAt": "2026-11-17T03:22:03.528Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B00M6P65ZQ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Gala Stainless Steel Scrubber - 1 Piece for Kitchen Utensils Cleaning",
+      "description": "",
+      "dealPrice": 17,
+      "mrp": 40,
+      "savings": 23,
+      "discountPct": 58,
+      "rating": null,
+      "reviewCount": "3,710",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81zzun11mGL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B00M6P65ZQ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T03:21:50.387Z"
+    },
     {
       "id": "amz:B0GD7VF6T4",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fluxury.tatacliq.com%2F%3Fcid%3Daf%3Ahomepage%3Aadmitad%3A301233_20261112clae7wtpqubd%3A508843b2ab89ec8256b93004678f2c7e",
       "postedAt": "2026-11-14T23:16:57+00:00"
-    },
-    {
-      "id": "amz:B008FWZ5MS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Samsung Original Type C to C Cable - 3.28 Feet (1 Meter), Black",
-      "description": "",
-      "dealPrice": 300,
-      "mrp": 599,
-      "savings": 299,
-      "discountPct": 50,
-      "rating": 4,
-      "reviewCount": "3,571",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://cdn4.telesco.pe/file/mRKs5t30WkViSphRSPOTBS9TcSy68tQ3zDHa_xn-1EU1XGL9reLWAqQVdVjVTjJroxvOmCiVk1TfMXTO_6RXst__hiFmtFafCVU8NcBPJy0JfexIY766f5GBoGouO_PcL7NznHGn4nspLrre_P3kH5BHj_nDANyY6VrDxYx8MMfYW-7_qV5uUuepBbsVrIrjkAQvjMtYlycZitbtc1r8v9-Gsy98A9SHiUR287I1L6AKrduCrl6tQAksJIPHfNpZH1B4kJJT8gcyqQ9tG90HOt5hUzItjkqRDS20VFlr0sw11LMj8YKOWKWEdP040zTUNnjZX9jfTmi4s45bN2sYnA.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B008FWZ5MS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-14T23:16:53+00:00"
     }
   ]
 }
