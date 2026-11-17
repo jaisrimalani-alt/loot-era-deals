@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T12:52:02.784Z",
+  "updatedAt": "2026-11-17T13:07:03.427Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B09RWYBVYG",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Watches for Women Round Studded Dial |Analogue Quartz Movemnet Ladies Watch|Long Battery Life|Stainless Steel Adjustable Bracelet Chain S...",
+      "description": "",
+      "dealPrice": 478,
+      "mrp": 1499,
+      "savings": 1021,
+      "discountPct": 68,
+      "rating": null,
+      "reviewCount": "1,017",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61qYtv3izsL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B09RWYBVYG?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T13:06:51.513Z"
+    },
     {
       "id": "amz:B07KB1Y75J",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41Y24yw6paL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H63CZQ2R?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T19:37:07.440Z"
-    },
-    {
-      "id": "amz:B097JJ2CK6",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Safari Omega spacious/large laptop backpack with Raincover, college bag, travel bag for men and women, Black, 30 Litre",
-      "description": "",
-      "dealPrice": 759,
-      "mrp": 3396,
-      "savings": 2637,
-      "discountPct": 78,
-      "rating": null,
-      "reviewCount": "18,261",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71maWXZscfL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B097JJ2CK6?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T19:21:55.151Z"
     }
   ]
 }
