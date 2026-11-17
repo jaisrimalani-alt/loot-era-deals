@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T04:37:03.649Z",
+  "updatedAt": "2026-11-17T04:52:17.919Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GS5TSQ46",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "boAt Ultra-Slim (8.7mm) Magnacharge Air Magsafe 4800mAh Power Bank, 22W Wired & 15W Wireless Magnetic Fast Charging; Type-C Ports; Suitab...",
+      "description": "",
+      "dealPrice": 1599,
+      "mrp": 4999,
+      "savings": 3400,
+      "discountPct": 68,
+      "rating": null,
+      "reviewCount": "3,916",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71PAi9ZwQUL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GS5TSQ46?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T04:52:07.598Z"
+    },
     {
       "id": "amz:B0FPGBLBRN",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://cdn4.telesco.pe/file/BiYRgfVduC9q86eRGjJX1pkQATKaCzjj9GU9wNc9gOAJzrWFaM9NaOX-q30GipvkD_WGV6-rQ1gHC6wvr69JLiHX6c4H39VyEEAc1fQwGg6AF5To-3UbUeN3uKFU89s3ZTQlLQKVJc98f_VxFqSVdpK4xxtQMKZ4M32LAYS8t2g163JPRz7QCNl4A6NU9VWx7-NFXZKvi5SqWhdfSXdqzwKCJLp-jsBswmGbiz-NRaeD2j8SpWGaqpedivM2srSkjeniaNDGsj8uOi7VfwzR2PChqRtwTpev5A69mBEXGMe9bEvTG_v3adDTr2ODcwg4S5rrM8ciX1vurBQWfwfx4w.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CVS3V7MH?tag=looteradea0b5-21",
       "postedAt": "2026-11-15T00:11:50+00:00"
-    },
-    {
-      "id": "seed-cue:32",
-      "type": "cuelinks",
-      "source": "Tata Cliq",
-      "categoryName": "Brand Offer",
-      "title": "Up to 50% Off on Casio Watches!",
-      "description": "Get up to 50% off on your favorite Casio watches.Discover stylish timepieces at attractive prices.Pick your must-haves and save big.This limited offer is open to all customers!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "2026-12-31",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.tatacliq.com%2Fwatches%2Fc-msh15%2Fpage-1%3Fq%3D%253Arelevance%253Acategory%253AMSH15%253AinStockFlag%253Atrue%253AisLuxuryProduct%253Afalse%253Abrand%253AMBH15E00576",
-      "postedAt": "2026-11-15T00:06:53+00:00"
     }
   ]
 }
