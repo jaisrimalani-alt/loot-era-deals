@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T04:06:58.752Z",
+  "updatedAt": "2026-11-17T04:22:05.114Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B078XJ45KB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Elevator Increased Insoles Shoe Lifts, Height Increasing Insole for MEN WOMEN, 6cm 2.36 Inches Adjustable Breathable Insoles- 1 Pair",
+      "description": "",
+      "dealPrice": 255,
+      "mrp": 599,
+      "savings": 344,
+      "discountPct": 57,
+      "rating": null,
+      "reviewCount": "2,786",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61bPwd6R+-L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B078XJ45KB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T04:21:51.109Z"
+    },
     {
       "id": "amz:B0BW3RBC3K",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://cdn4.telesco.pe/file/NgZenbCPWR9VunHmd1-ENbXUGwYWk3KVSsM-75JMDEXKHdT7lkWNRmky9_a6Q9-gb5T7njMv2ISMz_g0YwANYp_LZo6DKnbnAM6EIxKp6AtjbwPS72wy59a_-DxL63Hj_iBumYYi2W2_a2y_l2JXdTNO_gAFxt0re0MOOsheSPajhKp77ME8E-I7K254pGWWsi4oiuLOQF6Qwh3nizSja_gyXqGLP7kuk9egDHkPDjyvGGSzo_mjpc1afXz1GoAFgR8cI5PxlJbN5dNvA5H58O7qBXq0i21jb_oJZ9n4_uwJW5iCSCKsN3yRz9wAiqOIMlmBjlPKOXVReX2HO0fIzA.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CFFWP1QS?tag=looteradea0b5-21",
       "postedAt": "2026-11-15T00:06:48+00:00"
-    },
-    {
-      "id": "seed-cue:30",
-      "type": "cuelinks",
-      "source": "Tata Cliq",
-      "categoryName": "Brand Offer",
-      "title": "Up to 65% Off on Women’s Fashion!",
-      "description": "Get savings up to 65% on trendy women's apparel!Start refreshing your fashion with items as low as Rs. 400!Transform your style with fantastic offers.Limited-period promotion available to all—seize it now!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "2026-11-30",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.tatacliq.com%2Fwomens-clothing-western-wear%2Fc-msh1016%2Fpage-1%3Fq%3D%3Arelevance%3Acategory%3AMSH1016%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00019",
-      "postedAt": "2026-11-14T23:51:52+00:00"
     }
   ]
 }
