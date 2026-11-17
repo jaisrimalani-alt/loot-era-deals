@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T20:22:02.098Z",
+  "updatedAt": "2026-11-17T20:37:32.273Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B01568SIG8",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Gala Steel Scrubber Combo Set (Pack of 6), Stainless Steel Scrubber for Utensils, Scrubber for Kitchen",
+      "description": "",
+      "dealPrice": 130,
+      "mrp": 240,
+      "savings": 110,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "3,303",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81ARWrKClyL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B01568SIG8?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T20:37:21.274Z"
+    },
     {
       "id": "amz:B0CLRCTC58",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/716Mf4sDXsL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B09RV5JVMM?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T02:51:49.538Z"
-    },
-    {
-      "id": "amz:B09DPZFXMQ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Premium Series Analog-Digital Wrist Watches for Men CT_IGP",
-      "description": "",
-      "dealPrice": 999,
-      "mrp": 3999,
-      "savings": 3000,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "1,434",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71RlAIwzj5L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B09DPZFXMQ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T02:36:56.943Z"
     }
   ]
 }
