@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T22:22:15.499Z",
+  "updatedAt": "2026-11-17T22:37:04.215Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H667K4WP",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "TEKCOOL Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Hum...",
+      "description": "",
+      "dealPrice": 1563,
+      "mrp": 2999,
+      "savings": 1436,
+      "discountPct": 48,
+      "rating": null,
+      "reviewCount": "5,414",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/716zfjOWDOL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H667K4WP?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T22:36:50.631Z"
+    },
     {
       "id": "amz:B0G4RNDJF6",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71PAi9ZwQUL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GS5TSQ46?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T04:52:07.598Z"
-    },
-    {
-      "id": "amz:B0FPGBLBRN",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Delivery Pax Hot Gun Machine for Packing Wrapping 2000W WITH 3 MONTHS WARRANTY Heat Gun Machine Dual Temperature | Hot Air Gun for paint ...",
-      "description": "",
-      "dealPrice": 629,
-      "mrp": 1500,
-      "savings": 871,
-      "discountPct": 58,
-      "rating": null,
-      "reviewCount": "139",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51I4L9YqxkL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FPGBLBRN?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T04:36:49.394Z"
     }
   ]
 }
