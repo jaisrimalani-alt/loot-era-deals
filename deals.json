@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T19:07:27.465Z",
+  "updatedAt": "2026-11-17T19:22:09.793Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DDHM6D3L",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Portronics Conch Theta C in Ear Type C Wired Earphones with in Line HD Mic, Powerful Audio, 14.2mm Driver, Unique Earbuds Design, TPE Ant...",
+      "description": "",
+      "dealPrice": 298,
+      "mrp": 799,
+      "savings": 501,
+      "discountPct": 63,
+      "rating": null,
+      "reviewCount": "14,976",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51GGwjwSr0L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DDHM6D3L?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T19:21:57.290Z"
+    },
     {
       "id": "amz:B0HGDRCVNK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51vTuExAndL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FN89KT94?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T01:37:05.092Z"
-    },
-    {
-      "id": "amz:B0CK2DD4RN",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "THEMISTO 20 Watt Mini Hot Melt Glue Gun with 10 Glue Sticks for DIY Art and Crafts…",
-      "description": "",
-      "dealPrice": 188,
-      "mrp": 499,
-      "savings": 311,
-      "discountPct": 62,
-      "rating": null,
-      "reviewCount": "4,836",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61qlCHUcyRL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CK2DD4RN?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T01:21:52.281Z"
     }
   ]
 }
