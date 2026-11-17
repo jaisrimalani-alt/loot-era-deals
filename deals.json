@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T05:37:01.881Z",
+  "updatedAt": "2026-11-17T05:51:59.130Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H2F8Q17H",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Trendy Canvas Embroidery sling bag for women | Tote bag For women | Ladies purse",
+      "description": "",
+      "dealPrice": 399,
+      "mrp": 1999,
+      "savings": 1600,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "189",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41QJGrVqSCL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H2F8Q17H?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T05:51:47.535Z"
+    },
     {
       "id": "amz:B0HFWWTZ1C",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51bIyLGKNEL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H4MB7J19?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T11:06:53.297Z"
-    },
-    {
-      "id": "cue:132449",
-      "type": "cuelinks",
-      "source": "R for Rabbit",
-      "categoryName": "Brand Offer",
-      "title": "Children's Day Extravaganza: Save 8% on Your Purchase Now at R for Rabbit!",
-      "description": "Browse our charming collection of kids’ and babies’ clothing with ease. Apply coupon code at checkout for 8% off! No minimum total—just start shopping! Act fast—your little fashionistas are waiting!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "KIDZDAY",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Frforrabbit.com%2Fcollections%2Fall",
-      "postedAt": "2026-11-16T11:03:06.188Z"
     }
   ]
 }
