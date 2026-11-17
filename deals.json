@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T23:22:00.663Z",
+  "updatedAt": "2026-11-17T23:37:03.303Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B00CXK623E",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Lip Smacker Coca-Cola Party Pack Lip Glosses (Pack Of 8) - Orange",
+      "description": "",
+      "dealPrice": 1289,
+      "mrp": 2244,
+      "savings": 955,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "12,473",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71IRptDkCRL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B00CXK623E?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T23:36:50.226Z"
+    },
     {
       "id": "amz:B0BLJ3FJRJ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41QJGrVqSCL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H2F8Q17H?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T05:51:47.535Z"
-    },
-    {
-      "id": "amz:B0HFWWTZ1C",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Analog Watch with Brown Dial for Women's & Girls",
-      "description": "",
-      "dealPrice": 499,
-      "mrp": 1999,
-      "savings": 1500,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "76",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/715FnJZ3T7L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HFWWTZ1C?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T05:36:49.390Z"
     }
   ]
 }
