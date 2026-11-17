@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T03:52:17.421Z",
+  "updatedAt": "2026-11-17T04:06:58.752Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BW3RBC3K",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Digital Sports Stylish Multifunctional Electronic LED Black Dial Wrist Watch for Men Boys -WCH78",
+      "description": "",
+      "dealPrice": 499,
+      "mrp": 1999,
+      "savings": 1500,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "1,869",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71CxgCKczdL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BW3RBC3K?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T04:06:47.351Z"
+    },
     {
       "id": "amz:B0G2GN8LYS",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.tatacliq.com%2Fwomens-clothing-western-wear%2Fc-msh1016%2Fpage-1%3Fq%3D%3Arelevance%3Acategory%3AMSH1016%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00019",
       "postedAt": "2026-11-14T23:51:52+00:00"
-    },
-    {
-      "id": "amz:B0CJY4RL6Y",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "LADOR Perfect Hair Fill Up 3 Seconds Intensive Keratin Hair Mask Rinse Off Treatment for Bleached Frizzy Damaged Dry Hair, Deep Condition...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 2300,
-      "savings": 2001,
-      "discountPct": 87,
-      "rating": 3.9,
-      "reviewCount": "925",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://cdn4.telesco.pe/file/PCK2f64PP6lyC56hO7Bp3yFTwlUmEAVcfuuJi6ZTAYbacDRgrJMEopLvxPwztPJDDxO21q2rm9M7_lQMZF7FWWuekzULTx9CFPnedDVkDs1BhVE_96qbKvBU1YZjXZ1_4KR65rcJUWfuFxLnvkZWbaDKAmcwc_9K3dnu6hK7jlL0lovPxQTpQEcR_JjYa3tfEj6LZsY_uvNXWoqYNbT6KYqac9rWx7Cv6M5nd-O8nkX6YeM9towQEJJQ_asxGnkGcVKk4dlrwW5CTMld0LzPCeTOqY14JFqDAEgwNcZbYQBhGoJp36LtNXBPXmLvvda4FmlOMqRcUaGLxfAkhhoI2w.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CJY4RL6Y?tag=looteradea0b5-21",
-      "postedAt": "2026-11-14T23:51:46+00:00"
     }
   ]
 }
