@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T16:22:03.030Z",
+  "updatedAt": "2026-11-17T16:37:17.125Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BK85265D",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Men's and Women's Watch Box Organizer Case with 12 Slots in Black Color with Gray Velvet",
+      "description": "",
+      "dealPrice": 749,
+      "mrp": 2199,
+      "savings": 1450,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "1,980",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/813Tx7KmgTL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BK85265D?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T16:37:05.051Z"
+    },
     {
       "id": "amz:B0HCN8TFJC",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41YY8ISLeUL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G2BZQNYY?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T22:51:49.870Z"
-    },
-    {
-      "id": "amz:B0GVT5NF8W",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Zebronics Type-C Fast Charging Cable, Upto 480 Mbps, 36W Rapid Charge, 3A Output, Charge & Sync Data Cable, 1 Meter Length, Tangle-Free D...",
-      "description": "",
-      "dealPrice": 109,
-      "mrp": 399,
-      "savings": 290,
-      "discountPct": 73,
-      "rating": null,
-      "reviewCount": "481",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61ORJVB+IFL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GVT5NF8W?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T22:36:47.957Z"
     }
   ]
 }
