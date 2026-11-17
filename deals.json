@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T07:36:57.029Z",
+  "updatedAt": "2026-11-17T07:52:00.125Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0F43VMBD7",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Shoe Cleaning Multipack Wipes, Premium Sneaker Cleaner, Sneaker Cleaner Wipes, Travel-Friendly",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 599,
+      "savings": 300,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "501",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61k9LvQXjrL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0F43VMBD7?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T07:51:47.913Z"
+    },
     {
       "id": "amz:B08X1HCVWF",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81qxs80EFZL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0C4Q178LG?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T13:06:49.847Z"
-    },
-    {
-      "id": "amz:B0BTPKF5B1",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Shoe Wipes (80 + 80 Wipes) Sneaker Wipes Instant Sneaker Cleaner Shoe Cleaning Wipes Sneaker Wipes for Shoes Quick Remove Dirt Stain Shoe...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 999,
-      "savings": 700,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "1,576",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71nVS0gocwL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BTPKF5B1?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T12:51:51.767Z"
     }
   ]
 }
