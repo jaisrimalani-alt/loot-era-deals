@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T19:22:09.793Z",
+  "updatedAt": "2026-11-17T19:37:06.751Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HHZHXXR4",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Acer Flow Silent Wireless Mouse | Bluetooth & 2.4GHz Dual Mode | 3-Level 1600 DPI | 500mAh Rechargeable Battery | Up to 1 Month Usage | T...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 999,
+      "savings": 700,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "41",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/618nW72gJ9L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HHZHXXR4?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T19:36:52.496Z"
+    },
     {
       "id": "amz:B0DDHM6D3L",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71hf50mnZfL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GWW7V4KG?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T01:51:51.299Z"
-    },
-    {
-      "id": "amz:B0FN89KT94",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "TheGiftKart for iPhone 17 Case | Clear Hard Back Cover | Hybrid Shockproof Transparent Back Cover Case with Camera & Screen Protection (P...",
-      "description": "",
-      "dealPrice": 284,
-      "mrp": 999,
-      "savings": 715,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "8,943",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51vTuExAndL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FN89KT94?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T01:37:05.092Z"
     }
   ]
 }
