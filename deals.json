@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T14:22:16.716Z",
+  "updatedAt": "2026-11-17T14:37:05.177Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B093BN3T7S",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Men's and Women's Watch Box Organizer, Royal Black, 12 Slots",
+      "description": "",
+      "dealPrice": 749,
+      "mrp": 2199,
+      "savings": 1450,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "5,163",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81-+kFtcp-L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B093BN3T7S?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T14:36:54.148Z"
+    },
     {
       "id": "amz:B0CKBTM7HX",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71lWC50vu-L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B00J420JEC?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T20:58:18.969Z"
-    },
-    {
-      "id": "amz:B0FSCS6592",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Zebronics Type C to HDMI Cable, 4K @ 60Hz | 1080p @ 240Hz, 18Gbps Data Transfer, 3D Compatible, 1M (3.2ft) Braided Cable, for Laptop, Mob...",
-      "description": "",
-      "dealPrice": 699,
-      "mrp": 2999,
-      "savings": 2300,
-      "discountPct": 77,
-      "rating": null,
-      "reviewCount": "2,111",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71rEL7aZbhL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FSCS6592?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T20:51:48.175Z"
     }
   ]
 }
