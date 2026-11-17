@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T14:07:02.276Z",
+  "updatedAt": "2026-11-17T14:22:16.716Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CKBTM7HX",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Ayurveda Cream Ointment 160 g | Skin Care | Itching Relief | Skin Recovery | nd Personal Solution",
+      "description": "",
+      "dealPrice": 649,
+      "mrp": 1599,
+      "savings": 950,
+      "discountPct": 59,
+      "rating": null,
+      "reviewCount": "201",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/715hLwENQ5L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CKBTM7HX?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T14:22:02.832Z"
+    },
     {
       "id": "amz:B0FG2QT7H2",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71rEL7aZbhL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FSCS6592?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T20:51:48.175Z"
-    },
-    {
-      "id": "amz:B0H3BXLJ3T",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Noise New Launch ColorFit Pulse Air Smartwatch with BT Calling, 1.85\" TFT Display, Lightweight 45g Design, Heart Rate & Step Tracking, Mu...",
-      "description": "",
-      "dealPrice": 1399,
-      "mrp": 4999,
-      "savings": 3600,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "8,560",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Vz7+rNAxL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H3BXLJ3T?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T20:37:11.249Z"
     }
   ]
 }
