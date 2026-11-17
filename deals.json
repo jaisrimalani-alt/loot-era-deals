@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T15:22:19.772Z",
+  "updatedAt": "2026-11-17T15:37:12.834Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HBBN6LHR",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Lenovo Idea Tab (Smartchoice) | WiFi Only |11\" 2.5K IPS Display |6GB RAM + 128GB ROM (Expandable Upto 2TB)| MediaTek Dimensity 6300|7040m...",
+      "description": "",
+      "dealPrice": 25999,
+      "mrp": 45000,
+      "savings": 19001,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "41",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/813+q4XvYhL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HBBN6LHR?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T15:36:59.816Z"
+    },
     {
       "id": "amz:B0DB86NTG3",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61yl1XCjIyL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FVM34BQM?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T21:51:48.697Z"
-    },
-    {
-      "id": "amz:B0DFC56YM1",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Height Increase Insoles for Men & Women Soft 4-Layer Height Hoppers for Men Comfortable Breathable & Adjustable Height Insoles for Men Li...",
-      "description": "",
-      "dealPrice": 369,
-      "mrp": 999,
-      "savings": 630,
-      "discountPct": 63,
-      "rating": null,
-      "reviewCount": "886",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71PoGaTt13L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DFC56YM1?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T21:36:54.103Z"
     }
   ]
 }
