@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T03:37:02.437Z",
+  "updatedAt": "2026-11-17T03:46:15.710Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FM37T5JX",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "boAt Rockerz 301 ANC, (~30dB) ANC, 13mm Drivers,ENx, 40ms Low Latency, Hall Switch, App Support, Bluetooth Neckband, Wireless with Mic Ea...",
+      "description": "",
+      "dealPrice": 1499,
+      "mrp": 3490,
+      "savings": 1991,
+      "discountPct": 57,
+      "rating": null,
+      "reviewCount": "47,705",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61rXeQIF0XL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FM37T5JX?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T03:46:02.233Z"
+    },
     {
       "id": "amz:B0G1YLGDN2",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fluxury.tatacliq.com%2F%3Fcid%3Daf%3Ahomepage%3Aadmitad%3A301233_20261112clae7wtpqubd%3A508843b2ab89ec8256b93004678f2c7e",
       "postedAt": "2026-11-14T23:39:02+00:00"
-    },
-    {
-      "id": "amz:B0G4MZ85QG",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Kratos Selfie Stick with Tripod Stand,Extendable Selfie Stick for Mobile Phone with Bluetooth Remote,3-in-1 Multifunctional Design for Re...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 1999,
-      "savings": 1800,
-      "discountPct": 90,
-      "rating": 3.8,
-      "reviewCount": "3,911",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://cdn4.telesco.pe/file/SkMXvmtWNa2S8r9AISNMY4HB5AVJNxUvGYk1WekZ7PI3uJpoWBNtUiOHZiSGUG2A2_1GkqOzYlpi2yjAOOHAvppiFd1qCIOGXDgCS0sPYGiZAJ_NzLSqxQYQo3Pb8jjgE0nRmy1oD2cZHEtcZu2mo9gY6L_im544xgKWzARsPOwG_85Qpch7eZTGnmakjMHsOSWVerP4O9TEz119YFamzXQOZp4IfpZsWLBiDeW5efXJMnHSNK52fGpiGzvGbSVNtsHl5zMcAlYhTRI-cCaLCiyd98r4LdyBf7x0DqZ3aeRdaT2bjkQvhUabU8OIj-ElQ3J7MZfLZLgfF3X2ioJraA.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G4MZ85QG?tag=looteradea0b5-21",
-      "postedAt": "2026-11-14T23:38:57+00:00"
     }
   ]
 }
