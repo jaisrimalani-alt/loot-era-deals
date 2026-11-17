@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T04:52:17.919Z",
+  "updatedAt": "2026-11-17T05:07:10.444Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CR6JQT6F",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Portronics Konnect X USB to Type C Cable with 3A Output, Fast Charging & Data Transfer, Nylon Braided, Aluminium Alloy Shell, 1M Length c...",
+      "description": "",
+      "dealPrice": 150,
+      "mrp": 599,
+      "savings": 449,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "10,392",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71lJnttqcML._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CR6JQT6F?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T05:06:55.458Z"
+    },
     {
       "id": "amz:B0GS5TSQ46",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Foyela.in%2Fcollections%2Fjewellery",
       "postedAt": "2026-11-15T00:11:58+00:00"
-    },
-    {
-      "id": "amz:B0CVS3V7MH",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Memory Foam Shoe Insoles for Men & Women | Shock Absorbing Orthotic Insoles with Arch Support | Anti-Slip Soft Cushioned Trim-to-Fit Spor...",
-      "description": "",
-      "dealPrice": 249,
-      "mrp": 999,
-      "savings": 750,
-      "discountPct": 75,
-      "rating": 4.1,
-      "reviewCount": "1,932",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://cdn4.telesco.pe/file/BiYRgfVduC9q86eRGjJX1pkQATKaCzjj9GU9wNc9gOAJzrWFaM9NaOX-q30GipvkD_WGV6-rQ1gHC6wvr69JLiHX6c4H39VyEEAc1fQwGg6AF5To-3UbUeN3uKFU89s3ZTQlLQKVJc98f_VxFqSVdpK4xxtQMKZ4M32LAYS8t2g163JPRz7QCNl4A6NU9VWx7-NFXZKvi5SqWhdfSXdqzwKCJLp-jsBswmGbiz-NRaeD2j8SpWGaqpedivM2srSkjeniaNDGsj8uOi7VfwzR2PChqRtwTpev5A69mBEXGMe9bEvTG_v3adDTr2ODcwg4S5rrM8ciX1vurBQWfwfx4w.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CVS3V7MH?tag=looteradea0b5-21",
-      "postedAt": "2026-11-15T00:11:50+00:00"
     }
   ]
 }
