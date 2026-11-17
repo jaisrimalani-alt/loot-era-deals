@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T08:37:00.037Z",
+  "updatedAt": "2026-11-17T08:51:58.851Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GMJMS5DG",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "TEX-RO Small Dish Drying Rack with Drainer Tray | Stainless Steel Vessel Drainer Basket for Kitchen | Utensils Drying Rack with Spout | B...",
+      "description": "",
+      "dealPrice": 499,
+      "mrp": 999,
+      "savings": 500,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "3,944",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71ddbx5sbTL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GMJMS5DG?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T08:51:46.798Z"
+    },
     {
       "id": "amz:B0FN87M9HG",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81juk45eY2L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0C1P65Y4H?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T14:07:06.080Z"
-    },
-    {
-      "id": "amz:B0H7NSFNT6",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "SAKIT MFi Certified 27W Type C to Lightning Super Fast Charging Cable, High-Speed Data Sync, Durable Type C to iPhone Charger Cord,1M (3....",
-      "description": "",
-      "dealPrice": 300,
-      "mrp": 1900,
-      "savings": 1600,
-      "discountPct": 84,
-      "rating": null,
-      "reviewCount": "31,209",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/617KjRh+YwL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H7NSFNT6?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T13:51:49.881Z"
     }
   ]
 }
