@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T01:07:00.866Z",
-  "count": 77,
+  "updatedAt": "2026-11-17T01:22:03.348Z",
+  "count": 78,
   "deals": [
+    {
+      "id": "amz:B0CK2DD4RN",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "THEMISTO 20 Watt Mini Hot Melt Glue Gun with 10 Glue Sticks for DIY Art and Crafts…",
+      "description": "",
+      "dealPrice": 188,
+      "mrp": 499,
+      "savings": 311,
+      "discountPct": 62,
+      "rating": null,
+      "reviewCount": "4,836",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61qlCHUcyRL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CK2DD4RN?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T01:21:52.281Z"
+    },
     {
       "id": "amz:B0GPXS6WS1",
       "type": "amazon",
