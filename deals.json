@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T21:07:07.404Z",
+  "updatedAt": "2026-11-17T21:20:08.374Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HBBTV4J4",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Lenovo Idea Tab (Smartchoice) with Tab Pen | WiFi Only |11\" 2.5K IPS Display |6GB RAM + 128GB ROM (Expandable Upto 2TB)| MediaTek Dimensi...",
+      "description": "",
+      "dealPrice": 27999,
+      "mrp": 48000,
+      "savings": 20001,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "115",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81r-RPv-HxL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HBBTV4J4?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T21:19:56.939Z"
+    },
     {
       "id": "amz:B0H8PRXFLY",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61tpLEbIgsL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G1YLGDN2?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T03:36:50.046Z"
-    },
-    {
-      "id": "amz:B00M6P65ZQ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Gala Stainless Steel Scrubber - 1 Piece for Kitchen Utensils Cleaning",
-      "description": "",
-      "dealPrice": 17,
-      "mrp": 40,
-      "savings": 23,
-      "discountPct": 58,
-      "rating": null,
-      "reviewCount": "3,710",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81zzun11mGL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B00M6P65ZQ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T03:21:50.387Z"
     }
   ]
 }
