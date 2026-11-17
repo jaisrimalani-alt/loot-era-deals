@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T04:22:05.114Z",
+  "updatedAt": "2026-11-17T04:37:03.649Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FPGBLBRN",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Delivery Pax Hot Gun Machine for Packing Wrapping 2000W WITH 3 MONTHS WARRANTY Heat Gun Machine Dual Temperature | Hot Air Gun for paint ...",
+      "description": "",
+      "dealPrice": 629,
+      "mrp": 1500,
+      "savings": 871,
+      "discountPct": 58,
+      "rating": null,
+      "reviewCount": "139",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51I4L9YqxkL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FPGBLBRN?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T04:36:49.394Z"
+    },
     {
       "id": "amz:B078XJ45KB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.tatacliq.com%2Fwatches%2Fc-msh15%2Fpage-1%3Fq%3D%253Arelevance%253Acategory%253AMSH15%253AinStockFlag%253Atrue%253AisLuxuryProduct%253Afalse%253Abrand%253AMBH15E00576",
       "postedAt": "2026-11-15T00:06:53+00:00"
-    },
-    {
-      "id": "amz:B0CFFWP1QS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Endurance Series Analog-Digital Wrist Watches for Men CT9105",
-      "description": "",
-      "dealPrice": 999,
-      "mrp": 6999,
-      "savings": 6000,
-      "discountPct": 86,
-      "rating": 3.8,
-      "reviewCount": "3,535",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://cdn4.telesco.pe/file/NgZenbCPWR9VunHmd1-ENbXUGwYWk3KVSsM-75JMDEXKHdT7lkWNRmky9_a6Q9-gb5T7njMv2ISMz_g0YwANYp_LZo6DKnbnAM6EIxKp6AtjbwPS72wy59a_-DxL63Hj_iBumYYi2W2_a2y_l2JXdTNO_gAFxt0re0MOOsheSPajhKp77ME8E-I7K254pGWWsi4oiuLOQF6Qwh3nizSja_gyXqGLP7kuk9egDHkPDjyvGGSzo_mjpc1afXz1GoAFgR8cI5PxlJbN5dNvA5H58O7qBXq0i21jb_oJZ9n4_uwJW5iCSCKsN3yRz9wAiqOIMlmBjlPKOXVReX2HO0fIzA.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CFFWP1QS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-15T00:06:48+00:00"
     }
   ]
 }
