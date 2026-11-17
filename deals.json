@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T00:22:01.452Z",
-  "count": 74,
+  "updatedAt": "2026-11-17T00:37:02.351Z",
+  "count": 75,
   "deals": [
+    {
+      "id": "amz:B0GSZ8DDJX",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "VASELINE Gluta Hya Dewy Radiance Body Lotion, 330 ml, for Dewy Glowing Skin from 1st Use, with Glutathione, Hyaluron & Niacinamide, Non-S...",
+      "description": "",
+      "dealPrice": 280,
+      "mrp": 599,
+      "savings": 319,
+      "discountPct": 53,
+      "rating": null,
+      "reviewCount": "10,489",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51gkejY0bwL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GSZ8DDJX?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T00:36:49.535Z"
+    },
     {
       "id": "amz:B0FWR5HMJK",
       "type": "amazon",
