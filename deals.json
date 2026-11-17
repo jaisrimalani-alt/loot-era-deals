@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T21:52:07.932Z",
+  "updatedAt": "2026-11-17T22:07:02.293Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B01M61Z6ZG",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Disposable White Bouffant Caps (Pack of 100) – Thick Non-Woven Hair Cover with Double Elastic, Hygienic Head Caps for Kitchen/Cooking, Sa...",
+      "description": "",
+      "dealPrice": 150,
+      "mrp": 299,
+      "savings": 149,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "9,152",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61qQDLABpML._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B01M61Z6ZG?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T22:06:50.753Z"
+    },
     {
       "id": "amz:B07H3K85H5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61bPwd6R+-L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B078XJ45KB?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T04:21:51.109Z"
-    },
-    {
-      "id": "amz:B0BW3RBC3K",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Digital Sports Stylish Multifunctional Electronic LED Black Dial Wrist Watch for Men Boys -WCH78",
-      "description": "",
-      "dealPrice": 499,
-      "mrp": 1999,
-      "savings": 1500,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "1,869",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71CxgCKczdL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BW3RBC3K?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T04:06:47.351Z"
     }
   ]
 }
