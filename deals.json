@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T21:22:12.780Z",
+  "updatedAt": "2026-11-17T21:37:06.981Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G25S6HTH",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Livon Hyaluron Hair Serum for women & men | 2X Softer & Shiny Hair | Hair Serum for Dull & Dehydrated Hair | 48ml",
+      "description": "",
+      "dealPrice": 79,
+      "mrp": 145,
+      "savings": 66,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "719",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71m1FTKIjhL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G25S6HTH?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T21:36:54.544Z"
+    },
     {
       "id": "amz:B0FTQ5Q7BZ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61uyORrSsXL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G2GN8LYS?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T03:52:04.390Z"
-    },
-    {
-      "id": "amz:B0FM37T5JX",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "boAt Rockerz 301 ANC, (~30dB) ANC, 13mm Drivers,ENx, 40ms Low Latency, Hall Switch, App Support, Bluetooth Neckband, Wireless with Mic Ea...",
-      "description": "",
-      "dealPrice": 1499,
-      "mrp": 3490,
-      "savings": 1991,
-      "discountPct": 57,
-      "rating": null,
-      "reviewCount": "47,705",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61rXeQIF0XL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FM37T5JX?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T03:46:02.233Z"
     }
   ]
 }
