@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T15:37:12.834Z",
+  "updatedAt": "2026-11-17T15:52:00.435Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DSHZLRQB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Ant Esports Prism Mouse Pad with Anti-fray Stitching, Waterproof Surface & Non-Slip Rubber Base with Stitched Edges Gaming Mouse Mat for ...",
+      "description": "",
+      "dealPrice": 79,
+      "mrp": 499,
+      "savings": 420,
+      "discountPct": 84,
+      "rating": null,
+      "reviewCount": "2,769",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71EAZQiRqzL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DSHZLRQB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T15:51:48.636Z"
+    },
     {
       "id": "amz:B0HBBN6LHR",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Q2vCxG3ML._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H6RYY9GJ?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T22:06:49.088Z"
-    },
-    {
-      "id": "amz:B0FVM34BQM",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "DALUCI Top Load Fully Automatic Washing Machine Cover for 6 kg, 6.5 kg, 7kg & 7.5 kg | Waterproof & Dustproof Polyester Fabric with Zippe...",
-      "description": "",
-      "dealPrice": 351,
-      "mrp": 999,
-      "savings": 648,
-      "discountPct": 65,
-      "rating": null,
-      "reviewCount": "1,782",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61yl1XCjIyL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FVM34BQM?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T21:51:48.697Z"
     }
   ]
 }
