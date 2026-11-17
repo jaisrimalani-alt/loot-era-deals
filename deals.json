@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T15:07:13.196Z",
+  "updatedAt": "2026-11-17T15:22:19.772Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DB86NTG3",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Reginald Men Apollo - Hydrating Face & Beard Wash | Deep Clean, Acne & Tan Control with 8 Actives Face Wash (100 g)-For oily, combination...",
+      "description": "",
+      "dealPrice": 399,
+      "mrp": 699,
+      "savings": 300,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "401",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61lDLKhTaZL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DB86NTG3?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T15:22:05.277Z"
+    },
     {
       "id": "amz:B0G3P9D4QK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71PoGaTt13L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DFC56YM1?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T21:36:54.103Z"
-    },
-    {
-      "id": "amz:B0BNHD7MM3",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Matrix Black, Blue, White Dial, Day & Date Functioning, Stainless Steel Strap Analog Watch for Men & Women",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 2499,
-      "savings": 2200,
-      "discountPct": 88,
-      "rating": null,
-      "reviewCount": "3,966",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/816eXKgDfIL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BNHD7MM3?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T21:21:52.925Z"
     }
   ]
 }
