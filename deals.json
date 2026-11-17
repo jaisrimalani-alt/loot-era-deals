@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T21:37:06.981Z",
+  "updatedAt": "2026-11-17T21:52:07.932Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07H3K85H5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "TIMEX Classics Analog Watch for Men with Round Dial & Water Resistant Man's Wrist Watches",
+      "description": "",
+      "dealPrice": 1137,
+      "mrp": 1895,
+      "savings": 758,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "25,225",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07H3K85H5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T21:51:56.808Z"
+    },
     {
       "id": "amz:B0G25S6HTH",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71CxgCKczdL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BW3RBC3K?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T04:06:47.351Z"
-    },
-    {
-      "id": "amz:B0G2GN8LYS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Soft Silicone Back Scrubber Long Handle Bath Brush + Body Scrubber Bath Brush + Scalp Massager for Hair + Face Scrubber Brush, Combinatio...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 440,
-      "savings": 241,
-      "discountPct": 55,
-      "rating": null,
-      "reviewCount": "2,021",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61uyORrSsXL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G2GN8LYS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T03:52:04.390Z"
     }
   ]
 }
