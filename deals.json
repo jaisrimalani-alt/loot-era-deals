@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T18:37:47.667Z",
+  "updatedAt": "2026-11-17T18:52:10.110Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FP4S4JX2",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Kleenest Magic Eraser Cleaning Sponge – Pack of 4, Chemical-Free",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 699,
+      "savings": 500,
+      "discountPct": 72,
+      "rating": null,
+      "reviewCount": "4,924",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ykzpOaFKL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FP4S4JX2?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T18:51:59.161Z"
+    },
     {
       "id": "amz:B0BTLSPV1D",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/616l1XbCkDL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GPXS6WS1?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T01:06:49.262Z"
-    },
-    {
-      "id": "amz:B0GCNF4KXH",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Women's Luxury Black Analog Watch – Rose Gold Roman Numerals with Stylish Metal Chain Strap Wrist Watches for Women's & Girls&Miss&Ladies",
-      "description": "",
-      "dealPrice": 473,
-      "mrp": 1999,
-      "savings": 1526,
-      "discountPct": 76,
-      "rating": null,
-      "reviewCount": "681",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71B9Kz-L-NL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GCNF4KXH?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T00:52:08.728Z"
     }
   ]
 }
