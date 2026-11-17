@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T17:52:19.416Z",
+  "updatedAt": "2026-11-17T18:07:36.300Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HDQ4GDWW",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Aqueria French Flora Underarm Brightening Roll On with 5.5% AHA BHA Pack of 3| 48H Odour Control | Flora Fragrance with 2% Niacinamide | ...",
+      "description": "",
+      "dealPrice": 298,
+      "mrp": 899,
+      "savings": 601,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "674",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51BrjK8tplL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HDQ4GDWW?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T18:07:23.584Z"
+    },
     {
       "id": "amz:B0HLKRPZ2W",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61xKh05eooL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FWR5HMJK?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T00:21:48.259Z"
-    },
-    {
-      "id": "amz:B0H875KBDT",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "HP Campus Core 16 laptop Backpack - Black",
-      "description": "",
-      "dealPrice": 599,
-      "mrp": 1798,
-      "savings": 1199,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "27",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51FI1JjNGYL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H875KBDT?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T00:06:49.825Z"
     }
   ]
 }
