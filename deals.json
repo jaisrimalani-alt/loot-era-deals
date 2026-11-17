@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T17:37:04.362Z",
+  "updatedAt": "2026-11-17T17:52:19.416Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HLKRPZ2W",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "RANGSUGANDH Rangoli Colour Powder Set, Pack of 10, 90 g Each (900 g Total), Multicolour Decorative Rangoli Colours for Diwali, Pooja & Fe...",
+      "description": "",
+      "dealPrice": 163,
+      "mrp": 349,
+      "savings": 186,
+      "discountPct": 53,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/815lhFqsZoL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HLKRPZ2W?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T17:52:04.821Z"
+    },
     {
       "id": "amz:B0C4PVS224",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51FI1JjNGYL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H875KBDT?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T00:06:49.825Z"
-    },
-    {
-      "id": "amz:B0HGG3M3S5",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Reusable Sticky Ear Cleaner Tool Set, 24 Pcs Soft Silicone Adhesive Ear Wax Removal Sticks with Washable Resin Tips for Safe Ear Cleaning...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 499,
-      "savings": 300,
-      "discountPct": 60,
-      "rating": null,
-      "reviewCount": "83",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61D5Sy+esjL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HGG3M3S5?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T23:51:47.780Z"
     }
   ]
 }
