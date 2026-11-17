@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T20:07:06.174Z",
+  "updatedAt": "2026-11-17T20:22:02.098Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CLRCTC58",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Crest 1.43” AMOLED Smart Watch with BT Calling, AI Morning Briefs, Functional Crown, Health Tracking, Aluminium Body, 100+ Sports Modes, ...",
+      "description": "",
+      "dealPrice": 4999,
+      "mrp": 11995,
+      "savings": 6996,
+      "discountPct": 58,
+      "rating": null,
+      "reviewCount": "1,015",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/719RiDAGXtL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CLRCTC58?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T20:21:48.723Z"
+    },
     {
       "id": "amz:B0FMXW5DR3",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71RlAIwzj5L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B09DPZFXMQ?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T02:36:56.943Z"
-    },
-    {
-      "id": "amz:B0GN7Y3CB1",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Lymphatic Contour Face Brush, Manual Lymphatic Drainage Massager, Natural Makeup Brushes with Durable Soft Bristles, Hypoallergenic Ergon...",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 440,
-      "savings": 291,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "196",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Kj5yVCtYL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GN7Y3CB1?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T02:21:46.891Z"
     }
   ]
 }
