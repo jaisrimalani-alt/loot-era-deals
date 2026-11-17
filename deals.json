@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T20:37:32.273Z",
+  "updatedAt": "2026-11-17T20:52:04.586Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07Y8RFJCF",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Sofy AntiBacteria XL - 290mm | 51 Count pads | For Women Sanitary Pads | Keep Skin Dry | 6 Layer Deep Absorption | Herbal Shield | Hygien...",
+      "description": "",
+      "dealPrice": 279,
+      "mrp": 480,
+      "savings": 201,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "12,153",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71MdbvGD1vL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07Y8RFJCF?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T20:51:52.075Z"
+    },
     {
       "id": "amz:B01568SIG8",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71EjQY62U1L._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GD7VF6T4?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T03:06:47.687Z"
-    },
-    {
-      "id": "amz:B09RV5JVMM",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | ...",
-      "description": "",
-      "dealPrice": 689,
-      "mrp": 1699,
-      "savings": 1010,
-      "discountPct": 59,
-      "rating": null,
-      "reviewCount": "8,641",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/716Mf4sDXsL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B09RV5JVMM?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T02:51:49.538Z"
     }
   ]
 }
