@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T14:37:05.177Z",
+  "updatedAt": "2026-11-17T14:52:04.261Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FBG3W8BJ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Careforce Ortho Slippers for Men Daily Use, Soft EVA Cushioned Flip Flops & Sliders with Arch Support, Anti-Slip, Lightweight & Stylish C...",
+      "description": "",
+      "dealPrice": 249,
+      "mrp": 799,
+      "savings": 550,
+      "discountPct": 69,
+      "rating": null,
+      "reviewCount": "554",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71rtZHwbtGL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FBG3W8BJ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T14:51:52.949Z"
+    },
     {
       "id": "amz:B093BN3T7S",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61WB61TDbiL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HGLRQKZW?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T21:06:51.814Z"
-    },
-    {
-      "id": "amz:B00J420JEC",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "The Original Scrub Daddy - FlexTexture Sponge, Soft in Warm Water, Firm in Cold, Deep Cleaning, Dishwasher Safe, Multi-use, Scratch Free,...",
-      "description": "",
-      "dealPrice": 219,
-      "mrp": 499,
-      "savings": 280,
-      "discountPct": 56,
-      "rating": null,
-      "reviewCount": "3,275",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71lWC50vu-L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B00J420JEC?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T20:58:18.969Z"
     }
   ]
 }
