@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T16:52:43.307Z",
+  "updatedAt": "2026-11-17T17:07:21.113Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GL7WJZKZ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "DongCheng DCJZ1202E Cordless Drill Driver, 10mm, 12V Li-Ion Battery Drill Machine with 2 x 2.0Ah Batteries, 35Nm Torque, 2-Speed for Dril...",
+      "description": "",
+      "dealPrice": 2367,
+      "mrp": 4212,
+      "savings": 1845,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "150",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ETy8O9ktL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GL7WJZKZ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-17T17:07:05.506Z"
+    },
     {
       "id": "amz:B0BR5RTKC1",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61D0pn6EzNL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0F7HCGKR3?tag=looteradea0b5-21",
       "postedAt": "2026-11-16T23:21:56.474Z"
-    },
-    {
-      "id": "amz:B0C65RV6WH",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Black Design watch box for 12 watches (WITHOUT WATCHES)",
-      "description": "",
-      "dealPrice": 480,
-      "mrp": 2099,
-      "savings": 1619,
-      "discountPct": 77,
-      "rating": null,
-      "reviewCount": "100",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/818RoK4QKfL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0C65RV6WH?tag=looteradea0b5-21",
-      "postedAt": "2026-11-16T23:07:04.929Z"
     }
   ]
 }
