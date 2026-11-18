@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T09:37:36.940Z",
+  "updatedAt": "2026-11-18T09:52:14.634Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HJCYDL6H",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "vivo V80 5G (Sunrise Anthem, 8GB RAM, 256GB Storage) with No Cost EMI/Additional Exchange Offers",
+      "description": "",
+      "dealPrice": 69999,
+      "mrp": 118999,
+      "savings": 49000,
+      "discountPct": 41,
+      "rating": null,
+      "reviewCount": "46",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71EADoSqrwL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HJCYDL6H?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T09:52:02.747Z"
+    },
     {
       "id": "amz:B0D12F6VPN",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/813Tx7KmgTL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BK85265D?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T16:37:05.051Z"
-    },
-    {
-      "id": "amz:B0HCN8TFJC",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Magnetic Nose Strips for Breathing | Snoring Stopper for Men And Women | Nasal Strips for Breathing | Nasal Dilators For Breathing | Inst...",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 440,
-      "savings": 291,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "51",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51K+sfLs8WL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HCN8TFJC?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T16:21:50.047Z"
     }
   ]
 }
