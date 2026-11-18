@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T14:22:37.572Z",
+  "updatedAt": "2026-11-18T14:37:29.508Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132618",
+      "type": "cuelinks",
+      "source": "FuelOne",
+      "categoryName": "Brand Offer",
+      "title": "Elevate Your Fitness: Rs. 100 Off Awaits You!",
+      "description": "No minimum order value — buy what you need! Enter the coupon code for an immediate Rs. 100 rebate. Offer valid on selected items only. Hurry and claim your discount today!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "GET100",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.fuelone.in%2F",
+      "postedAt": "2026-11-18T14:37:29.505Z"
+    },
     {
       "id": "cue:132624",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07H3K85H5?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T21:51:56.808Z"
-    },
-    {
-      "id": "amz:B0G25S6HTH",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Livon Hyaluron Hair Serum for women & men | 2X Softer & Shiny Hair | Hair Serum for Dull & Dehydrated Hair | 48ml",
-      "description": "",
-      "dealPrice": 79,
-      "mrp": 145,
-      "savings": 66,
-      "discountPct": 46,
-      "rating": null,
-      "reviewCount": "719",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71m1FTKIjhL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G25S6HTH?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T21:36:54.544Z"
     }
   ]
 }
