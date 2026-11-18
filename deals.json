@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T13:07:47.194Z",
+  "updatedAt": "2026-11-18T13:22:24.829Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GXNND5DS",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Visio World VW 101 cm (40 Inches) SmartChoice Spectra Series Full HD Smart QLED Android TV VW40AQ3",
+      "description": "",
+      "dealPrice": 13499,
+      "mrp": 24999,
+      "savings": 11500,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "17,274",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81KvQUwuSkL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GXNND5DS?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T13:22:12.012Z"
+    },
     {
       "id": "amz:B0DP28SYQ5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/719RiDAGXtL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CLRCTC58?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T20:21:48.723Z"
-    },
-    {
-      "id": "amz:B0FMXW5DR3",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Alternate Scents LUST Long Lasting 40ML Perfume For Men |Strong& long Lasting with 30% Oil Concentration| Fresh Fruity-Aquatic | Fragranc...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 999,
-      "savings": 700,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "755",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61W6LBz3aFL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FMXW5DR3?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T20:06:55.134Z"
     }
   ]
 }
