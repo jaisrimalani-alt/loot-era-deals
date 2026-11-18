@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T09:07:07.451Z",
+  "updatedAt": "2026-11-18T09:21:58.581Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0D37LQZBY",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Memory Foam Shoe Insoles, Elastic Shock Absorbing Height Increasing Sports Shoe Insoles For Men And Women Cuttable Soft Breathable Honeyc...",
+      "description": "",
+      "dealPrice": 328,
+      "mrp": 599,
+      "savings": 271,
+      "discountPct": 45,
+      "rating": null,
+      "reviewCount": "2,448",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71DcTqD0LXL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0D37LQZBY?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T09:21:47.920Z"
+    },
     {
       "id": "amz:B0DB5XSKLJ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/712Rc9YYmCL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GXPD559W?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T16:07:05.504Z"
-    },
-    {
-      "id": "amz:B0DSHZLRQB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Ant Esports Prism Mouse Pad with Anti-fray Stitching, Waterproof Surface & Non-Slip Rubber Base with Stitched Edges Gaming Mouse Mat for ...",
-      "description": "",
-      "dealPrice": 79,
-      "mrp": 499,
-      "savings": 420,
-      "discountPct": 84,
-      "rating": null,
-      "reviewCount": "2,769",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71EAZQiRqzL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DSHZLRQB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T15:51:48.636Z"
     }
   ]
 }
