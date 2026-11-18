@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T00:22:17.771Z",
+  "updatedAt": "2026-11-18T00:37:01.431Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FWK25ZS5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "OTICA Best Pill Cutter and Splitter Daily Usage, Safely Cut Pills and Vitamins Tablets, Pill Cutter For Precise Separation, Stainless Ste...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 769,
+      "savings": 570,
+      "discountPct": 74,
+      "rating": null,
+      "reviewCount": "1,375",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41z7WaJ0KJL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FWK25ZS5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T00:36:48.817Z"
+    },
     {
       "id": "amz:B0CSDNFGFB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81sGkqckhDL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B01DGVKBC6?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T06:51:50.985Z"
-    },
-    {
-      "id": "amz:B0FNWNZZ1B",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Samsung Galaxy Tab S10 Lite [Smartchoice], 10.9-inch (27.7 CM), LCD Display, 6GB RAM, 128GB ROM, Wi-Fi, Dual Speakers, S Pen, Gray, AI En...",
-      "description": "",
-      "dealPrice": 30999,
-      "mrp": 57999,
-      "savings": 27000,
-      "discountPct": 47,
-      "rating": null,
-      "reviewCount": "618",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61CEEuPRM9L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FNWNZZ1B?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T06:36:46.109Z"
     }
   ]
 }
