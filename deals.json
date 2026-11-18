@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T20:22:40.581Z",
+  "updatedAt": "2026-11-18T20:36:59.015Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FN4GMKG4",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Modern Analog Watch, Silver and Black Two-Tone Stainless Steel Band, Octagonal Case, White Dial for Men",
+      "description": "",
+      "dealPrice": 418,
+      "mrp": 1199,
+      "savings": 781,
+      "discountPct": 65,
+      "rating": null,
+      "reviewCount": "652",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51BGiIthBAL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FN4GMKG4?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T20:36:49.203Z"
+    },
     {
       "id": "amz:B0DG3253XC",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61uwM5vQhaL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FMR7XH7W?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T03:06:49.434Z"
-    },
-    {
-      "id": "amz:B07WMS7TWB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Pigeon Amaze Plus Electric Kettle 1.5 L, 1300 Watt, Stainless Steel Body with Auto Shut-off Feature Used for Boiling Water - (Silver)",
-      "description": "",
-      "dealPrice": 489,
-      "mrp": 1245,
-      "savings": 756,
-      "discountPct": 61,
-      "rating": null,
-      "reviewCount": "180,642",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51DGcy8eBCL._SL1080_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B07WMS7TWB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T03:00:01.722Z"
     }
   ]
 }
