@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T12:07:45.055Z",
+  "updatedAt": "2026-11-18T12:22:16.524Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GR5KTPBY",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Garnier Men, Face Wash, Brightening & Anti-Pollution, TurboBright Double Action, 155 g",
+      "description": "",
+      "dealPrice": 204,
+      "mrp": 340,
+      "savings": 136,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "33,565",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/6111+4g90BL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GR5KTPBY?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T12:22:04.471Z"
+    },
     {
       "id": "amz:B0HNS64H7M",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/618nW72gJ9L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HHZHXXR4?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T19:36:52.496Z"
-    },
-    {
-      "id": "amz:B0DDHM6D3L",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Portronics Conch Theta C in Ear Type C Wired Earphones with in Line HD Mic, Powerful Audio, 14.2mm Driver, Unique Earbuds Design, TPE Ant...",
-      "description": "",
-      "dealPrice": 298,
-      "mrp": 799,
-      "savings": 501,
-      "discountPct": 63,
-      "rating": null,
-      "reviewCount": "14,976",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51GGwjwSr0L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DDHM6D3L?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T19:21:57.290Z"
     }
   ]
 }
