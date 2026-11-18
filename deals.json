@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T03:22:18.039Z",
+  "updatedAt": "2026-11-18T03:36:59.259Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BD7YHZWT",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Memory Foam Shoe Insoles for Men and Women | Soft Cushioned Inserts for Long Standing and Walking | Supports Heel and Arch | Shock Absorb...",
+      "description": "",
+      "dealPrice": 178,
+      "mrp": 336,
+      "savings": 158,
+      "discountPct": 47,
+      "rating": null,
+      "reviewCount": "2,947",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Nbh5ptH8L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BD7YHZWT?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T03:36:47.575Z"
+    },
     {
       "id": "amz:B0DZ2XKDCB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/610qStwyAoL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H4H12WZG?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T09:51:51.838Z"
-    },
-    {
-      "id": "amz:B0BRL22YLB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "YOHO Drizzle Soft Slippers for Women, Mild Acupressure, Lightweight, Anti Skid & Slip, Diabetic Footwear for Woman, Home Wear Bathroom Ch...",
-      "description": "",
-      "dealPrice": 559,
-      "mrp": 1499,
-      "savings": 940,
-      "discountPct": 63,
-      "rating": null,
-      "reviewCount": "4,250",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61eqR68SDUL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BRL22YLB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T09:37:01.903Z"
     }
   ]
 }
