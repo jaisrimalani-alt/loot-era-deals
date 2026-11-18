@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T01:22:18.873Z",
+  "updatedAt": "2026-11-18T01:36:59.118Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FKSXB3MH",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Halo Shampoo & Conditioner with Natural Egg Protein for Soft and Silky Hair - 875ml",
+      "description": "",
+      "dealPrice": 241,
+      "mrp": 399,
+      "savings": 158,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "479",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61FgZoF1hyL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FKSXB3MH?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T01:36:47.398Z"
+    },
     {
       "id": "amz:B083C6XMKQ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61fyBGuO18L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B08X1HCVWF?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T07:36:45.655Z"
-    },
-    {
-      "id": "cue:132504",
-      "type": "cuelinks",
-      "source": "RealMe",
-      "categoryName": "Brand Offer",
-      "title": "Get 22% Off on Your realme Buds Air8 Pro!",
-      "description": "Get 22% discount on the realme Buds Air8 Pro! Enjoy outstanding sound quality without distractions. Discover the ideal blend of calm and clarity in your music. Limited time only — claim your discount now!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F815",
-      "postedAt": "2026-11-17T07:21:51.673Z"
     }
   ]
 }
