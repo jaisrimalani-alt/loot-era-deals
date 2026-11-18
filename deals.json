@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T22:22:11.035Z",
+  "updatedAt": "2026-11-18T22:37:02.575Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G6124JLC",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Modern White Flower Pot with Legs | Big Planter | Indoor Outdoor Planter for Home,Garden, Balcony Decor | Tall, Durable & Lightweight Pla...",
+      "description": "",
+      "dealPrice": 599,
+      "mrp": 999,
+      "savings": 400,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "597",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71aqPsHSEiL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G6124JLC?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T22:36:52.603Z"
+    },
     {
       "id": "amz:B0CFXZFJ1Z",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71rWAsKgNlL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CF1M3PF9?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T05:06:55.851Z"
-    },
-    {
-      "id": "amz:B0DTTPCZHM",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "DOVE MEN+CARE EXTRA FRESH ANTI-PERSPIRANT ROLL ON 50 ML | Provides 48-hour Protection from Odour |",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 249,
-      "savings": 100,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "275",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41w0bll93vL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DTTPCZHM?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T04:52:07.415Z"
     }
   ]
 }
