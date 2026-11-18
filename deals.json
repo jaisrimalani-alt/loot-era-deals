@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T10:22:03.466Z",
+  "updatedAt": "2026-11-18T10:37:01.533Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CN3B5GQJ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "AKANSHA Keshajyoti Natural Ayurvedic Deep Nourishing Liquid Shampoo, 1 Count",
+      "description": "",
+      "dealPrice": 191,
+      "mrp": 330,
+      "savings": 139,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "519",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61UQTwbpnsL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CN3B5GQJ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T10:36:49.356Z"
+    },
     {
       "id": "amz:B0GFN87SXK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51AMGrSb7lL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0C4PVS224?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T17:36:51.842Z"
-    },
-    {
-      "id": "amz:B0GX52LD7V",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Visio World VW 109 cm (43 Inches) SmartChoice Spectra Series Full HD Smart QLED Android TV VW43AQ3",
-      "description": "",
-      "dealPrice": 15436,
-      "mrp": 29999,
-      "savings": 14563,
-      "discountPct": 49,
-      "rating": null,
-      "reviewCount": "17,252",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/817R+GUhSXL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GX52LD7V?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T17:22:42.838Z"
     }
   ]
 }
