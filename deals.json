@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T05:37:16.933Z",
+  "updatedAt": "2026-11-18T05:52:14.612Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FBFXBYHL",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Careforce Ortho Slippers for Men Daily Use, Soft EVA Cushioned Flip Flops & Sliders with Arch Support, Anti-Slip, Lightweight & Stylish C...",
+      "description": "",
+      "dealPrice": 249,
+      "mrp": 799,
+      "savings": 550,
+      "discountPct": 69,
+      "rating": null,
+      "reviewCount": "558",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71rtZHwbtGL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FBFXBYHL?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T05:52:02.475Z"
+    },
     {
       "id": "amz:B0H1C93X7H",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61KTvgVhrAL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B094VL1V76?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T11:51:48.193Z"
-    },
-    {
-      "id": "amz:B0DRKK4JJX",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Badminton Shoes for Man Lightweight Non Marking Shoes for Badminton Breathable Anti Skid Shoe for Man Shuttle Non Marking Indoor Shoe for...",
-      "description": "",
-      "dealPrice": 909,
-      "mrp": 3499,
-      "savings": 2590,
-      "discountPct": 74,
-      "rating": null,
-      "reviewCount": "3,365",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61YtGSDqdHL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DRKK4JJX?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T11:36:48.211Z"
     }
   ]
 }
