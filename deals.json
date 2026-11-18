@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T21:37:11.957Z",
+  "updatedAt": "2026-11-18T21:52:12.925Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H7C25FR7",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "ALTERNATE SCENTS BLACK OPUS Eau De Parfum for Women | 40ml | 30% Perfume Oil | Long Lasting Sweet Gourmand Vanilla Fragrance | French-Ins...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 999,
+      "savings": 700,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "123",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Zst7MeFfL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H7C25FR7?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T21:52:01.153Z"
+    },
     {
       "id": "amz:B0CP2K2XN8",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/6183UCgTi-L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DZNKWTKV?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T04:21:46.767Z"
-    },
-    {
-      "id": "amz:B0DTTR9SVC",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "DOVE MEN+CARE CLEAN COMFORT ANTI-PERSPIRANT ROLL ON 50 ML| 48-Hour Protection, Moisturising, Alcohol-free, Clean Scent |",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 249,
-      "savings": 100,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "147",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41ndUkI-B9L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DTTR9SVC?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T04:07:02.125Z"
     }
   ]
 }
