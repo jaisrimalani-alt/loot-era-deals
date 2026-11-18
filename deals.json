@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T19:07:11.036Z",
+  "updatedAt": "2026-11-18T19:22:09.324Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B08M4T5FJG",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Vaseline Deep Moisture Body Lotion with Ceramide Hyaluron Fillers | 10X More Moisture for Cushion Soft Glowing Skin | For Dry Skin | Ligh...",
+      "description": "",
+      "dealPrice": 389,
+      "mrp": 850,
+      "savings": 461,
+      "discountPct": 54,
+      "rating": null,
+      "reviewCount": "73,901",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51JkyI01PKL._SL1000_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B08M4T5FJG?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T19:21:57.155Z"
+    },
     {
       "id": "amz:B01HJI0FS2",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/8159yPq365L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B09RV5MGQ2?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T02:06:54.837Z"
-    },
-    {
-      "id": "amz:B0DZTNY6YM",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Paris Rivoli Collection Modern Analog Watch for Men with Octagon Dial and Silicon Band-DHM1003",
-      "description": "",
-      "dealPrice": 2277,
-      "mrp": 4950,
-      "savings": 2673,
-      "discountPct": 54,
-      "rating": null,
-      "reviewCount": "1,042",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71wdsiWHGeL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DZTNY6YM?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T01:51:50.061Z"
     }
   ]
 }
