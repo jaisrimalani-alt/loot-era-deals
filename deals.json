@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T12:37:03.094Z",
+  "updatedAt": "2026-11-18T12:52:03.246Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DP28SYQ5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Quick Shoe Cleaning Kit | Contains 150ml Foam Shoe Cleaner, 1 Medium Shoes Brush & 1 Microfiber Cleaning Cloth (Microfiber Towel) | Suita...",
+      "description": "",
+      "dealPrice": 399,
+      "mrp": 699,
+      "savings": 300,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "235",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61D8KaqtL3L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DP28SYQ5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T12:51:50.620Z"
+    },
     {
       "id": "amz:B0DWLXFLRF",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61W6LBz3aFL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FMXW5DR3?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T20:06:55.134Z"
-    },
-    {
-      "id": "amz:B0FXXTCH54",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "MotorOctane Car Air Refresher & Sanitizer Spray | CITRUS Fragrance | 100ml | AC Disinfectant | Sanitizes Cabin | Eliminates Odour | Fresh...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 499,
-      "savings": 200,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "535",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71feBdDxzgL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FXXTCH54?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T19:51:50.461Z"
     }
   ]
 }
