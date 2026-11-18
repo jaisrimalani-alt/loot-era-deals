@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T13:22:24.829Z",
+  "updatedAt": "2026-11-18T13:37:07.378Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0C376RWQP",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Zebronics-NS1000 Laptop Stand Featuring Foldable Design, Anti-Slip Silicone Rubber Pads, Supports Maximum of 5kgs Weight, 6 Adjustable Le...",
+      "description": "",
+      "dealPrice": 188,
+      "mrp": 1399,
+      "savings": 1211,
+      "discountPct": 87,
+      "rating": null,
+      "reviewCount": "5,917",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51B4emQb6yL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0C376RWQP?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T13:36:54.574Z"
+    },
     {
       "id": "amz:B0GXNND5DS",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81ARWrKClyL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B01568SIG8?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T20:37:21.274Z"
-    },
-    {
-      "id": "amz:B0CLRCTC58",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Crest 1.43” AMOLED Smart Watch with BT Calling, AI Morning Briefs, Functional Crown, Health Tracking, Aluminium Body, 100+ Sports Modes, ...",
-      "description": "",
-      "dealPrice": 4999,
-      "mrp": 11995,
-      "savings": 6996,
-      "discountPct": 58,
-      "rating": null,
-      "reviewCount": "1,015",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/719RiDAGXtL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CLRCTC58?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T20:21:48.723Z"
     }
   ]
 }
