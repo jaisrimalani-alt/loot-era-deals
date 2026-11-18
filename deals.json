@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T08:52:26.384Z",
+  "updatedAt": "2026-11-18T09:07:07.451Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DB5XSKLJ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Astor FS1 Pro Smart Watch, 1.97\" AMOLED Display, Bluetooth Calling, 100+ Sports Modes, SpO2 & Heart Rate Monitoring, Women's Health, IP68...",
+      "description": "",
+      "dealPrice": 2499,
+      "mrp": 4999,
+      "savings": 2500,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "2,020",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71BMeCVMZOL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DB5XSKLJ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T09:06:55.030Z"
+    },
     {
       "id": "amz:B0GYPTK3D9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71EAZQiRqzL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DSHZLRQB?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T15:51:48.636Z"
-    },
-    {
-      "id": "amz:B0HBBN6LHR",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Lenovo Idea Tab (Smartchoice) | WiFi Only |11\" 2.5K IPS Display |6GB RAM + 128GB ROM (Expandable Upto 2TB)| MediaTek Dimensity 6300|7040m...",
-      "description": "",
-      "dealPrice": 25999,
-      "mrp": 45000,
-      "savings": 19001,
-      "discountPct": 42,
-      "rating": null,
-      "reviewCount": "41",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/813+q4XvYhL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HBBN6LHR?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T15:36:59.816Z"
     }
   ]
 }
