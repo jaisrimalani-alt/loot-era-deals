@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T21:07:01.831Z",
+  "updatedAt": "2026-11-18T21:22:31.197Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CJJ9H4XK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "DIZORO Compatible for iPhone 15 Case 6.1, Slim Liquid Silicone Case 3 Layers Full Covered Soft Gel Rubber Phone Case Protective Cover 6.1...",
+      "description": "",
+      "dealPrice": 339,
+      "mrp": 999,
+      "savings": 660,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "6,476",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51g5kI3dHiL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CJJ9H4XK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T21:22:19.183Z"
+    },
     {
       "id": "amz:B0H7RPRGK4",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61KyU5QgXXL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07FSS4R16?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T03:52:32.610Z"
-    },
-    {
-      "id": "amz:B0BD7YHZWT",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Memory Foam Shoe Insoles for Men and Women | Soft Cushioned Inserts for Long Standing and Walking | Supports Heel and Arch | Shock Absorb...",
-      "description": "",
-      "dealPrice": 178,
-      "mrp": 336,
-      "savings": 158,
-      "discountPct": 47,
-      "rating": null,
-      "reviewCount": "2,947",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Nbh5ptH8L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BD7YHZWT?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T03:36:47.575Z"
     }
   ]
 }
