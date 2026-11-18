@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T16:07:31.184Z",
+  "updatedAt": "2026-11-18T16:22:02.296Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FMRKZZ4S",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "boAt Type A to C 65W Fast Charging Cable with 480 Mbps Data Transfer, Tangle-Free Cable in Premium Nylon Braided Design & Durable Alumini...",
+      "description": "",
+      "dealPrice": 219,
+      "mrp": 799,
+      "savings": 580,
+      "discountPct": 73,
+      "rating": null,
+      "reviewCount": "28,383",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61b67y-xjYL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FMRKZZ4S?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T16:21:50.234Z"
+    },
     {
       "id": "amz:B0DSFTRX77",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Vvqb1kyNL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B073P9RLWP?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T23:51:50.527Z"
-    },
-    {
-      "id": "amz:B00CXK623E",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Lip Smacker Coca-Cola Party Pack Lip Glosses (Pack Of 8) - Orange",
-      "description": "",
-      "dealPrice": 1289,
-      "mrp": 2244,
-      "savings": 955,
-      "discountPct": 43,
-      "rating": null,
-      "reviewCount": "12,473",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71IRptDkCRL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B00CXK623E?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T23:36:50.226Z"
     }
   ]
 }
