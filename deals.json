@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T11:37:00.060Z",
+  "updatedAt": "2026-11-18T11:51:59.323Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CXMCB4D5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Quick Shoe Cleaning Kit (150ml) & 1 Medium Bristle Cleaner Brush With Shoe Cleaning Foam (150ml), White Shoe Cleaning Kit, Shoe Cleaner K...",
+      "description": "",
+      "dealPrice": 399,
+      "mrp": 699,
+      "savings": 300,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "916",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61TlC-wuOQL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CXMCB4D5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T11:51:48.474Z"
+    },
     {
       "id": "amz:B0GKGL6MM6",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61EZPzLNo7L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HGDRCVNK?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T19:07:14.940Z"
-    },
-    {
-      "id": "amz:B0FP4S4JX2",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Kleenest Magic Eraser Cleaning Sponge – Pack of 4, Chemical-Free",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 699,
-      "savings": 500,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "4,924",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61ykzpOaFKL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FP4S4JX2?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T18:51:59.161Z"
     }
   ]
 }
