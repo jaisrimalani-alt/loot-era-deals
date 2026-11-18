@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T04:37:07.167Z",
+  "updatedAt": "2026-11-18T04:52:18.309Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DTTPCZHM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "DOVE MEN+CARE EXTRA FRESH ANTI-PERSPIRANT ROLL ON 50 ML | Provides 48-hour Protection from Odour |",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 249,
+      "savings": 100,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "275",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41w0bll93vL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DTTPCZHM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T04:52:07.415Z"
+    },
     {
       "id": "amz:B0HLZSHVW8",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.hkvitals.com%2Fsale%2Fglutathione-glow-range",
       "postedAt": "2026-11-17T10:51:48.605Z"
-    },
-    {
-      "id": "amz:B0GL1VW19T",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Pigeon Instamami Automatic Noodle Maker with 6 Moulds | Cordless Type-C Idiyappam & Pasta Maker | Portable Handheld Noodle Press | Cream",
-      "description": "",
-      "dealPrice": 1899,
-      "mrp": 3495,
-      "savings": 1596,
-      "discountPct": 46,
-      "rating": null,
-      "reviewCount": "352",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/716ZNPnJKZL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GL1VW19T?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T10:51:46.562Z"
     }
   ]
 }
