@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T16:37:27.837Z",
+  "updatedAt": "2026-11-18T16:52:01.078Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B01N56X1EW",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Classics Analog Couple Watches Set, Round Dial & Water Resistant, Wrist Watch, Anniversary & Wedding Gift for Couples",
+      "description": "",
+      "dealPrice": 3117,
+      "mrp": 5195,
+      "savings": 2078,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "817",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/91rSYoANEbL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B01N56X1EW?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T16:51:49.306Z"
+    },
     {
       "id": "amz:B0DYV5X7ZS",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61AUBW2AubL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CSDNFGFB?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T00:22:07.128Z"
-    },
-    {
-      "id": "amz:B0FR9GT4LM",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Frido Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex S...",
-      "description": "",
-      "dealPrice": 999,
-      "mrp": 1999,
-      "savings": 1000,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "3,243",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71C+XPnk0GL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FR9GT4LM?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T00:06:48.267Z"
     }
   ]
 }
