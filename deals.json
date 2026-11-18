@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T20:07:09.495Z",
+  "updatedAt": "2026-11-18T20:22:40.581Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DG3253XC",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Cetaphil Baby Mild Cleansing Bar for Newborns & Babies 4 x 100 gm | With Shea Butter, Avocado Oil & Olive Oil | Gentle, Hypoallergenic, P...",
+      "description": "",
+      "dealPrice": 510,
+      "mrp": 850,
+      "savings": 340,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "3,773",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Lyk57F3QL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DG3253XC?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T20:22:29.078Z"
+    },
     {
       "id": "amz:B0DV5C5FR2",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51DGcy8eBCL._SL1080_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07WMS7TWB?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T03:00:01.722Z"
-    },
-    {
-      "id": "amz:B0CXDN7V9N",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "STRIFF World Map Extended Gaming Mouse Pad | Desk Mat - 800 x 300 x 2 mm",
-      "description": "",
-      "dealPrice": 229,
-      "mrp": 1299,
-      "savings": 1070,
-      "discountPct": 82,
-      "rating": null,
-      "reviewCount": "13,320",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61s6d6BxW4L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CXDN7V9N?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T02:51:53.075Z"
     }
   ]
 }
