@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T03:52:43.993Z",
+  "updatedAt": "2026-11-18T04:07:16.455Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DTTR9SVC",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "DOVE MEN+CARE CLEAN COMFORT ANTI-PERSPIRANT ROLL ON 50 ML| 48-Hour Protection, Moisturising, Alcohol-free, Clean Scent |",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 249,
+      "savings": 100,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "147",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41ndUkI-B9L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DTTR9SVC?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T04:07:02.125Z"
+    },
     {
       "id": "amz:B07FSS4R16",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41DkFsG8yEL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BVNRXFHT?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T10:21:47.400Z"
-    },
-    {
-      "id": "amz:B0H3DW3ZL5",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "PACK OF 2 Eye Mask for Sleeping with Adjustable Strap Super Soft Sleep Masks Blind Fold for Comfortable Sleep Travelling Eye Pad for Girl...",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 299,
-      "savings": 150,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "438",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51IZ1yAi5sL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H3DW3ZL5?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T10:06:48.258Z"
     }
   ]
 }
