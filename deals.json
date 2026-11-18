@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T11:51:59.323Z",
+  "updatedAt": "2026-11-18T12:07:45.055Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HNS64H7M",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "ASUS ExpertBook P1 Intel Core 3 100U - (8 GB/512 GB SSD/Windows 11 Home) P1503CVAYB-S73384WS Thin and Light Laptop (15.6 inch, Misty Grey...",
+      "description": "",
+      "dealPrice": 54490,
+      "mrp": 99990,
+      "savings": 45500,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51gEEu7splL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HNS64H7M?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T12:07:32.374Z"
+    },
     {
       "id": "amz:B0CXMCB4D5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51GGwjwSr0L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DDHM6D3L?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T19:21:57.290Z"
-    },
-    {
-      "id": "amz:B0HGDRCVNK",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Dr Trust USA 534 Rechargeable Digital Electronic Weight Machine, CE-Approved Personal Weighing Scale for Accurate Body Weight Measurement...",
-      "description": "",
-      "dealPrice": 599,
-      "mrp": 2499,
-      "savings": 1900,
-      "discountPct": 76,
-      "rating": null,
-      "reviewCount": "15,991",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61EZPzLNo7L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HGDRCVNK?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T19:07:14.940Z"
     }
   ]
 }
