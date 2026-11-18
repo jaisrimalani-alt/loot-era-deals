@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T07:52:01.257Z",
+  "updatedAt": "2026-11-18T08:07:16.465Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GRVK2K1J",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "JioCarSync| Wired to Wireless Converter for Apple Carplay & Android Auto| For cars with wired Carplay &Android Auto Only| Premium Metal B...",
+      "description": "",
+      "dealPrice": 2399,
+      "mrp": 4999,
+      "savings": 2600,
+      "discountPct": 52,
+      "rating": null,
+      "reviewCount": "459",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Z7yyjwXSL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GRVK2K1J?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T08:07:03.983Z"
+    },
     {
       "id": "cue:132568",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71rtZHwbtGL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FBG3W8BJ?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T14:51:52.949Z"
-    },
-    {
-      "id": "amz:B093BN3T7S",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Men's and Women's Watch Box Organizer, Royal Black, 12 Slots",
-      "description": "",
-      "dealPrice": 749,
-      "mrp": 2199,
-      "savings": 1450,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "5,163",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81-+kFtcp-L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B093BN3T7S?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T14:36:54.148Z"
     }
   ]
 }
