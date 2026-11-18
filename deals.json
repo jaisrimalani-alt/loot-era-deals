@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T12:22:16.524Z",
+  "updatedAt": "2026-11-18T12:37:03.094Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DWLXFLRF",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog Watch for Men with Round Dial & Water Resistant Man's Wrist Watches",
+      "description": "",
+      "dealPrice": 2529,
+      "mrp": 4995,
+      "savings": 2466,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "349",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71sd-X0MB7L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DWLXFLRF?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T12:36:50.546Z"
+    },
     {
       "id": "amz:B0GR5KTPBY",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71feBdDxzgL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FXXTCH54?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T19:51:50.461Z"
-    },
-    {
-      "id": "amz:B0HHZHXXR4",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Acer Flow Silent Wireless Mouse | Bluetooth & 2.4GHz Dual Mode | 3-Level 1600 DPI | 500mAh Rechargeable Battery | Up to 1 Month Usage | T...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 999,
-      "savings": 700,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "41",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/618nW72gJ9L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HHZHXXR4?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T19:36:52.496Z"
     }
   ]
 }
