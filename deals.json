@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T18:52:08.691Z",
+  "updatedAt": "2026-11-18T19:07:11.036Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B01HJI0FS2",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Dell MS116 USB Optical Mouse (Black)",
+      "description": "",
+      "dealPrice": 285,
+      "mrp": 1499,
+      "savings": 1214,
+      "discountPct": 81,
+      "rating": null,
+      "reviewCount": "61,322",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51a1LryFTZS._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B01HJI0FS2?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T19:07:00.827Z"
+    },
     {
       "id": "amz:B0G2B2QVLL",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71wdsiWHGeL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DZTNY6YM?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T01:51:50.061Z"
-    },
-    {
-      "id": "amz:B0FKSXB3MH",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Halo Shampoo & Conditioner with Natural Egg Protein for Soft and Silky Hair - 875ml",
-      "description": "",
-      "dealPrice": 241,
-      "mrp": 399,
-      "savings": 158,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "479",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61FgZoF1hyL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FKSXB3MH?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T01:36:47.398Z"
     }
   ]
 }
