@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T15:22:14.948Z",
+  "updatedAt": "2026-11-18T15:37:14.810Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CNM27L5P",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Quick Shoe Cleaning Kit Shoe Cleaner & Medium Bristle Shoe Brush, White Shoe Cleaning Kit, Shoe Cleaner Kit For Sneaker,Sports Shoe Clean...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 499,
+      "savings": 200,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "3,236",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61pL0Dj8uNL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CNM27L5P?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T15:37:02.489Z"
+    },
     {
       "id": "amz:B0H26N88Z6",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/510WX836ZQL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BLJ3FJRJ?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T23:21:50.507Z"
-    },
-    {
-      "id": "amz:B0GHYBDYW5",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Zebronics Wireless Mouse, 2.4GHz, 3200 DPI, 3 Buttons, Comfortable & Ergonomic, USB Nano Receiver, On/Off Switch, Power-Saving Mode, Work...",
-      "description": "",
-      "dealPrice": 229,
-      "mrp": 699,
-      "savings": 470,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "4,375",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51FzsqYo06L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GHYBDYW5?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T23:06:50.797Z"
     }
   ]
 }
