@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T15:07:14.213Z",
+  "updatedAt": "2026-11-18T15:22:14.948Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H26N88Z6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "LUMONY® Lice Comb For Women And Kids Stainless Steel Lice Terminator Fine Egg Nit Lice Egg Removal Comb For Women and Men",
+      "description": "",
+      "dealPrice": 129,
+      "mrp": 599,
+      "savings": 470,
+      "discountPct": 78,
+      "rating": null,
+      "reviewCount": "2,049",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81qrqvi4c5L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H26N88Z6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T15:22:01.735Z"
+    },
     {
       "id": "cue:132622",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51FzsqYo06L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GHYBDYW5?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T23:06:50.797Z"
-    },
-    {
-      "id": "amz:B0G2BBWKCP",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Redmi 15C 5G Prime Edition (Midnight Black, 6GB + 128GB) | Massive 6000mAh Battery | Segment's Largest 17.53cm Display Up to 120Hz | Medi...",
-      "description": "",
-      "dealPrice": 18999,
-      "mrp": 31999,
-      "savings": 13000,
-      "discountPct": 41,
-      "rating": null,
-      "reviewCount": "1,270",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71ZhqpWm9oL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G2BBWKCP?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T22:51:47.936Z"
     }
   ]
 }
