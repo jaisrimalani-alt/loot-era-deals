@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T02:52:04.381Z",
+  "updatedAt": "2026-11-18T03:00:19.180Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07WMS7TWB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Pigeon Amaze Plus Electric Kettle 1.5 L, 1300 Watt, Stainless Steel Body with Auto Shut-off Feature Used for Boiling Water - (Silver)",
+      "description": "",
+      "dealPrice": 489,
+      "mrp": 1245,
+      "savings": 756,
+      "discountPct": 61,
+      "rating": null,
+      "reviewCount": "180,642",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51DGcy8eBCL._SL1080_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07WMS7TWB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T03:00:01.722Z"
+    },
     {
       "id": "amz:B0CXDN7V9N",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41i5Ms4OsZL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FLDTJQJ8?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T09:06:55.732Z"
-    },
-    {
-      "id": "amz:B0GMJMS5DG",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "TEX-RO Small Dish Drying Rack with Drainer Tray | Stainless Steel Vessel Drainer Basket for Kitchen | Utensils Drying Rack with Spout | B...",
-      "description": "",
-      "dealPrice": 499,
-      "mrp": 999,
-      "savings": 500,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "3,944",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71ddbx5sbTL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GMJMS5DG?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T08:51:46.798Z"
     }
   ]
 }
