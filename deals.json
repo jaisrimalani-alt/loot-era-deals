@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T11:07:32.755Z",
+  "updatedAt": "2026-11-18T11:22:00.256Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GDTSH5BW",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Zebronics Wireless Mouse, Dual Mode 2.4GHz + BT, Up to 1600 DPI, USB Nano Receiver, Lightweight Design, Multicolor LED Lights, Rechargeab...",
+      "description": "",
+      "dealPrice": 411,
+      "mrp": 799,
+      "savings": 388,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "10,139",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51ItzIBMg6L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GDTSH5BW?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T11:21:49.925Z"
+    },
     {
       "id": "amz:B07WYJVMY6",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/713OdWKII4L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FFBD2VLT?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T18:22:10.795Z"
-    },
-    {
-      "id": "amz:B0HDQ4GDWW",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Aqueria French Flora Underarm Brightening Roll On with 5.5% AHA BHA Pack of 3| 48H Odour Control | Flora Fragrance with 2% Niacinamide | ...",
-      "description": "",
-      "dealPrice": 298,
-      "mrp": 899,
-      "savings": 601,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "674",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51BrjK8tplL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HDQ4GDWW?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T18:07:23.584Z"
     }
   ]
 }
