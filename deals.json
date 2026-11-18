@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T00:52:02.443Z",
+  "updatedAt": "2026-11-18T01:07:04.799Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B08LHTJTBB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Dyazo 6 Angles Adjustable Aluminum Ergonomic Foldable Portable Tabletop Laptop/Desktop Riser Stand Holder Compatible for MacBook, HP, Del...",
+      "description": "",
+      "dealPrice": 349,
+      "mrp": 1999,
+      "savings": 1650,
+      "discountPct": 83,
+      "rating": null,
+      "reviewCount": "21,167",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B08LHTJTBB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T01:06:52.088Z"
+    },
     {
       "id": "amz:B0H1WY1D37",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/615jAbgKimL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FMR7GHFF?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T07:21:49.481Z"
-    },
-    {
-      "id": "amz:B0GFLNQHGK",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Premium Stainless Steel Gua Sha,Metal Gua Sha Facial Tool. Firm Face Muscles, Reduce Puffiness, Facial Tension, Helps Lymphatic Drainage....",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 299,
-      "savings": 150,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "684",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51mYk6bW-JL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GFLNQHGK?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T07:06:46.904Z"
     }
   ]
 }
