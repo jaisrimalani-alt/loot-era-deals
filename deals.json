@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-17T23:52:00.937Z",
+  "updatedAt": "2026-11-18T00:07:02.776Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FR9GT4LM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Frido Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex S...",
+      "description": "",
+      "dealPrice": 999,
+      "mrp": 1999,
+      "savings": 1000,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "3,243",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71C+XPnk0GL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FR9GT4LM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T00:06:48.267Z"
+    },
     {
       "id": "amz:B073P9RLWP",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71PKtPiCetL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G5XYNDGL?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T06:21:46.035Z"
-    },
-    {
-      "id": "amz:B08NT854TM",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Ceptics India Australia, India to China, Australia, New Zealand & More - Type I - CE Certified - Rohs Compliant - White Adapter - 2 Pack ...",
-      "description": "",
-      "dealPrice": 439,
-      "mrp": 999,
-      "savings": 560,
-      "discountPct": 56,
-      "rating": null,
-      "reviewCount": "10,130",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51n07j1rqdL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B08NT854TM?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T06:06:48.301Z"
     }
   ]
 }
