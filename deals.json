@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T04:07:16.455Z",
+  "updatedAt": "2026-11-18T04:21:59.495Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DZNKWTKV",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Paris Bercy Collection Modern Chronograph Watch for Men with Square Dial and Silicon Band-DHM1001",
+      "description": "",
+      "dealPrice": 2689,
+      "mrp": 5450,
+      "savings": 2761,
+      "discountPct": 51,
+      "rating": null,
+      "reviewCount": "2,573",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/6183UCgTi-L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DZNKWTKV?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T04:21:46.767Z"
+    },
     {
       "id": "amz:B0DTTR9SVC",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41vAgyMufhL._SL1024_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DFCGB2D6?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T10:36:51.641Z"
-    },
-    {
-      "id": "amz:B0BVNRXFHT",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Yubico - Security Key C NFC - Basic Compatibility - Multi-Factor authentication (MFA) Security Key and passkey, Connect via USB-C or NFC,...",
-      "description": "",
-      "dealPrice": 3789,
-      "mrp": 6599,
-      "savings": 2810,
-      "discountPct": 43,
-      "rating": null,
-      "reviewCount": "2,918",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41DkFsG8yEL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BVNRXFHT?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T10:21:47.400Z"
     }
   ]
 }
