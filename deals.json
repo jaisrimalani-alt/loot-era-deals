@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T03:00:19.180Z",
+  "updatedAt": "2026-11-18T03:07:00.460Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FMR7XH7W",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Cetaphil Gentle Exfoliating SA Lotion 29ml | Lightweight Daily Moisturizer with Salicylic Acid, Mandelic Acid & Gluconolactone | 48 Hr Hy...",
+      "description": "",
+      "dealPrice": 99,
+      "mrp": 224,
+      "savings": 125,
+      "discountPct": 56,
+      "rating": null,
+      "reviewCount": "970",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61uwM5vQhaL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FMR7XH7W?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T03:06:49.434Z"
+    },
     {
       "id": "amz:B07WMS7TWB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/816BMgd4pAL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0D6MV32Y8?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T09:21:46.539Z"
-    },
-    {
-      "id": "amz:B0FLDTJQJ8",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "(PACK OF 2) 500 ML SPRAY BOTTAL,Transparent Clear Empty Water Spray Bottles,Water Liquid Sprayer Set for Face, Hair, Garden, Sanitizer, P...",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 440,
-      "savings": 291,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "1,831",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41i5Ms4OsZL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FLDTJQJ8?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T09:06:55.732Z"
     }
   ]
 }
