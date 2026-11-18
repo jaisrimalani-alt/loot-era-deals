@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T10:06:56.628Z",
+  "updatedAt": "2026-11-18T10:22:03.466Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GFN87SXK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "PHILIPS 5W VION White LED Desk Light | 3-in-1 Study & Table Lamp | EyeComfort Technology | Adjustable Design | Energy Efficient LED Lamp ...",
+      "description": "",
+      "dealPrice": 599,
+      "mrp": 1018,
+      "savings": 419,
+      "discountPct": 41,
+      "rating": null,
+      "reviewCount": "418",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51343DtSvAL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GFN87SXK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T10:21:50.945Z"
+    },
     {
       "id": "cue:132587",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/817R+GUhSXL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GX52LD7V?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T17:22:42.838Z"
-    },
-    {
-      "id": "amz:B0GL7WJZKZ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "DongCheng DCJZ1202E Cordless Drill Driver, 10mm, 12V Li-Ion Battery Drill Machine with 2 x 2.0Ah Batteries, 35Nm Torque, 2-Speed for Dril...",
-      "description": "",
-      "dealPrice": 2367,
-      "mrp": 4212,
-      "savings": 1845,
-      "discountPct": 44,
-      "rating": null,
-      "reviewCount": "150",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61ETy8O9ktL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GL7WJZKZ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T17:07:05.506Z"
     }
   ]
 }
