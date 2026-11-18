@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T02:07:06.116Z",
+  "updatedAt": "2026-11-18T02:22:05.667Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G1GZ7N55",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Wooden Louvers Wood Pattern Wallpaper for Walls |Self-Adhesive Wall Décor Sheet wall Stickers | Textured Wood Design for Living Room, Bed...",
+      "description": "",
+      "dealPrice": 279,
+      "mrp": 999,
+      "savings": 720,
+      "discountPct": 72,
+      "rating": null,
+      "reviewCount": "427",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71jA9jzzS7L._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G1GZ7N55?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T02:21:47.340Z"
+    },
     {
       "id": "amz:B09RV5MGQ2",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81r-RPv-HxL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HBBGL6C2?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T08:21:47.303Z"
-    },
-    {
-      "id": "amz:B0FPWWH55W",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Mamaearth Ubtan Natural Glow Face Wash with Turmeric & Saffron for Tan Removal – 200 ml | Removes Tan | Brightens Skin | Exclusively Avai...",
-      "description": "",
-      "dealPrice": 274,
-      "mrp": 549,
-      "savings": 275,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "58,697",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/514ozr0WPZL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FPWWH55W?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T08:07:06.493Z"
     }
   ]
 }
