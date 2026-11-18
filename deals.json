@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T00:37:01.431Z",
+  "updatedAt": "2026-11-18T00:52:02.443Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H1WY1D37",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "iQOO Z11 Lite 44W 5G (Solar Flame, 4GB RAM, 128GB Storage) | 6500mAh Battery with 44W Fast Charging* | Dimensity 6300 with 579k+ AnTuTu S...",
+      "description": "",
+      "dealPrice": 19999,
+      "mrp": 33999,
+      "savings": 14000,
+      "discountPct": 41,
+      "rating": null,
+      "reviewCount": "511",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61+l5bzv9hL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H1WY1D37?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T00:51:50.413Z"
+    },
     {
       "id": "amz:B0FWK25ZS5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51mYk6bW-JL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GFLNQHGK?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T07:06:46.904Z"
-    },
-    {
-      "id": "amz:B01DGVKBC6",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "FEDUS Cat6 Ethernet Cable, 10M High Speed 550MHZ / 10 Gigabit Speed UTP LAN Cable, Network Cable Internet Cable RJ45 Cable LAN Wire, Patc...",
-      "description": "",
-      "dealPrice": 289,
-      "mrp": 499,
-      "savings": 210,
-      "discountPct": 42,
-      "rating": null,
-      "reviewCount": "21,527",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81sGkqckhDL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B01DGVKBC6?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T06:51:50.985Z"
     }
   ]
 }
