@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T19:52:29.689Z",
+  "updatedAt": "2026-11-18T20:07:09.495Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DV5C5FR2",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Gesto Portable Fan Rechargeable with LED Light – Foldable Mini Fan, Small Fan,USB Charging Hand Fan with 1200mAh Battery & 3 Speed Modes ...",
+      "description": "",
+      "dealPrice": 399,
+      "mrp": 1999,
+      "savings": 1600,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "2,456",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/710rCSiRlwL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DV5C5FR2?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T20:06:57.947Z"
+    },
     {
       "id": "amz:B0FC2Y3XGV",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61s6d6BxW4L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CXDN7V9N?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T02:51:53.075Z"
-    },
-    {
-      "id": "amz:B0GX9G9SR9",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Pikkme Flip Cover for Mi Redmi A7 Pro/Poco C85x 5G / C81 Leather Finish | Inside TPU with Card Pockets | Wallet Stand and Shock Proof | C...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 999,
-      "savings": 800,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "58,716",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71NFuKuibdL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GX9G9SR9?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T02:37:11.585Z"
     }
   ]
 }
