@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T15:52:42.729Z",
+  "updatedAt": "2026-11-18T16:07:31.184Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DSFTRX77",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Samsung Galaxy 45W Travel Adaptor (Without Cable), Black",
+      "description": "",
+      "dealPrice": 770,
+      "mrp": 3499,
+      "savings": 2729,
+      "discountPct": 78,
+      "rating": null,
+      "reviewCount": "3,034",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61bB+v8qJqL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DSFTRX77?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T16:07:20.319Z"
+    },
     {
       "id": "amz:B0CNM27L5P",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71IRptDkCRL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B00CXK623E?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T23:36:50.226Z"
-    },
-    {
-      "id": "amz:B0BLJ3FJRJ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Havells Zeta 1500 watt Immersion Heater | ISI Mark Heavy Duty 3 Pin Moulded Plug, Touch Protection Cover | Waterproof, Heating Indicator,...",
-      "description": "",
-      "dealPrice": 649,
-      "mrp": 1090,
-      "savings": 441,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "986",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/510WX836ZQL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BLJ3FJRJ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T23:21:50.507Z"
     }
   ]
 }
