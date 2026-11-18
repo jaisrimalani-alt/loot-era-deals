@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T10:37:01.533Z",
+  "updatedAt": "2026-11-18T10:52:15.736Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FBFYR763",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Careforce Ortho Slippers for Women Daily Use, EVA Cushioned Anti-Slip Sliders & Flip Flops | Arch Support Chappal for Daily Comfort & All...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 799,
+      "savings": 600,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "272",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/510sE7C5XYL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FBFYR763?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T10:52:04.816Z"
+    },
     {
       "id": "amz:B0CN3B5GQJ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/815lhFqsZoL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HLKRPZ2W?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T17:52:04.821Z"
-    },
-    {
-      "id": "amz:B0C4PVS224",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "XIAOMI Mi 33W Fast Charging Cable USB C Quick Charge 4.0 Soniccharge Cord Compatible withMi, Redmi, iPhone 15 Pro Samsung Galaxy Android ...",
-      "description": "",
-      "dealPrice": 275,
-      "mrp": 699,
-      "savings": 424,
-      "discountPct": 61,
-      "rating": null,
-      "reviewCount": "4,387",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51AMGrSb7lL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0C4PVS224?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T17:36:51.842Z"
     }
   ]
 }
