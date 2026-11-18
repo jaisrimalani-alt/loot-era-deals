@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T03:36:59.259Z",
+  "updatedAt": "2026-11-18T03:52:43.993Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07FSS4R16",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "DJI Osmo Mobile 7 Gimbal Stabilizer for iPhone & Android, 3-Axis Gimbal",
+      "description": "",
+      "dealPrice": 5999,
+      "mrp": 10990,
+      "savings": 4991,
+      "discountPct": 45,
+      "rating": null,
+      "reviewCount": "12,827",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61KyU5QgXXL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07FSS4R16?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T03:52:32.610Z"
+    },
     {
       "id": "amz:B0BD7YHZWT",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51IZ1yAi5sL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H3DW3ZL5?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T10:06:48.258Z"
-    },
-    {
-      "id": "amz:B0H4H12WZG",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Qubo InstaView Edge Wired Video Door Phone | 2MP Full HD Camera, 7-inch TFT Display, 150° Wide View, Motion Detection, IR Night Vision, A...",
-      "description": "",
-      "dealPrice": 7990,
-      "mrp": 15990,
-      "savings": 8000,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "1,974",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/610qStwyAoL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H4H12WZG?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T09:51:51.838Z"
     }
   ]
 }
