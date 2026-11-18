@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T04:52:18.309Z",
+  "updatedAt": "2026-11-18T05:07:07.042Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CF1M3PF9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Pikkme Flip Cover Leather Finish | Inside TPU with Card Pockets | Wallet Stand and Shock Proof | Complete Protection Flip Case for Redmi ...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 999,
+      "savings": 800,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "58,717",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71rWAsKgNlL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CF1M3PF9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T05:06:55.851Z"
+    },
     {
       "id": "amz:B0DTTPCZHM",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51R7BrxAjKL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HM87GFP5?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T11:06:56.992Z"
-    },
-    {
-      "id": "cue:132541",
-      "type": "cuelinks",
-      "source": "Hkvitals",
-      "categoryName": "Brand Offer",
-      "title": "Glutathione Glow Range – Up to 41% Off!",
-      "description": "Snag up to 41% off on Glutathione Glow Range products today! Shop starting at just Rs. 595 and glow like never before. Act fast—this limited-time offer won’t last! Open to all customers, grab your beauty boosts!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.hkvitals.com%2Fsale%2Fglutathione-glow-range",
-      "postedAt": "2026-11-17T10:51:48.605Z"
     }
   ]
 }
