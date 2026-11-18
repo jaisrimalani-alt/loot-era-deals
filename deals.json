@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T01:52:02.149Z",
+  "updatedAt": "2026-11-18T02:07:06.116Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B09RV5MGQ2",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | ...",
+      "description": "",
+      "dealPrice": 689,
+      "mrp": 1699,
+      "savings": 1010,
+      "discountPct": 59,
+      "rating": null,
+      "reviewCount": "8,647",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/8159yPq365L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B09RV5MGQ2?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T02:06:54.837Z"
+    },
     {
       "id": "amz:B0DZTNY6YM",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/514ozr0WPZL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FPWWH55W?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T08:07:06.493Z"
-    },
-    {
-      "id": "amz:B0F43VMBD7",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Shoe Cleaning Multipack Wipes, Premium Sneaker Cleaner, Sneaker Cleaner Wipes, Travel-Friendly",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 599,
-      "savings": 300,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "501",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61k9LvQXjrL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0F43VMBD7?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T07:51:47.913Z"
     }
   ]
 }
