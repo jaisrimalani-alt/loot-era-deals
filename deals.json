@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T18:37:14.171Z",
+  "updatedAt": "2026-11-18T18:52:08.691Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G2B2QVLL",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Redmi 15C 5G Prime Edition Dusk Purple 6GB + 128GB | Massive 6000mAh Battery | Segment's Largest 17.53cm Display Up to 120Hz | MediaTek D...",
+      "description": "",
+      "dealPrice": 19999,
+      "mrp": 31999,
+      "savings": 12000,
+      "discountPct": 38,
+      "rating": null,
+      "reviewCount": "1,274",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/711q7oij2qL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G2B2QVLL?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T18:51:57.620Z"
+    },
     {
       "id": "amz:B078Y2PJL4",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61FgZoF1hyL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FKSXB3MH?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T01:36:47.398Z"
-    },
-    {
-      "id": "amz:B083C6XMKQ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Aliston Atom Kitchen Weight Machine 6 Months Manufacturer Warranty, Digital Scale with LCD Display, Scale for Home Baking, Cooking & Bala...",
-      "description": "",
-      "dealPrice": 259,
-      "mrp": 599,
-      "savings": 340,
-      "discountPct": 57,
-      "rating": null,
-      "reviewCount": "29,516",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51C6yp8HitL._SL1100_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B083C6XMKQ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T01:22:03.455Z"
     }
   ]
 }
