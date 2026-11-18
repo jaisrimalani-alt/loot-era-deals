@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T09:21:58.581Z",
+  "updatedAt": "2026-11-18T09:37:36.940Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0D12F6VPN",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Colgate Total 300gm (2 x 150gm) Advanced Health Anti-Germ Toothpaste with Toothbrush, Tooth Paste with 12-Hour Anti-Germ & Enamel Protect...",
+      "description": "",
+      "dealPrice": 233,
+      "mrp": 400,
+      "savings": 167,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "6,772",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/616Kir3viVL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0D12F6VPN?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T09:37:25.974Z"
+    },
     {
       "id": "amz:B0D37LQZBY",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51K+sfLs8WL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HCN8TFJC?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T16:21:50.047Z"
-    },
-    {
-      "id": "amz:B0GXPD559W",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "AGARO Elite Lint Remover with Cord, for Woolen Sweaters, Blankets, Jackets/Burr Remover Pill Remover from Carpets, Curtains",
-      "description": "",
-      "dealPrice": 399,
-      "mrp": 699,
-      "savings": 300,
-      "discountPct": 43,
-      "rating": null,
-      "reviewCount": "8,517",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/712Rc9YYmCL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GXPD559W?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T16:07:05.504Z"
     }
   ]
 }
