@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T19:34:31.674Z",
+  "updatedAt": "2026-11-18T19:37:12.501Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0F7HBRNC5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "ORTHO JOY Doctor Orthopedic Soft Slippers For Ladies Daily Use/mcr chappals for women/ortho slippers women",
+      "description": "",
+      "dealPrice": 416,
+      "mrp": 999,
+      "savings": 583,
+      "discountPct": 58,
+      "rating": null,
+      "reviewCount": "6,591",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61D0pn6EzNL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0F7HBRNC5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T19:37:01.890Z"
+    },
     {
       "id": "amz:B08M4T5FJG",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71jA9jzzS7L._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G1GZ7N55?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T02:21:47.340Z"
-    },
-    {
-      "id": "amz:B09RV5MGQ2",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | ...",
-      "description": "",
-      "dealPrice": 689,
-      "mrp": 1699,
-      "savings": 1010,
-      "discountPct": 59,
-      "rating": null,
-      "reviewCount": "8,647",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/8159yPq365L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B09RV5MGQ2?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T02:06:54.837Z"
     }
   ]
 }
