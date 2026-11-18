@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T02:37:23.278Z",
+  "updatedAt": "2026-11-18T02:52:04.381Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CXDN7V9N",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "STRIFF World Map Extended Gaming Mouse Pad | Desk Mat - 800 x 300 x 2 mm",
+      "description": "",
+      "dealPrice": 229,
+      "mrp": 1299,
+      "savings": 1070,
+      "discountPct": 82,
+      "rating": null,
+      "reviewCount": "13,320",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61s6d6BxW4L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CXDN7V9N?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T02:51:53.075Z"
+    },
     {
       "id": "amz:B0GX9G9SR9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71ddbx5sbTL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GMJMS5DG?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T08:51:46.798Z"
-    },
-    {
-      "id": "amz:B0FN87M9HG",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "TheGiftKart for iPhone 17 Pro Case | Clear Hard Back Cover | Hybrid Shockproof Transparent Back Cover Case with Camera & Screen Protectio...",
-      "description": "",
-      "dealPrice": 284,
-      "mrp": 999,
-      "savings": 715,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "8,944",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61y4U3FImoL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FN87M9HG?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T08:36:49.663Z"
     }
   ]
 }
