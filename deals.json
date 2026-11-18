@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T03:07:00.460Z",
+  "updatedAt": "2026-11-18T03:22:18.039Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DZ2XKDCB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Amazon Basics Unisex Faux Leather Watch Organiser Box with 12 Slots |Watch Organizer with Transparent Lid (Black)",
+      "description": "",
+      "dealPrice": 900,
+      "mrp": 1899,
+      "savings": 999,
+      "discountPct": 53,
+      "rating": null,
+      "reviewCount": "1,122",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81fNtaFkn+L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DZ2XKDCB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T03:22:02.169Z"
+    },
     {
       "id": "amz:B0FMR7XH7W",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61eqR68SDUL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BRL22YLB?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T09:37:01.903Z"
-    },
-    {
-      "id": "amz:B0D6MV32Y8",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Faux Leather Watch Box Organizer,Watchcase Box For Unisex,Storage Tray,Wristwatch Collection Holder 12 Slots,Sleek & Durable Display Case...",
-      "description": "",
-      "dealPrice": 725,
-      "mrp": 2499,
-      "savings": 1774,
-      "discountPct": 71,
-      "rating": null,
-      "reviewCount": "1,683",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/816BMgd4pAL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0D6MV32Y8?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T09:21:46.539Z"
     }
   ]
 }
