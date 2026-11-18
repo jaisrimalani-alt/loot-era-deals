@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T23:22:13.433Z",
+  "updatedAt": "2026-11-18T23:36:57.633Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HK2186ZR",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Revoltt S1 with 1.83” TFT 2.5D Sqaure Display with Singlesync BT Calling, Heart Rate, SpO2 & Sleep Tracking,IP68,Nitro Fast Charging,Upto...",
+      "description": "",
+      "dealPrice": 1295,
+      "mrp": 2299,
+      "savings": 1004,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "80",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/615eK1dYpUL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HK2186ZR?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T23:36:47.097Z"
+    },
     {
       "id": "amz:B0FNR2SKDF",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71rtZHwbtGL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FBFXBYHL?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T05:52:02.475Z"
-    },
-    {
-      "id": "amz:B0H1C93X7H",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "VSK Professional Hydrate 2% Kojic Acid Face Serum in Gel with PDRN Dermal Complex, Glow Sunscreen & Tinted Sunscreen SPF 50+ | Alpha Arbu...",
-      "description": "",
-      "dealPrice": 217,
-      "mrp": 399,
-      "savings": 182,
-      "discountPct": 46,
-      "rating": null,
-      "reviewCount": "110",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71VrlizgmGL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H1C93X7H?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T05:37:05.611Z"
     }
   ]
 }
