@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T22:06:57.771Z",
+  "updatedAt": "2026-11-18T22:22:11.035Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CFXZFJ1Z",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Centrino Formal Shoe for Men | Lace-Up Derby for Business & Casual Wear | Stylish Design with Comfortable Fit Craftsmanship for All-Day S...",
+      "description": "",
+      "dealPrice": 599,
+      "mrp": 2199,
+      "savings": 1600,
+      "discountPct": 73,
+      "rating": null,
+      "reviewCount": "1,584",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Glh9Jq9FL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CFXZFJ1Z?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T22:22:00.989Z"
+    },
     {
       "id": "amz:B0FJX3925X",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41w0bll93vL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DTTPCZHM?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T04:52:07.415Z"
-    },
-    {
-      "id": "amz:B0HLZSHVW8",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Sling Bag for Men & Women, Water Resistant Crossbody Messenger Bag with Adjustable Strap, Bottle Holder & Multiple Pockets, Shoulder Bag ...",
-      "description": "",
-      "dealPrice": 339,
-      "mrp": 899,
-      "savings": 560,
-      "discountPct": 62,
-      "rating": null,
-      "reviewCount": "1,818",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81aAeJXJt8L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HLZSHVW8?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T04:36:52.876Z"
     }
   ]
 }
