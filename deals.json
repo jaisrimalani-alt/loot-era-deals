@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T17:37:28.067Z",
+  "updatedAt": "2026-11-18T17:52:10.591Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BTD4S4XF",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "American Tourister Valex | 28L Backpack | 17&#34; Laptop Bag | 2 Compartments | College & Office Backpack for Men and Women | Black | 1 Y...",
+      "description": "",
+      "dealPrice": 1299,
+      "mrp": 2500,
+      "savings": 1201,
+      "discountPct": 48,
+      "rating": null,
+      "reviewCount": "12,829",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51yfw2JIxwL._SL1080_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BTD4S4XF?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T17:51:59.038Z"
+    },
     {
       "id": "amz:B0FP22HBH9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B08LHTJTBB?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T01:06:52.088Z"
-    },
-    {
-      "id": "amz:B0H1WY1D37",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "iQOO Z11 Lite 44W 5G (Solar Flame, 4GB RAM, 128GB Storage) | 6500mAh Battery with 44W Fast Charging* | Dimensity 6300 with 579k+ AnTuTu S...",
-      "description": "",
-      "dealPrice": 19999,
-      "mrp": 33999,
-      "savings": 14000,
-      "discountPct": 41,
-      "rating": null,
-      "reviewCount": "511",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61+l5bzv9hL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H1WY1D37?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T00:51:50.413Z"
     }
   ]
 }
