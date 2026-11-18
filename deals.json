@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T22:37:02.575Z",
+  "updatedAt": "2026-11-18T22:52:26.115Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0F7Y54PJX",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "boAt Rockerz 113, 40 Hours Battery, Dual Pair, Fast Charge, ENx Technology, App Support, Magnetic Buds, Bluetooth Neckband, Wireless in E...",
+      "description": "",
+      "dealPrice": 999,
+      "mrp": 2490,
+      "savings": 1491,
+      "discountPct": 60,
+      "rating": null,
+      "reviewCount": "15,048",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61B5hIAmvdL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0F7Y54PJX?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T22:52:15.826Z"
+    },
     {
       "id": "amz:B0G6124JLC",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51v0xL9H0lL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0D8TPR7DL?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T05:21:52.842Z"
-    },
-    {
-      "id": "amz:B0CF1M3PF9",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Pikkme Flip Cover Leather Finish | Inside TPU with Card Pockets | Wallet Stand and Shock Proof | Complete Protection Flip Case for Redmi ...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 999,
-      "savings": 800,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "58,717",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71rWAsKgNlL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CF1M3PF9?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T05:06:55.851Z"
     }
   ]
 }
