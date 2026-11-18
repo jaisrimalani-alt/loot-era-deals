@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T05:21:54.473Z",
+  "updatedAt": "2026-11-18T05:37:16.933Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H1C93X7H",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "VSK Professional Hydrate 2% Kojic Acid Face Serum in Gel with PDRN Dermal Complex, Glow Sunscreen & Tinted Sunscreen SPF 50+ | Alpha Arbu...",
+      "description": "",
+      "dealPrice": 217,
+      "mrp": 399,
+      "savings": 182,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "110",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71VrlizgmGL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H1C93X7H?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T05:37:05.611Z"
+    },
     {
       "id": "cue:132555",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61YtGSDqdHL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DRKK4JJX?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T11:36:48.211Z"
-    },
-    {
-      "id": "amz:B0DZ2YY9NC",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Amazon Basics Unisex Faux Leather Watch Organizer Box with 6 Slots |Watch Organizer with Transparent Lid (Black)",
-      "description": "",
-      "dealPrice": 519,
-      "mrp": 1099,
-      "savings": 580,
-      "discountPct": 53,
-      "rating": null,
-      "reviewCount": "1,097",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/8162qBrd6ML._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DZ2YY9NC?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T11:21:54.899Z"
     }
   ]
 }
