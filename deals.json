@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T20:52:22.190Z",
+  "updatedAt": "2026-11-18T21:07:01.831Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H7RPRGK4",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Mosquito Net Repair Tape 2 In x 79 In (5CM x 200CM), Self Adhesive Window Screen Mesh Roll, Peel and Stick Patch for Torn Holes, Durable ...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 999,
+      "savings": 800,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "205",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71lBkEtHr0L._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H7RPRGK4?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T21:06:50.461Z"
+    },
     {
       "id": "amz:B0DJQXCDPW",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Nbh5ptH8L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BD7YHZWT?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T03:36:47.575Z"
-    },
-    {
-      "id": "amz:B0DZ2XKDCB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Amazon Basics Unisex Faux Leather Watch Organiser Box with 12 Slots |Watch Organizer with Transparent Lid (Black)",
-      "description": "",
-      "dealPrice": 900,
-      "mrp": 1899,
-      "savings": 999,
-      "discountPct": 53,
-      "rating": null,
-      "reviewCount": "1,122",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81fNtaFkn+L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DZ2XKDCB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T03:22:02.169Z"
     }
   ]
 }
