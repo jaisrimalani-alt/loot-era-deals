@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T11:31:27.331Z",
+  "updatedAt": "2026-11-18T11:37:00.060Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GKGL6MM6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Regent Collection Analog Quartz Watch for Men with Round Dial and Stainless Steel Strap, Metal Case, Date Display, Luminous Hands & Hour ...",
+      "description": "",
+      "dealPrice": 1499,
+      "mrp": 2950,
+      "savings": 1451,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "581",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71y5c3X1UiL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GKGL6MM6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T11:36:47.865Z"
+    },
     {
       "id": "amz:B0CN3GFGWJ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61ykzpOaFKL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FP4S4JX2?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T18:51:59.161Z"
-    },
-    {
-      "id": "amz:B0BTLSPV1D",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Shoe Crease Protector for Sneakers | Anti Crease Toe Box Guard Insert | Breathable, Flexible & Washable | Crease Free Shoes",
-      "description": "",
-      "dealPrice": 284,
-      "mrp": 549,
-      "savings": 265,
-      "discountPct": 48,
-      "rating": null,
-      "reviewCount": "951",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51Iax8z3cLL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BTLSPV1D?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T18:37:36.887Z"
     }
   ]
 }
