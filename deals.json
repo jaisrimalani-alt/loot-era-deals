@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T21:52:12.925Z",
+  "updatedAt": "2026-11-18T22:06:57.771Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FJX3925X",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Women's Watch Chelsea Square Dial",
+      "description": "",
+      "dealPrice": 3336,
+      "mrp": 5560,
+      "savings": 2224,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "545",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61-EjtmNk5L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FJX3925X?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T22:06:48.298Z"
+    },
     {
       "id": "amz:B0H7C25FR7",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81aAeJXJt8L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HLZSHVW8?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T04:36:52.876Z"
-    },
-    {
-      "id": "amz:B0DZNKWTKV",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Paris Bercy Collection Modern Chronograph Watch for Men with Square Dial and Silicon Band-DHM1001",
-      "description": "",
-      "dealPrice": 2689,
-      "mrp": 5450,
-      "savings": 2761,
-      "discountPct": 51,
-      "rating": null,
-      "reviewCount": "2,573",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/6183UCgTi-L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DZNKWTKV?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T04:21:46.767Z"
     }
   ]
 }
