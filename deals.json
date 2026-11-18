@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T23:07:17.700Z",
+  "updatedAt": "2026-11-18T23:22:13.433Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FNR2SKDF",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Hydra Anti Wrinkle Eye Serum Patch| Treats Dark Circles, Fine Lines And Wrinkles | Enriched With Collagen And Aloe Vera Extract | Shade -...",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 299,
+      "savings": 150,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "578",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51MQW3uYlhL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FNR2SKDF?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T23:22:02.171Z"
+    },
     {
       "id": "amz:B0CP9NSXYJ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71VrlizgmGL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H1C93X7H?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T05:37:05.611Z"
-    },
-    {
-      "id": "cue:132555",
-      "type": "cuelinks",
-      "source": "R for Rabbit",
-      "categoryName": "Brand Offer",
-      "title": "Amazing Offer: Buy 3 Biomimic Products and Score 1 for Free!",
-      "description": "Add any 3 fabulous Biomimic products to your cart. Get 1 additional item absolutely free! Use the promo code to enjoy this exciting deal. Don't miss out – grab this deal while it lasts!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "BIOB3G1",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Frforrabbit.com%2Fpages%2Fbiomimic-baby-care-range",
-      "postedAt": "2026-11-18T05:21:54.471Z"
     }
   ]
 }
