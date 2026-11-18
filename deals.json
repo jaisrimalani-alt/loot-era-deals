@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T17:22:49.373Z",
+  "updatedAt": "2026-11-18T17:37:28.067Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FP22HBH9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "OpenTech® Military-Grade Tempered Glass Screen Protector Compatible for iPhone 17 with Edge to Edge Coverage - Case Friendly, Anti-scratc...",
+      "description": "",
+      "dealPrice": 298,
+      "mrp": 999,
+      "savings": 701,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "69,367",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/6151QO9IlAL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FP22HBH9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T17:37:16.107Z"
+    },
     {
       "id": "amz:B0HB9TH7J1",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61+l5bzv9hL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H1WY1D37?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T00:51:50.413Z"
-    },
-    {
-      "id": "amz:B0FWK25ZS5",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "OTICA Best Pill Cutter and Splitter Daily Usage, Safely Cut Pills and Vitamins Tablets, Pill Cutter For Precise Separation, Stainless Ste...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 769,
-      "savings": 570,
-      "discountPct": 74,
-      "rating": null,
-      "reviewCount": "1,375",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41z7WaJ0KJL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FWK25ZS5?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T00:36:48.817Z"
     }
   ]
 }
