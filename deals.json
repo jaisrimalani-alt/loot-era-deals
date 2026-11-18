@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T08:07:16.465Z",
+  "updatedAt": "2026-11-18T08:22:18.262Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FLXPZ77B",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Zebronics FHD USB Webcam, 30FPS, 2P2G Lens, 2.0MP CMOS Sensor, Auto-White Balance, Auto-Exposure, Privacy Shutter, Built-in Mic, for Team...",
+      "description": "",
+      "dealPrice": 1113,
+      "mrp": 2499,
+      "savings": 1386,
+      "discountPct": 55,
+      "rating": null,
+      "reviewCount": "561",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61q7GuSnqDL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FLXPZ77B?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T08:22:06.823Z"
+    },
     {
       "id": "amz:B0GRVK2K1J",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81AJjS9NluL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G3P9D4QK?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T15:06:58.059Z"
-    },
-    {
-      "id": "amz:B0FBG3W8BJ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Careforce Ortho Slippers for Men Daily Use, Soft EVA Cushioned Flip Flops & Sliders with Arch Support, Anti-Slip, Lightweight & Stylish C...",
-      "description": "",
-      "dealPrice": 249,
-      "mrp": 799,
-      "savings": 550,
-      "discountPct": 69,
-      "rating": null,
-      "reviewCount": "554",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71rtZHwbtGL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FBG3W8BJ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T14:51:52.949Z"
     }
   ]
 }
