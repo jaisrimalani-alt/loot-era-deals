@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T16:22:02.296Z",
+  "updatedAt": "2026-11-18T16:37:27.837Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DYV5X7ZS",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "L’Oréal Paris Hyaluron Pure 72H Purifying Shampoo, For oily scalp & dry hair with salicylic and hyaluronic acid 800mL + Conditioner 175 m...",
+      "description": "",
+      "dealPrice": 714,
+      "mrp": 1268,
+      "savings": 554,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "30",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61tSF77V8HL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DYV5X7ZS?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T16:37:08.877Z"
+    },
     {
       "id": "amz:B0FMRKZZ4S",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71C+XPnk0GL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FR9GT4LM?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T00:06:48.267Z"
-    },
-    {
-      "id": "amz:B073P9RLWP",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Analog Watch for Women with Round Dial & Water Resistant Women's Wrist Watches",
-      "description": "",
-      "dealPrice": 2239,
-      "mrp": 4995,
-      "savings": 2756,
-      "discountPct": 55,
-      "rating": null,
-      "reviewCount": "2,438",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Vvqb1kyNL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B073P9RLWP?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T23:51:50.527Z"
     }
   ]
 }
