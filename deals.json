@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T16:52:01.078Z",
+  "updatedAt": "2026-11-18T17:07:01.437Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HB9TH7J1",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Complete Suede & Nubuck Shoe Cleaning Kit - Brush, Eraser & Spray",
+      "description": "",
+      "dealPrice": 899,
+      "mrp": 1499,
+      "savings": 600,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "47",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61QPXh64zML._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HB9TH7J1?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T17:06:48.500Z"
+    },
     {
       "id": "amz:B01N56X1EW",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41z7WaJ0KJL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FWK25ZS5?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T00:36:48.817Z"
-    },
-    {
-      "id": "amz:B0CSDNFGFB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "URBANMONK 2&#34; H x 39&#34; L Silicon Door Gap Filler Bottom Seal Gap up to 1 Inch | Door Stopper for Home Rubber | Door Bottom Sealing ...",
-      "description": "",
-      "dealPrice": 289,
-      "mrp": 599,
-      "savings": 310,
-      "discountPct": 52,
-      "rating": null,
-      "reviewCount": "4,316",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61AUBW2AubL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CSDNFGFB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T00:22:07.128Z"
     }
   ]
 }
