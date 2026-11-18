@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T01:36:59.118Z",
+  "updatedAt": "2026-11-18T01:52:02.149Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DZTNY6YM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Paris Rivoli Collection Modern Analog Watch for Men with Octagon Dial and Silicon Band-DHM1003",
+      "description": "",
+      "dealPrice": 2277,
+      "mrp": 4950,
+      "savings": 2673,
+      "discountPct": 54,
+      "rating": null,
+      "reviewCount": "1,042",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71wdsiWHGeL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DZTNY6YM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T01:51:50.061Z"
+    },
     {
       "id": "amz:B0FKSXB3MH",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61k9LvQXjrL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0F43VMBD7?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T07:51:47.913Z"
-    },
-    {
-      "id": "amz:B08X1HCVWF",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Digital Sports Multi Functional Black Dial Watch for Mens Boys -315RED",
-      "description": "",
-      "dealPrice": 295,
-      "mrp": 1119,
-      "savings": 824,
-      "discountPct": 74,
-      "rating": null,
-      "reviewCount": "11,360",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61fyBGuO18L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B08X1HCVWF?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T07:36:45.655Z"
     }
   ]
 }
