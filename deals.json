@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T17:52:10.591Z",
+  "updatedAt": "2026-11-18T18:07:21.491Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B078Y2PJL4",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Stainless Steel Women Karli Rose Gold Dial Analog Watch Bq3181, Rose Gold Band",
+      "description": "",
+      "dealPrice": 7366,
+      "mrp": 11995,
+      "savings": 4629,
+      "discountPct": 39,
+      "rating": null,
+      "reviewCount": "3,558",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/611I0f+I+MS._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B078Y2PJL4?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T18:07:10.909Z"
+    },
     {
       "id": "amz:B0BTD4S4XF",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51C6yp8HitL._SL1100_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B083C6XMKQ?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T01:22:03.455Z"
-    },
-    {
-      "id": "amz:B08LHTJTBB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Dyazo 6 Angles Adjustable Aluminum Ergonomic Foldable Portable Tabletop Laptop/Desktop Riser Stand Holder Compatible for MacBook, HP, Del...",
-      "description": "",
-      "dealPrice": 349,
-      "mrp": 1999,
-      "savings": 1650,
-      "discountPct": 83,
-      "rating": null,
-      "reviewCount": "21,167",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B08LHTJTBB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T01:06:52.088Z"
     }
   ]
 }
