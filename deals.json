@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T22:52:26.115Z",
+  "updatedAt": "2026-11-18T23:07:17.700Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CP9NSXYJ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Arctic Fox Pureview Transparent Wireless and Bluetooth Rechargeable Mouse, USB Receiver,LED Battery Magic Silm for Office/PC/Mac/Laptop/A...",
+      "description": "",
+      "dealPrice": 599,
+      "mrp": 1999,
+      "savings": 1400,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "9,833",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/613dyv2wXdL._SL1200_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CP9NSXYJ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T23:07:06.734Z"
+    },
     {
       "id": "amz:B0F7Y54PJX",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Frforrabbit.com%2Fpages%2Fbiomimic-baby-care-range",
       "postedAt": "2026-11-18T05:21:54.471Z"
-    },
-    {
-      "id": "amz:B0D8TPR7DL",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "ZEBRONICS Type C to Type C Strong Braided Cable, 60W PD Fast Charging, for iPhone 16 Series, 15 Series, iPad, MacBook, Samsung, Other And...",
-      "description": "",
-      "dealPrice": 169,
-      "mrp": 999,
-      "savings": 830,
-      "discountPct": 83,
-      "rating": null,
-      "reviewCount": "734",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51v0xL9H0lL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0D8TPR7DL?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T05:21:52.842Z"
     }
   ]
 }
