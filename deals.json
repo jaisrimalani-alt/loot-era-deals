@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T21:22:31.197Z",
+  "updatedAt": "2026-11-18T21:37:11.957Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CP2K2XN8",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "SaleOn 8.3X5 Inch Portable Storage Organizer for USB Cable, Earphone, Power Bank,Charger, Hard Disk & Digital Gadgets, with Mesh Pockets ...",
+      "description": "",
+      "dealPrice": 298,
+      "mrp": 899,
+      "savings": 601,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "4,034",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/814GTqb4fEL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CP2K2XN8?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T21:36:59.697Z"
+    },
     {
       "id": "amz:B0CJJ9H4XK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41ndUkI-B9L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DTTR9SVC?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T04:07:02.125Z"
-    },
-    {
-      "id": "amz:B07FSS4R16",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "DJI Osmo Mobile 7 Gimbal Stabilizer for iPhone & Android, 3-Axis Gimbal",
-      "description": "",
-      "dealPrice": 5999,
-      "mrp": 10990,
-      "savings": 4991,
-      "discountPct": 45,
-      "rating": null,
-      "reviewCount": "12,827",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61KyU5QgXXL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B07FSS4R16?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T03:52:32.610Z"
     }
   ]
 }
