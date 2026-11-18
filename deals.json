@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T10:52:15.736Z",
+  "updatedAt": "2026-11-18T11:07:32.755Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07WYJVMY6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "iQOO Z11 Lite 44W 5G (Midnight Blue, 4GB RAM, 64GB Storage)",
+      "description": "",
+      "dealPrice": 17499,
+      "mrp": 30999,
+      "savings": 13500,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "192",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51XJr6CKc8L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07WYJVMY6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T11:07:21.658Z"
+    },
     {
       "id": "amz:B0FBFYR763",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51BrjK8tplL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HDQ4GDWW?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T18:07:23.584Z"
-    },
-    {
-      "id": "amz:B0HLKRPZ2W",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "RANGSUGANDH Rangoli Colour Powder Set, Pack of 10, 90 g Each (900 g Total), Multicolour Decorative Rangoli Colours for Diwali, Pooja & Fe...",
-      "description": "",
-      "dealPrice": 163,
-      "mrp": 349,
-      "savings": 186,
-      "discountPct": 53,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/815lhFqsZoL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HLKRPZ2W?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T17:52:04.821Z"
     }
   ]
 }
