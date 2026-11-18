@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T02:22:05.667Z",
+  "updatedAt": "2026-11-18T02:37:23.278Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GX9G9SR9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Pikkme Flip Cover for Mi Redmi A7 Pro/Poco C85x 5G / C81 Leather Finish | Inside TPU with Card Pockets | Wallet Stand and Shock Proof | C...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 999,
+      "savings": 800,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "58,716",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71NFuKuibdL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GX9G9SR9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T02:37:11.585Z"
+    },
     {
       "id": "amz:B0G1GZ7N55",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61y4U3FImoL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FN87M9HG?tag=looteradea0b5-21",
       "postedAt": "2026-11-17T08:36:49.663Z"
-    },
-    {
-      "id": "amz:B0HBBGL6C2",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Lenovo Idea Tab ( Smartchoice) with Tab Pen | WiFi+5G |11\" 2.5K IPS Display |6GB RAM + 128GB ROM (Expandable Upto 2TB)| MediaTek Dimensit...",
-      "description": "",
-      "dealPrice": 29999,
-      "mrp": 53000,
-      "savings": 23001,
-      "discountPct": 43,
-      "rating": null,
-      "reviewCount": "79",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81r-RPv-HxL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HBBGL6C2?tag=looteradea0b5-21",
-      "postedAt": "2026-11-17T08:21:47.303Z"
     }
   ]
 }
