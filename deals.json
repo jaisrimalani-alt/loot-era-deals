@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T19:37:12.501Z",
+  "updatedAt": "2026-11-18T19:52:29.689Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FC2Y3XGV",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "boAt Airdopes 219, 4Mics ENx, 40H Battery, Best in Segment for Calling, App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones w...",
+      "description": "",
+      "dealPrice": 1099,
+      "mrp": 3990,
+      "savings": 2891,
+      "discountPct": 72,
+      "rating": null,
+      "reviewCount": "9,019",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71FOccCOQmL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FC2Y3XGV?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T19:52:19.812Z"
+    },
     {
       "id": "amz:B0F7HBRNC5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71NFuKuibdL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GX9G9SR9?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T02:37:11.585Z"
-    },
-    {
-      "id": "amz:B0G1GZ7N55",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Wooden Louvers Wood Pattern Wallpaper for Walls |Self-Adhesive Wall Décor Sheet wall Stickers | Textured Wood Design for Living Room, Bed...",
-      "description": "",
-      "dealPrice": 279,
-      "mrp": 999,
-      "savings": 720,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "427",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71jA9jzzS7L._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G1GZ7N55?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T02:21:47.340Z"
     }
   ]
 }
