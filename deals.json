@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T20:36:59.015Z",
+  "updatedAt": "2026-11-18T20:52:22.190Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DJQXCDPW",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Men's Synthetic Leather Lightweight Comfortable Trendy Outdoor Casual Shoes Slip On Chelsea Boots",
+      "description": "",
+      "dealPrice": 498,
+      "mrp": 1999,
+      "savings": 1501,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "1,594",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71A-T7rYeGL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DJQXCDPW?tag=looteradea0b5-21",
+      "postedAt": "2026-11-18T20:51:51.359Z"
+    },
     {
       "id": "amz:B0FN4GMKG4",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81fNtaFkn+L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DZ2XKDCB?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T03:22:02.169Z"
-    },
-    {
-      "id": "amz:B0FMR7XH7W",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Cetaphil Gentle Exfoliating SA Lotion 29ml | Lightweight Daily Moisturizer with Salicylic Acid, Mandelic Acid & Gluconolactone | 48 Hr Hy...",
-      "description": "",
-      "dealPrice": 99,
-      "mrp": 224,
-      "savings": 125,
-      "discountPct": 56,
-      "rating": null,
-      "reviewCount": "970",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61uwM5vQhaL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FMR7XH7W?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T03:06:49.434Z"
     }
   ]
 }
