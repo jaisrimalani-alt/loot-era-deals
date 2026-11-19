@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T06:52:37.639Z",
+  "updatedAt": "2026-11-19T07:07:12.793Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BYVW8T21",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Liberty Unisex Gola-schv School Uniform Shoe",
+      "description": "",
+      "dealPrice": 543,
+      "mrp": 999,
+      "savings": 456,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "6,452",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/611zKzx9XKL._SL1000_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BYVW8T21?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T07:07:12.447Z"
+    },
     {
       "id": "amz:B0GF7KP4R9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51hZtBRUFBL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BG8LZNYL?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T10:06:55.044Z"
-    },
-    {
-      "id": "amz:B0HJCYDL6H",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "vivo V80 5G (Sunrise Anthem, 8GB RAM, 256GB Storage) with No Cost EMI/Additional Exchange Offers",
-      "description": "",
-      "dealPrice": 69999,
-      "mrp": 118999,
-      "savings": 49000,
-      "discountPct": 41,
-      "rating": null,
-      "reviewCount": "46",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71EADoSqrwL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HJCYDL6H?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T09:52:02.747Z"
     }
   ]
 }
