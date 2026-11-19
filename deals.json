@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T15:52:43.213Z",
+  "updatedAt": "2026-11-19T16:07:45.064Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FCMMCG5L",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Lifelong Cuppy Bubble Blaster Gun Toy for Kids | Compact Electric Bubble Machine with 1 Bubble Solution | One-Touch Operation, Durable Bu...",
+      "description": "",
+      "dealPrice": 349,
+      "mrp": 999,
+      "savings": 650,
+      "discountPct": 65,
+      "rating": null,
+      "reviewCount": "810",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/618iVfNHdzL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FCMMCG5L?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T16:07:33.522Z"
+    },
     {
       "id": "amz:B0F5HNW218",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61hbAbUHDxL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G48KWP3C?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T14:52:17.535Z"
-    },
-    {
-      "id": "cue:132618",
-      "type": "cuelinks",
-      "source": "FuelOne",
-      "categoryName": "Brand Offer",
-      "title": "Elevate Your Fitness: Rs. 100 Off Awaits You!",
-      "description": "No minimum order value — buy what you need! Enter the coupon code for an immediate Rs. 100 rebate. Offer valid on selected items only. Hurry and claim your discount today!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "GET100",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.fuelone.in%2F",
-      "postedAt": "2026-11-18T14:37:29.505Z"
     }
   ]
 }
