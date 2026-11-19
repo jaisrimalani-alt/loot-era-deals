@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T20:52:42.989Z",
+  "updatedAt": "2026-11-19T21:07:19.603Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B01ECMFDMQ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "VMS Professional Deluxe Heavy-Duty A3 Hot & Cold Laminator",
+      "description": "",
+      "dealPrice": 3399,
+      "mrp": 6000,
+      "savings": 2601,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "1,870",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61uQ7ujWlnL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B01ECMFDMQ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T21:07:07.234Z"
+    },
     {
       "id": "amz:B0GHMNPT4Y",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61pL0Dj8uNL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CNM27L5P?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T15:37:02.489Z"
-    },
-    {
-      "id": "amz:B0H26N88Z6",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "LUMONY® Lice Comb For Women And Kids Stainless Steel Lice Terminator Fine Egg Nit Lice Egg Removal Comb For Women and Men",
-      "description": "",
-      "dealPrice": 129,
-      "mrp": 599,
-      "savings": 470,
-      "discountPct": 78,
-      "rating": null,
-      "reviewCount": "2,049",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81qrqvi4c5L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H26N88Z6?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T15:22:01.735Z"
     }
   ]
 }
