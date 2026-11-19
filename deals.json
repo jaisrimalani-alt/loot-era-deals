@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T04:08:48.305Z",
+  "updatedAt": "2026-11-19T04:21:58.084Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BJF1GF29",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog, Day Date Functioning, Strap Watch for Men",
+      "description": "",
+      "dealPrice": 284,
+      "mrp": 1499,
+      "savings": 1215,
+      "discountPct": 81,
+      "rating": null,
+      "reviewCount": "3,603",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71CVv+-eVWL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BJF1GF29?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T04:21:48.080Z"
+    },
     {
       "id": "amz:B0BXSDJQNR",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61q7GuSnqDL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FLXPZ77B?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T08:22:06.823Z"
-    },
-    {
-      "id": "amz:B0GRVK2K1J",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "JioCarSync| Wired to Wireless Converter for Apple Carplay & Android Auto| For cars with wired Carplay &Android Auto Only| Premium Metal B...",
-      "description": "",
-      "dealPrice": 2399,
-      "mrp": 4999,
-      "savings": 2600,
-      "discountPct": 52,
-      "rating": null,
-      "reviewCount": "459",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Z7yyjwXSL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GRVK2K1J?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T08:07:03.983Z"
     }
   ]
 }
