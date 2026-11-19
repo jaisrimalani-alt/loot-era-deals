@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-18T23:52:09.982Z",
+  "updatedAt": "2026-11-19T00:07:01.967Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GZVLQ8VT",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Oakter 0.5 Ton Inverter Studio AC 5000 (3 Star | 6 Amp Plug | Low Power Consumption | 50°C Cooling | Surge Protection | Anti-Dust Filter ...",
+      "description": "",
+      "dealPrice": 14090,
+      "mrp": 27499,
+      "savings": 13409,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "355",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61BgP45hZCL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GZVLQ8VT?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T00:06:49.829Z"
+    },
     {
       "id": "amz:B0HK2186ZR",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/513ZUC5RfIL._SL1000_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G151MCJR?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T06:07:17.357Z"
-    },
-    {
-      "id": "amz:B0FBFXBYHL",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Careforce Ortho Slippers for Men Daily Use, Soft EVA Cushioned Flip Flops & Sliders with Arch Support, Anti-Slip, Lightweight & Stylish C...",
-      "description": "",
-      "dealPrice": 249,
-      "mrp": 799,
-      "savings": 550,
-      "discountPct": 69,
-      "rating": null,
-      "reviewCount": "558",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71rtZHwbtGL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FBFXBYHL?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T05:52:02.475Z"
     }
   ]
 }
