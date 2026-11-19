@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T02:53:38.166Z",
+  "updatedAt": "2026-11-19T03:10:23.913Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FC2YFSN4",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "boAt Airdopes 219, 4Mics ENx, 40H Battery, Best in Segment for Calling, App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones w...",
+      "description": "",
+      "dealPrice": 1099,
+      "mrp": 3990,
+      "savings": 2891,
+      "discountPct": 72,
+      "rating": null,
+      "reviewCount": "9,056",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61oPWuyuT2L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FC2YFSN4?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T03:07:18.971Z"
+    },
     {
       "id": "amz:B0F3SX585X",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71b8rltb8+L._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B01EXU1VLY?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T07:36:46.580Z"
-    },
-    {
-      "id": "cue:132576",
-      "type": "cuelinks",
-      "source": "Muscleblaze",
-      "categoryName": "Brand Offer",
-      "title": "Dive into Delicious: Naruto Edition High Protein Pancakes at Rs. 289!",
-      "description": "Protein & fiber-rich for your daily nutrition needs. Indulge in a wholesome meal or snack any time. Get yours online today for just Rs. 289! Nourishment made easy and tasty!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsv%2Fmuscleblaze-high-protein-pancake%2FSP-142285%3FnavKey%3DVRNT-295557",
-      "postedAt": "2026-11-18T07:22:14.884Z"
     }
   ]
 }
