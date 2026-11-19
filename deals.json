@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T09:30:34.077Z",
+  "updatedAt": "2026-11-19T09:37:16.787Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H2WVGDM4",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Motorola Moto g37 5G (Pantone Nautical Blue, 64GB Storage, 4GB RAM) | 5G Smartphone with Large Display and Dual Camera | Long Lasting Bat...",
+      "description": "",
+      "dealPrice": 14499,
+      "mrp": 24999,
+      "savings": 10500,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "138",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51lpW8TUkhL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H2WVGDM4?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T09:37:04.856Z"
+    },
     {
       "id": "amz:B0GS5LP4BC",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51ItzIBMg6L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GDTSH5BW?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T11:21:49.925Z"
-    },
-    {
-      "id": "amz:B07WYJVMY6",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "iQOO Z11 Lite 44W 5G (Midnight Blue, 4GB RAM, 64GB Storage)",
-      "description": "",
-      "dealPrice": 17499,
-      "mrp": 30999,
-      "savings": 13500,
-      "discountPct": 44,
-      "rating": null,
-      "reviewCount": "192",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51XJr6CKc8L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B07WYJVMY6?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T11:07:21.658Z"
     }
   ]
 }
