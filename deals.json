@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T02:24:32.368Z",
+  "updatedAt": "2026-11-19T02:38:02.941Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0F3SX585X",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Invisible Height Increase Shoe Insole Air Cushions 3cm Make You Taller, Supportive Comfort Foot Care Ankle Support Cushion - For Men And ...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 899,
+      "savings": 600,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "3,518",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71sn3LFQj0L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0F3SX585X?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T02:36:50.590Z"
+    },
     {
       "id": "amz:B0CXTFGZP3",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsv%2Fmuscleblaze-high-protein-pancake%2FSP-142285%3FnavKey%3DVRNT-295557",
       "postedAt": "2026-11-18T07:22:14.884Z"
-    },
-    {
-      "id": "amz:B0FHK8Z5B4",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Classic Long Clutch Purses Luxury Handbags Bag for Women – Elegant Evening Handbag, Stylish Purse with Magnetic Closure",
-      "description": "",
-      "dealPrice": 958,
-      "mrp": 2400,
-      "savings": 1442,
-      "discountPct": 60,
-      "rating": null,
-      "reviewCount": "115",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71UxJ-MlnkL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FHK8Z5B4?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T07:22:02.099Z"
     }
   ]
 }
