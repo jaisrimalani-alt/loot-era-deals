@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T05:52:17.281Z",
+  "updatedAt": "2026-11-19T06:10:04.428Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GF7KP4R9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "DIZORO® Compatible with iPhone 13 Case, Liquid Silicone Case, Full Body Protective Cover, Shockproof, Slim Phone Case, Anti-Scratch Soft ...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 899,
+      "savings": 600,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "6,481",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61XskE6pL1L._SL1466_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GF7KP4R9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T06:07:00.626Z"
+    },
     {
       "id": "amz:B0H5JGYYJD",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71EADoSqrwL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HJCYDL6H?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T09:52:02.747Z"
-    },
-    {
-      "id": "amz:B0D12F6VPN",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Colgate Total 300gm (2 x 150gm) Advanced Health Anti-Germ Toothpaste with Toothbrush, Tooth Paste with 12-Hour Anti-Germ & Enamel Protect...",
-      "description": "",
-      "dealPrice": 233,
-      "mrp": 400,
-      "savings": 167,
-      "discountPct": 42,
-      "rating": null,
-      "reviewCount": "6,772",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/616Kir3viVL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0D12F6VPN?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T09:37:25.974Z"
     }
   ]
 }
