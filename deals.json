@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T17:07:39.754Z",
+  "updatedAt": "2026-11-19T17:22:47.410Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FW4WKL5X",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Portronics Vayu 9.0 Portable & Rechargeable Tyre Inflator with 2-in-1 Cordless & Corded Modes, 3×2000 mAh Battery, LED Display, Auto Shut...",
+      "description": "",
+      "dealPrice": 2199,
+      "mrp": 3999,
+      "savings": 1800,
+      "discountPct": 45,
+      "rating": null,
+      "reviewCount": "1,890",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61uZdQ73OvL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FW4WKL5X?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T17:22:36.189Z"
+    },
     {
       "id": "amz:B0FCMMCG5L",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fkapiva.in%2F",
       "postedAt": "2026-11-18T14:52:19.693Z"
-    },
-    {
-      "id": "amz:B0G48KWP3C",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "boAt BassHeads 210 Wired Earphones with 10mm Drivers, Signature Sound, in-Line Microphone, 3.5mm Jack, Voice Assistant & 120cm Cable (Act...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 599,
-      "savings": 300,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "122,611",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61hbAbUHDxL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G48KWP3C?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T14:52:17.535Z"
     }
   ]
 }
