@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T12:08:27.109Z",
+  "updatedAt": "2026-11-19T12:21:59.458Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FY6C3GXS",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil Gold | 5X Aloe Vera With Coconut | Makes Hair Sooperr Soft | 600ml",
+      "description": "",
+      "dealPrice": 270,
+      "mrp": 540,
+      "savings": 270,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "6,537",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51+kQrPoi3L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FY6C3GXS?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T12:21:47.913Z"
+    },
     {
       "id": "cue:132673",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61D8KaqtL3L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DP28SYQ5?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T12:51:50.620Z"
-    },
-    {
-      "id": "amz:B0DWLXFLRF",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Analog Watch for Men with Round Dial & Water Resistant Man's Wrist Watches",
-      "description": "",
-      "dealPrice": 2529,
-      "mrp": 4995,
-      "savings": 2466,
-      "discountPct": 49,
-      "rating": null,
-      "reviewCount": "349",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71sd-X0MB7L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DWLXFLRF?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T12:36:50.546Z"
     }
   ]
 }
