@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T17:22:47.410Z",
+  "updatedAt": "2026-11-19T17:37:20.807Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07DN93B9R",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog Slim Two Hands Leather Strap Watches for Men",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 2199,
+      "savings": 1900,
+      "discountPct": 86,
+      "rating": null,
+      "reviewCount": "16,185",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81CwsCvUWqL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07DN93B9R?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T17:37:08.192Z"
+    },
     {
       "id": "amz:B0FW4WKL5X",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61K3e5X2vDL._SL1100_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B09QGZFBPM?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T15:07:00.165Z"
-    },
-    {
-      "id": "cue:132616",
-      "type": "cuelinks",
-      "source": "Kapiva",
-      "categoryName": "Brand Offer",
-      "title": "Men’s Day Promotion: Up to 30% Off + Additional 10% Discount Inside!",
-      "description": "Celebrate Men’s Day with fabulous discounts of up to 30%. Unlock an extra 10% off your final order. Hurry, these deals are available for a short time! Open to all – don’t miss out on your chance to save!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "MENSDAY100",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fkapiva.in%2F",
-      "postedAt": "2026-11-18T14:52:19.693Z"
     }
   ]
 }
