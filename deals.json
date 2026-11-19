@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T10:07:42.219Z",
+  "updatedAt": "2026-11-19T10:22:32.284Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132655",
+      "type": "cuelinks",
+      "source": "Sirona",
+      "categoryName": "Brand Offer",
+      "title": "Sirona Offer | Teens Body Mist - Now Only Rs. 299!",
+      "description": "Sirona offers Teens Body Mist at Rs. 299Formulated to be lightweight and sticky-free. Experience 48 hours of odor control. Order now and indulge in freshness!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fthesirona.com%2Fproducts%2Fteens-bloom-mist-100-ml",
+      "postedAt": "2026-11-19T10:22:32.281Z"
+    },
     {
       "id": "amz:B0B3XX8P9C",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71y5c3X1UiL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GKGL6MM6?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T11:36:47.865Z"
-    },
-    {
-      "id": "amz:B0CN3GFGWJ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "AKANSHA Liquid Nabakuntal Men and Women Nourishing Stengthening Hair Tonic Spa Treatment",
-      "description": "",
-      "dealPrice": 241,
-      "mrp": 465,
-      "savings": 224,
-      "discountPct": 48,
-      "rating": null,
-      "reviewCount": "617",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Ne5PWxakL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CN3GFGWJ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T11:31:14.248Z"
     }
   ]
 }
