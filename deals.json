@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T01:51:48.557Z",
+  "updatedAt": "2026-11-19T02:07:02.438Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FX418XT8",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Arencia Vitamin C Booster Shot, 5% Dual Vitamin C + Glutathione Serum for Dark Spot Care | Korean Skincare Products",
+      "description": "",
+      "dealPrice": 499,
+      "mrp": 1999,
+      "savings": 1500,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "5,405",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51CF4EwEADL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FX418XT8?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T02:07:01.985Z"
+    },
     {
       "id": "amz:B0H3T2P46N",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsv%2Fmuscleblaze-biozyme-performance-whey%2FSP-88093%3FnavKey%3DVRNT-295653",
       "postedAt": "2026-11-18T07:06:52.169Z"
-    },
-    {
-      "id": "amz:B0GDTTYGJR",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "DERMATOUCH Kojic Acid Ceramide SPF 50 PA+++ Tinted Wine Lip Balm - 5g | Moisturizing • Sun Protection • Nourishing | Reduces Pigmentation...",
-      "description": "",
-      "dealPrice": 150,
-      "mrp": 249,
-      "savings": 99,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "682",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51SXWchY1aL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GDTTYGJR?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T07:06:49.845Z"
     }
   ]
 }
