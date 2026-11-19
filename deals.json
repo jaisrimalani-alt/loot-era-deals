@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T02:07:02.438Z",
+  "updatedAt": "2026-11-19T02:24:32.368Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CXTFGZP3",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog Watch for Pair with Round Dial & Water Resistant Couple's Wrist Watches",
+      "description": "",
+      "dealPrice": 3777,
+      "mrp": 6295,
+      "savings": 2518,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "179",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81F9DRgGG0L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CXTFGZP3?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T02:21:45.921Z"
+    },
     {
       "id": "amz:B0FX418XT8",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71UxJ-MlnkL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FHK8Z5B4?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T07:22:02.099Z"
-    },
-    {
-      "id": "cue:132565",
-      "type": "cuelinks",
-      "source": "Muscleblaze",
-      "categoryName": "Brand Offer",
-      "title": "Get Your 1 Kg Naruto Biozyme Performance Whey – Only Rs. 3799! Elevate Your Game!",
-      "description": "Supports lean muscle growth and rapid recovery after exercise. This special offer is accessible to all users. Secure yours online for just Rs. 3799! Act fast – supply is limited!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsv%2Fmuscleblaze-biozyme-performance-whey%2FSP-88093%3FnavKey%3DVRNT-295653",
-      "postedAt": "2026-11-18T07:06:52.169Z"
     }
   ]
 }
