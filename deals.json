@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T03:54:07.500Z",
+  "updatedAt": "2026-11-19T04:08:48.305Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BXSDJQNR",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Vaseline Gluta-Hya Dewy Radiance Lotion for Face & Body | Gives Brighter Skin | Glutathione & Niacinamide Infused Moisturizer, 200ml",
+      "description": "",
+      "dealPrice": 236,
+      "mrp": 415,
+      "savings": 179,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "10,522",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51foLQC5-7L._SL1000_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BXSDJQNR?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T04:07:20.992Z"
+    },
     {
       "id": "amz:B0GWW13HC3",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Z7yyjwXSL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GRVK2K1J?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T08:07:03.983Z"
-    },
-    {
-      "id": "cue:132568",
-      "type": "cuelinks",
-      "source": "Muscleblaze",
-      "categoryName": "Brand Offer",
-      "title": "Get Pumped with the New Creatine Monohydrate CreAMP - 450 G Naruto Edition for Just Rs. 1299!",
-      "description": "Available for all, don’t miss out! Secure your Creatine Monohydrate CreAMP Naruto EditionOnly Rs. 1299 for premium fitness fuelStep up your game – Buy now!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsv%2Fmuscleblaze-creatine-monohydrate-creamp%2FSP-33852%3FnavKey%3DVRNT-295649",
-      "postedAt": "2026-11-18T07:52:01.255Z"
     }
   ]
 }
