@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T13:07:34.949Z",
+  "updatedAt": "2026-11-19T13:22:28.550Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132681",
+      "type": "cuelinks",
+      "source": "Timex",
+      "categoryName": "Brand Offer",
+      "title": "Score 40% Off on Timex's Bestselling Watches!",
+      "description": "Shop and save a whopping 40% on your choice of watches! Dive into our exciting sale collection filled with amazing deals. Grab your favorites before this limited-time offer slips away! Everyone can take advantage of thes",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fshop.timexindia.com%2Fcollections%2Fminimum-40-off-sale",
+      "postedAt": "2026-11-19T13:22:28.545Z"
+    },
     {
       "id": "cue:132677",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51zmjNqkG8L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HH3JZ1T7?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T14:07:03.290Z"
-    },
-    {
-      "id": "cue:132620",
-      "type": "cuelinks",
-      "source": "Zop",
-      "categoryName": "Brand Offer",
-      "title": "Zop's End of Season Sale - Discounts Up to 90% Await!",
-      "description": "Up to 90% OFF waiting just for you - don’t miss out! Dive into curated collections from fashion to electronics. Limited period offer. Grab this deal and shop for your favorites today!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.zop.in%2F%3Futm_medium%3DAnalyticsCloud_495_20261118clonkfz2osrm%26utm_source%3DSR_Affiliate",
-      "postedAt": "2026-11-18T13:52:09.589Z"
     }
   ]
 }
