@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T05:24:07.420Z",
+  "updatedAt": "2026-11-19T05:39:35.139Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CQWGVDM1",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Cartoon Design Warm Slipper for Women's Flip Flops Winter Fashion Slipper for House and Bedroom Slides & Home Indoor Outdoor (1 Pair)",
+      "description": "",
+      "dealPrice": 474,
+      "mrp": 1299,
+      "savings": 825,
+      "discountPct": 64,
+      "rating": null,
+      "reviewCount": "827",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51ymyPu08ML._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CQWGVDM1?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T05:37:02.102Z"
+    },
     {
       "id": "amz:B09DC9B71T",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71DcTqD0LXL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0D37LQZBY?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T09:21:47.920Z"
-    },
-    {
-      "id": "amz:B0DB5XSKLJ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Astor FS1 Pro Smart Watch, 1.97\" AMOLED Display, Bluetooth Calling, 100+ Sports Modes, SpO2 & Heart Rate Monitoring, Women's Health, IP68...",
-      "description": "",
-      "dealPrice": 2499,
-      "mrp": 4999,
-      "savings": 2500,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "2,020",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71BMeCVMZOL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DB5XSKLJ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T09:06:55.030Z"
     }
   ]
 }
