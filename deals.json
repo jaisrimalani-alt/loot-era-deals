@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T05:10:07.152Z",
+  "updatedAt": "2026-11-19T05:24:07.420Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B09DC9B71T",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Vaseline Cocoa Glow Serum In Lotion, 600 ml | 100% Pure Cocoa & Shea Butter for Glowing & Soft Skin",
+      "description": "",
+      "dealPrice": 396,
+      "mrp": 930,
+      "savings": 534,
+      "discountPct": 57,
+      "rating": null,
+      "reviewCount": "53,700",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/510lEv3eifL._SL1000_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B09DC9B71T?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T05:22:19.695Z"
+    },
     {
       "id": "amz:B0D2R26HFV",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71BMeCVMZOL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DB5XSKLJ?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T09:06:55.030Z"
-    },
-    {
-      "id": "amz:B0GYPTK3D9",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Foot Alignment Socks women 5 Finger Toe Separator for Men & Women (Free Size | Black) Plantar Fasciitis Leg Foot Pain Relief Bunion Corre...",
-      "description": "",
-      "dealPrice": 249,
-      "mrp": 499,
-      "savings": 250,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "753",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51--0vhVZWL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GYPTK3D9?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T08:52:14.289Z"
     }
   ]
 }
