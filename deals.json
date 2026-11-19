@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T03:24:47.539Z",
+  "updatedAt": "2026-11-19T03:36:55.863Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B09NKQTDXQ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Men's Lace-up Formal Shoes",
+      "description": "",
+      "dealPrice": 771,
+      "mrp": 1299,
+      "savings": 528,
+      "discountPct": 41,
+      "rating": null,
+      "reviewCount": "4,298",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/710+f7XX2FL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B09NKQTDXQ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T03:36:45.858Z"
+    },
     {
       "id": "amz:B0DPNKGV71",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71NNb3nCPjL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HK8MJPTQ?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T07:51:48.913Z"
-    },
-    {
-      "id": "cue:132572",
-      "type": "cuelinks",
-      "source": "Muscleblaze",
-      "categoryName": "Brand Offer",
-      "title": "Dive Into Intense Workouts with Special Naruto Edition WrathX for Only Rs. 1999!",
-      "description": "Power up your sessions with WrathX - it’s a game changer! Shop the Special Naruto Edition today! Available to all customers - join the fun! Get it now for Rs. 1999 plus an additional 5% off!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "GRAB5",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsv%2Fmuscleblaze-pre-workout-wrathx%2FSP-99770%3FnavKey%3DVRNT-295651",
-      "postedAt": "2026-11-18T07:37:00.108Z"
     }
   ]
 }
