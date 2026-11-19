@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T01:29:31.632Z",
+  "updatedAt": "2026-11-19T01:37:21.514Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CV48C7S3",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Portronics Konnect X 60W Type C to Type C Unbreakable Nylon Braided Cable, 2M Fast Charging Cable for iPhone 15 series, iPad, Samsung Gal...",
+      "description": "",
+      "dealPrice": 202,
+      "mrp": 999,
+      "savings": 797,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "8,724",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Zp3KE1XzL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CV48C7S3?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T01:37:21.125Z"
+    },
     {
       "id": "amz:B0BYVTZH3Y",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.themancompany.com%2F",
       "postedAt": "2026-11-18T06:51:48.686Z"
-    },
-    {
-      "id": "amz:B08S56PYDJ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Dove Serum Bar | with Nutrient Serum | Deep Nourish | 625g (125g x 5)",
-      "description": "",
-      "dealPrice": 301,
-      "mrp": 519,
-      "savings": 218,
-      "discountPct": 42,
-      "rating": null,
-      "reviewCount": "13,250",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51Xjh93u1jL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B08S56PYDJ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T06:51:46.634Z"
     }
   ]
 }
