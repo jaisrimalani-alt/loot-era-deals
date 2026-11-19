@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T03:36:55.863Z",
+  "updatedAt": "2026-11-19T03:54:07.500Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GWW13HC3",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "SANDISK 64GB Ultra Go microSD Card UHS-I, Up to 140MB/s, Full HD Video, Memory Card for Android Smartphones, Tablets, 10-Year Warranty",
+      "description": "",
+      "dealPrice": 1598,
+      "mrp": 4300,
+      "savings": 2702,
+      "discountPct": 63,
+      "rating": null,
+      "reviewCount": "432",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71-0TIDbuSL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GWW13HC3?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T03:52:27.082Z"
+    },
     {
       "id": "amz:B09NKQTDXQ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsv%2Fmuscleblaze-creatine-monohydrate-creamp%2FSP-33852%3FnavKey%3DVRNT-295649",
       "postedAt": "2026-11-18T07:52:01.255Z"
-    },
-    {
-      "id": "amz:B0HK8MJPTQ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Aqueria B1G1 FREE Exfoliating Gel Peel Shot | Instant Tan & Dead Skin Removal | Niacinamide, Rice Water & Lactic Acid | Detan & Brighteni...",
-      "description": "",
-      "dealPrice": 440,
-      "mrp": 1998,
-      "savings": 1558,
-      "discountPct": 78,
-      "rating": null,
-      "reviewCount": "142",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71NNb3nCPjL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HK8MJPTQ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T07:51:48.913Z"
     }
   ]
 }
