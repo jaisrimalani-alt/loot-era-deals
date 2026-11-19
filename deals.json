@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T13:52:40.242Z",
+  "updatedAt": "2026-11-19T14:07:32.843Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132685",
+      "type": "cuelinks",
+      "source": "Flower Aura",
+      "categoryName": "Brand Offer",
+      "title": "Unlock Great Gifts for International Men's Day: Up to 40% Off!",
+      "description": "Celebrate the men in your life with up to 40% discount on lovely gifts. Explore thoughtful selections made just for him. Limited-time offer—act fast to secure yours! Everyone's welcome to take advantage of these great sa",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.floweraura.com%2Fmens-day%3Fref%3Dhome_banner_pos1_desk",
+      "postedAt": "2026-11-19T14:07:32.841Z"
+    },
     {
       "id": "cue:132681",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbellavitaorganic.com%2Fcollections%2Fbody-lotion",
       "postedAt": "2026-11-18T14:07:04.840Z"
-    },
-    {
-      "id": "amz:B0HH3JZ1T7",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Stretch Nylon Sport Strap Compatible For Google Fitbit Air (Only Strap)",
-      "description": "",
-      "dealPrice": 459,
-      "mrp": 899,
-      "savings": 440,
-      "discountPct": 49,
-      "rating": null,
-      "reviewCount": "112",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51zmjNqkG8L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HH3JZ1T7?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T14:07:03.290Z"
     }
   ]
 }
