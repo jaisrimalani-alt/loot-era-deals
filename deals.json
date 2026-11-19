@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T01:06:50.493Z",
+  "updatedAt": "2026-11-19T01:21:51.016Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BYVTZH3Y",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Unisex Gola-schv School Uniform Shoe",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 849,
+      "savings": 550,
+      "discountPct": 65,
+      "rating": null,
+      "reviewCount": "6,448",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/611zKzx9XKL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BYVTZH3Y?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T01:21:50.661Z"
+    },
     {
       "id": "amz:B0DWLXFQ97",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51Xjh93u1jL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B08S56PYDJ?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T06:51:46.634Z"
-    },
-    {
-      "id": "amz:B09BFV96TS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Dyazo Water Resistant Laptop Sleeve/Laptop case/laptop cover with Handle Compatible for 15 Inch to 15.6&#34; Inches laptop",
-      "description": "",
-      "dealPrice": 279,
-      "mrp": 999,
-      "savings": 720,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "25,376",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81R79IThsCL._SL1315_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B09BFV96TS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T06:36:53.485Z"
     }
   ]
 }
