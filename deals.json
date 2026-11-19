@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T00:52:01.866Z",
+  "updatedAt": "2026-11-19T01:06:50.493Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DWLXFQ97",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog Watch for Men with Round Dial & Water Resistant Man's Wrist Watches",
+      "description": "",
+      "dealPrice": 2997,
+      "mrp": 4995,
+      "savings": 1998,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "158",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71xXHpWCVFL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DWLXFQ97?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T01:06:49.980Z"
+    },
     {
       "id": "amz:B0FSSPZH8K",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81R79IThsCL._SL1315_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B09BFV96TS?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T06:36:53.485Z"
-    },
-    {
-      "id": "cue:132559",
-      "type": "cuelinks",
-      "source": "Firstcry",
-      "categoryName": "Brand Offer",
-      "title": "Unlock Huge Savings on Pigeon Health & Safety: Up to 45% Off!",
-      "description": "Club Members score a flat 45% discount; all users enjoy 40% off! Save big with a maximum discount of Rs. 10,000! Coupon code is valid only on MRP. Shop now to secure your savings!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "PGN45",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.firstcry.com%2Fsearchresult%3Fsale%3D4%26brandid%3D208%26searchstring%3Dbrand%40%40%40%401%400%26rating%3D%26sort%3DBestSeller%26c%3DPGN45%26ban_name_r%3DPigeon_Nov%26hpos_r%3D11%26tmp_name_r%3Dtid34%26ban_seg_id_r%3DNA%26param11%3Dhomepage%26ref2%3Dtid34_Pigeon_Nov_combo0_ncl_seq11_d__PGN45",
-      "postedAt": "2026-11-18T06:22:04.774Z"
     }
   ]
 }
