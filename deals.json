@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T07:07:12.793Z",
+  "updatedAt": "2026-11-19T07:22:29.717Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GS7363JJ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Seagate One Touch Portable 4TB External HDD USB-C Backup Password Protection Data Recovery (STNR4000410)",
+      "description": "",
+      "dealPrice": 18849,
+      "mrp": 36999,
+      "savings": 18150,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "6",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Vt4AF9WYL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GS7363JJ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T07:22:29.301Z"
+    },
     {
       "id": "amz:B0BYVW8T21",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.cashify.in%2Fbuy-refurbished-mobile-phones-sale",
       "postedAt": "2026-11-18T10:06:56.626Z"
-    },
-    {
-      "id": "amz:B0BG8LZNYL",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Portronics Toad One Bluetooth Mouse with 2.4 GHz & BT 5.3 Dual Wireless, 6 Buttons, Rechargeable, RGB Lights, Connect 3 Devices, Ergonomi...",
-      "description": "",
-      "dealPrice": 486,
-      "mrp": 1499,
-      "savings": 1013,
-      "discountPct": 68,
-      "rating": null,
-      "reviewCount": "10,583",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51hZtBRUFBL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BG8LZNYL?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T10:06:55.044Z"
     }
   ]
 }
