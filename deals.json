@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T08:07:33.181Z",
+  "updatedAt": "2026-11-19T08:22:41.780Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HKMRG5XR",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Acer Swift Pro AI PC,Intel Core Ultra 5 Processor 125H,Office 2024 + M365 Basic,16GB LPDDR5 RAM/512 SSD, 35.56cm /14\" WUXGA IPS Display, ...",
+      "description": "",
+      "dealPrice": 74600,
+      "mrp": 99500,
+      "savings": 24900,
+      "discountPct": 25,
+      "rating": null,
+      "reviewCount": "3",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71vq1mGb7ZL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HKMRG5XR?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T08:22:29.344Z"
+    },
     {
       "id": "amz:B0BVYZ7K6K",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/510sE7C5XYL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FBFYR763?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T10:52:04.816Z"
-    },
-    {
-      "id": "amz:B0CN3B5GQJ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "AKANSHA Keshajyoti Natural Ayurvedic Deep Nourishing Liquid Shampoo, 1 Count",
-      "description": "",
-      "dealPrice": 191,
-      "mrp": 330,
-      "savings": 139,
-      "discountPct": 42,
-      "rating": null,
-      "reviewCount": "519",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61UQTwbpnsL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CN3B5GQJ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T10:36:49.356Z"
     }
   ]
 }
