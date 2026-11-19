@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T00:07:01.967Z",
+  "updatedAt": "2026-11-19T00:22:33.499Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GRGY8GTV",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "TheGiftKart Clear Back Cover Case for Motorola Moto Edge 70 Fusion 5G | Shockproof 360 Degree Protection | Hybrid Hard Transparent Back C...",
+      "description": "",
+      "dealPrice": 284,
+      "mrp": 999,
+      "savings": 715,
+      "discountPct": 72,
+      "rating": null,
+      "reviewCount": "20,863",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61zr9ZhmWRL._SL1000_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GRGY8GTV?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T00:22:23.888Z"
+    },
     {
       "id": "amz:B0GZVLQ8VT",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.firstcry.com%2Ftopoffers%3Fmoid%3D30228%26c%3DWINFC%26ban_name_r%3DWinter_Fashion_Flat_42_38%26hpos_r%3D1%26tmp_name_r%3Dtid34%26ban_seg_id_r%3DNA%26param11%3Dhomepage%26ref2%3Dtid34_Winter_Fashion_Flat_42_38_combo0_ncl_seq1_d__WINFC",
       "postedAt": "2026-11-18T06:07:18.663Z"
-    },
-    {
-      "id": "amz:B0G151MCJR",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Happi Planet | Washing Machine Cleaner & Descaler Tablets | 8 Tablets | Removes Tough Grime, Limescale & Soap Scum | Used for Top & Front...",
-      "description": "",
-      "dealPrice": 164,
-      "mrp": 299,
-      "savings": 135,
-      "discountPct": 45,
-      "rating": null,
-      "reviewCount": "8,956",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/513ZUC5RfIL._SL1000_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G151MCJR?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T06:07:17.357Z"
     }
   ]
 }
