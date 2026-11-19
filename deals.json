@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T11:22:41.169Z",
+  "updatedAt": "2026-11-19T11:37:25.655Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132673",
+      "type": "cuelinks",
+      "source": "Levis",
+      "categoryName": "Brand Offer",
+      "title": "Massive Levi's Black Friday Discounts: Save Up to 65%!",
+      "description": "Take advantage of spectacular deals—up to 65% off Levi's items! Explore trendy styles at prices you'll love. Don't wait—these offers are fleeting! Everyone's welcome to grab these savings!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "LEVISFIRST",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Flevi.in%2Fcollections%2Fblack-friday-sale",
+      "postedAt": "2026-11-19T11:37:25.651Z"
+    },
     {
       "id": "amz:B0BMZCZTYK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71sd-X0MB7L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DWLXFLRF?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T12:36:50.546Z"
-    },
-    {
-      "id": "amz:B0GR5KTPBY",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Garnier Men, Face Wash, Brightening & Anti-Pollution, TurboBright Double Action, 155 g",
-      "description": "",
-      "dealPrice": 204,
-      "mrp": 340,
-      "savings": 136,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "33,565",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/6111+4g90BL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GR5KTPBY?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T12:22:04.471Z"
     }
   ]
 }
