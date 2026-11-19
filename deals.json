@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T21:07:19.603Z",
+  "updatedAt": "2026-11-19T21:22:17.164Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H26GPSGK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "LUMONY® Pack of 2 - Spray Bottle 500 ML Transparent Clear Empty Water Spray Bottles,Water Liquid Sprayer Set for Face, Hair, Garden, Sani...",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 599,
+      "savings": 450,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "1,198",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71bR5g9nWGL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H26GPSGK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T21:22:04.876Z"
+    },
     {
       "id": "amz:B01ECMFDMQ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61bB+v8qJqL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DSFTRX77?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T16:07:20.319Z"
-    },
-    {
-      "id": "amz:B0CNM27L5P",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Quick Shoe Cleaning Kit Shoe Cleaner & Medium Bristle Shoe Brush, White Shoe Cleaning Kit, Shoe Cleaner Kit For Sneaker,Sports Shoe Clean...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 499,
-      "savings": 200,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "3,236",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61pL0Dj8uNL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CNM27L5P?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T15:37:02.489Z"
     }
   ]
 }
