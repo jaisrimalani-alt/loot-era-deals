@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T04:38:29.382Z",
+  "updatedAt": "2026-11-19T04:55:24.551Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0D2R26HFV",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Samsung Original 25W USB Type-C Travel Adaptor Without Cable for Google Pixel, Xiaomi, Motorola, iPhone, Samsung Galaxy Tab S/A Series, G...",
+      "description": "",
+      "dealPrice": 575,
+      "mrp": 1699,
+      "savings": 1124,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "25,196",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Gu1ib5-RL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0D2R26HFV?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T04:52:21.612Z"
+    },
     {
       "id": "amz:B0CQWGGL7N",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51--0vhVZWL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GYPTK3D9?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T08:52:14.289Z"
-    },
-    {
-      "id": "amz:B0FPQSN47V",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "AGARO Atom Cordless Tyre Inflator, 150 PSI, 4500mAh Battery, Auto Shut-Off, Digital Display, LED Light, USB-C Charging, 12V DC Output, fo...",
-      "description": "",
-      "dealPrice": 1499,
-      "mrp": 3999,
-      "savings": 2500,
-      "discountPct": 63,
-      "rating": null,
-      "reviewCount": "4,803",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Q1IoCMWBL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FPQSN47V?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T08:37:14.330Z"
     }
   ]
 }
