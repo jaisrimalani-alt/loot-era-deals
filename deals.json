@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T00:22:33.499Z",
+  "updatedAt": "2026-11-19T00:37:14.169Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B08MC2RWRS",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "ZEBRONICS ZEB-LPC88A Laser Toner Printer Cartridge for HP Laser Jet P1007/P1008/P1106/P1108, Pro M1136/M1213nf/M1216, Pro M202dw / MFP M1...",
+      "description": "",
+      "dealPrice": 408,
+      "mrp": 1199,
+      "savings": 791,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "6,422",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71HMSUEKQ8L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B08MC2RWRS?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T00:37:02.970Z"
+    },
     {
       "id": "amz:B0GRGY8GTV",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61npnRlzG-L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FMR16CSW?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T06:21:51.594Z"
-    },
-    {
-      "id": "cue:132557",
-      "type": "cuelinks",
-      "source": "Firstcry",
-      "categoryName": "Brand Offer",
-      "title": "Enjoy Exclusive Winter Savings: 42% OFF for Club & 38% OFF for Everyone!",
-      "description": "Check out our fresh styles for winter, available now! Club members score 42% savings on the purchase of 3 items! Everyone gets 38% OFF when buying any 3 products. Grab discounts reaching up to Rs 12,000 & beyond!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "WINFC",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.firstcry.com%2Ftopoffers%3Fmoid%3D30228%26c%3DWINFC%26ban_name_r%3DWinter_Fashion_Flat_42_38%26hpos_r%3D1%26tmp_name_r%3Dtid34%26ban_seg_id_r%3DNA%26param11%3Dhomepage%26ref2%3Dtid34_Winter_Fashion_Flat_42_38_combo0_ncl_seq1_d__WINFC",
-      "postedAt": "2026-11-18T06:07:18.663Z"
     }
   ]
 }
