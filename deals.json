@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T04:21:58.084Z",
+  "updatedAt": "2026-11-19T04:38:29.382Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CQWGGL7N",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Cartoon Design Warm Slipper for Women's Flip Flops Winter Fashion Slipper for House and Bedroom Slides & Home Indoor Outdoor (1 Pair)",
+      "description": "",
+      "dealPrice": 474,
+      "mrp": 1299,
+      "savings": 825,
+      "discountPct": 64,
+      "rating": null,
+      "reviewCount": "827",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51ymyPu08ML._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CQWGGL7N?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T04:36:48.785Z"
+    },
     {
       "id": "amz:B0BJF1GF29",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Q1IoCMWBL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FPQSN47V?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T08:37:14.330Z"
-    },
-    {
-      "id": "amz:B0FLXPZ77B",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Zebronics FHD USB Webcam, 30FPS, 2P2G Lens, 2.0MP CMOS Sensor, Auto-White Balance, Auto-Exposure, Privacy Shutter, Built-in Mic, for Team...",
-      "description": "",
-      "dealPrice": 1113,
-      "mrp": 2499,
-      "savings": 1386,
-      "discountPct": 55,
-      "rating": null,
-      "reviewCount": "561",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61q7GuSnqDL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FLXPZ77B?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T08:22:06.823Z"
     }
   ]
 }
