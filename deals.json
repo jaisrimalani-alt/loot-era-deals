@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T15:07:40.582Z",
+  "updatedAt": "2026-11-19T15:22:19.147Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0F5HNW218",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Volt S1 Smart Watch for Man and Women Latest with 1.83\" Display, Silicone Strap, BT Calling, 100+ Sports Modes, Heart Rate, SpO2, IP68, I...",
+      "description": "",
+      "dealPrice": 1299,
+      "mrp": 2995,
+      "savings": 1696,
+      "discountPct": 57,
+      "rating": null,
+      "reviewCount": "612",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71bGSvPHeNL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0F5HNW218?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T15:22:07.163Z"
+    },
     {
       "id": "amz:B0GDG2JFDK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.fuelone.in%2F",
       "postedAt": "2026-11-18T14:37:29.505Z"
-    },
-    {
-      "id": "cue:132624",
-      "type": "cuelinks",
-      "source": "Boat",
-      "categoryName": "Brand Offer",
-      "title": "Unbeatable Offer: Grab 50% Off on All Boat Items Today!",
-      "description": "Exclusive limited-time sale—act fast! Shop Boat’s collection of earbuds, speakers, and more. Enter the promo code at checkout to save. Transform your audio lifestyle now!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "DROP50",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.boat-lifestyle.com%2Fcollections%2Fhalf-price-steals",
-      "postedAt": "2026-11-18T14:22:37.569Z"
     }
   ]
 }
