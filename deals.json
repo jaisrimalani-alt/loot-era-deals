@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T01:37:21.514Z",
+  "updatedAt": "2026-11-19T01:51:48.557Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H3T2P46N",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "LIT Fan Remote Compatible with Atomberg Renesa Elite, Halo Smart, Enzel",
+      "description": "",
+      "dealPrice": 219,
+      "mrp": 799,
+      "savings": 580,
+      "discountPct": 73,
+      "rating": null,
+      "reviewCount": "86",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51eN-uumX4L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H3T2P46N?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T01:51:48.126Z"
+    },
     {
       "id": "amz:B0CV48C7S3",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51SXWchY1aL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GDTTYGJR?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T07:06:49.845Z"
-    },
-    {
-      "id": "cue:132564",
-      "type": "cuelinks",
-      "source": "The Man Company",
-      "categoryName": "Brand Offer",
-      "title": "International Men's Day Sale is Live: 5 Perfumes at Just Rs. 699!",
-      "description": "Select any 5 stunning perfumes for just Rs. 699! Receive an extra 5% off on prepaid transactions. Act fast - these special deals are time-sensitive! Accessible to anyone ready to elevate their scent collection.",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.themancompany.com%2F",
-      "postedAt": "2026-11-18T06:51:48.686Z"
     }
   ]
 }
