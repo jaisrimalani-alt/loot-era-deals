@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T19:07:44.717Z",
+  "updatedAt": "2026-11-19T19:22:35.491Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FTRGFH4F",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Silicone Clear Rubber Door Bumper Stopers Wall Protectors for Furniture, 6Piece Pack Self Adhesive Door Handle Knob Wall Shield Bumper Gu...",
+      "description": "",
+      "dealPrice": 343,
+      "mrp": 999,
+      "savings": 656,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "588",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61-9mYLznIL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FTRGFH4F?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T19:22:25.291Z"
+    },
     {
       "id": "amz:B07DN93B9R",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.boat-lifestyle.com%2Fcollections%2Fget-extra-1000-off",
       "postedAt": "2026-11-18T15:07:14.210Z"
-    },
-    {
-      "id": "amz:B09QGZFBPM",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Wayona Type C to Type C 6FT/2M 65W Long Fast Charging Cable Compatible with iPhone 17, Air, iPhone 16,15 Pro/Max Series Macbook Air/Pro S...",
-      "description": "",
-      "dealPrice": 359,
-      "mrp": 1099,
-      "savings": 740,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "11,506",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61K3e5X2vDL._SL1100_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B09QGZFBPM?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T15:07:00.165Z"
     }
   ]
 }
