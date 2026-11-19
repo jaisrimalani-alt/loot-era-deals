@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T09:37:16.787Z",
+  "updatedAt": "2026-11-19T09:51:58.904Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0B3XX8P9C",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "JBL Flip Essential 2, Wireless Portable Bluetooth Speaker with Deep Base, IPX7 Water & Dustproof (Without Mic, Black)",
+      "description": "",
+      "dealPrice": 5999,
+      "mrp": 9999,
+      "savings": 4000,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "10,084",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51bfIuFGCAL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0B3XX8P9C?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T09:51:48.341Z"
+    },
     {
       "id": "amz:B0H2WVGDM4",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Ne5PWxakL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CN3GFGWJ?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T11:31:14.248Z"
-    },
-    {
-      "id": "amz:B0GDTSH5BW",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Zebronics Wireless Mouse, Dual Mode 2.4GHz + BT, Up to 1600 DPI, USB Nano Receiver, Lightweight Design, Multicolor LED Lights, Rechargeab...",
-      "description": "",
-      "dealPrice": 411,
-      "mrp": 799,
-      "savings": 388,
-      "discountPct": 49,
-      "rating": null,
-      "reviewCount": "10,139",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51ItzIBMg6L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GDTSH5BW?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T11:21:49.925Z"
     }
   ]
 }
