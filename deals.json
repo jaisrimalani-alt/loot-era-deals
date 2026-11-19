@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T08:37:40.358Z",
+  "updatedAt": "2026-11-19T08:51:59.951Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GS5LP4BC",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "LUMONY® Soft Silicone Bath Brush Set | Long Handle Back Scrubber + Body Scrubber + Scalp Massager + Face Massager | Super Exfoliating & L...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 999,
+      "savings": 800,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "458",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71aQY8YRhtL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GS5LP4BC?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T08:51:48.343Z"
+    },
     {
       "id": "amz:B0HKMRG5XR",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51XJr6CKc8L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07WYJVMY6?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T11:07:21.658Z"
-    },
-    {
-      "id": "amz:B0FBFYR763",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Careforce Ortho Slippers for Women Daily Use, EVA Cushioned Anti-Slip Sliders & Flip Flops | Arch Support Chappal for Daily Comfort & All...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 799,
-      "savings": 600,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "272",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/510sE7C5XYL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FBFYR763?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T10:52:04.816Z"
     }
   ]
 }
