@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-19T10:36:48.702Z",
+  "updatedAt": "2026-11-19T10:51:59.485Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BMZCZTYK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "TCCO Natural Sneaker & Shoe Cleaner Wipes - 1 Packs of 80 - Portable Sneakers Cleaner Shoe Wipes Quickly Remove Dirt & Stains - These Dis...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 999,
+      "savings": 800,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "3,559",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61lETF6YbmL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BMZCZTYK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-19T10:51:48.527Z"
+    },
     {
       "id": "cue:132659",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/6111+4g90BL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GR5KTPBY?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T12:22:04.471Z"
-    },
-    {
-      "id": "amz:B0HNS64H7M",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "ASUS ExpertBook P1 Intel Core 3 100U - (8 GB/512 GB SSD/Windows 11 Home) P1503CVAYB-S73384WS Thin and Light Laptop (15.6 inch, Misty Grey...",
-      "description": "",
-      "dealPrice": 54490,
-      "mrp": 99990,
-      "savings": 45500,
-      "discountPct": 46,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51gEEu7splL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HNS64H7M?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T12:07:32.374Z"
     }
   ]
 }
