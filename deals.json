@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T11:07:37.457Z",
+  "updatedAt": "2026-11-20T11:22:33.380Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132719",
+      "type": "cuelinks",
+      "source": "RealMe",
+      "categoryName": "Brand Offer",
+      "title": "Get Your realme C100i Mobile Phone for 38% Off!",
+      "description": "Score a significant 38% discount on the realme C100i Mobile Phone. Purchase it today for only Rs. 15,999. This exclusive deal is time-sensitive! All customers can take advantage of this offer!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F820",
+      "postedAt": "2026-11-20T11:22:33.377Z"
+    },
     {
       "id": "amz:B0FF4XBM5N",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51g5kI3dHiL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CJJ9H4XK?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T21:22:19.183Z"
-    },
-    {
-      "id": "amz:B0H7RPRGK4",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Mosquito Net Repair Tape 2 In x 79 In (5CM x 200CM), Self Adhesive Window Screen Mesh Roll, Peel and Stick Patch for Torn Holes, Durable ...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 999,
-      "savings": 800,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "205",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71lBkEtHr0L._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H7RPRGK4?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T21:06:50.461Z"
     }
   ]
 }
