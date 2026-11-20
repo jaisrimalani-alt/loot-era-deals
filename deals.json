@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T13:52:33.674Z",
+  "updatedAt": "2026-11-20T14:06:57.079Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HJ532PWR",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Epsom Salt for Foot & Bath 380g | Lavender, Chamomile & Tea Tree Epsom Bath Salt with Real Flower Buds | Magnesium Sulphate Foot Soak & B...",
+      "description": "",
+      "dealPrice": 99,
+      "mrp": 999,
+      "savings": 900,
+      "discountPct": 90,
+      "rating": null,
+      "reviewCount": "18",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71l9duN1EsL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HJ532PWR?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T14:06:48.221Z"
+    },
     {
       "id": "cue:132746",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51MQW3uYlhL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FNR2SKDF?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T23:22:02.171Z"
-    },
-    {
-      "id": "amz:B0CP9NSXYJ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Arctic Fox Pureview Transparent Wireless and Bluetooth Rechargeable Mouse, USB Receiver,LED Battery Magic Silm for Office/PC/Mac/Laptop/A...",
-      "description": "",
-      "dealPrice": 599,
-      "mrp": 1999,
-      "savings": 1400,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "9,833",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/613dyv2wXdL._SL1200_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CP9NSXYJ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T23:07:06.734Z"
     }
   ]
 }
