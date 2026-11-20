@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T12:37:35.888Z",
+  "updatedAt": "2026-11-20T12:52:32.916Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132736",
+      "type": "cuelinks",
+      "source": "Hkvitals",
+      "categoryName": "Brand Offer",
+      "title": "Get 29% Off on Glutathione Effervescent with Vitamin C!",
+      "description": "Get 29% off on Glutathione Effervescent with Vitamin C. Grab this irresistible offer for just Rs. 595. Hurry, this deal is time-sensitive! Open to everyone – why wait?",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.hkvitals.com%2Fproducts%2Fglutathione",
+      "postedAt": "2026-11-20T12:52:32.913Z"
+    },
     {
       "id": "cue:132716",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71aqPsHSEiL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G6124JLC?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T22:36:52.603Z"
-    },
-    {
-      "id": "amz:B0CFXZFJ1Z",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Centrino Formal Shoe for Men | Lace-Up Derby for Business & Casual Wear | Stylish Design with Comfortable Fit Craftsmanship for All-Day S...",
-      "description": "",
-      "dealPrice": 599,
-      "mrp": 2199,
-      "savings": 1600,
-      "discountPct": 73,
-      "rating": null,
-      "reviewCount": "1,584",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Glh9Jq9FL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CFXZFJ1Z?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T22:22:00.989Z"
     }
   ]
 }
