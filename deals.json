@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T13:37:36.537Z",
+  "updatedAt": "2026-11-20T13:52:33.674Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132746",
+      "type": "cuelinks",
+      "source": "Vero Moda",
+      "categoryName": "Brand Offer",
+      "title": "Discover Vero Moda Black Days Event: Enjoy Up to 60% Off + Bonus Rs. 300 Off!",
+      "description": "Shop the fresh Vero Moda women's fashion arrivalsBenefit from discounts up to 60% on chic outfitsExtra Rs. 300 Off with a promo codeEligible on purchases of Rs. 1699 or more",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "VMNEW300",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.veromoda.in%2Fcollections%2Fupto-50-vm",
+      "postedAt": "2026-11-20T13:52:33.669Z"
+    },
     {
       "id": "amz:B08QSQ6QX5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/613dyv2wXdL._SL1200_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CP9NSXYJ?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T23:07:06.734Z"
-    },
-    {
-      "id": "amz:B0F7Y54PJX",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "boAt Rockerz 113, 40 Hours Battery, Dual Pair, Fast Charge, ENx Technology, App Support, Magnetic Buds, Bluetooth Neckband, Wireless in E...",
-      "description": "",
-      "dealPrice": 999,
-      "mrp": 2490,
-      "savings": 1491,
-      "discountPct": 60,
-      "rating": null,
-      "reviewCount": "15,048",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61B5hIAmvdL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0F7Y54PJX?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T22:52:15.826Z"
     }
   ]
 }
