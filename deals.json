@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T14:37:35.605Z",
+  "updatedAt": "2026-11-20T14:52:42.479Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0F3JM1YP5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Xiaomi 80 cm (32 inch) Smartchoice F Series HD Ready Smart LED Fire TV L32MB-FIN",
+      "description": "",
+      "dealPrice": 14999,
+      "mrp": 24999,
+      "savings": 10000,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "1,476",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71kjAokz-yL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0F3JM1YP5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T14:52:33.936Z"
+    },
     {
       "id": "amz:B0GZWNTWXB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61BgP45hZCL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GZVLQ8VT?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T00:06:49.829Z"
-    },
-    {
-      "id": "amz:B0HK2186ZR",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Revoltt S1 with 1.83” TFT 2.5D Sqaure Display with Singlesync BT Calling, Heart Rate, SpO2 & Sleep Tracking,IP68,Nitro Fast Charging,Upto...",
-      "description": "",
-      "dealPrice": 1295,
-      "mrp": 2299,
-      "savings": 1004,
-      "discountPct": 44,
-      "rating": null,
-      "reviewCount": "80",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/615eK1dYpUL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HK2186ZR?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T23:36:47.097Z"
     }
   ]
 }
