@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T14:52:42.479Z",
+  "updatedAt": "2026-11-20T15:07:01.323Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G1T4R5F5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "boAt Lunar Discovery Neo, 1.39\" (3.5 cm) Round HD Display, Premium Metallic Finish, Animated Watchfaces, 100+ Sports Mode, Bluetooth Call...",
+      "description": "",
+      "dealPrice": 1699,
+      "mrp": 7499,
+      "savings": 5800,
+      "discountPct": 77,
+      "rating": null,
+      "reviewCount": "22,127",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71ODDbxL2LL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G1T4R5F5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T15:06:50.999Z"
+    },
     {
       "id": "amz:B0F3JM1YP5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61zr9ZhmWRL._SL1000_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GRGY8GTV?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T00:22:23.888Z"
-    },
-    {
-      "id": "amz:B0GZVLQ8VT",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Oakter 0.5 Ton Inverter Studio AC 5000 (3 Star | 6 Amp Plug | Low Power Consumption | 50°C Cooling | Surge Protection | Anti-Dust Filter ...",
-      "description": "",
-      "dealPrice": 14090,
-      "mrp": 27499,
-      "savings": 13409,
-      "discountPct": 49,
-      "rating": null,
-      "reviewCount": "355",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61BgP45hZCL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GZVLQ8VT?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T00:06:49.829Z"
     }
   ]
 }
