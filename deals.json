@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T15:07:01.323Z",
+  "updatedAt": "2026-11-20T15:22:15.614Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GFPC4Y37",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "AKANSHA Velvet Touch Natural Deep Nourishing Body Lotion (300ML)",
+      "description": "",
+      "dealPrice": 164,
+      "mrp": 300,
+      "savings": 136,
+      "discountPct": 45,
+      "rating": null,
+      "reviewCount": "27",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51eRCPy+M8L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GFPC4Y37?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T15:22:05.022Z"
+    },
     {
       "id": "amz:B0G1T4R5F5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71HMSUEKQ8L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B08MC2RWRS?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T00:37:02.970Z"
-    },
-    {
-      "id": "amz:B0GRGY8GTV",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "TheGiftKart Clear Back Cover Case for Motorola Moto Edge 70 Fusion 5G | Shockproof 360 Degree Protection | Hybrid Hard Transparent Back C...",
-      "description": "",
-      "dealPrice": 284,
-      "mrp": 999,
-      "savings": 715,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "20,863",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61zr9ZhmWRL._SL1000_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GRGY8GTV?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T00:22:23.888Z"
     }
   ]
 }
