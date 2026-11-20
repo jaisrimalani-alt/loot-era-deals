@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T16:07:39.099Z",
+  "updatedAt": "2026-11-20T16:22:33.376Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0C1T29G12",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog Dial Women's Watch",
+      "description": "",
+      "dealPrice": 1947,
+      "mrp": 3895,
+      "savings": 1948,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "234",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71XxOPPqSdL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0C1T29G12?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T16:22:24.420Z"
+    },
     {
       "id": "amz:B0H5VWCNWN",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71xXHpWCVFL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DWLXFQ97?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T01:06:49.980Z"
-    },
-    {
-      "id": "amz:B0FSSPZH8K",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "New Hair Color Comb Stick, Waterproof and Sweat-Proof Instant Hair Dye Stick Grey Hair Coverage for Men & Women, Easy Application (BLACK",
-      "description": "",
-      "dealPrice": 129,
-      "mrp": 299,
-      "savings": 170,
-      "discountPct": 57,
-      "rating": null,
-      "reviewCount": "1,526",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/7125Z1FC1AL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FSSPZH8K?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T00:52:01.382Z"
     }
   ]
 }
