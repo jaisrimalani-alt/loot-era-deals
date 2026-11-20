@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T04:37:31.353Z",
+  "updatedAt": "2026-11-20T04:52:42.673Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G1YVBFBY",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Portronics AAA Lithius Type C Rechargeable Batteries, Pack of 2, Lithium Ion Cell Composition, Upto 440mAh Capacity, Low Self Discharge, ...",
+      "description": "",
+      "dealPrice": 320,
+      "mrp": 699,
+      "savings": 379,
+      "discountPct": 54,
+      "rating": null,
+      "reviewCount": "2,906",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61llQegf+nL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G1YVBFBY?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T04:52:26.713Z"
+    },
     {
       "id": "amz:B0DJQXHKZQ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/6151QO9IlAL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FP22HBH9?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T17:37:16.107Z"
-    },
-    {
-      "id": "amz:B0HB9TH7J1",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Complete Suede & Nubuck Shoe Cleaning Kit - Brush, Eraser & Spray",
-      "description": "",
-      "dealPrice": 899,
-      "mrp": 1499,
-      "savings": 600,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "47",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61QPXh64zML._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HB9TH7J1?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T17:06:48.500Z"
     }
   ]
 }
