@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T12:07:38.904Z",
+  "updatedAt": "2026-11-20T12:22:36.031Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132716",
+      "type": "cuelinks",
+      "source": "RealMe",
+      "categoryName": "Brand Offer",
+      "title": "Get 53% Off the Must-Have realme P4s Lite Mobile Phone!",
+      "description": "Enjoy 53% discount on the realme P4s Lite. Purchase it for only Rs. 13,999. Hurry, this offer is for a short time only! Available for all buyers—don't wait too long!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F824",
+      "postedAt": "2026-11-20T12:22:36.027Z"
+    },
     {
       "id": "cue:132717",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Glh9Jq9FL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CFXZFJ1Z?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T22:22:00.989Z"
-    },
-    {
-      "id": "amz:B0FJX3925X",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Women's Watch Chelsea Square Dial",
-      "description": "",
-      "dealPrice": 3336,
-      "mrp": 5560,
-      "savings": 2224,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "545",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61-EjtmNk5L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FJX3925X?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T22:06:48.298Z"
     }
   ]
 }
