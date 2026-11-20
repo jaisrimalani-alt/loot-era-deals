@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T06:07:43.534Z",
+  "updatedAt": "2026-11-20T06:22:16.707Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H33P37J7",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Arch Support Gel Insoles for Men & Women – Shoe Insoles for High Arches, Plantar Fasciitis, Arch Pain & Foot Pain Relief, Massaging Gel, ...",
+      "description": "",
+      "dealPrice": 399,
+      "mrp": 1299,
+      "savings": 900,
+      "discountPct": 69,
+      "rating": null,
+      "reviewCount": "36",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ZkN4AyWoL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H33P37J7?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T06:22:03.216Z"
+    },
     {
       "id": "amz:B079NHBD4D",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51JkyI01PKL._SL1000_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B08M4T5FJG?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T19:21:57.155Z"
-    },
-    {
-      "id": "amz:B01HJI0FS2",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Dell MS116 USB Optical Mouse (Black)",
-      "description": "",
-      "dealPrice": 285,
-      "mrp": 1499,
-      "savings": 1214,
-      "discountPct": 81,
-      "rating": null,
-      "reviewCount": "61,322",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51a1LryFTZS._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B01HJI0FS2?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T19:07:00.827Z"
     }
   ]
 }
