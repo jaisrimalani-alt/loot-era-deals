@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T15:37:35.251Z",
+  "updatedAt": "2026-11-20T15:52:41.047Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H5VWCNWN",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "JioTag (2nd Generation) (Grey) - Android or iOS Compatible IP64 Rated Worldwide Item Finder for Keys, Wallets, Luggage, Gadgets and More ...",
+      "description": "",
+      "dealPrice": 1249,
+      "mrp": 2999,
+      "savings": 1750,
+      "discountPct": 58,
+      "rating": null,
+      "reviewCount": "593",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61CmAF8p-9L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H5VWCNWN?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T15:52:32.319Z"
+    },
     {
       "id": "amz:B0GFPC4Y37",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/7125Z1FC1AL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FSSPZH8K?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T00:52:01.382Z"
-    },
-    {
-      "id": "amz:B08MC2RWRS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "ZEBRONICS ZEB-LPC88A Laser Toner Printer Cartridge for HP Laser Jet P1007/P1008/P1106/P1108, Pro M1136/M1213nf/M1216, Pro M202dw / MFP M1...",
-      "description": "",
-      "dealPrice": 408,
-      "mrp": 1199,
-      "savings": 791,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "6,422",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71HMSUEKQ8L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B08MC2RWRS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T00:37:02.970Z"
     }
   ]
 }
