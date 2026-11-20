@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T11:37:38.868Z",
+  "updatedAt": "2026-11-20T11:52:31.060Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132725",
+      "type": "cuelinks",
+      "source": "Indian Gifts Portal",
+      "categoryName": "Brand Offer",
+      "title": "Elevate Your Gifting with Luxury Options From Rs. 525",
+      "description": "Browse our stunning collection of online luxury gifts. Gifting starts elegantly at Rs. 525. Seize these special offers while they last! Everyone can shop—join in the celebration!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.igp.com%2Fluxe",
+      "postedAt": "2026-11-20T11:52:31.057Z"
+    },
     {
       "id": "cue:132720",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51Zst7MeFfL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H7C25FR7?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T21:52:01.153Z"
-    },
-    {
-      "id": "amz:B0CP2K2XN8",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "SaleOn 8.3X5 Inch Portable Storage Organizer for USB Cable, Earphone, Power Bank,Charger, Hard Disk & Digital Gadgets, with Mesh Pockets ...",
-      "description": "",
-      "dealPrice": 298,
-      "mrp": 899,
-      "savings": 601,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "4,034",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/814GTqb4fEL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CP2K2XN8?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T21:36:59.697Z"
     }
   ]
 }
