@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T04:22:43.551Z",
+  "updatedAt": "2026-11-20T04:37:31.353Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DJQXHKZQ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Men's Synthetic Leather Lightweight Comfortable Trendy Outdoor Casual Shoes Slip On Chelsea Boots",
+      "description": "",
+      "dealPrice": 498,
+      "mrp": 1999,
+      "savings": 1501,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "1,601",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71A-T7rYeGL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DJQXHKZQ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T04:37:18.909Z"
+    },
     {
       "id": "amz:B0D2DQ7NPF",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61QPXh64zML._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HB9TH7J1?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T17:06:48.500Z"
-    },
-    {
-      "id": "amz:B01N56X1EW",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Classics Analog Couple Watches Set, Round Dial & Water Resistant, Wrist Watch, Anniversary & Wedding Gift for Couples",
-      "description": "",
-      "dealPrice": 3117,
-      "mrp": 5195,
-      "savings": 2078,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "817",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/91rSYoANEbL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B01N56X1EW?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T16:51:49.306Z"
     }
   ]
 }
