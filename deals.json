@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T21:07:26.499Z",
+  "updatedAt": "2026-11-20T21:22:24.735Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FPXHT6HP",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "mCaffeine 5% Niacinamide & Glutathione for Brightening & Detan By The Blues Perfume Body Lotion 300ml | | Aquatic-Woody Fragrance | 72H M...",
+      "description": "",
+      "dealPrice": 359,
+      "mrp": 599,
+      "savings": 240,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "1,835",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51EGxdLsQxL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FPXHT6HP?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T21:22:15.669Z"
+    },
     {
       "id": "amz:B0DWT25Y5H",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51CF4EwEADL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FX418XT8?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T02:07:01.985Z"
-    },
-    {
-      "id": "amz:B0H3T2P46N",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "LIT Fan Remote Compatible with Atomberg Renesa Elite, Halo Smart, Enzel",
-      "description": "",
-      "dealPrice": 219,
-      "mrp": 799,
-      "savings": 580,
-      "discountPct": 73,
-      "rating": null,
-      "reviewCount": "86",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51eN-uumX4L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H3T2P46N?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T01:51:48.126Z"
     }
   ]
 }
