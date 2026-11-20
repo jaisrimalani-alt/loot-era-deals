@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T07:52:31.872Z",
+  "updatedAt": "2026-11-20T08:07:29.136Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07KNMHVQL",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "FOXIN FTC 88A/CC388A Black Laser Toner Cartridge Compatible for HP Laserjet Printer M1136, MFP, P1007, P1106, P1108, P1008, M1213nf, MFP,...",
+      "description": "",
+      "dealPrice": 409,
+      "mrp": 1150,
+      "savings": 741,
+      "discountPct": 64,
+      "rating": null,
+      "reviewCount": "3,104",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Vco1v-TNL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07KNMHVQL?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T08:07:18.222Z"
+    },
     {
       "id": "cue:132709",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51Lyk57F3QL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DG3253XC?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T20:22:29.078Z"
-    },
-    {
-      "id": "amz:B0DV5C5FR2",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Gesto Portable Fan Rechargeable with LED Light – Foldable Mini Fan, Small Fan,USB Charging Hand Fan with 1200mAh Battery & 3 Speed Modes ...",
-      "description": "",
-      "dealPrice": 399,
-      "mrp": 1999,
-      "savings": 1600,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "2,456",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/710rCSiRlwL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DV5C5FR2?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T20:06:57.947Z"
     }
   ]
 }
