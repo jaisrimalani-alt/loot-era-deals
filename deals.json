@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T21:52:43.280Z",
+  "updatedAt": "2026-11-20T22:07:22.698Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FHWVNVVK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "HIKVISION Extreme 128GB microSDXC Memory Card Class 10, V30 | 92MB/s Read, 50MB/s Write Speed | Compitable with Smartphones, Camera, CCTV...",
+      "description": "",
+      "dealPrice": 1789,
+      "mrp": 4999,
+      "savings": 3210,
+      "discountPct": 64,
+      "rating": null,
+      "reviewCount": "1,106",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61CWZmo9CnL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FHWVNVVK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T22:07:14.921Z"
+    },
     {
       "id": "amz:B0FPXHT6HP",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81F9DRgGG0L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CXTFGZP3?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T02:21:45.921Z"
-    },
-    {
-      "id": "amz:B0FX418XT8",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Arencia Vitamin C Booster Shot, 5% Dual Vitamin C + Glutathione Serum for Dark Spot Care | Korean Skincare Products",
-      "description": "",
-      "dealPrice": 499,
-      "mrp": 1999,
-      "savings": 1500,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "5,405",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51CF4EwEADL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FX418XT8?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T02:07:01.985Z"
     }
   ]
 }
