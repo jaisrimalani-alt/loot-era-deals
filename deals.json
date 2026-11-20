@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T02:52:26.567Z",
+  "updatedAt": "2026-11-20T03:07:13.495Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DJQXKJ3B",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Men's Synthetic Leather Lightweight Comfortable Trendy Outdoor Casual Shoes Slip On Chelsea Boots",
+      "description": "",
+      "dealPrice": 498,
+      "mrp": 1999,
+      "savings": 1501,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "1,601",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71A-T7rYeGL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DJQXKJ3B?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T03:07:01.141Z"
+    },
     {
       "id": "amz:B006QHB88O",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61tSF77V8HL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DYV5X7ZS?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T16:37:08.877Z"
-    },
-    {
-      "id": "amz:B0FMRKZZ4S",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "boAt Type A to C 65W Fast Charging Cable with 480 Mbps Data Transfer, Tangle-Free Cable in Premium Nylon Braided Design & Durable Alumini...",
-      "description": "",
-      "dealPrice": 219,
-      "mrp": 799,
-      "savings": 580,
-      "discountPct": 73,
-      "rating": null,
-      "reviewCount": "28,383",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61b67y-xjYL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FMRKZZ4S?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T16:21:50.234Z"
     }
   ]
 }
