@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T08:07:29.136Z",
+  "updatedAt": "2026-11-20T08:22:12.841Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H599HQWG",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Jade Roller and Gua Sha Stone Set – Face Massage Roller for Skin Tightening, Puffiness Reduction & Wrinkle Care | Improves Elasticity | B...",
+      "description": "",
+      "dealPrice": 150,
+      "mrp": 699,
+      "savings": 549,
+      "discountPct": 79,
+      "rating": null,
+      "reviewCount": "333",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61qdoLkczYL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H599HQWG?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T08:22:01.261Z"
+    },
     {
       "id": "amz:B07KNMHVQL",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51BGiIthBAL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FN4GMKG4?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T20:36:49.203Z"
-    },
-    {
-      "id": "amz:B0DG3253XC",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Cetaphil Baby Mild Cleansing Bar for Newborns & Babies 4 x 100 gm | With Shea Butter, Avocado Oil & Olive Oil | Gentle, Hypoallergenic, P...",
-      "description": "",
-      "dealPrice": 510,
-      "mrp": 850,
-      "savings": 340,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "3,773",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51Lyk57F3QL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DG3253XC?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T20:22:29.078Z"
     }
   ]
 }
