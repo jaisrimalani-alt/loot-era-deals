@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T06:52:38.271Z",
+  "updatedAt": "2026-11-20T07:07:43.112Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GVYTHS94",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "VSK Professionals12% Glycolic Acid Cream Gel for Brightning, Anti-Pigmentation & Melasma Acne, Pimples & Dark Spots | Unclogs Pores, Smoo...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 499,
+      "savings": 300,
+      "discountPct": 60,
+      "rating": null,
+      "reviewCount": "549",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71ApN62C3pL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GVYTHS94?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T07:07:24.523Z"
+    },
     {
       "id": "amz:B0H33P37J7",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61D0pn6EzNL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0F7HBRNC5?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T19:37:01.890Z"
-    },
-    {
-      "id": "amz:B08M4T5FJG",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Vaseline Deep Moisture Body Lotion with Ceramide Hyaluron Fillers | 10X More Moisture for Cushion Soft Glowing Skin | For Dry Skin | Ligh...",
-      "description": "",
-      "dealPrice": 389,
-      "mrp": 850,
-      "savings": 461,
-      "discountPct": 54,
-      "rating": null,
-      "reviewCount": "73,901",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51JkyI01PKL._SL1000_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B08M4T5FJG?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T19:21:57.155Z"
     }
   ]
 }
