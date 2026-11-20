@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T05:07:44.117Z",
+  "updatedAt": "2026-11-20T05:21:59.818Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H2QGY7JK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "SaleOn Insulated Lunch Bag for Women & Men | Waterproof Soft Cooler Tote | Leakproof, Reusable with Pockets | Thermal Lunch Box for Offic...",
+      "description": "",
+      "dealPrice": 348,
+      "mrp": 999,
+      "savings": 651,
+      "discountPct": 65,
+      "rating": null,
+      "reviewCount": "1,925",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71es0n1kEyL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H2QGY7JK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T05:21:48.972Z"
+    },
     {
       "id": "amz:B0G1YVBFBY",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51yfw2JIxwL._SL1080_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BTD4S4XF?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T17:51:59.038Z"
-    },
-    {
-      "id": "amz:B0FP22HBH9",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "OpenTech® Military-Grade Tempered Glass Screen Protector Compatible for iPhone 17 with Edge to Edge Coverage - Case Friendly, Anti-scratc...",
-      "description": "",
-      "dealPrice": 298,
-      "mrp": 999,
-      "savings": 701,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "69,367",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/6151QO9IlAL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FP22HBH9?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T17:37:16.107Z"
     }
   ]
 }
