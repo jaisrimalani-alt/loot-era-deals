@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T18:52:33.430Z",
+  "updatedAt": "2026-11-20T19:07:26.494Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GCQCTBVQ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Hyaluronic SPF 50 PA++++ Sunscreen | In-Vivo Tested | Lightweight, Matte, No White Cast | Oily, Dry, Sensitive & Combination Skin | Women...",
+      "description": "",
+      "dealPrice": 140,
+      "mrp": 250,
+      "savings": 110,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "566",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51JGRDSkaPL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GCQCTBVQ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T19:07:17.874Z"
+    },
     {
       "id": "amz:B0C1T29G12",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/611zKzx9XKL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BYVTZH3Y?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T01:21:50.661Z"
-    },
-    {
-      "id": "amz:B0DWLXFQ97",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Analog Watch for Men with Round Dial & Water Resistant Man's Wrist Watches",
-      "description": "",
-      "dealPrice": 2997,
-      "mrp": 4995,
-      "savings": 1998,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "158",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71xXHpWCVFL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DWLXFQ97?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T01:06:49.980Z"
     }
   ]
 }
