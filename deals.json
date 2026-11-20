@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T03:07:13.495Z",
+  "updatedAt": "2026-11-20T03:22:17.444Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0D2DQ7NPF",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Sturlite Konvert Multiplug| 6-16 Amp| 2-Pin & 3-Pin Socket| Universal AC Travel Adapter| Premium Polycarbonate Body Socket| Compact Conve...",
+      "description": "",
+      "dealPrice": 129,
+      "mrp": 599,
+      "savings": 470,
+      "discountPct": 78,
+      "rating": null,
+      "reviewCount": "3,086",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61nCteuyiYL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0D2DQ7NPF?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T03:22:02.160Z"
+    },
     {
       "id": "amz:B0DJQXKJ3B",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91rSYoANEbL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B01N56X1EW?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T16:51:49.306Z"
-    },
-    {
-      "id": "amz:B0DYV5X7ZS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "L’Oréal Paris Hyaluron Pure 72H Purifying Shampoo, For oily scalp & dry hair with salicylic and hyaluronic acid 800mL + Conditioner 175 m...",
-      "description": "",
-      "dealPrice": 714,
-      "mrp": 1268,
-      "savings": 554,
-      "discountPct": 44,
-      "rating": null,
-      "reviewCount": "30",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61tSF77V8HL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DYV5X7ZS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T16:37:08.877Z"
     }
   ]
 }
