@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T02:37:39.210Z",
+  "updatedAt": "2026-11-20T02:52:26.567Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B006QHB88O",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "L'Oréal Paris Permanent Hair Colour, Radiant At-Home Hair Colour with up to 100% Grey Coverage, Pro-Keratin, Up to 8 Weeks of Colour, Exc...",
+      "description": "",
+      "dealPrice": 453,
+      "mrp": 769,
+      "savings": 316,
+      "discountPct": 41,
+      "rating": null,
+      "reviewCount": "27,844",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71rJ+Or2grL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B006QHB88O?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T02:52:16.575Z"
+    },
     {
       "id": "amz:B0H26GPSGK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61b67y-xjYL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FMRKZZ4S?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T16:21:50.234Z"
-    },
-    {
-      "id": "amz:B0DSFTRX77",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Samsung Galaxy 45W Travel Adaptor (Without Cable), Black",
-      "description": "",
-      "dealPrice": 770,
-      "mrp": 3499,
-      "savings": 2729,
-      "discountPct": 78,
-      "rating": null,
-      "reviewCount": "3,034",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61bB+v8qJqL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DSFTRX77?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T16:07:20.319Z"
     }
   ]
 }
