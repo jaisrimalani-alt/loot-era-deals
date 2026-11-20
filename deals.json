@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T11:52:31.060Z",
+  "updatedAt": "2026-11-20T12:07:38.904Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132717",
+      "type": "cuelinks",
+      "source": "RealMe",
+      "categoryName": "Brand Offer",
+      "title": "Act Fast: 28% Discount on realme P4s 5G!",
+      "description": "Enjoy a captivating 28% discount on the realme P4s 5G! Grab it today for just Rs. 34,999! Time is ticking; this deal is time-sensitive! Offer valid for all customers—join in!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F822",
+      "postedAt": "2026-11-20T12:07:38.900Z"
+    },
     {
       "id": "cue:132725",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61-EjtmNk5L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FJX3925X?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T22:06:48.298Z"
-    },
-    {
-      "id": "amz:B0H7C25FR7",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "ALTERNATE SCENTS BLACK OPUS Eau De Parfum for Women | 40ml | 30% Perfume Oil | Long Lasting Sweet Gourmand Vanilla Fragrance | French-Ins...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 999,
-      "savings": 700,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "123",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51Zst7MeFfL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H7C25FR7?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T21:52:01.153Z"
     }
   ]
 }
