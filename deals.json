@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T07:07:43.112Z",
+  "updatedAt": "2026-11-20T07:22:14.077Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BYVV7T8S",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Force 10 School Shoes for Kids Black - 13C",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 799,
+      "savings": 500,
+      "discountPct": 63,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/611zKzx9XKL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BYVV7T8S?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T07:22:01.781Z"
+    },
     {
       "id": "amz:B0GVYTHS94",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71FOccCOQmL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FC2Y3XGV?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T19:52:19.812Z"
-    },
-    {
-      "id": "amz:B0F7HBRNC5",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "ORTHO JOY Doctor Orthopedic Soft Slippers For Ladies Daily Use/mcr chappals for women/ortho slippers women",
-      "description": "",
-      "dealPrice": 416,
-      "mrp": 999,
-      "savings": 583,
-      "discountPct": 58,
-      "rating": null,
-      "reviewCount": "6,591",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61D0pn6EzNL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0F7HBRNC5?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T19:37:01.890Z"
     }
   ]
 }
