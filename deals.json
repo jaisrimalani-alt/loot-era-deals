@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T11:22:33.380Z",
+  "updatedAt": "2026-11-20T11:37:38.868Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132720",
+      "type": "cuelinks",
+      "source": "RealMe",
+      "categoryName": "Brand Offer",
+      "title": "Grab the Realme C100x Mobile Phone – 40% Off Today!",
+      "description": "Get 40% off on the realme C100x! Power through your day with an impressive 8000mAh battery. Swiftly recharge with 45W fast charging features. Claim your savings and pay just Rs. 17,999 for a short time!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F818",
+      "postedAt": "2026-11-20T11:37:38.863Z"
+    },
     {
       "id": "cue:132719",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/814GTqb4fEL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CP2K2XN8?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T21:36:59.697Z"
-    },
-    {
-      "id": "amz:B0CJJ9H4XK",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "DIZORO Compatible for iPhone 15 Case 6.1, Slim Liquid Silicone Case 3 Layers Full Covered Soft Gel Rubber Phone Case Protective Cover 6.1...",
-      "description": "",
-      "dealPrice": 339,
-      "mrp": 999,
-      "savings": 660,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "6,476",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51g5kI3dHiL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CJJ9H4XK?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T21:22:19.183Z"
     }
   ]
 }
