@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T05:52:36.803Z",
+  "updatedAt": "2026-11-20T06:07:43.534Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B079NHBD4D",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Lakme Peach Milk Ceramide Moisturizer with SPF 30 & Hyaluronic for Intense Moisturizing and Skin Protection from UVA/B Rays | for Dry, No...",
+      "description": "",
+      "dealPrice": 269,
+      "mrp": 520,
+      "savings": 251,
+      "discountPct": 48,
+      "rating": null,
+      "reviewCount": "21,678",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41lw3DxHzmL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B079NHBD4D?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T06:07:28.929Z"
+    },
     {
       "id": "cue:132689",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51a1LryFTZS._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B01HJI0FS2?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T19:07:00.827Z"
-    },
-    {
-      "id": "amz:B0G2B2QVLL",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Redmi 15C 5G Prime Edition Dusk Purple 6GB + 128GB | Massive 6000mAh Battery | Segment's Largest 17.53cm Display Up to 120Hz | MediaTek D...",
-      "description": "",
-      "dealPrice": 19999,
-      "mrp": 31999,
-      "savings": 12000,
-      "discountPct": 38,
-      "rating": null,
-      "reviewCount": "1,274",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/711q7oij2qL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G2B2QVLL?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T18:51:57.620Z"
     }
   ]
 }
