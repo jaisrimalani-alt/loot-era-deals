@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T07:37:40.434Z",
+  "updatedAt": "2026-11-20T07:52:31.872Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132709",
+      "type": "cuelinks",
+      "source": "Cashify",
+      "categoryName": "Brand Offer",
+      "title": "Discover the Refurbished iPhone 16: Yours for Only Rs. 56,799!",
+      "description": "Elevate your lifestyle with a high-performance refurbished iPhone. Prices begin at just Rs. 56,799. Act fast to grab this unbeatable deal! Don’t wait – upgrade your phone today!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.cashify.in%2Fbuy-refurbished-mobile-phones%2Frenewed-apple-iphone-16%2Fsale%2F147465",
+      "postedAt": "2026-11-20T07:52:31.869Z"
+    },
     {
       "id": "amz:B0BYVV7T8S",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/710rCSiRlwL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DV5C5FR2?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T20:06:57.947Z"
-    },
-    {
-      "id": "amz:B0FC2Y3XGV",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "boAt Airdopes 219, 4Mics ENx, 40H Battery, Best in Segment for Calling, App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones w...",
-      "description": "",
-      "dealPrice": 1099,
-      "mrp": 3990,
-      "savings": 2891,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "9,019",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71FOccCOQmL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FC2Y3XGV?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T19:52:19.812Z"
     }
   ]
 }
