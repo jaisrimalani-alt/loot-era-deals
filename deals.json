@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T12:52:32.916Z",
+  "updatedAt": "2026-11-20T13:07:37.670Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B08QSQ6QX5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Maybelline New York Fit Me Matte + Poreless Compact Powder, 330 Toffee",
+      "description": "",
+      "dealPrice": 143,
+      "mrp": 239,
+      "savings": 96,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "49,057",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61v-uYzPDfL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B08QSQ6QX5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T13:07:28.409Z"
+    },
     {
       "id": "cue:132736",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61B5hIAmvdL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0F7Y54PJX?tag=looteradea0b5-21",
       "postedAt": "2026-11-18T22:52:15.826Z"
-    },
-    {
-      "id": "amz:B0G6124JLC",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Modern White Flower Pot with Legs | Big Planter | Indoor Outdoor Planter for Home,Garden, Balcony Decor | Tall, Durable & Lightweight Pla...",
-      "description": "",
-      "dealPrice": 599,
-      "mrp": 999,
-      "savings": 400,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "597",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71aqPsHSEiL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G6124JLC?tag=looteradea0b5-21",
-      "postedAt": "2026-11-18T22:36:52.603Z"
     }
   ]
 }
