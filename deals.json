@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-20T19:07:26.494Z",
+  "updatedAt": "2026-11-20T19:22:32.584Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CFF8PS6Y",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Lifelong Gym Typhoon Shaker Bottle 700ml | BPA Free Protein Shaker Bottle for Gym | Sipper Water Bottle for Adults |100% Leakproof Bottle...",
+      "description": "",
+      "dealPrice": 159,
+      "mrp": 599,
+      "savings": 440,
+      "discountPct": 73,
+      "rating": null,
+      "reviewCount": "3,095",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61GIOln5g7L._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CFF8PS6Y?tag=looteradea0b5-21",
+      "postedAt": "2026-11-20T19:22:23.820Z"
+    },
     {
       "id": "amz:B0GCQCTBVQ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Zp3KE1XzL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CV48C7S3?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T01:37:21.125Z"
-    },
-    {
-      "id": "amz:B0BYVTZH3Y",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Unisex Gola-schv School Uniform Shoe",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 849,
-      "savings": 550,
-      "discountPct": 65,
-      "rating": null,
-      "reviewCount": "6,448",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/611zKzx9XKL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BYVTZH3Y?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T01:21:50.661Z"
     }
   ]
 }
