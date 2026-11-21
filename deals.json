@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T22:07:11.964Z",
+  "updatedAt": "2026-11-21T22:22:37.180Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BP2QZ9M3",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "BOSCH Professional GWS 800 Angle Grinder | 800W Power | No-load Speed of 11000 RPM | Versatile Cutting and Grinding Tool | M10 Grinding S...",
+      "description": "",
+      "dealPrice": 2827,
+      "mrp": 5500,
+      "savings": 2673,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "1,966",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71xW+4ya1qL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BP2QZ9M3?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T22:22:28.097Z"
+    },
     {
       "id": "amz:B0FZC3ZJTC",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61yAigpY34L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GHMNPT4Y?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T19:52:30.458Z"
-    },
-    {
-      "id": "amz:B0FTRGFH4F",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Silicone Clear Rubber Door Bumper Stopers Wall Protectors for Furniture, 6Piece Pack Self Adhesive Door Handle Knob Wall Shield Bumper Gu...",
-      "description": "",
-      "dealPrice": 343,
-      "mrp": 999,
-      "savings": 656,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "588",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61-9mYLznIL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FTRGFH4F?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T19:22:25.291Z"
     }
   ]
 }
