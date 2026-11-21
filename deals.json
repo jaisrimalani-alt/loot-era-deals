@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T11:22:40.142Z",
+  "updatedAt": "2026-11-21T11:37:38.035Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B005FYNT3G",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "SANDISK Cruzer Blade 32GB, USB 2.0, Flash drive, Pendrive, Red, 5Y Warranty (SDCZ50-032G-I35)",
+      "description": "",
+      "dealPrice": 585,
+      "mrp": 990,
+      "savings": 405,
+      "discountPct": 41,
+      "rating": null,
+      "reviewCount": "193,924",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ERDR3tATL._SL1400_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B005FYNT3G?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T11:37:30.103Z"
+    },
     {
       "id": "cue:132753",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61lETF6YbmL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BMZCZTYK?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T10:51:48.527Z"
-    },
-    {
-      "id": "cue:132659",
-      "type": "cuelinks",
-      "source": "Muscletech",
-      "categoryName": "Brand Offer",
-      "title": "Get 36% Off on MuscleTech’s Platinum Creatine Monohydrate Today!",
-      "description": "Snag 36% off on premium Platinum Creatine Monohydrate. Only Rs. 899 to level up your nutrition! Proven formula designed for muscle development. Order now.",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscletech.in%2Fshop%2Fmuscletech-platinum-creatine-monohydrate%2F",
-      "postedAt": "2026-11-19T10:36:48.700Z"
     }
   ]
 }
