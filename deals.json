@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T03:07:29.229Z",
+  "updatedAt": "2026-11-21T03:22:31.861Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H25X3W7F",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "ASUS TUF A15 (2026),Smartchoice,AMD Ryzen 7 8845HS,RTX 3050,16GB RAM (Upgradeable Upto 64GB),512GB SSD,FHD,15.6\"(39.6 cm),Win 11,M365 Bas...",
+      "description": "",
+      "dealPrice": 99990,
+      "mrp": 155990,
+      "savings": 56000,
+      "discountPct": 36,
+      "rating": null,
+      "reviewCount": "41",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81fyeRNwpKL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H25X3W7F?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T03:22:24.430Z"
+    },
     {
       "id": "amz:B0BRL2SLLD",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71CVv+-eVWL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BJF1GF29?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T04:21:48.080Z"
-    },
-    {
-      "id": "amz:B0BXSDJQNR",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Vaseline Gluta-Hya Dewy Radiance Lotion for Face & Body | Gives Brighter Skin | Glutathione & Niacinamide Infused Moisturizer, 200ml",
-      "description": "",
-      "dealPrice": 236,
-      "mrp": 415,
-      "savings": 179,
-      "discountPct": 43,
-      "rating": null,
-      "reviewCount": "10,522",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51foLQC5-7L._SL1000_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BXSDJQNR?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T04:07:20.992Z"
     }
   ]
 }
