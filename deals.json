@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T02:22:41.292Z",
+  "updatedAt": "2026-11-21T02:37:10.322Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B08LQRXXNB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Homestrap Set of 6 Non-Woven Printed Saree Cover/Cloth Storage/Wardrobe Organizer For Clothes with Transparent Window (Grey)(Shark Tank F...",
+      "description": "",
+      "dealPrice": 369,
+      "mrp": 649,
+      "savings": 280,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "20,835",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/91Q4zeSaBpL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B08LQRXXNB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T02:37:02.051Z"
+    },
     {
       "id": "amz:B0C6XK6RX9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71-0TIDbuSL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GWW13HC3?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T03:52:27.082Z"
-    },
-    {
-      "id": "amz:B09NKQTDXQ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Men's Lace-up Formal Shoes",
-      "description": "",
-      "dealPrice": 771,
-      "mrp": 1299,
-      "savings": 528,
-      "discountPct": 41,
-      "rating": null,
-      "reviewCount": "4,298",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/710+f7XX2FL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B09NKQTDXQ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T03:36:45.858Z"
     }
   ]
 }
