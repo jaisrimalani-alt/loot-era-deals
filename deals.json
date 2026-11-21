@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T12:36:56.926Z",
+  "updatedAt": "2026-11-21T12:52:33.448Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132759",
+      "type": "cuelinks",
+      "source": "Adventuras",
+      "categoryName": "Brand Offer",
+      "title": "Limited Time: Save 20% on Long Winter Jackets!",
+      "description": "Get ready to save up to 20% on long trekking winter jackets! Available for men and women adventurers. Starting at only Rs. 9999! Shop today and take on the wild in style!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.adventuras.in%2Fcollections%2Fhiking-and-trekking-long-mid-jacket",
+      "postedAt": "2026-11-21T12:52:33.445Z"
+    },
     {
       "id": "cue:132756",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51y6ZRXvr1L._SL1000_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GPN9R146?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T12:37:21.868Z"
-    },
-    {
-      "id": "amz:B0FY6C3GXS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil Gold | 5X Aloe Vera With Coconut | Makes Hair Sooperr Soft | 600ml",
-      "description": "",
-      "dealPrice": 270,
-      "mrp": 540,
-      "savings": 270,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "6,537",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51+kQrPoi3L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FY6C3GXS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T12:21:47.913Z"
     }
   ]
 }
