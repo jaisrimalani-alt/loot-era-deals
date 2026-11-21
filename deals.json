@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T04:22:36.935Z",
+  "updatedAt": "2026-11-21T04:37:12.654Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B00DPIAPAO",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "ISISPHARMA Sensylia 24h Fortifying Moisturising Cream | Sensitive, normal to dry skin | 40ml",
+      "description": "",
+      "dealPrice": 1350,
+      "mrp": 3375,
+      "savings": 2025,
+      "discountPct": 60,
+      "rating": null,
+      "reviewCount": "388",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/614xeZX+qjL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B00DPIAPAO?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T04:37:04.722Z"
+    },
     {
       "id": "amz:B07KNM95JK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Gu1ib5-RL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0D2R26HFV?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T04:52:21.612Z"
-    },
-    {
-      "id": "amz:B0CQWGGL7N",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Cartoon Design Warm Slipper for Women's Flip Flops Winter Fashion Slipper for House and Bedroom Slides & Home Indoor Outdoor (1 Pair)",
-      "description": "",
-      "dealPrice": 474,
-      "mrp": 1299,
-      "savings": 825,
-      "discountPct": 64,
-      "rating": null,
-      "reviewCount": "827",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51ymyPu08ML._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CQWGGL7N?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T04:36:48.785Z"
     }
   ]
 }
