@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T12:52:33.448Z",
+  "updatedAt": "2026-11-21T13:07:39.668Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132762",
+      "type": "cuelinks",
+      "source": "Adventuras",
+      "categoryName": "Brand Offer",
+      "title": "Limited Time Offer: Up to 20% Off on Women’s Fleece Jackets!",
+      "description": "Take advantage of this amazing 20% discount! Fleece jackets from just Rs. 2599. Explore multiple color options to suit your taste. Claim this deal while it lasts!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.adventuras.in%2Fcollections%2Fwomen-fleece",
+      "postedAt": "2026-11-21T13:07:39.666Z"
+    },
     {
       "id": "cue:132759",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fshapercult.com%2F%3Futm_source%3Daffiliate%26utm_medium%3Doptimise_2353888_20261119cldrzkte4br6%26utm_campaign%3Dcampaign%26sskey%3De578a45b47c04d5d90630aefa470b341",
       "postedAt": "2026-11-19T12:37:23.343Z"
-    },
-    {
-      "id": "amz:B0GPN9R146",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Happi Planet Magic Eraser | Pack of 4 | No Scratch Multi-Surface Cleaning Sponge | Removes 100+ Tough Stains | Just Add Water | Walls, Ki...",
-      "description": "",
-      "dealPrice": 244,
-      "mrp": 444,
-      "savings": 200,
-      "discountPct": 45,
-      "rating": null,
-      "reviewCount": "4,323",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51y6ZRXvr1L._SL1000_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GPN9R146?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T12:37:21.868Z"
     }
   ]
 }
