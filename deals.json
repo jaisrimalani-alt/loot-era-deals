@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T10:22:14.546Z",
+  "updatedAt": "2026-11-21T10:37:12.424Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HL2ZG13P",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Car Scratch Remover Touch Up Paint Pen Automotive Car Paint Pen 2 In 1 Car Paint Scratch Repair for Deep Scratches Special-Purpose Car Paint",
+      "description": "",
+      "dealPrice": 189,
+      "mrp": 499,
+      "savings": 310,
+      "discountPct": 62,
+      "rating": null,
+      "reviewCount": "2,177",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61UANPGbF8L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HL2ZG13P?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T10:37:03.243Z"
+    },
     {
       "id": "amz:B07WYMJPVS",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51bfIuFGCAL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0B3XX8P9C?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T09:51:48.341Z"
-    },
-    {
-      "id": "amz:B0H2WVGDM4",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Motorola Moto g37 5G (Pantone Nautical Blue, 64GB Storage, 4GB RAM) | 5G Smartphone with Large Display and Dual Camera | Long Lasting Bat...",
-      "description": "",
-      "dealPrice": 14499,
-      "mrp": 24999,
-      "savings": 10500,
-      "discountPct": 42,
-      "rating": null,
-      "reviewCount": "138",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51lpW8TUkhL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H2WVGDM4?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T09:37:04.856Z"
     }
   ]
 }
