@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T05:21:57.608Z",
+  "updatedAt": "2026-11-21T05:37:30.310Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HN8ZC2JN",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "ASUS ExpertBook P1 with 1 Yr ADP (i3 14th Gen) Intel Core 3 100U - (8 GB/512 GB SSD/Windows 11 Home) P1503CVAI-S70005WS Thin and Light La...",
+      "description": "",
+      "dealPrice": 54990,
+      "mrp": 99990,
+      "savings": 45000,
+      "discountPct": 45,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51gEEu7splL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HN8ZC2JN?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T05:37:21.961Z"
+    },
     {
       "id": "amz:B0FLQCZS3N",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61XskE6pL1L._SL1466_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GF7KP4R9?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T06:07:00.626Z"
-    },
-    {
-      "id": "amz:B0H5JGYYJD",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Vn care Heel Protector Pads for Pain Relief for Men & Women | Silicone Gel Heel Pads for Plantar Fasciitis, Heel Pain & Heel Spur | Ortho...",
-      "description": "",
-      "dealPrice": 399,
-      "mrp": 999,
-      "savings": 600,
-      "discountPct": 60,
-      "rating": null,
-      "reviewCount": "678",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/612vDJsGhSL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H5JGYYJD?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T05:52:07.278Z"
     }
   ]
 }
