@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T02:52:34.047Z",
+  "updatedAt": "2026-11-21T03:07:29.229Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BRL2SLLD",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "YOHO Drizzle Soft Slippers for Women, Mild Acupressure, Lightweight, Anti Skid & Slip, Diabetic Footwear for Woman, Home Wear Bathroom Ch...",
+      "description": "",
+      "dealPrice": 559,
+      "mrp": 1499,
+      "savings": 940,
+      "discountPct": 63,
+      "rating": null,
+      "reviewCount": "4,263",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51rHn5Af9+L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BRL2SLLD?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T03:07:20.263Z"
+    },
     {
       "id": "amz:B08LQRXXNB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51foLQC5-7L._SL1000_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BXSDJQNR?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T04:07:20.992Z"
-    },
-    {
-      "id": "amz:B0GWW13HC3",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "SANDISK 64GB Ultra Go microSD Card UHS-I, Up to 140MB/s, Full HD Video, Memory Card for Android Smartphones, Tablets, 10-Year Warranty",
-      "description": "",
-      "dealPrice": 1598,
-      "mrp": 4300,
-      "savings": 2702,
-      "discountPct": 63,
-      "rating": null,
-      "reviewCount": "432",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71-0TIDbuSL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GWW13HC3?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T03:52:27.082Z"
     }
   ]
 }
