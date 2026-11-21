@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T15:07:39.741Z",
+  "updatedAt": "2026-11-21T15:22:13.070Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H8XQ49B8",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Nothing Phone (4b) 5G (Black, 8GB RAM, 128GB Storage) | Snapdragon 6 Gen 4 Octa-Core Processor | 50MP + 8MP Dual Rear Camera | 16MP Front...",
+      "description": "",
+      "dealPrice": 30745,
+      "mrp": 54999,
+      "savings": 24254,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "116",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51py9rdEJaL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H8XQ49B8?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T15:22:03.620Z"
+    },
     {
       "id": "amz:B0C1SZS2VQ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/618iVfNHdzL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FCMMCG5L?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T16:07:33.522Z"
-    },
-    {
-      "id": "amz:B0F5HNW218",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Volt S1 Smart Watch for Man and Women Latest with 1.83\" Display, Silicone Strap, BT Calling, 100+ Sports Modes, Heart Rate, SpO2, IP68, I...",
-      "description": "",
-      "dealPrice": 1299,
-      "mrp": 2995,
-      "savings": 1696,
-      "discountPct": 57,
-      "rating": null,
-      "reviewCount": "612",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71bGSvPHeNL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0F5HNW218?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T15:22:07.163Z"
     }
   ]
 }
