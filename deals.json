@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T01:37:32.445Z",
+  "updatedAt": "2026-11-21T01:51:56.923Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BX49ZSZ7",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Men Casual Slipon Canvas Shoes - Grey",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 499,
+      "savings": 200,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "669",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/612p4ArEeNL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BX49ZSZ7?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T01:51:48.346Z"
+    },
     {
       "id": "amz:B01MYXWDF4",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/716k5lgZ6JL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DPNKGV71?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T03:22:24.207Z"
-    },
-    {
-      "id": "amz:B0FC2YFSN4",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "boAt Airdopes 219, 4Mics ENx, 40H Battery, Best in Segment for Calling, App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones w...",
-      "description": "",
-      "dealPrice": 1099,
-      "mrp": 3990,
-      "savings": 2891,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "9,056",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61oPWuyuT2L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FC2YFSN4?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T03:07:18.971Z"
     }
   ]
 }
