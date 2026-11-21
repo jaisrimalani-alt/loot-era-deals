@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T09:37:29.859Z",
+  "updatedAt": "2026-11-21T09:52:37.284Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132752",
+      "type": "cuelinks",
+      "source": "Bacca Bucci",
+      "categoryName": "Brand Offer",
+      "title": "Avail EaseOn Walking Shoes at Flat 60% Off – Now Rs. 1999!",
+      "description": "Enjoy 60% discount on EaseOn Walking Shoes! Grab them for just Rs. 1999! Lightweight EVA cushioning designed for all-day comfort. Don’t wait, order now.",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbaccabucci.com%2Fproducts%2Feaseon",
+      "postedAt": "2026-11-21T09:52:37.280Z"
+    },
     {
       "id": "cue:132751",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71aQY8YRhtL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GS5LP4BC?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T08:51:48.343Z"
-    },
-    {
-      "id": "amz:B0HKMRG5XR",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Acer Swift Pro AI PC,Intel Core Ultra 5 Processor 125H,Office 2024 + M365 Basic,16GB LPDDR5 RAM/512 SSD, 35.56cm /14\" WUXGA IPS Display, ...",
-      "description": "",
-      "dealPrice": 74600,
-      "mrp": 99500,
-      "savings": 24900,
-      "discountPct": 25,
-      "rating": null,
-      "reviewCount": "3",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71vq1mGb7ZL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HKMRG5XR?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T08:22:29.344Z"
     }
   ]
 }
