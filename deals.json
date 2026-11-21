@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T01:07:42.614Z",
+  "updatedAt": "2026-11-21T01:22:29.993Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GL7QWQF1",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "ZEBRONICS 2026 Launch 50W Bluetooth Speaker, Dual 5.7cm Drivers, 8.9cm Subwoofer, Upto 5Hrs Playback, Dual Passive Radiators, RGB Modes, ...",
+      "description": "",
+      "dealPrice": 3302,
+      "mrp": 6999,
+      "savings": 3697,
+      "discountPct": 53,
+      "rating": null,
+      "reviewCount": "263",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71eiY81Eg3L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GL7QWQF1?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T01:22:21.139Z"
+    },
     {
       "id": "amz:B0FHWVNVVK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71sn3LFQj0L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0F3SX585X?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T02:36:50.590Z"
-    },
-    {
-      "id": "amz:B0CXTFGZP3",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Analog Watch for Pair with Round Dial & Water Resistant Couple's Wrist Watches",
-      "description": "",
-      "dealPrice": 3777,
-      "mrp": 6295,
-      "savings": 2518,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "179",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81F9DRgGG0L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CXTFGZP3?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T02:21:45.921Z"
     }
   ]
 }
