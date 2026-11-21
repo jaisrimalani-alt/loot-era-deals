@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T06:07:34.176Z",
+  "updatedAt": "2026-11-21T06:21:56.031Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DF7J38B1",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Women's Home Flip-Flops & Slippers Winter Indoor Non-Slip Soft Fur Flip Flop Slides And Slippers Cute Bear Flip Flops for Women",
+      "description": "",
+      "dealPrice": 265,
+      "mrp": 999,
+      "savings": 734,
+      "discountPct": 73,
+      "rating": null,
+      "reviewCount": "200",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/31TvSPswtpL._AC_UL800_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DF7J38B1?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T06:21:46.984Z"
+    },
     {
       "id": "amz:B0GSVWPN7W",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Vt4AF9WYL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GS7363JJ?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T07:22:29.301Z"
-    },
-    {
-      "id": "amz:B0BYVW8T21",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Liberty Unisex Gola-schv School Uniform Shoe",
-      "description": "",
-      "dealPrice": 543,
-      "mrp": 999,
-      "savings": 456,
-      "discountPct": 46,
-      "rating": null,
-      "reviewCount": "6,452",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/611zKzx9XKL._SL1000_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BYVW8T21?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T07:07:12.447Z"
     }
   ]
 }
