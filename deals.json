@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T10:07:38.375Z",
+  "updatedAt": "2026-11-21T10:22:14.546Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07WYMJPVS",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "iQOO Z11 Lite 44W 5G (Solar Flame, 4GB RAM, 64GB Storage)",
+      "description": "",
+      "dealPrice": 17499,
+      "mrp": 30999,
+      "savings": 13500,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "211",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61+l5bzv9hL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07WYMJPVS?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T10:22:06.326Z"
+    },
     {
       "id": "cue:132752",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51lpW8TUkhL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H2WVGDM4?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T09:37:04.856Z"
-    },
-    {
-      "id": "amz:B0GS5LP4BC",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "LUMONY® Soft Silicone Bath Brush Set | Long Handle Back Scrubber + Body Scrubber + Scalp Massager + Face Massager | Super Exfoliating & L...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 999,
-      "savings": 800,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "458",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71aQY8YRhtL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GS5LP4BC?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T08:51:48.343Z"
     }
   ]
 }
