@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T13:07:39.668Z",
+  "updatedAt": "2026-11-21T13:22:38.764Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132758",
+      "type": "cuelinks",
+      "source": "Sugar Cosmetics",
+      "categoryName": "Brand Offer",
+      "title": "Explore Mists and Serums From Just Rs. 199!",
+      "description": "Indulge in luxurious skincare without breaking the bank. Mists and serums are priced from Rs. 199! Solve your skincare dilemmas with style. Order yours right away!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.sugarcosmetics.com%2Fcollections%2Fmists-serums",
+      "postedAt": "2026-11-21T13:22:38.761Z"
+    },
     {
       "id": "cue:132762",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71iPyqi-bNL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0F92LTLS6?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T12:51:50.180Z"
-    },
-    {
-      "id": "cue:132676",
-      "type": "cuelinks",
-      "source": "Shapercult",
-      "categoryName": "Brand Offer",
-      "title": "Get FREE Tote Bag When You Order Over Rs. 3999!",
-      "description": "Receive a chic tote bag with purchases of Rs. 3999 and above! Browse from shapewear to lingerie. Perfect fit for every size—find yours now! Don't miss out, order today!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fshapercult.com%2F%3Futm_source%3Daffiliate%26utm_medium%3Doptimise_2353888_20261119cldrzkte4br6%26utm_campaign%3Dcampaign%26sskey%3De578a45b47c04d5d90630aefa470b341",
-      "postedAt": "2026-11-19T12:37:23.343Z"
     }
   ]
 }
