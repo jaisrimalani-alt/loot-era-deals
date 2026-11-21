@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T04:37:12.654Z",
+  "updatedAt": "2026-11-21T04:52:37.030Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GPKJTG8T",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "0.1% Retinol Night Cream | Repairs Wrinkles & Fine Lines with Vitamin C",
+      "description": "",
+      "dealPrice": 140,
+      "mrp": 250,
+      "savings": 110,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "404",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ushF41blL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GPKJTG8T?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T04:52:28.706Z"
+    },
     {
       "id": "amz:B00DPIAPAO",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/510lEv3eifL._SL1000_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B09DC9B71T?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T05:22:19.695Z"
-    },
-    {
-      "id": "amz:B0D2R26HFV",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Samsung Original 25W USB Type-C Travel Adaptor Without Cable for Google Pixel, Xiaomi, Motorola, iPhone, Samsung Galaxy Tab S/A Series, G...",
-      "description": "",
-      "dealPrice": 575,
-      "mrp": 1699,
-      "savings": 1124,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "25,196",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Gu1ib5-RL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0D2R26HFV?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T04:52:21.612Z"
     }
   ]
 }
