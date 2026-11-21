@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T11:37:38.035Z",
+  "updatedAt": "2026-11-21T11:52:32.613Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FBG1D7KK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Careforce Ortho Slippers for Women Daily Use, EVA Cushioned Anti-Slip Sliders & Flip Flops | Arch Support Chappal for Daily Comfort & All...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 799,
+      "savings": 600,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "275",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/510sE7C5XYL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FBG1D7KK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T11:52:24.060Z"
+    },
     {
       "id": "amz:B005FYNT3G",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Flevi.in%2Fcollections%2Fblack-friday-sale",
       "postedAt": "2026-11-19T11:37:25.651Z"
-    },
-    {
-      "id": "amz:B0BMZCZTYK",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "TCCO Natural Sneaker & Shoe Cleaner Wipes - 1 Packs of 80 - Portable Sneakers Cleaner Shoe Wipes Quickly Remove Dirt & Stains - These Dis...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 999,
-      "savings": 800,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "3,559",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61lETF6YbmL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BMZCZTYK?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T10:51:48.527Z"
     }
   ]
 }
