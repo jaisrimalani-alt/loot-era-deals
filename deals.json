@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T13:52:16.329Z",
+  "updatedAt": "2026-11-21T14:07:32.406Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FN7XTVLH",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Zebronics 2.5\" SSD/HDD Enclosure, Max. 4TB Storage, Upto 5Gbps Transfer Speed, Tool-Free Slide Design, USB to Micro B Connector, Windows,...",
+      "description": "",
+      "dealPrice": 269,
+      "mrp": 1299,
+      "savings": 1030,
+      "discountPct": 79,
+      "rating": null,
+      "reviewCount": "2,243",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61FtLo-tm4L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FN7XTVLH?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T14:07:22.397Z"
+    },
     {
       "id": "cue:132754",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Sm3PYWxZL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GDG2JFDK?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T14:37:21.873Z"
-    },
-    {
-      "id": "cue:132685",
-      "type": "cuelinks",
-      "source": "Flower Aura",
-      "categoryName": "Brand Offer",
-      "title": "Unlock Great Gifts for International Men's Day: Up to 40% Off!",
-      "description": "Celebrate the men in your life with up to 40% discount on lovely gifts. Explore thoughtful selections made just for him. Limited-time offer—act fast to secure yours! Everyone's welcome to take advantage of these great sa",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.floweraura.com%2Fmens-day%3Fref%3Dhome_banner_pos1_desk",
-      "postedAt": "2026-11-19T14:07:32.841Z"
     }
   ]
 }
