@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T03:22:31.861Z",
+  "updatedAt": "2026-11-21T03:37:11.227Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07KNM95JK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Foxin FTC 12A Laser Printer Toner Cartridge Compatible with HP 1020, M1005, 1018, 1010, 1012, 1015, 1022, 1022N, 1022NW, 3015, 3020, 3030...",
+      "description": "",
+      "dealPrice": 399,
+      "mrp": 1250,
+      "savings": 851,
+      "discountPct": 68,
+      "rating": null,
+      "reviewCount": "4,549",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/7124KVJ0mlL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07KNM95JK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T03:37:00.570Z"
+    },
     {
       "id": "amz:B0H25X3W7F",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51ymyPu08ML._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CQWGGL7N?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T04:36:48.785Z"
-    },
-    {
-      "id": "amz:B0BJF1GF29",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Analog, Day Date Functioning, Strap Watch for Men",
-      "description": "",
-      "dealPrice": 284,
-      "mrp": 1499,
-      "savings": 1215,
-      "discountPct": 81,
-      "rating": null,
-      "reviewCount": "3,603",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71CVv+-eVWL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BJF1GF29?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T04:21:48.080Z"
     }
   ]
 }
