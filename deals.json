@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T10:51:56.664Z",
+  "updatedAt": "2026-11-21T11:07:13.716Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07B9CK88C",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Classics Analog Couple Watches Set, Round Dial & Water Resistant, Wrist Watch, Anniversary & Wedding Gift for Couples",
+      "description": "",
+      "dealPrice": 2529,
+      "mrp": 4995,
+      "savings": 2466,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "803",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81EtHS6-AWL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07B9CK88C?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T11:07:05.284Z"
+    },
     {
       "id": "amz:B0F8W8W4PT",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/711WuyQVdHL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07QVSQP7Z?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T10:36:47.137Z"
-    },
-    {
-      "id": "cue:132655",
-      "type": "cuelinks",
-      "source": "Sirona",
-      "categoryName": "Brand Offer",
-      "title": "Sirona Offer | Teens Body Mist - Now Only Rs. 299!",
-      "description": "Sirona offers Teens Body Mist at Rs. 299Formulated to be lightweight and sticky-free. Experience 48 hours of odor control. Order now and indulge in freshness!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fthesirona.com%2Fproducts%2Fteens-bloom-mist-100-ml",
-      "postedAt": "2026-11-19T10:22:32.281Z"
     }
   ]
 }
