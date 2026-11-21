@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T21:52:35.653Z",
+  "updatedAt": "2026-11-21T22:07:11.964Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FZC3ZJTC",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Lifelong Vande Bharat Toy Train 43 Pcs Track Set for Kids, Electric Toy Train Set, 2 AAA Battery Toy Train, Lights & Sounds, Multi-Layout...",
+      "description": "",
+      "dealPrice": 579,
+      "mrp": 1599,
+      "savings": 1020,
+      "discountPct": 64,
+      "rating": null,
+      "reviewCount": "264",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71lE0uIBSoL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FZC3ZJTC?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T22:07:01.758Z"
+    },
     {
       "id": "amz:B0FJMB2NZM",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61-9mYLznIL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FTRGFH4F?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T19:22:25.291Z"
-    },
-    {
-      "id": "amz:B07DN93B9R",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Analog Slim Two Hands Leather Strap Watches for Men",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 2199,
-      "savings": 1900,
-      "discountPct": 86,
-      "rating": null,
-      "reviewCount": "16,185",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81CwsCvUWqL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B07DN93B9R?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T17:37:08.192Z"
     }
   ]
 }
