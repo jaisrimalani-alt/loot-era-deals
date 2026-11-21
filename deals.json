@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T02:07:39.378Z",
+  "updatedAt": "2026-11-21T02:22:41.292Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0C6XK6RX9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Zebronics MU240 Micro USB charging cable, 18W max, 2.4A, Rapid charge support, 1 meter length, Data transfer, 10000+ bends tested (White)",
+      "description": "",
+      "dealPrice": 89,
+      "mrp": 299,
+      "savings": 210,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "768",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/514mP8bV+mL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0C6XK6RX9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T02:22:32.510Z"
+    },
     {
       "id": "amz:B0BX49ZSZ7",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/710+f7XX2FL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B09NKQTDXQ?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T03:36:45.858Z"
-    },
-    {
-      "id": "amz:B0DPNKGV71",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Analog Watch for Woman Available in Multicolor Water Resistant Women's Wrist Watches",
-      "description": "",
-      "dealPrice": 2637,
-      "mrp": 4395,
-      "savings": 1758,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "87",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/716k5lgZ6JL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DPNKGV71?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T03:22:24.207Z"
     }
   ]
 }
