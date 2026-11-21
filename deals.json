@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T07:37:41.364Z",
+  "updatedAt": "2026-11-21T07:51:58.941Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B006LXBF0E",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Lakme Liquid Nail Polish Remover With Vitamin E, Strengthens Nails & Removes Nail Paint Easily, 27ml (OG Collection)",
+      "description": "",
+      "dealPrice": 60,
+      "mrp": 110,
+      "savings": 50,
+      "discountPct": 45,
+      "rating": null,
+      "reviewCount": "16,389",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41Xqew8T5+L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B006LXBF0E?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T07:51:49.320Z"
+    },
     {
       "id": "amz:B0DF7J38B1",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/511fPrnY+bL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0B6Y3FNV7?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T07:52:01.810Z"
-    },
-    {
-      "id": "amz:B0GS7363JJ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Seagate One Touch Portable 4TB External HDD USB-C Backup Password Protection Data Recovery (STNR4000410)",
-      "description": "",
-      "dealPrice": 18849,
-      "mrp": 36999,
-      "savings": 18150,
-      "discountPct": 49,
-      "rating": null,
-      "reviewCount": "6",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Vt4AF9WYL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GS7363JJ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T07:22:29.301Z"
     }
   ]
 }
