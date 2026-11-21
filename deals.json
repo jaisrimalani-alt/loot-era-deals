@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T10:37:12.424Z",
+  "updatedAt": "2026-11-21T10:51:56.664Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0F8W8W4PT",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Dove Peptide Bond Strength Leave-in Crème Serum 52 ml |Enriched with 5% PROTEIN PEPTIDE Complex| Lightweight Texutre | Continuous Damage ...",
+      "description": "",
+      "dealPrice": 269,
+      "mrp": 449,
+      "savings": 180,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "553",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41pipwroFEL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0F8W8W4PT?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T10:51:49.044Z"
+    },
     {
       "id": "amz:B0HL2ZG13P",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fthesirona.com%2Fproducts%2Fteens-bloom-mist-100-ml",
       "postedAt": "2026-11-19T10:22:32.281Z"
-    },
-    {
-      "id": "amz:B0B3XX8P9C",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "JBL Flip Essential 2, Wireless Portable Bluetooth Speaker with Deep Base, IPX7 Water & Dustproof (Without Mic, Black)",
-      "description": "",
-      "dealPrice": 5999,
-      "mrp": 9999,
-      "savings": 4000,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "10,084",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51bfIuFGCAL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0B3XX8P9C?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T09:51:48.341Z"
     }
   ]
 }
