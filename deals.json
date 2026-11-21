@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T01:22:29.993Z",
+  "updatedAt": "2026-11-21T01:37:32.445Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B01MYXWDF4",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Mens Drexler Stainless Steel Chronograph Watch - AX2600 (Black_Free Size)",
+      "description": "",
+      "dealPrice": 9323,
+      "mrp": 13495,
+      "savings": 4172,
+      "discountPct": 31,
+      "rating": null,
+      "reviewCount": "600",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71cbpeo-c0L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B01MYXWDF4?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T01:37:24.011Z"
+    },
     {
       "id": "amz:B0GL7QWQF1",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61oPWuyuT2L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FC2YFSN4?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T03:07:18.971Z"
-    },
-    {
-      "id": "amz:B0F3SX585X",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Invisible Height Increase Shoe Insole Air Cushions 3cm Make You Taller, Supportive Comfort Foot Care Ankle Support Cushion - For Men And ...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 899,
-      "savings": 600,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "3,518",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71sn3LFQj0L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0F3SX585X?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T02:36:50.590Z"
     }
   ]
 }
