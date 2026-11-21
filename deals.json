@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T18:37:37.351Z",
+  "updatedAt": "2026-11-21T18:52:28.144Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GRSJNR56",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Motivational Floral A5 Notebook Diary | 192 pages Softbound",
+      "description": "",
+      "dealPrice": 148,
+      "mrp": 599,
+      "savings": 451,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "67",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71HtPDV8vxL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GRSJNR56?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T18:52:19.358Z"
+    },
     {
       "id": "amz:B0H8XQ49B8",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61uZdQ73OvL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FW4WKL5X?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T17:22:36.189Z"
-    },
-    {
-      "id": "amz:B0FCMMCG5L",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Lifelong Cuppy Bubble Blaster Gun Toy for Kids | Compact Electric Bubble Machine with 1 Bubble Solution | One-Touch Operation, Durable Bu...",
-      "description": "",
-      "dealPrice": 349,
-      "mrp": 999,
-      "savings": 650,
-      "discountPct": 65,
-      "rating": null,
-      "reviewCount": "810",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/618iVfNHdzL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FCMMCG5L?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T16:07:33.522Z"
     }
   ]
 }
