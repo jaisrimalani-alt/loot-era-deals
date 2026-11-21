@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T05:07:15.331Z",
+  "updatedAt": "2026-11-21T05:21:57.608Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FLQCZS3N",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Wipro 3 Way Multiplug Adaptor with 3 Universal Sockets |Inbuilt Surge Protection & Power Supply Indicator | Compact & Light Weight | 6Amp...",
+      "description": "",
+      "dealPrice": 159,
+      "mrp": 270,
+      "savings": 111,
+      "discountPct": 41,
+      "rating": null,
+      "reviewCount": "213",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71jk6kcCw7L._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FLQCZS3N?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T05:21:47.238Z"
+    },
     {
       "id": "amz:B0FBFXPY1N",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/612vDJsGhSL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H5JGYYJD?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T05:52:07.278Z"
-    },
-    {
-      "id": "amz:B0CQWGVDM1",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Cartoon Design Warm Slipper for Women's Flip Flops Winter Fashion Slipper for House and Bedroom Slides & Home Indoor Outdoor (1 Pair)",
-      "description": "",
-      "dealPrice": 474,
-      "mrp": 1299,
-      "savings": 825,
-      "discountPct": 64,
-      "rating": null,
-      "reviewCount": "827",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51ymyPu08ML._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CQWGVDM1?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T05:37:02.102Z"
     }
   ]
 }
