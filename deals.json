@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T07:51:58.941Z",
+  "updatedAt": "2026-11-21T08:07:28.555Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DRPGB1GS",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "ABRO PUF-450 DIY PU Foam Sealant Spray White Fast Drying Large Holes Crack Wall Gap Filing Multipurpose Expandable Waterproof No Shrinkag...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 650,
+      "savings": 351,
+      "discountPct": 54,
+      "rating": null,
+      "reviewCount": "1,141",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/612NpDQ8JTL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DRPGB1GS?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T08:07:19.758Z"
+    },
     {
       "id": "amz:B006LXBF0E",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Cab5jGLXL._SL1000_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BVYZ7K6K?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T08:07:20.829Z"
-    },
-    {
-      "id": "amz:B0B6Y3FNV7",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "L'Oreal Paris Hyaluron Moisture 72H Conditioner - Hyaluronic Acid, 175ml",
-      "description": "",
-      "dealPrice": 200,
-      "mrp": 345,
-      "savings": 145,
-      "discountPct": 42,
-      "rating": null,
-      "reviewCount": "25,700",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/511fPrnY+bL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0B6Y3FNV7?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T07:52:01.810Z"
     }
   ]
 }
