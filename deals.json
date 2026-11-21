@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T09:22:36.241Z",
+  "updatedAt": "2026-11-21T09:37:29.859Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132751",
+      "type": "cuelinks",
+      "source": "Bacca Bucci",
+      "categoryName": "Brand Offer",
+      "title": "Grab 38% Off on Stylish Mercer Suede Leather Loafers Today!",
+      "description": "Get 38% off on Mercer Suede Leather Loafers. Grab yours today at an unbeatable price of Rs. 2499! Each pair is crafted with genuine suede leather for a luxe look. Enjoy all-day comfort with the OrthoLite sockliner.",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbaccabucci.com%2Fproducts%2Fmercer-suede-leather-loafers_bbmc4153a",
+      "postedAt": "2026-11-21T09:37:29.855Z"
+    },
     {
       "id": "amz:B0DRPGB1GS",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71vq1mGb7ZL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HKMRG5XR?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T08:22:29.344Z"
-    },
-    {
-      "id": "amz:B0BVYZ7K6K",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Liberty Boys School Uniform Shoe",
-      "description": "",
-      "dealPrice": 509,
-      "mrp": 1299,
-      "savings": 790,
-      "discountPct": 61,
-      "rating": null,
-      "reviewCount": "2,747",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Cab5jGLXL._SL1000_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BVYZ7K6K?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T08:07:20.829Z"
     }
   ]
 }
