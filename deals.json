@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T04:52:37.030Z",
+  "updatedAt": "2026-11-21T05:07:15.331Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FBFXPY1N",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Careforce Ortho Slippers for Women Daily Use, EVA Cushioned Anti-Slip Sliders & Flip Flops | Arch Support Chappal for Daily Comfort & All...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 799,
+      "savings": 600,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "275",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/510sE7C5XYL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FBFXPY1N?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T05:07:05.855Z"
+    },
     {
       "id": "amz:B0GPKJTG8T",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51ymyPu08ML._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CQWGVDM1?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T05:37:02.102Z"
-    },
-    {
-      "id": "amz:B09DC9B71T",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Vaseline Cocoa Glow Serum In Lotion, 600 ml | 100% Pure Cocoa & Shea Butter for Glowing & Soft Skin",
-      "description": "",
-      "dealPrice": 396,
-      "mrp": 930,
-      "savings": 534,
-      "discountPct": 57,
-      "rating": null,
-      "reviewCount": "53,700",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/510lEv3eifL._SL1000_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B09DC9B71T?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T05:22:19.695Z"
     }
   ]
 }
