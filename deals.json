@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T20:22:35.520Z",
+  "updatedAt": "2026-11-21T20:37:24.496Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FJMB2NZM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Simple Kind to Skin Refreshing Facial Wash | 100% Soap-Free Gentle Cleanser with Vitamin E & Glycerin | for All Skin Types | Perfect for ...",
+      "description": "",
+      "dealPrice": 419,
+      "mrp": 749,
+      "savings": 330,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "39,152",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41ot8W5Wn9L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FJMB2NZM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T20:37:15.190Z"
+    },
     {
       "id": "amz:B0GRSJNR56",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81CwsCvUWqL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07DN93B9R?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T17:37:08.192Z"
-    },
-    {
-      "id": "amz:B0FW4WKL5X",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Portronics Vayu 9.0 Portable & Rechargeable Tyre Inflator with 2-in-1 Cordless & Corded Modes, 3×2000 mAh Battery, LED Display, Auto Shut...",
-      "description": "",
-      "dealPrice": 2199,
-      "mrp": 3999,
-      "savings": 1800,
-      "discountPct": 45,
-      "rating": null,
-      "reviewCount": "1,890",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61uZdQ73OvL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FW4WKL5X?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T17:22:36.189Z"
     }
   ]
 }
