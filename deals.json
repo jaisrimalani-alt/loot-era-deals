@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T05:37:30.310Z",
+  "updatedAt": "2026-11-21T05:52:13.999Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GSVWPN7W",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "OUTSUP Wax Powder for Hair Removal for Women & Men | Painless Hair Removal with No harmful chemicals, Irritation, Skin Rashes | Chocolate...",
+      "description": "",
+      "dealPrice": 209,
+      "mrp": 899,
+      "savings": 690,
+      "discountPct": 77,
+      "rating": null,
+      "reviewCount": "291",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61uzojwvB5L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GSVWPN7W?tag=looteradea0b5-21",
+      "postedAt": "2026-11-21T05:52:05.455Z"
+    },
     {
       "id": "amz:B0HN8ZC2JN",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/611zKzx9XKL._SL1000_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BYVW8T21?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T07:07:12.447Z"
-    },
-    {
-      "id": "amz:B0GF7KP4R9",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "DIZORO® Compatible with iPhone 13 Case, Liquid Silicone Case, Full Body Protective Cover, Shockproof, Slim Phone Case, Anti-Scratch Soft ...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 899,
-      "savings": 600,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "6,481",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61XskE6pL1L._SL1466_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GF7KP4R9?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T06:07:00.626Z"
     }
   ]
 }
