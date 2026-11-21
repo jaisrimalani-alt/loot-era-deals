@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-21T12:22:34.664Z",
+  "updatedAt": "2026-11-21T12:36:56.926Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132756",
+      "type": "cuelinks",
+      "source": "Sugar Cosmetics",
+      "categoryName": "Brand Offer",
+      "title": "Claim Your FREE Gold Essentials Kit with Orders Above ₹1299!",
+      "description": "Enjoy a stunning FREE Gold Essentials Kit with your order! Minimum order value of ₹1299 applies. Uncover our empowering beauty products. Don't miss out, shop today!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "TREAT1299",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.sugarcosmetics.com%2Fcollections%2Ftreat1299",
+      "postedAt": "2026-11-21T12:36:56.923Z"
+    },
     {
       "id": "amz:B0FBG1D7KK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51+kQrPoi3L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FY6C3GXS?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T12:21:47.913Z"
-    },
-    {
-      "id": "cue:132673",
-      "type": "cuelinks",
-      "source": "Levis",
-      "categoryName": "Brand Offer",
-      "title": "Massive Levi's Black Friday Discounts: Save Up to 65%!",
-      "description": "Take advantage of spectacular deals—up to 65% off Levi's items! Explore trendy styles at prices you'll love. Don't wait—these offers are fleeting! Everyone's welcome to grab these savings!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "LEVISFIRST",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Flevi.in%2Fcollections%2Fblack-friday-sale",
-      "postedAt": "2026-11-19T11:37:25.651Z"
     }
   ]
 }
