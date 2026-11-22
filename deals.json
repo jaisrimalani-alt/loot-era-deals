@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T09:22:31.813Z",
+  "updatedAt": "2026-11-22T09:37:36.188Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0D8BL4SD2",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Instant Duo Shoe Cleaner Kit with two 150ml Sneaker Cleaner Foam & All-Purpose Brush | Daily Shoes Care Kit for Leather, Canvas, Rubber, ...",
+      "description": "",
+      "dealPrice": 378,
+      "mrp": 699,
+      "savings": 321,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "1,183",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71FPTQlD5FL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0D8BL4SD2?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T09:37:25.455Z"
+    },
     {
       "id": "amz:B0CDGYCZF9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Vco1v-TNL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07KNMHVQL?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T08:07:18.222Z"
-    },
-    {
-      "id": "cue:132709",
-      "type": "cuelinks",
-      "source": "Cashify",
-      "categoryName": "Brand Offer",
-      "title": "Discover the Refurbished iPhone 16: Yours for Only Rs. 56,799!",
-      "description": "Elevate your lifestyle with a high-performance refurbished iPhone. Prices begin at just Rs. 56,799. Act fast to grab this unbeatable deal! Don’t wait – upgrade your phone today!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.cashify.in%2Fbuy-refurbished-mobile-phones%2Frenewed-apple-iphone-16%2Fsale%2F147465",
-      "postedAt": "2026-11-20T07:52:31.869Z"
     }
   ]
 }
