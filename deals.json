@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T06:52:37.908Z",
+  "updatedAt": "2026-11-22T07:07:35.152Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0D4N2934T",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Minecraft Java & Bedrock Edition Bundle PC Code (No CD/DVD)",
+      "description": "",
+      "dealPrice": 2099,
+      "mrp": 3999,
+      "savings": 1900,
+      "discountPct": 48,
+      "rating": null,
+      "reviewCount": "523",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71FJEbzhezL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0D4N2934T?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T07:07:25.146Z"
+    },
     {
       "id": "amz:B0GHXWGJFS",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41lw3DxHzmL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B079NHBD4D?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T06:07:28.929Z"
-    },
-    {
-      "id": "cue:132689",
-      "type": "cuelinks",
-      "source": "Boat",
-      "categoryName": "Brand Offer",
-      "title": "Unmissable Flash Sale: Get Up to 80% Off + Extra 5% Off",
-      "description": "Check out stylish boAt tech—earphones, speakers, and much more at fantastic discountsAvailable to all users—join in on the excitement! Don’t forget to use the coupon code for an extra 5% OffSeize the moment—Grab This Dea",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "BOATHEAD",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.boat-lifestyle.com%2Fpages%2Fgreat-saving-days",
-      "postedAt": "2026-11-20T05:37:26.689Z"
     }
   ]
 }
