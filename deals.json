@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T07:37:38.250Z",
+  "updatedAt": "2026-11-22T07:52:30.456Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B08TV2P1N8",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "boAt Rockerz 255 Pro+, 60H Battery, Fast Charge, IPX7, Dual Pair,Low Latency,Magnetic Buds, App Support, in Ear Wireless Bluetooth Neckba...",
+      "description": "",
+      "dealPrice": 1199,
+      "mrp": 3990,
+      "savings": 2791,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "208,310",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61+SW9nDTEL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B08TV2P1N8?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T07:52:19.608Z"
+    },
     {
       "id": "amz:B0FVFBZ4YF",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71ApN62C3pL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GVYTHS94?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T07:07:24.523Z"
-    },
-    {
-      "id": "amz:B0H33P37J7",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Arch Support Gel Insoles for Men & Women – Shoe Insoles for High Arches, Plantar Fasciitis, Arch Pain & Foot Pain Relief, Massaging Gel, ...",
-      "description": "",
-      "dealPrice": 399,
-      "mrp": 1299,
-      "savings": 900,
-      "discountPct": 69,
-      "rating": null,
-      "reviewCount": "36",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61ZkN4AyWoL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H33P37J7?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T06:22:03.216Z"
     }
   ]
 }
