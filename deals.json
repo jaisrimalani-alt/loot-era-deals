@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T01:37:42.131Z",
+  "updatedAt": "2026-11-22T01:52:11.184Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CJJ6VP34",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "DIZORO Compatible for iPhone 15 Case 6.1, Slim Liquid Silicone Case 3 Layers Full Covered Soft Gel Rubber Phone Case Protective Cover 6.1...",
+      "description": "",
+      "dealPrice": 295,
+      "mrp": 899,
+      "savings": 604,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "6,506",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/613BPe5Pa2L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CJJ6VP34?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T01:52:01.022Z"
+    },
     {
       "id": "amz:B0G5PN6HHY",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71bR5g9nWGL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H26GPSGK?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T21:22:04.876Z"
-    },
-    {
-      "id": "amz:B01ECMFDMQ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "VMS Professional Deluxe Heavy-Duty A3 Hot & Cold Laminator",
-      "description": "",
-      "dealPrice": 3399,
-      "mrp": 6000,
-      "savings": 2601,
-      "discountPct": 43,
-      "rating": null,
-      "reviewCount": "1,870",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61uQ7ujWlnL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B01ECMFDMQ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T21:07:07.234Z"
     }
   ]
 }
