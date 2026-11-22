@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T03:22:39.437Z",
+  "updatedAt": "2026-11-22T03:37:30.994Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H74SZKHV",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Xiaomi Power Bank 5i 20000mAh 67W Turbo Charging PD 3.0 & PPS|in-Built Cable|12 Layer Protection|Digital Display|Triple Output Ports|Supp...",
+      "description": "",
+      "dealPrice": 3299,
+      "mrp": 5999,
+      "savings": 2700,
+      "discountPct": 45,
+      "rating": null,
+      "reviewCount": "16,398",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/513FWGu6CWL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H74SZKHV?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T03:37:21.158Z"
+    },
     {
       "id": "amz:B09VTDMRY7",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71A-T7rYeGL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DJQXKJ3B?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T03:07:01.141Z"
-    },
-    {
-      "id": "amz:B006QHB88O",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "L'Oréal Paris Permanent Hair Colour, Radiant At-Home Hair Colour with up to 100% Grey Coverage, Pro-Keratin, Up to 8 Weeks of Colour, Exc...",
-      "description": "",
-      "dealPrice": 453,
-      "mrp": 769,
-      "savings": 316,
-      "discountPct": 41,
-      "rating": null,
-      "reviewCount": "27,844",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71rJ+Or2grL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B006QHB88O?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T02:52:16.575Z"
     }
   ]
 }
