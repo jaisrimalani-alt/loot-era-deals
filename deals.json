@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T05:37:22.299Z",
+  "updatedAt": "2026-11-22T05:52:12.390Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B09NKS6ZG6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Men's Lace-up Formal Shoes",
+      "description": "",
+      "dealPrice": 771,
+      "mrp": 1299,
+      "savings": 528,
+      "discountPct": 41,
+      "rating": null,
+      "reviewCount": "4,310",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/710+f7XX2FL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B09NKS6ZG6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T05:52:03.241Z"
+    },
     {
       "id": "amz:B0FCFXML6Z",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71es0n1kEyL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H2QGY7JK?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T05:21:48.972Z"
-    },
-    {
-      "id": "amz:B0G1YVBFBY",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Portronics AAA Lithius Type C Rechargeable Batteries, Pack of 2, Lithium Ion Cell Composition, Upto 440mAh Capacity, Low Self Discharge, ...",
-      "description": "",
-      "dealPrice": 320,
-      "mrp": 699,
-      "savings": 379,
-      "discountPct": 54,
-      "rating": null,
-      "reviewCount": "2,906",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61llQegf+nL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G1YVBFBY?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T04:52:26.713Z"
     }
   ]
 }
