@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T07:52:30.456Z",
+  "updatedAt": "2026-11-22T08:07:24.137Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GTRTR6VK",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Parachute Advansed Gold Vitamin E with Pure Coconut Hair Oil | 475ml| Soft & Smooth Hair | For All Hair Type| No Paraben & Silicones",
+      "description": "",
+      "dealPrice": 225,
+      "mrp": 400,
+      "savings": 175,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "1,937",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51mMuJsTHKL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GTRTR6VK?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T08:07:15.526Z"
+    },
     {
       "id": "amz:B08TV2P1N8",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/611zKzx9XKL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BYVV7T8S?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T07:22:01.781Z"
-    },
-    {
-      "id": "amz:B0GVYTHS94",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "VSK Professionals12% Glycolic Acid Cream Gel for Brightning, Anti-Pigmentation & Melasma Acne, Pimples & Dark Spots | Unclogs Pores, Smoo...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 499,
-      "savings": 300,
-      "discountPct": 60,
-      "rating": null,
-      "reviewCount": "549",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71ApN62C3pL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GVYTHS94?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T07:07:24.523Z"
     }
   ]
 }
