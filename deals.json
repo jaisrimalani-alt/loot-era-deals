@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T04:37:35.276Z",
+  "updatedAt": "2026-11-22T04:51:59.901Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DZBYCFP6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Women's Wink Framed | Ladies purse | Gift For Girl, Women",
+      "description": "",
+      "dealPrice": 849,
+      "mrp": 2699,
+      "savings": 1850,
+      "discountPct": 69,
+      "rating": null,
+      "reviewCount": "315",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71mqtxaxkvL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DZBYCFP6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T04:51:51.214Z"
+    },
     {
       "id": "amz:B0H74SZKHV",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61nCteuyiYL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0D2DQ7NPF?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T03:22:02.160Z"
-    },
-    {
-      "id": "amz:B0DJQXKJ3B",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Men's Synthetic Leather Lightweight Comfortable Trendy Outdoor Casual Shoes Slip On Chelsea Boots",
-      "description": "",
-      "dealPrice": 498,
-      "mrp": 1999,
-      "savings": 1501,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "1,601",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71A-T7rYeGL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DJQXKJ3B?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T03:07:01.141Z"
     }
   ]
 }
