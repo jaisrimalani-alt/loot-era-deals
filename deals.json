@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T18:52:34.432Z",
+  "updatedAt": "2026-11-22T19:07:11.072Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CNPQWW2G",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Cellux 2X Ultra Cover Deep Brown Spray Paint | DIY, Quick Drying with Premium Gloss Finish for Metal, Wood, Wall & other Surfaces - 400 ML",
+      "description": "",
+      "dealPrice": 134,
+      "mrp": 250,
+      "savings": 116,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "3,482",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61-a1EYCdoL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CNPQWW2G?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T19:07:00.626Z"
+    },
     {
       "id": "amz:B0GQV4ZTPF",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F820",
       "postedAt": "2026-11-20T11:22:33.377Z"
-    },
-    {
-      "id": "amz:B0FF4XBM5N",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "ZEBRONICS Wireless Mouse, 2.4GHz, 3200 DPI, 3 Buttons, Comfortable & Ergonomic, USB Nano Receiver, Power-Saving Mode, Works on Most Surfa...",
-      "description": "",
-      "dealPrice": 229,
-      "mrp": 699,
-      "savings": 470,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "4,385",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61aOe5y2ARL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FF4XBM5N?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T09:22:17.692Z"
     }
   ]
 }
