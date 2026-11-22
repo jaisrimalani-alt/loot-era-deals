@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T06:07:35.017Z",
+  "updatedAt": "2026-11-22T06:22:28.633Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CR7N9MD9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Portronics Konnect X USB to Type C Cable with 3A Output, Fast Charging & Data Transfer, Nylon Braided, Aluminium Alloy Shell, 1M Length c...",
+      "description": "",
+      "dealPrice": 150,
+      "mrp": 599,
+      "savings": 449,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "10,500",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61qsIhub23L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CR7N9MD9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T06:22:18.989Z"
+    },
     {
       "id": "amz:B09NKS6ZG6",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71FNoF-RlSL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FNDD3TCX?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T05:37:25.175Z"
-    },
-    {
-      "id": "amz:B0H2QGY7JK",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "SaleOn Insulated Lunch Bag for Women & Men | Waterproof Soft Cooler Tote | Leakproof, Reusable with Pockets | Thermal Lunch Box for Offic...",
-      "description": "",
-      "dealPrice": 348,
-      "mrp": 999,
-      "savings": 651,
-      "discountPct": 65,
-      "rating": null,
-      "reviewCount": "1,925",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71es0n1kEyL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H2QGY7JK?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T05:21:48.972Z"
     }
   ]
 }
