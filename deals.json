@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T01:52:11.184Z",
+  "updatedAt": "2026-11-22T02:07:09.635Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B09VTDMRY7",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "FUR JADEN Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys ...",
+      "description": "",
+      "dealPrice": 699,
+      "mrp": 2000,
+      "savings": 1301,
+      "discountPct": 65,
+      "rating": null,
+      "reviewCount": "17,301",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61egMfcDWlL._SL1385_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B09VTDMRY7?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T02:07:00.212Z"
+    },
     {
       "id": "amz:B0CJJ6VP34",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71rJ+Or2grL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B006QHB88O?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T02:52:16.575Z"
-    },
-    {
-      "id": "amz:B0H26GPSGK",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "LUMONY® Pack of 2 - Spray Bottle 500 ML Transparent Clear Empty Water Spray Bottles,Water Liquid Sprayer Set for Face, Hair, Garden, Sani...",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 599,
-      "savings": 450,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "1,198",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71bR5g9nWGL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H26GPSGK?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T21:22:04.876Z"
     }
   ]
 }
