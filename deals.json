@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T00:07:36.192Z",
+  "updatedAt": "2026-11-22T00:22:38.868Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G5PN6HHY",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "VW Visio World 8.5 kg semiautomatic Top Load Washer Only with Powerful Wash, V8 Supreme-Wash, Black/Grey",
+      "description": "",
+      "dealPrice": 5290,
+      "mrp": 14999,
+      "savings": 9709,
+      "discountPct": 65,
+      "rating": null,
+      "reviewCount": "3,255",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71LDQbpdJqL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G5PN6HHY?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T00:22:28.390Z"
+    },
     {
       "id": "amz:B0BP2QZ9M3",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61uQ7ujWlnL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B01ECMFDMQ?tag=looteradea0b5-21",
       "postedAt": "2026-11-19T21:07:07.234Z"
-    },
-    {
-      "id": "amz:B0GHMNPT4Y",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "THR3E STROKES Essentials Cat Eye Magnetic for Nails Double-Head Nail Magnet Sturdy Cat Eye Magnet for Nails with Round Magnetic Bead Mult...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 1999,
-      "savings": 1800,
-      "discountPct": 90,
-      "rating": null,
-      "reviewCount": "126",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61yAigpY34L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GHMNPT4Y?tag=looteradea0b5-21",
-      "postedAt": "2026-11-19T19:52:30.458Z"
     }
   ]
 }
