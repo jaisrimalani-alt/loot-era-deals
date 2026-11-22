@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T08:52:33.946Z",
+  "updatedAt": "2026-11-22T09:07:28.870Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CDGYCZF9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Zapcase Back Case Cover for OnePlus Nord CE 3 5G | Compatible for OnePlus Nord CE 3 5G Back Case Cover | Matte Case | Liquid Silicon Magi...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 899,
+      "savings": 600,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "39,086",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81Im3Q7AUAL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CDGYCZF9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T09:07:19.228Z"
+    },
     {
       "id": "amz:B0GTRTR6VK",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.cashify.in%2Fbuy-refurbished-mobile-phones%2Frenewed-apple-iphone-16%2Fsale%2F147465",
       "postedAt": "2026-11-20T07:52:31.869Z"
-    },
-    {
-      "id": "amz:B0BYVV7T8S",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Force 10 School Shoes for Kids Black - 13C",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 799,
-      "savings": 500,
-      "discountPct": 63,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/611zKzx9XKL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BYVV7T8S?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T07:22:01.781Z"
     }
   ]
 }
