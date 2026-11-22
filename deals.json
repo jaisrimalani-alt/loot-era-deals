@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T09:52:42.601Z",
+  "updatedAt": "2026-11-22T10:07:33.069Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G2H4R5YB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Kratos TW02 Ear Buds Wireless with 60H Playtime, Noise Isolation & Clear Calls, Bluetooth Earbuds with Voice Assistant, Ear Buds with Blu...",
+      "description": "",
+      "dealPrice": 499,
+      "mrp": 1999,
+      "savings": 1500,
+      "discountPct": 75,
+      "rating": null,
+      "reviewCount": "4,750",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61IgAVQe1yL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G2H4R5YB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T10:07:24.316Z"
+    },
     {
       "id": "amz:B0D8BL4SD2",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61qdoLkczYL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H599HQWG?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T08:22:01.261Z"
-    },
-    {
-      "id": "amz:B07KNMHVQL",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "FOXIN FTC 88A/CC388A Black Laser Toner Cartridge Compatible for HP Laserjet Printer M1136, MFP, P1007, P1106, P1108, P1008, M1213nf, MFP,...",
-      "description": "",
-      "dealPrice": 409,
-      "mrp": 1150,
-      "savings": 741,
-      "discountPct": 64,
-      "rating": null,
-      "reviewCount": "3,104",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Vco1v-TNL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B07KNMHVQL?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T08:07:18.222Z"
     }
   ]
 }
