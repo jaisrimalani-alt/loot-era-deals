@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T06:22:28.633Z",
+  "updatedAt": "2026-11-22T06:37:25.316Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GHXWGJFS",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Cetaphil Oily Skin Cleanser Face Wash 59ml | Deep Cleansing for Oily, Acne Prone Skin | Gentle Foaming, Non-Irritating, pH Balanced | Der...",
+      "description": "",
+      "dealPrice": 206,
+      "mrp": 359,
+      "savings": 153,
+      "discountPct": 43,
+      "rating": null,
+      "reviewCount": "21,065",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61667lS0E9L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GHXWGJFS?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T06:37:15.359Z"
+    },
     {
       "id": "amz:B0CR7N9MD9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.boat-lifestyle.com%2Fpages%2Fgreat-saving-days",
       "postedAt": "2026-11-20T05:37:26.689Z"
-    },
-    {
-      "id": "amz:B0FNDD3TCX",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "AGARO Royal Electric Spin Scrubber, Cleaning Brush Scrubber for Home, 400RPM/Mins - 8 Replaceable Brush Heads - 90Mins Work Time,3 Adjust...",
-      "description": "",
-      "dealPrice": 2899,
-      "mrp": 5999,
-      "savings": 3100,
-      "discountPct": 52,
-      "rating": null,
-      "reviewCount": "4,244",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71FNoF-RlSL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FNDD3TCX?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T05:37:25.175Z"
     }
   ]
 }
