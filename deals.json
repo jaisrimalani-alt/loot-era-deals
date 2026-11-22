@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T19:22:44.349Z",
+  "updatedAt": "2026-11-22T19:37:12.475Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FN8B5RLL",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Silicone Socks Full Size Socks,Moisturizing Socks Foot Anti Cracking Care Skin Socks For Dry Feet Cracked Heel Repair Heel Softener Foot ...",
+      "description": "",
+      "dealPrice": 150,
+      "mrp": 499,
+      "savings": 349,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "127",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/31a1tV2HSgL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FN8B5RLL?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T19:37:01.963Z"
+    },
     {
       "id": "amz:B0CNPQWW2G",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F818",
       "postedAt": "2026-11-20T11:37:38.863Z"
-    },
-    {
-      "id": "cue:132719",
-      "type": "cuelinks",
-      "source": "RealMe",
-      "categoryName": "Brand Offer",
-      "title": "Get Your realme C100i Mobile Phone for 38% Off!",
-      "description": "Score a significant 38% discount on the realme C100i Mobile Phone. Purchase it today for only Rs. 15,999. This exclusive deal is time-sensitive! All customers can take advantage of this offer!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F820",
-      "postedAt": "2026-11-20T11:22:33.377Z"
     }
   ]
 }
