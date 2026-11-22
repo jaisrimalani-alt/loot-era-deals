@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T19:52:34.407Z",
+  "updatedAt": "2026-11-22T20:07:34.551Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HLPDXC9L",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Fire-Boltt Fire-Lens Dune Smart Glasses, Bluetooth Calling & Open-Ear Bluetooth Sunglasses with HD Sound & Smart Audio Touch Controls Voi...",
+      "description": "",
+      "dealPrice": 1599,
+      "mrp": 8999,
+      "savings": 7400,
+      "discountPct": 82,
+      "rating": null,
+      "reviewCount": "12,861",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51FvwTFi--L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HLPDXC9L?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T20:07:26.969Z"
+    },
     {
       "id": "amz:B0FN8B5RLL",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.igp.com%2Fluxe",
       "postedAt": "2026-11-20T11:52:31.057Z"
-    },
-    {
-      "id": "cue:132720",
-      "type": "cuelinks",
-      "source": "RealMe",
-      "categoryName": "Brand Offer",
-      "title": "Grab the Realme C100x Mobile Phone – 40% Off Today!",
-      "description": "Get 40% off on the realme C100x! Power through your day with an impressive 8000mAh battery. Swiftly recharge with 45W fast charging features. Claim your savings and pay just Rs. 17,999 for a short time!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F818",
-      "postedAt": "2026-11-20T11:37:38.863Z"
     }
   ]
 }
