@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T12:07:34.537Z",
+  "updatedAt": "2026-11-22T12:22:00.222Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0HMJSPTW6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Acer Aspire Pro,Intel Core Ultra 5 Processor 125H,Office 2024+M365 Basic,16GB DDR5 RAM/512GB SSD, 35.56 cm /14.0\" WUXGA IPS Display, Win ...",
+      "description": "",
+      "dealPrice": 69990,
+      "mrp": 119999,
+      "savings": 50009,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "1",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71I9wylBRwL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0HMJSPTW6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T12:21:50.035Z"
+    },
     {
       "id": "amz:B0G2H4R5YB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.cashify.in%2Fbuy-refurbished-mobile-phones%2Frenewed-apple-iphone-12%2Fsale%2F217902",
       "postedAt": "2026-11-20T08:37:39.730Z"
-    },
-    {
-      "id": "amz:B0H599HQWG",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Jade Roller and Gua Sha Stone Set – Face Massage Roller for Skin Tightening, Puffiness Reduction & Wrinkle Care | Improves Elasticity | B...",
-      "description": "",
-      "dealPrice": 150,
-      "mrp": 699,
-      "savings": 549,
-      "discountPct": 79,
-      "rating": null,
-      "reviewCount": "333",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61qdoLkczYL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H599HQWG?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T08:22:01.261Z"
     }
   ]
 }
