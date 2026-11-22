@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T07:22:38.244Z",
+  "updatedAt": "2026-11-22T07:37:38.250Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FVFBZ4YF",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "EMBOX Extension Board 5 Meter Cable with Switches | 2000 W Extension Cord 4 Universal Sockets | Spike Guard, LED Indicator",
+      "description": "",
+      "dealPrice": 399,
+      "mrp": 999,
+      "savings": 600,
+      "discountPct": 60,
+      "rating": null,
+      "reviewCount": "919",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51FzUoTd0pL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FVFBZ4YF?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T07:37:28.892Z"
+    },
     {
       "id": "amz:B0D4N2934T",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61ZkN4AyWoL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H33P37J7?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T06:22:03.216Z"
-    },
-    {
-      "id": "amz:B079NHBD4D",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Lakme Peach Milk Ceramide Moisturizer with SPF 30 & Hyaluronic for Intense Moisturizing and Skin Protection from UVA/B Rays | for Dry, No...",
-      "description": "",
-      "dealPrice": 269,
-      "mrp": 520,
-      "savings": 251,
-      "discountPct": 48,
-      "rating": null,
-      "reviewCount": "21,678",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41lw3DxHzmL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B079NHBD4D?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T06:07:28.929Z"
     }
   ]
 }
