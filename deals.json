@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T22:52:34.303Z",
+  "updatedAt": "2026-11-22T23:07:13.009Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FSRNBCMT",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "SWAPKART (Pack of 5, 39 Inches) Door Guard Bottom Seal Strip Gap Filler for Doors,Soundproof, Noise Reduction, Energy Saving, Dust & Inse...",
+      "description": "",
+      "dealPrice": 182,
+      "mrp": 499,
+      "savings": 317,
+      "discountPct": 64,
+      "rating": null,
+      "reviewCount": "1,060",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71FQK6abekL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FSRNBCMT?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T23:07:04.469Z"
+    },
     {
       "id": "amz:B0HLPDXC9L",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F822",
       "postedAt": "2026-11-20T12:07:38.900Z"
-    },
-    {
-      "id": "cue:132725",
-      "type": "cuelinks",
-      "source": "Indian Gifts Portal",
-      "categoryName": "Brand Offer",
-      "title": "Elevate Your Gifting with Luxury Options From Rs. 525",
-      "description": "Browse our stunning collection of online luxury gifts. Gifting starts elegantly at Rs. 525. Seize these special offers while they last! Everyone can shop—join in the celebration!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.igp.com%2Fluxe",
-      "postedAt": "2026-11-20T11:52:31.057Z"
     }
   ]
 }
