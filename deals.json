@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T05:07:34.365Z",
+  "updatedAt": "2026-11-22T05:22:31.499Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0D78XSMSM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "pTron Bassbuds Astra in-Ear TWS Earbuds w/Stereo Sound, 50Hrs Playtime, Stereo Calls, Custom EQ, Mobile App, BTv5.3 Headphones, Touch Con...",
+      "description": "",
+      "dealPrice": 699,
+      "mrp": 2899,
+      "savings": 2200,
+      "discountPct": 76,
+      "rating": null,
+      "reviewCount": "3,921",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51n+XKUSplL._SL1200_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0D78XSMSM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T05:22:22.922Z"
+    },
     {
       "id": "amz:B0DZBYCFP6",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71A-T7rYeGL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DJQXHKZQ?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T04:37:18.909Z"
-    },
-    {
-      "id": "amz:B0D2DQ7NPF",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Sturlite Konvert Multiplug| 6-16 Amp| 2-Pin & 3-Pin Socket| Universal AC Travel Adapter| Premium Polycarbonate Body Socket| Compact Conve...",
-      "description": "",
-      "dealPrice": 129,
-      "mrp": 599,
-      "savings": 470,
-      "discountPct": 78,
-      "rating": null,
-      "reviewCount": "3,086",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61nCteuyiYL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0D2DQ7NPF?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T03:22:02.160Z"
     }
   ]
 }
