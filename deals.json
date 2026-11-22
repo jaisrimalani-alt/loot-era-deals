@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T14:37:41.244Z",
+  "updatedAt": "2026-11-22T14:51:57.175Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GQV4ZTPF",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Parachute Advansed Protein Shampoo with Coconut Milk & Rosemary | Up to 96% Hair Fall Reduction & up to 23X Hair Fall Control | Protein L...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 370,
+      "savings": 171,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "1,113",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71A3Hg9-wZL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GQV4ZTPF?tag=looteradea0b5-21",
+      "postedAt": "2026-11-22T14:51:47.329Z"
+    },
     {
       "id": "amz:B0HMJSPTW6",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61aOe5y2ARL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FF4XBM5N?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T09:22:17.692Z"
-    },
-    {
-      "id": "cue:132710",
-      "type": "cuelinks",
-      "source": "Cashify",
-      "categoryName": "Brand Offer",
-      "title": "Get the Premium Refurbished Apple iPhone 12 at Just Rs. 21,199!",
-      "description": "Level up with a refurbished Apple iPhone 12 packed with advanced features. This unbeatable price is available to everyone! Enjoy the quality and reliability of Apple for less. Shop now to unlock this exclusive opportunit",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.cashify.in%2Fbuy-refurbished-mobile-phones%2Frenewed-apple-iphone-12%2Fsale%2F217902",
-      "postedAt": "2026-11-20T08:37:39.730Z"
     }
   ]
 }
