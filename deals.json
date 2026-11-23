@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T04:37:25.307Z",
+  "updatedAt": "2026-11-23T04:52:15.795Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B00A0VCJPI",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "TP-Link TL-WA850RE N300 Wireless Range Extender, Broadband/Wi-Fi Extender, Wi-Fi Booster/Hotspot with 1 Ethernet Port, Plug and Play, Bui...",
+      "description": "",
+      "dealPrice": 1499,
+      "mrp": 2499,
+      "savings": 1000,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "206,917",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51V9QaJnTxL._SL1200_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B00A0VCJPI?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T04:52:06.348Z"
+    },
     {
       "id": "amz:B0DJY485RB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71kjAokz-yL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0F3JM1YP5?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T14:52:33.936Z"
-    },
-    {
-      "id": "amz:B0GZWNTWXB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "LUMONY® Makeup Pouch Bag PVC Travel Toiletries Organizer Cosmetic Bags Wash Bag Pouch for Travel Kit Toiletry Bag Portable Organizer Case...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 599,
-      "savings": 400,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "2,815",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41fOhjSykeL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GZWNTWXB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T14:22:32.530Z"
     }
   ]
 }
