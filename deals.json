@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T02:52:34.667Z",
+  "updatedAt": "2026-11-23T03:07:00.378Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B008FWZGSG",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Samsung Original Type C to C Cable - 3.28 Feet (1 Meter), White",
+      "description": "",
+      "dealPrice": 294,
+      "mrp": 599,
+      "savings": 305,
+      "discountPct": 51,
+      "rating": null,
+      "reviewCount": "4,272",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51ga1DANA8L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B008FWZGSG?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T03:06:51.133Z"
+    },
     {
       "id": "amz:B0H3KZ4VQR",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61v-uYzPDfL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B08QSQ6QX5?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T13:07:28.409Z"
-    },
-    {
-      "id": "cue:132736",
-      "type": "cuelinks",
-      "source": "Hkvitals",
-      "categoryName": "Brand Offer",
-      "title": "Get 29% Off on Glutathione Effervescent with Vitamin C!",
-      "description": "Get 29% off on Glutathione Effervescent with Vitamin C. Grab this irresistible offer for just Rs. 595. Hurry, this deal is time-sensitive! Open to everyone – why wait?",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.hkvitals.com%2Fproducts%2Fglutathione",
-      "postedAt": "2026-11-20T12:52:32.913Z"
     }
   ]
 }
