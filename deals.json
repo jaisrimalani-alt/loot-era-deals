@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T21:36:59.404Z",
+  "updatedAt": "2026-11-23T21:50:04.993Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FJMGWF5K",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Lifelong Stainless Steel Heavy Bottom Saucepan | 1.5liter, 17cm Saucepan with Handle | Milk & Tea Boiling Pot for Kitchen | Induction & G...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 999,
+      "savings": 700,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "1,007",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Mq8-H4I3L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FJMGWF5K?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T21:49:56.272Z"
+    },
     {
       "id": "amz:B0GNRF626K",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31TvSPswtpL._AC_UL800_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DF7J38B1?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T06:21:46.984Z"
-    },
-    {
-      "id": "amz:B0GSVWPN7W",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "OUTSUP Wax Powder for Hair Removal for Women & Men | Painless Hair Removal with No harmful chemicals, Irritation, Skin Rashes | Chocolate...",
-      "description": "",
-      "dealPrice": 209,
-      "mrp": 899,
-      "savings": 690,
-      "discountPct": 77,
-      "rating": null,
-      "reviewCount": "291",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61uzojwvB5L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GSVWPN7W?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T05:52:05.455Z"
     }
   ]
 }
