@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T13:22:36.299Z",
+  "updatedAt": "2026-11-23T13:37:32.130Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132821",
+      "type": "cuelinks",
+      "source": "Nutrabay",
+      "categoryName": "Brand Offer",
+      "title": "Grab Nutrabay's Black Friday Offers: Enjoy Up to 60% Off + Extra 5% on Proteins & Supplements!",
+      "description": "Take advantage of unbeatable discounts on our health and fitness products. Available for all—everyone can save on their favorites! Apply the coupon code for an extra 5% off. No minimum order required—dive into shopping!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "NUTRABAY5",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fnutrabay.com%2Fsale%2Fnutrabay-sale",
+      "postedAt": "2026-11-23T13:37:32.127Z"
+    },
     {
       "id": "cue:132810",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/7124KVJ0mlL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07KNM95JK?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T03:37:00.570Z"
-    },
-    {
-      "id": "amz:B0H25X3W7F",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "ASUS TUF A15 (2026),Smartchoice,AMD Ryzen 7 8845HS,RTX 3050,16GB RAM (Upgradeable Upto 64GB),512GB SSD,FHD,15.6\"(39.6 cm),Win 11,M365 Bas...",
-      "description": "",
-      "dealPrice": 99990,
-      "mrp": 155990,
-      "savings": 56000,
-      "discountPct": 36,
-      "rating": null,
-      "reviewCount": "41",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81fyeRNwpKL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H25X3W7F?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T03:22:24.430Z"
     }
   ]
 }
