@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T08:37:38.087Z",
+  "updatedAt": "2026-11-23T08:52:28.146Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BJ72WZQ7",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38&#34; TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rat...",
+      "description": "",
+      "dealPrice": 1599,
+      "mrp": 4999,
+      "savings": 3400,
+      "discountPct": 68,
+      "rating": null,
+      "reviewCount": "58,201",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61-vRq2ulOL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BJ72WZQ7?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T08:52:18.671Z"
+    },
     {
       "id": "amz:B0DK5PFHGT",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51370s3C--L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DWT25Y5H?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T19:52:01.226Z"
-    },
-    {
-      "id": "amz:B0CFF8PS6Y",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Lifelong Gym Typhoon Shaker Bottle 700ml | BPA Free Protein Shaker Bottle for Gym | Sipper Water Bottle for Adults |100% Leakproof Bottle...",
-      "description": "",
-      "dealPrice": 159,
-      "mrp": 599,
-      "savings": 440,
-      "discountPct": 73,
-      "rating": null,
-      "reviewCount": "3,095",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61GIOln5g7L._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CFF8PS6Y?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T19:22:23.820Z"
     }
   ]
 }
