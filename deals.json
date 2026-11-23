@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T02:37:41.924Z",
+  "updatedAt": "2026-11-23T02:52:34.667Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H3KZ4VQR",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Pikkme Flip Cover for Motorola Moto G37 Power 5G Leather Finish | Inside TPU with Card Pockets | Wallet Stand and Shock Proof | Complete ...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 999,
+      "savings": 800,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "58,873",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71tm+onvK+L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H3KZ4VQR?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T02:52:24.884Z"
+    },
     {
       "id": "amz:B0FNN4954M",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.hkvitals.com%2Fproducts%2Fglutathione",
       "postedAt": "2026-11-20T12:52:32.913Z"
-    },
-    {
-      "id": "cue:132716",
-      "type": "cuelinks",
-      "source": "RealMe",
-      "categoryName": "Brand Offer",
-      "title": "Get 53% Off the Must-Have realme P4s Lite Mobile Phone!",
-      "description": "Enjoy 53% discount on the realme P4s Lite. Purchase it for only Rs. 13,999. Hurry, this offer is for a short time only! Available for all buyers—don't wait too long!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F824",
-      "postedAt": "2026-11-20T12:22:36.027Z"
     }
   ]
 }
