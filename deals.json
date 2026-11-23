@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-22T23:52:32.303Z",
+  "updatedAt": "2026-11-23T00:07:11.765Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FNN4954M",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Livon Keratin Shampoo for Women & Men | Repairs Damaged Hair | Smooth & 5x Stronger Hair | No Parabens | 650ml",
+      "description": "",
+      "dealPrice": 238,
+      "mrp": 800,
+      "savings": 562,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "1,140",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51GAIklpILL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FNN4954M?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T00:07:01.642Z"
+    },
     {
       "id": "amz:B0FSRNBCMT",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F824",
       "postedAt": "2026-11-20T12:22:36.027Z"
-    },
-    {
-      "id": "cue:132717",
-      "type": "cuelinks",
-      "source": "RealMe",
-      "categoryName": "Brand Offer",
-      "title": "Act Fast: 28% Discount on realme P4s 5G!",
-      "description": "Enjoy a captivating 28% discount on the realme P4s 5G! Grab it today for just Rs. 34,999! Time is ticking; this deal is time-sensitive! Offer valid for all customers—join in!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F822",
-      "postedAt": "2026-11-20T12:07:38.900Z"
     }
   ]
 }
