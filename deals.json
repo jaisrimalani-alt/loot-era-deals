@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T09:52:41.098Z",
+  "updatedAt": "2026-11-23T10:07:31.869Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DK1CJKM3",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Jio Original & Genuine Bluetooth Voice Remote for JioFiber Set-Top Box | 43-Key Universal Replacement | Easy Pairing | 6-Month Warranty",
+      "description": "",
+      "dealPrice": 480,
+      "mrp": 799,
+      "savings": 319,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "841",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61R6eRGisYL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DK1CJKM3?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T10:07:21.913Z"
+    },
     {
       "id": "amz:B0BJ72WZQ7",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51EGxdLsQxL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FPXHT6HP?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T21:22:15.669Z"
-    },
-    {
-      "id": "amz:B0DWT25Y5H",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Buffing Polishing Compound Rouge One Bar Green (250g) and Nickle Powder (500g)",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 499,
-      "savings": 300,
-      "discountPct": 60,
-      "rating": null,
-      "reviewCount": "48",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51370s3C--L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DWT25Y5H?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T19:52:01.226Z"
     }
   ]
 }
