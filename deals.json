@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T13:37:32.130Z",
+  "updatedAt": "2026-11-23T13:52:44.763Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132822",
+      "type": "cuelinks",
+      "source": "Aldo",
+      "categoryName": "Brand Offer",
+      "title": "ALDO's Must-Have Footwear Sale - Prices Start at Rs.2499",
+      "description": "Refresh your shoe collection with ALDO’s fabulous finds! Stylish selections await you, with everything under Rs. 2,499. Hurry, this sale is fleeting—don’t wait! Everyone can join in—get yours while they last!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.aldoshoes.in%2Feverything-under-2499%2F",
+      "postedAt": "2026-11-23T13:52:44.761Z"
+    },
     {
       "id": "cue:132821",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/614xeZX+qjL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B00DPIAPAO?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T04:37:04.722Z"
-    },
-    {
-      "id": "amz:B07KNM95JK",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Foxin FTC 12A Laser Printer Toner Cartridge Compatible with HP 1020, M1005, 1018, 1010, 1012, 1015, 1022, 1022N, 1022NW, 3015, 3020, 3030...",
-      "description": "",
-      "dealPrice": 399,
-      "mrp": 1250,
-      "savings": 851,
-      "discountPct": 68,
-      "rating": null,
-      "reviewCount": "4,549",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/7124KVJ0mlL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B07KNM95JK?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T03:37:00.570Z"
     }
   ]
 }
