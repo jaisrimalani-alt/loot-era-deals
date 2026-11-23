@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T22:37:35.119Z",
+  "updatedAt": "2026-11-23T22:52:40.665Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GKPNJ1J3",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Desidiya® RGB Neon LED 5Mtr Strip Light with App & Remote Control | Music Sync | USB Powered | Waterproof & Flexible Led Rope Light Room,...",
+      "description": "",
+      "dealPrice": 579,
+      "mrp": 1999,
+      "savings": 1420,
+      "discountPct": 71,
+      "rating": null,
+      "reviewCount": "949",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/716U6kZucML._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GKPNJ1J3?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T22:52:31.832Z"
+    },
     {
       "id": "amz:B0FJMGWF5K",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41Xqew8T5+L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B006LXBF0E?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T07:51:49.320Z"
-    },
-    {
-      "id": "amz:B0DF7J38B1",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Women's Home Flip-Flops & Slippers Winter Indoor Non-Slip Soft Fur Flip Flop Slides And Slippers Cute Bear Flip Flops for Women",
-      "description": "",
-      "dealPrice": 265,
-      "mrp": 999,
-      "savings": 734,
-      "discountPct": 73,
-      "rating": null,
-      "reviewCount": "200",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/31TvSPswtpL._AC_UL800_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DF7J38B1?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T06:21:46.984Z"
     }
   ]
 }
