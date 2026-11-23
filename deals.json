@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T03:07:00.378Z",
+  "updatedAt": "2026-11-23T03:22:06.743Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FCFC9ZTV",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Boldfit Stainless Steel Water Bottle 1 Litre – BPA-Free, Leak-Proof & Rust-Free Metal Bottle with Handle – Lightweight, Food-Grade, Easy ...",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 799,
+      "savings": 650,
+      "discountPct": 81,
+      "rating": null,
+      "reviewCount": "2,042",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ayR4oRq1L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FCFC9ZTV?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T03:21:57.489Z"
+    },
     {
       "id": "amz:B008FWZGSG",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.veromoda.in%2Fcollections%2Fupto-50-vm",
       "postedAt": "2026-11-20T13:52:33.669Z"
-    },
-    {
-      "id": "amz:B08QSQ6QX5",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Maybelline New York Fit Me Matte + Poreless Compact Powder, 330 Toffee",
-      "description": "",
-      "dealPrice": 143,
-      "mrp": 239,
-      "savings": 96,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "49,057",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61v-uYzPDfL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B08QSQ6QX5?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T13:07:28.409Z"
     }
   ]
 }
