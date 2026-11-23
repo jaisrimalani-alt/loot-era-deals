@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T04:07:33.050Z",
+  "updatedAt": "2026-11-23T04:22:00.676Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B073VKKNN9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Kaspersky | Premium - Total Security (Ultimate Security) | 1 Device | 1 Year | Email Delivery in 1 Hour - No CD",
+      "description": "",
+      "dealPrice": 499,
+      "mrp": 3999,
+      "savings": 3500,
+      "discountPct": 88,
+      "rating": null,
+      "reviewCount": "14,684",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81aqZ5uIHEL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B073VKKNN9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T04:21:51.621Z"
+    },
     {
       "id": "amz:B0FCFC9ZTV",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71l9duN1EsL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HJ532PWR?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T14:06:48.221Z"
-    },
-    {
-      "id": "cue:132746",
-      "type": "cuelinks",
-      "source": "Vero Moda",
-      "categoryName": "Brand Offer",
-      "title": "Discover Vero Moda Black Days Event: Enjoy Up to 60% Off + Bonus Rs. 300 Off!",
-      "description": "Shop the fresh Vero Moda women's fashion arrivalsBenefit from discounts up to 60% on chic outfitsExtra Rs. 300 Off with a promo codeEligible on purchases of Rs. 1699 or more",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "VMNEW300",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.veromoda.in%2Fcollections%2Fupto-50-vm",
-      "postedAt": "2026-11-20T13:52:33.669Z"
     }
   ]
 }
