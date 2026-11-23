@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T12:22:38.727Z",
+  "updatedAt": "2026-11-23T12:37:34.040Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132811",
+      "type": "cuelinks",
+      "source": "khadi Natural",
+      "categoryName": "Brand Offer",
+      "title": "Don't Miss Out: Buy 3 Khadi Natural Products, Pay for 2 + Extra 5% Off with Prepaid!",
+      "description": "Shop Khadi Natural’s wide selection: shampoos, facial wash, serums, and beyond! Enjoy our Buy 3, Pay for 2 deal using the coupon code! No minimum spend required—snap up your favorites! Receive 5% off your total with prep",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "B3P2",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.khadinatural.com%2F",
+      "postedAt": "2026-11-23T12:37:34.036Z"
+    },
     {
       "id": "cue:132800",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91Q4zeSaBpL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B08LQRXXNB?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T02:37:02.051Z"
-    },
-    {
-      "id": "amz:B0C6XK6RX9",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Zebronics MU240 Micro USB charging cable, 18W max, 2.4A, Rapid charge support, 1 meter length, Data transfer, 10000+ bends tested (White)",
-      "description": "",
-      "dealPrice": 89,
-      "mrp": 299,
-      "savings": 210,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "768",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/514mP8bV+mL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0C6XK6RX9?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T02:22:32.510Z"
     }
   ]
 }
