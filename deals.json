@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T10:07:31.869Z",
+  "updatedAt": "2026-11-23T10:22:14.804Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FJLQL4TW",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "UB Unity Brand Multipurpose Double Sided Tape Heavy Duty - Adhesive Silicone Tape, Heat Resistant, Multi-Functional, Removable, Washable,...",
+      "description": "",
+      "dealPrice": 229,
+      "mrp": 999,
+      "savings": 770,
+      "discountPct": 77,
+      "rating": null,
+      "reviewCount": "2,806",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Lqe-zOjWL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FJLQL4TW?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T10:22:05.350Z"
+    },
     {
       "id": "amz:B0DK1CJKM3",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61CWZmo9CnL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FHWVNVVK?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T22:07:14.921Z"
-    },
-    {
-      "id": "amz:B0FPXHT6HP",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "mCaffeine 5% Niacinamide & Glutathione for Brightening & Detan By The Blues Perfume Body Lotion 300ml | | Aquatic-Woody Fragrance | 72H M...",
-      "description": "",
-      "dealPrice": 359,
-      "mrp": 599,
-      "savings": 240,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "1,835",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51EGxdLsQxL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FPXHT6HP?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T21:22:15.669Z"
     }
   ]
 }
