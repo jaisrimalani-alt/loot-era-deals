@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T04:22:00.676Z",
+  "updatedAt": "2026-11-23T04:37:25.307Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DJY485RB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "DIZORO Compatible for iPhone 16 Case 6.1, Slim Liquid Silicone 3 Layers Full Covered Soft Gel Rubber Phone Case Protective Cover 6.1 Inch...",
+      "description": "",
+      "dealPrice": 294,
+      "mrp": 899,
+      "savings": 605,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "6,520",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/614HEjkTWfL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DJY485RB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T04:37:16.228Z"
+    },
     {
       "id": "amz:B073VKKNN9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41fOhjSykeL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GZWNTWXB?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T14:22:32.530Z"
-    },
-    {
-      "id": "amz:B0HJ532PWR",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Epsom Salt for Foot & Bath 380g | Lavender, Chamomile & Tea Tree Epsom Bath Salt with Real Flower Buds | Magnesium Sulphate Foot Soak & B...",
-      "description": "",
-      "dealPrice": 99,
-      "mrp": 999,
-      "savings": 900,
-      "discountPct": 90,
-      "rating": null,
-      "reviewCount": "18",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71l9duN1EsL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HJ532PWR?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T14:06:48.221Z"
     }
   ]
 }
