@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T14:37:12.316Z",
+  "updatedAt": "2026-11-23T14:51:57.602Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CLR9LP6T",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Crest 1.43” AMOLED Smart Watch with BT Calling, AI Morning Briefs, Functional Crown, Health Tracking, Aluminium Body, 100+ Sports Modes, ...",
+      "description": "",
+      "dealPrice": 5999,
+      "mrp": 13995,
+      "savings": 7996,
+      "discountPct": 57,
+      "rating": null,
+      "reviewCount": "1,032",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81gfzrOzSJL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CLR9LP6T?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T14:51:46.725Z"
+    },
     {
       "id": "amz:B0FLJMYR9F",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51gEEu7splL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HN8ZC2JN?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T05:37:21.961Z"
-    },
-    {
-      "id": "amz:B0FLQCZS3N",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Wipro 3 Way Multiplug Adaptor with 3 Universal Sockets |Inbuilt Surge Protection & Power Supply Indicator | Compact & Light Weight | 6Amp...",
-      "description": "",
-      "dealPrice": 159,
-      "mrp": 270,
-      "savings": 111,
-      "discountPct": 41,
-      "rating": null,
-      "reviewCount": "213",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71jk6kcCw7L._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FLQCZS3N?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T05:21:47.238Z"
     }
   ]
 }
