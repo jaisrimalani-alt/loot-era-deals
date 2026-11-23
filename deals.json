@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T04:52:15.795Z",
+  "updatedAt": "2026-11-23T05:07:37.172Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DRKM7XH7",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Badminton Shoes for Man Lightweight Non Marking Shoes for Badminton Breathable Anti Skid Shoe for Man Shuttle Non Marking Indoor Shoe for...",
+      "description": "",
+      "dealPrice": 909,
+      "mrp": 3499,
+      "savings": 2590,
+      "discountPct": 74,
+      "rating": null,
+      "reviewCount": "3,403",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61YtGSDqdHL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DRKM7XH7?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T05:07:28.418Z"
+    },
     {
       "id": "amz:B00A0VCJPI",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71ODDbxL2LL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G1T4R5F5?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T15:06:50.999Z"
-    },
-    {
-      "id": "amz:B0F3JM1YP5",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Xiaomi 80 cm (32 inch) Smartchoice F Series HD Ready Smart LED Fire TV L32MB-FIN",
-      "description": "",
-      "dealPrice": 14999,
-      "mrp": 24999,
-      "savings": 10000,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "1,476",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71kjAokz-yL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0F3JM1YP5?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T14:52:33.936Z"
     }
   ]
 }
