@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T11:07:28.955Z",
+  "updatedAt": "2026-11-23T11:22:36.381Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132803",
+      "type": "cuelinks",
+      "source": "Muscleblaze",
+      "categoryName": "Brand Offer",
+      "title": "Snag the Super Gainer XXL Weight Gainer 5 Kg at Only Rs. 3899 + Get 6% MB Cashback!",
+      "description": "Don’t wait – this deal is for a limited time only! Applicable for everyone – everyone wins! Buy the Super Gainer XXL Weight Gainer for Rs. 3899 todayPlus, grab a nice 6% MB Cashback right away!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsv%2Fmuscleblaze-super-gainer-xxl-weight-gainer%2FSP-42633%3FnavKey%3DVRNT-91389",
+      "postedAt": "2026-11-23T11:22:36.374Z"
+    },
     {
       "id": "cue:132801",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/612p4ArEeNL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BX49ZSZ7?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T01:51:48.346Z"
-    },
-    {
-      "id": "amz:B01MYXWDF4",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Mens Drexler Stainless Steel Chronograph Watch - AX2600 (Black_Free Size)",
-      "description": "",
-      "dealPrice": 9323,
-      "mrp": 13495,
-      "savings": 4172,
-      "discountPct": 31,
-      "rating": null,
-      "reviewCount": "600",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71cbpeo-c0L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B01MYXWDF4?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T01:37:24.011Z"
     }
   ]
 }
