@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T05:22:35.474Z",
+  "updatedAt": "2026-11-23T05:37:28.804Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BVQMQ1XS",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Zapcase Back Case Cover for Oneplus 11R 5G | Compatible for Oneplus 11R 5G Back Cover | Liquid Silicon Magic Case with Camera Protection ...",
+      "description": "",
+      "dealPrice": 249,
+      "mrp": 899,
+      "savings": 650,
+      "discountPct": 72,
+      "rating": null,
+      "reviewCount": "39,108",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81QvCA8w82L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BVQMQ1XS?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T05:37:18.467Z"
+    },
     {
       "id": "amz:B0DRKM7XH7",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51eRCPy+M8L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GFPC4Y37?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T15:22:05.022Z"
-    },
-    {
-      "id": "amz:B0G1T4R5F5",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "boAt Lunar Discovery Neo, 1.39\" (3.5 cm) Round HD Display, Premium Metallic Finish, Animated Watchfaces, 100+ Sports Mode, Bluetooth Call...",
-      "description": "",
-      "dealPrice": 1699,
-      "mrp": 7499,
-      "savings": 5800,
-      "discountPct": 77,
-      "rating": null,
-      "reviewCount": "22,127",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71ODDbxL2LL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G1T4R5F5?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T15:06:50.999Z"
     }
   ]
 }
