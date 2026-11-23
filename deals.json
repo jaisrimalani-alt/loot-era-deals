@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T05:37:28.804Z",
+  "updatedAt": "2026-11-23T05:52:07.550Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BL6S8KHM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "ProElite Smart Case for iPad (A16) 11th/10th Generation (2025/2022) [Auto Sleep/Wake Cover] [Pencil Holder] [Soft Flexible Case] Recoil S...",
+      "description": "",
+      "dealPrice": 549,
+      "mrp": 1999,
+      "savings": 1450,
+      "discountPct": 73,
+      "rating": null,
+      "reviewCount": "5,905",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/618tNqgXWBL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BL6S8KHM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T05:51:57.546Z"
+    },
     {
       "id": "amz:B0BVQMQ1XS",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61CmAF8p-9L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H5VWCNWN?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T15:52:32.319Z"
-    },
-    {
-      "id": "amz:B0GFPC4Y37",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "AKANSHA Velvet Touch Natural Deep Nourishing Body Lotion (300ML)",
-      "description": "",
-      "dealPrice": 164,
-      "mrp": 300,
-      "savings": 136,
-      "discountPct": 45,
-      "rating": null,
-      "reviewCount": "27",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51eRCPy+M8L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GFPC4Y37?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T15:22:05.022Z"
     }
   ]
 }
