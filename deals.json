@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T06:07:33.394Z",
+  "updatedAt": "2026-11-23T06:22:33.709Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132769",
+      "type": "cuelinks",
+      "source": "Boat",
+      "categoryName": "Brand Offer",
+      "title": "Unlock an Instant Rs. 100 Off Your Purchase Today!",
+      "description": "Limited-time offer you don’t want to miss! Enjoy Rs. 100 off on Boat earbuds, speakers, smartwatches, and more. Apply the coupon code at checkout to enjoy your savings. Shop now and elevate your audio experience!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "BOAT100",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.boat-lifestyle.com%2F",
+      "postedAt": "2026-11-23T06:22:33.706Z"
+    },
     {
       "id": "amz:B0BL6S8KHM",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71XxOPPqSdL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0C1T29G12?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T16:22:24.420Z"
-    },
-    {
-      "id": "amz:B0H5VWCNWN",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "JioTag (2nd Generation) (Grey) - Android or iOS Compatible IP64 Rated Worldwide Item Finder for Keys, Wallets, Luggage, Gadgets and More ...",
-      "description": "",
-      "dealPrice": 1249,
-      "mrp": 2999,
-      "savings": 1750,
-      "discountPct": 58,
-      "rating": null,
-      "reviewCount": "593",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61CmAF8p-9L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H5VWCNWN?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T15:52:32.319Z"
     }
   ]
 }
