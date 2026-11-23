@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T11:22:36.381Z",
+  "updatedAt": "2026-11-23T11:37:38.802Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132800",
+      "type": "cuelinks",
+      "source": "Muscleblaze",
+      "categoryName": "Brand Offer",
+      "title": "Unlock Your Daily Protein Boost for Just Rs. 1899!",
+      "description": "Supercharge your nutrition with high-quality yeast protein at wallet-friendly prices. Starting at an incredible Rs. 1899! Limited availability—order soon! Take action for better health today!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsale%2Fmb-yeast-protein",
+      "postedAt": "2026-11-23T11:37:38.799Z"
+    },
     {
       "id": "cue:132803",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/514mP8bV+mL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0C6XK6RX9?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T02:22:32.510Z"
-    },
-    {
-      "id": "amz:B0BX49ZSZ7",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Men Casual Slipon Canvas Shoes - Grey",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 499,
-      "savings": 200,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "669",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/612p4ArEeNL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BX49ZSZ7?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T01:51:48.346Z"
     }
   ]
 }
