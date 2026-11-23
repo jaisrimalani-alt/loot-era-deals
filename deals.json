@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T10:52:39.636Z",
+  "updatedAt": "2026-11-23T11:07:28.955Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132801",
+      "type": "cuelinks",
+      "source": "Muscleblaze",
+      "categoryName": "Brand Offer",
+      "title": "Boost Your Gains: Premium 2kg Whey Protein from Rs. 6899!",
+      "description": "Maximize your workout potential with our exclusive whey protein packs. Save big with cost-effective 2kg options tailored for you. Visit the MuscleBlaze site to claim your savings. Grab yours starting at just Rs. 6899!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsale%2Fbiozyme-performance-2kg-products",
+      "postedAt": "2026-11-23T11:07:28.950Z"
+    },
     {
       "id": "amz:B0FBFXPRQL",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71cbpeo-c0L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B01MYXWDF4?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T01:37:24.011Z"
-    },
-    {
-      "id": "amz:B0GL7QWQF1",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "ZEBRONICS 2026 Launch 50W Bluetooth Speaker, Dual 5.7cm Drivers, 8.9cm Subwoofer, Upto 5Hrs Playback, Dual Passive Radiators, RGB Modes, ...",
-      "description": "",
-      "dealPrice": 3302,
-      "mrp": 6999,
-      "savings": 3697,
-      "discountPct": 53,
-      "rating": null,
-      "reviewCount": "263",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71eiY81Eg3L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GL7QWQF1?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T01:22:21.139Z"
     }
   ]
 }
