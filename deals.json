@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T10:22:14.804Z",
+  "updatedAt": "2026-11-23T10:37:33.514Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FBFXPRQL",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Slippers for Man Soft Cushioned Flip Flops for Man Comfortable Chappal for Men Lightweight Slippers for Men Indoor and Outdoor Chappal Me...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 999,
+      "savings": 800,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "527",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51LTvLoL5JL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FBFXPRQL?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T10:37:24.269Z"
+    },
     {
       "id": "amz:B0FJLQL4TW",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71eiY81Eg3L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GL7QWQF1?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T01:22:21.139Z"
-    },
-    {
-      "id": "amz:B0FHWVNVVK",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "HIKVISION Extreme 128GB microSDXC Memory Card Class 10, V30 | 92MB/s Read, 50MB/s Write Speed | Compitable with Smartphones, Camera, CCTV...",
-      "description": "",
-      "dealPrice": 1789,
-      "mrp": 4999,
-      "savings": 3210,
-      "discountPct": 64,
-      "rating": null,
-      "reviewCount": "1,106",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61CWZmo9CnL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FHWVNVVK?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T22:07:14.921Z"
     }
   ]
 }
