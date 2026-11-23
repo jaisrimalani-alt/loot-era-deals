@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-23T07:07:38.844Z",
+  "updatedAt": "2026-11-23T07:22:30.887Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0F3XQGKDD",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Pikkme Back Cover for Samsung Galaxy A34 5G | Slim Soft Matte Silicone Cover with Camera Protection & Shockproof Bumper Case (Black)",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 999,
+      "savings": 850,
+      "discountPct": 85,
+      "rating": null,
+      "reviewCount": "20,930",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Qqb0YPOZL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0F3XQGKDD?tag=looteradea0b5-21",
+      "postedAt": "2026-11-23T07:22:22.151Z"
+    },
     {
       "id": "cue:132769",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51JGRDSkaPL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GCQCTBVQ?tag=looteradea0b5-21",
       "postedAt": "2026-11-20T19:07:17.874Z"
-    },
-    {
-      "id": "amz:B0C1T29G12",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Analog Dial Women's Watch",
-      "description": "",
-      "dealPrice": 1947,
-      "mrp": 3895,
-      "savings": 1948,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "234",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71XxOPPqSdL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0C1T29G12?tag=looteradea0b5-21",
-      "postedAt": "2026-11-20T16:22:24.420Z"
     }
   ]
 }
