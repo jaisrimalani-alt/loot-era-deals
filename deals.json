@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T04:52:35.677Z",
+  "updatedAt": "2026-11-24T05:07:38.570Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G15T6GFX",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "45W USB Type C Fast Charger Adapter Compatible with Google",
+      "description": "",
+      "dealPrice": 549,
+      "mrp": 3999,
+      "savings": 3450,
+      "discountPct": 86,
+      "rating": null,
+      "reviewCount": "14,316",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51tnUysYd1L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G15T6GFX?tag=looteradea0b5-21",
+      "postedAt": "2026-11-24T05:07:29.998Z"
+    },
     {
       "id": "amz:B0BRL1DBR5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbaccabucci.com%2Fproducts%2Feaseon",
       "postedAt": "2026-11-21T09:52:37.280Z"
-    },
-    {
-      "id": "cue:132751",
-      "type": "cuelinks",
-      "source": "Bacca Bucci",
-      "categoryName": "Brand Offer",
-      "title": "Grab 38% Off on Stylish Mercer Suede Leather Loafers Today!",
-      "description": "Get 38% off on Mercer Suede Leather Loafers. Grab yours today at an unbeatable price of Rs. 2499! Each pair is crafted with genuine suede leather for a luxe look. Enjoy all-day comfort with the OrthoLite sockliner.",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbaccabucci.com%2Fproducts%2Fmercer-suede-leather-loafers_bbmc4153a",
-      "postedAt": "2026-11-21T09:37:29.855Z"
     }
   ]
 }
