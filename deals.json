@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T21:37:40.224Z",
+  "updatedAt": "2026-11-24T21:52:31.504Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G1MW19HM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Soft Silicone Back Scrubber Long Handle Bath Brush + Body Scrubber + Scalp Massager for Hair + Face Scrubber | 4-in-1 Bath Brush Set Comb...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 1149,
+      "savings": 950,
+      "discountPct": 83,
+      "rating": null,
+      "reviewCount": "911",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61CD+raxj7L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G1MW19HM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-24T21:52:20.216Z"
+    },
     {
       "id": "amz:B0GDTK3VR6",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61DIPG018mL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0C1SZS2VQ?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T14:37:05.811Z"
-    },
-    {
-      "id": "amz:B0FN7XTVLH",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Zebronics 2.5\" SSD/HDD Enclosure, Max. 4TB Storage, Upto 5Gbps Transfer Speed, Tool-Free Slide Design, USB to Micro B Connector, Windows,...",
-      "description": "",
-      "dealPrice": 269,
-      "mrp": 1299,
-      "savings": 1030,
-      "discountPct": 79,
-      "rating": null,
-      "reviewCount": "2,243",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61FtLo-tm4L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FN7XTVLH?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T14:07:22.397Z"
     }
   ]
 }
