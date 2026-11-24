@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T12:22:40.362Z",
+  "updatedAt": "2026-11-24T12:37:31.042Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132894",
+      "type": "cuelinks",
+      "source": "Charles & Keith",
+      "categoryName": "Brand Offer",
+      "title": "Limited-Time Charles & Keith Black Friday Sale: Enjoy Up to 40% Off + Extra 5% Discount",
+      "description": "Discover savings of up to 40% on exclusive handbags, elegant sandals, trendy wallets, and stylish sunglasses. Plus, get an extra 5% Off your order! This amazing offer is valid for all shoppers! Shop now and elevate your",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.charleskeith.in%2Fin",
+      "postedAt": "2026-11-24T12:37:31.037Z"
+    },
     {
       "id": "cue:132888",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.sugarcosmetics.com%2Fcollections%2Fbuy-4-at-1299",
       "postedAt": "2026-11-21T13:37:41.133Z"
-    },
-    {
-      "id": "cue:132758",
-      "type": "cuelinks",
-      "source": "Sugar Cosmetics",
-      "categoryName": "Brand Offer",
-      "title": "Explore Mists and Serums From Just Rs. 199!",
-      "description": "Indulge in luxurious skincare without breaking the bank. Mists and serums are priced from Rs. 199! Solve your skincare dilemmas with style. Order yours right away!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.sugarcosmetics.com%2Fcollections%2Fmists-serums",
-      "postedAt": "2026-11-21T13:22:38.761Z"
     }
   ]
 }
