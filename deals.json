@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T10:22:27.052Z",
+  "updatedAt": "2026-11-24T10:37:37.583Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CXLQGJ7R",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Quick Shoe Foam Cleaner | Contains 150ml Foam Shoe Cleaner | Sneaker Cleaning Kit | Suitable for Sneakers, Nubuck, Leather, Suede & Sport...",
+      "description": "",
+      "dealPrice": 179,
+      "mrp": 299,
+      "savings": 120,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "635",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61alOJS4bEL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CXLQGJ7R?tag=looteradea0b5-21",
+      "postedAt": "2026-11-24T10:37:27.629Z"
+    },
     {
       "id": "cue:132863",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbaccabucci.com%2Fcollections%2Fshoes-for-men-bacca-bucci-trendy-footwear-accessories%2Fproducts%2Ffounder-edition-low-top-lifestyle-sneakers-2",
       "postedAt": "2026-11-21T11:22:40.138Z"
-    },
-    {
-      "id": "amz:B07B9CK88C",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Classics Analog Couple Watches Set, Round Dial & Water Resistant, Wrist Watch, Anniversary & Wedding Gift for Couples",
-      "description": "",
-      "dealPrice": 2529,
-      "mrp": 4995,
-      "savings": 2466,
-      "discountPct": 49,
-      "rating": null,
-      "reviewCount": "803",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81EtHS6-AWL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B07B9CK88C?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T11:07:05.284Z"
     }
   ]
 }
