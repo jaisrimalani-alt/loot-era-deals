@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T19:37:38.434Z",
+  "updatedAt": "2026-11-24T19:52:43.113Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GDTK3VR6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Zebronics Wireless Mouse, Dual Mode 2.4GHz + BT, Up to 1600 DPI, USB Nano Receiver, Lightweight Design, Multicolor LED Lights, Rechargeab...",
+      "description": "",
+      "dealPrice": 411,
+      "mrp": 799,
+      "savings": 388,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "10,253",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51vPJoXxvjL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GDTK3VR6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-24T19:52:31.882Z"
+    },
     {
       "id": "amz:B0G2B251KD",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61FtLo-tm4L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FN7XTVLH?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T14:07:22.397Z"
-    },
-    {
-      "id": "cue:132754",
-      "type": "cuelinks",
-      "source": "Sugar Cosmetics",
-      "categoryName": "Brand Offer",
-      "title": "Get 10% Off Our Must-Have Matte Attack Transferproof Lipstick!",
-      "description": "Save 10% on unforgettable color with Matte Attack Lipstick. Available now for only Rs. 674! Completely smudge-proof for lasting beauty. Order now to transform your look!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.sugarcosmetics.com%2Fproducts%2Fmatte-attack-transferproof-lipstick",
-      "postedAt": "2026-11-21T13:52:16.326Z"
     }
   ]
 }
