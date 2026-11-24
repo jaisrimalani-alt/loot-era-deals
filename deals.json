@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T10:52:43.451Z",
+  "updatedAt": "2026-11-24T11:07:37.594Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132872",
+      "type": "cuelinks",
+      "source": "Hkvitals",
+      "categoryName": "Brand Offer",
+      "title": "Grab 21% Off on Tasty Marine Collagen Today!",
+      "description": "Enjoy 21% discount—Marine Collagen at just Rs. 1,799! Relish the fresh Green Mango flavor with every serving. Each pack contains 50 easy-to-use sachets. Act fast—limited-time offer available to all!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.hkvitals.com%2Fsv%2Fhk-vitals-melt-in-mouth-marine-collagen%2FSP-145243%3FnavKey%3DVRNT-296001",
+      "postedAt": "2026-11-24T11:07:37.591Z"
+    },
     {
       "id": "amz:B0CXLQGJ7R",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61ERDR3tATL._SL1400_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B005FYNT3G?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T11:37:30.103Z"
-    },
-    {
-      "id": "cue:132753",
-      "type": "cuelinks",
-      "source": "Bacca Bucci",
-      "categoryName": "Brand Offer",
-      "title": "Get 60% Off on Founder Edition Shoes",
-      "description": "Discover the perfect pair that screams style and comfort! Only Rs. 1999 Expertly crafted to reflect your unique personality. Shop now.",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbaccabucci.com%2Fcollections%2Fshoes-for-men-bacca-bucci-trendy-footwear-accessories%2Fproducts%2Ffounder-edition-low-top-lifestyle-sneakers-2",
-      "postedAt": "2026-11-21T11:22:40.138Z"
     }
   ]
 }
