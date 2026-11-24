@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T11:51:54.389Z",
+  "updatedAt": "2026-11-24T12:07:30.501Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132889",
+      "type": "cuelinks",
+      "source": "Gonoise",
+      "categoryName": "Brand Offer",
+      "title": "Exciting Offer: Up to 50% Off Kids' Smartwatches + Extra 10% HDFC Discount!",
+      "description": "Get up to 50% off on trendy smartwatches for kids! Receive an additional 10% off when using HDFC Bank cards. Hurry, this special offer won’t last long! Claim your savings today and surprise your little ones!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.gonoise.com%2Fcollections%2Fmade-for-kids-smartwatch",
+      "postedAt": "2026-11-24T12:07:30.498Z"
+    },
     {
       "id": "cue:132885",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.adventuras.in%2Fcollections%2Fwomen-fleece",
       "postedAt": "2026-11-21T13:07:39.666Z"
-    },
-    {
-      "id": "cue:132759",
-      "type": "cuelinks",
-      "source": "Adventuras",
-      "categoryName": "Brand Offer",
-      "title": "Limited Time: Save 20% on Long Winter Jackets!",
-      "description": "Get ready to save up to 20% on long trekking winter jackets! Available for men and women adventurers. Starting at only Rs. 9999! Shop today and take on the wild in style!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.adventuras.in%2Fcollections%2Fhiking-and-trekking-long-mid-jacket",
-      "postedAt": "2026-11-21T12:52:33.445Z"
     }
   ]
 }
