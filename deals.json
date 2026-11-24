@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T12:37:31.042Z",
+  "updatedAt": "2026-11-24T12:52:34.718Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132892",
+      "type": "cuelinks",
+      "source": "The Formal Club",
+      "categoryName": "Brand Offer",
+      "title": "The Formal Club Black Friday Sale | 25% Off 4 Shirts + Free Gifts",
+      "description": "Save 25% on your purchase of 4 stylish shirts. Free gifts included with your order! Made from natural fabrics for your comfort. Limited-time deal, don't miss out!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Ftheformalclub.in%2Fcollections%2Fblack-friday-sales",
+      "postedAt": "2026-11-24T12:52:34.714Z"
+    },
     {
       "id": "cue:132894",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71yO+GWqOoL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G1GWWJPC?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T13:52:07.330Z"
-    },
-    {
-      "id": "cue:132755",
-      "type": "cuelinks",
-      "source": "Sugar Cosmetics",
-      "categoryName": "Brand Offer",
-      "title": "Sugar Cosmetics Black Friday Sale | 4 Items for Just Rs. 1299 at Sugar Cosmetics!",
-      "description": "Explore a variety of makeup and skincare to meet every need. Apply the promo code and enjoy incredible savings. Embrace every facet of your beauty adventure. Act now—secure your favorites while supplies last!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "PICK1299",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.sugarcosmetics.com%2Fcollections%2Fbuy-4-at-1299",
-      "postedAt": "2026-11-21T13:37:41.133Z"
     }
   ]
 }
