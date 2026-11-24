@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T05:37:42.496Z",
+  "updatedAt": "2026-11-24T05:42:02.421Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132830",
+      "type": "cuelinks",
+      "source": "Muscleblaze",
+      "categoryName": "Brand Offer",
+      "title": "Limited Time: 2kg Iso Zero Range for Rs. 10,199 + Enjoy 6% MB Cashback!",
+      "description": "This exclusive deal won’t last long! Purchase the 2kg Iso Zero Range at a price of Rs. 10,199. This offer is valid for everyone. Act fast and enhance your workout routine!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsale%2F2kg-iso-zero-range",
+      "postedAt": "2026-11-24T05:42:02.417Z"
+    },
     {
       "id": "cue:132831",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61UANPGbF8L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HL2ZG13P?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T10:37:03.243Z"
-    },
-    {
-      "id": "amz:B07WYMJPVS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "iQOO Z11 Lite 44W 5G (Solar Flame, 4GB RAM, 64GB Storage)",
-      "description": "",
-      "dealPrice": 17499,
-      "mrp": 30999,
-      "savings": 13500,
-      "discountPct": 44,
-      "rating": null,
-      "reviewCount": "211",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61+l5bzv9hL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B07WYMJPVS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T10:22:06.326Z"
     }
   ]
 }
