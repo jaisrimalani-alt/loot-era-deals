@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T11:07:37.594Z",
+  "updatedAt": "2026-11-24T11:22:39.441Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132874",
+      "type": "cuelinks",
+      "source": "Hkvitals",
+      "categoryName": "Brand Offer",
+      "title": "Get Liposomal Berberine Capsules - Now Only Rs. 1487!",
+      "description": "Get your hands on 60 capsules of Liposomal Berberine for an amazing price. Just Rs. 1,487—this deal won’t last long! Act quickly; it's a time-sensitive offer. Available to all health enthusiasts looking to elevate their",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.hkvitals.com%2Fsv%2Fhk-vitals-liposomal-berberine%2FSP-141055%3FnavKey%3DVRNT-285453",
+      "postedAt": "2026-11-24T11:22:39.437Z"
+    },
     {
       "id": "cue:132872",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/510sE7C5XYL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FBG1D7KK?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T11:52:24.060Z"
-    },
-    {
-      "id": "amz:B005FYNT3G",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "SANDISK Cruzer Blade 32GB, USB 2.0, Flash drive, Pendrive, Red, 5Y Warranty (SDCZ50-032G-I35)",
-      "description": "",
-      "dealPrice": 585,
-      "mrp": 990,
-      "savings": 405,
-      "discountPct": 41,
-      "rating": null,
-      "reviewCount": "193,924",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61ERDR3tATL._SL1400_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B005FYNT3G?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T11:37:30.103Z"
     }
   ]
 }
