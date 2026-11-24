@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T02:07:37.968Z",
+  "updatedAt": "2026-11-24T02:22:24.783Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0B296NTFV",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Portronics Toad 23 Wireless Optical Mouse with 2.4GHz, USB Nano Dongle, Optical Orientation, Click Wheel, Adjustable DPI(Black)",
+      "description": "",
+      "dealPrice": 259,
+      "mrp": 599,
+      "savings": 340,
+      "discountPct": 57,
+      "rating": null,
+      "reviewCount": "17,322",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41KuRShR97L._SL1200_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0B296NTFV?tag=looteradea0b5-21",
+      "postedAt": "2026-11-24T02:22:16.101Z"
+    },
     {
       "id": "amz:B0GKPNJ1J3",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/612NpDQ8JTL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DRPGB1GS?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T08:07:19.758Z"
-    },
-    {
-      "id": "amz:B006LXBF0E",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Lakme Liquid Nail Polish Remover With Vitamin E, Strengthens Nails & Removes Nail Paint Easily, 27ml (OG Collection)",
-      "description": "",
-      "dealPrice": 60,
-      "mrp": 110,
-      "savings": 50,
-      "discountPct": 45,
-      "rating": null,
-      "reviewCount": "16,389",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41Xqew8T5+L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B006LXBF0E?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T07:51:49.320Z"
     }
   ]
 }
