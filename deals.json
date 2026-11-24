@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T18:07:48.762Z",
+  "updatedAt": "2026-11-24T18:22:48.198Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G2B251KD",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Redmi 15C 5G Prime Edition (Moonlight Blue, 6GB + 128GB) | Massive 6000mAh Battery | Segment's Largest Display 17.53cm Up to 120Hz | Medi...",
+      "description": "",
+      "dealPrice": 19999,
+      "mrp": 31999,
+      "savings": 12000,
+      "discountPct": 38,
+      "rating": null,
+      "reviewCount": "1,396",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/815IEApVGvL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G2B251KD?tag=looteradea0b5-21",
+      "postedAt": "2026-11-24T18:22:33.257Z"
+    },
     {
       "id": "cue:132892",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.sugarcosmetics.com%2Fproducts%2Fmatte-attack-transferproof-lipstick",
       "postedAt": "2026-11-21T13:52:16.326Z"
-    },
-    {
-      "id": "amz:B0G1GWWJPC",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Premium Golden Wooden 3D Peel and Stick Wallpaper Roll 45x300cm | Waterproof PVC Self-Adhesive Vinyl Wall Sticker | Decorative Wood Textu...",
-      "description": "",
-      "dealPrice": 279,
-      "mrp": 999,
-      "savings": 720,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "192",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71yO+GWqOoL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G1GWWJPC?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T13:52:07.330Z"
     }
   ]
 }
