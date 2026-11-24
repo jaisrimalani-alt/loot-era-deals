@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T10:07:39.591Z",
+  "updatedAt": "2026-11-24T10:22:27.052Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132863",
+      "type": "cuelinks",
+      "source": "GharSoaps",
+      "categoryName": "Brand Offer",
+      "title": "Black Friday Offer: Enjoy Up to 60% Off + Mix & Match 3 for ₹699, 4 for ₹999, or 5 for ₹1299!",
+      "description": "Take advantage of up to 60% off on your must-have Ghar Soaps products! Choose any 3 for just ₹699, any 4 for ₹999, or treat yourself to 5 for ₹1299. These fantastic offers are time-limited – don’t wait! All customers can",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "DEAL-ACTIVATED",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.gharsoaps.shop%2F",
+      "postedAt": "2026-11-24T10:22:27.049Z"
+    },
     {
       "id": "amz:B0H3T2WYMJ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81EtHS6-AWL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07B9CK88C?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T11:07:05.284Z"
-    },
-    {
-      "id": "amz:B0F8W8W4PT",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Dove Peptide Bond Strength Leave-in Crème Serum 52 ml |Enriched with 5% PROTEIN PEPTIDE Complex| Lightweight Texutre | Continuous Damage ...",
-      "description": "",
-      "dealPrice": 269,
-      "mrp": 449,
-      "savings": 180,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "553",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41pipwroFEL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0F8W8W4PT?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T10:51:49.044Z"
     }
   ]
 }
