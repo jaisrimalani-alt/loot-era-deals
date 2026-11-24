@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T09:22:35.909Z",
+  "updatedAt": "2026-11-24T09:37:35.207Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H3T2WYMJ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "LIT AC Remote Competible with Carrier ACS 6in1 Feature AC Remote for Carrier Exact Same Remote Will Work Please Match with Your Old Remot...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 999,
+      "savings": 700,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "18",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/616B3NYfM5L._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H3T2WYMJ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-24T09:37:25.080Z"
+    },
     {
       "id": "cue:132830",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41pipwroFEL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0F8W8W4PT?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T10:51:49.044Z"
-    },
-    {
-      "id": "amz:B0HL2ZG13P",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Car Scratch Remover Touch Up Paint Pen Automotive Car Paint Pen 2 In 1 Car Paint Scratch Repair for Deep Scratches Special-Purpose Car Paint",
-      "description": "",
-      "dealPrice": 189,
-      "mrp": 499,
-      "savings": 310,
-      "discountPct": 62,
-      "rating": null,
-      "reviewCount": "2,177",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61UANPGbF8L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HL2ZG13P?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T10:37:03.243Z"
     }
   ]
 }
