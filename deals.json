@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-24T02:52:38.256Z",
+  "updatedAt": "2026-11-24T03:07:29.279Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BRL1DBR5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "YOHO Drizzle Soft Slippers for Women, Mild Acupressure, Lightweight, Anti Skid & Slip, Diabetic Footwear for Woman, Home Wear Bathroom Ch...",
+      "description": "",
+      "dealPrice": 559,
+      "mrp": 1499,
+      "savings": 940,
+      "discountPct": 63,
+      "rating": null,
+      "reviewCount": "4,271",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51rHn5Af9+L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BRL1DBR5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-24T03:07:18.776Z"
+    },
     {
       "id": "amz:B0B296NTFV",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbaccabucci.com%2Fproducts%2Fmercer-suede-leather-loafers_bbmc4153a",
       "postedAt": "2026-11-21T09:37:29.855Z"
-    },
-    {
-      "id": "amz:B0DRPGB1GS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "ABRO PUF-450 DIY PU Foam Sealant Spray White Fast Drying Large Holes Crack Wall Gap Filing Multipurpose Expandable Waterproof No Shrinkag...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 650,
-      "savings": 351,
-      "discountPct": 54,
-      "rating": null,
-      "reviewCount": "1,141",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/612NpDQ8JTL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DRPGB1GS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T08:07:19.758Z"
     }
   ]
 }
