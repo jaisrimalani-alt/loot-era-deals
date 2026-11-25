@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T07:07:33.343Z",
+  "updatedAt": "2026-11-25T07:22:25.204Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132936",
+      "type": "cuelinks",
+      "source": "Tyresnmore",
+      "categoryName": "Brand Offer",
+      "title": "Your Chance to Save! Flat 10% Off Up to Rs. 500 on All Tyres at Tyresnmore!",
+      "description": "Grab a flat 10% discount on all types of car tyres! Enter the coupon code to avail the discount. Maximum discount available is Rs. 500. Act fast, it's a limited-time offer!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "BLACK10",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Ftyresnmore.com%2Fall%2Fcar-tyres.html",
+      "postedAt": "2026-11-25T07:22:25.201Z"
+    },
     {
       "id": "cue:132931",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61egMfcDWlL._SL1385_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B09VTDMRY7?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T02:07:00.212Z"
-    },
-    {
-      "id": "amz:B0CJJ6VP34",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "DIZORO Compatible for iPhone 15 Case 6.1, Slim Liquid Silicone Case 3 Layers Full Covered Soft Gel Rubber Phone Case Protective Cover 6.1...",
-      "description": "",
-      "dealPrice": 295,
-      "mrp": 899,
-      "savings": 604,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "6,506",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/613BPe5Pa2L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CJJ6VP34?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T01:52:01.022Z"
     }
   ]
 }
