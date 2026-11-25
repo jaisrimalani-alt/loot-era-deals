@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T16:22:40.318Z",
+  "updatedAt": "2026-11-25T16:37:49.535Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CXTG4BD8",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog Watch for Pair with Round Dial & Water Resistant Couple's Wrist Watches",
+      "description": "",
+      "dealPrice": 3179,
+      "mrp": 6295,
+      "savings": 3116,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "122",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81jLxK5X70L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CXTG4BD8?tag=looteradea0b5-21",
+      "postedAt": "2026-11-25T16:37:32.371Z"
+    },
     {
       "id": "amz:B0FJ8Z6K5B",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51n+XKUSplL._SL1200_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0D78XSMSM?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T05:22:22.922Z"
-    },
-    {
-      "id": "amz:B0DZBYCFP6",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Women's Wink Framed | Ladies purse | Gift For Girl, Women",
-      "description": "",
-      "dealPrice": 849,
-      "mrp": 2699,
-      "savings": 1850,
-      "discountPct": 69,
-      "rating": null,
-      "reviewCount": "315",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71mqtxaxkvL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DZBYCFP6?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T04:51:51.214Z"
     }
   ]
 }
