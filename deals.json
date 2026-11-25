@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T18:37:42.273Z",
+  "updatedAt": "2026-11-25T18:52:40.604Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0C7GKYR2K",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Rechargeable Selfie Light, Clip Fill Light for Phone Laptop Tablet Portable Light for Video Conference Live Streaming Zoom Call Makeup Pi...",
+      "description": "",
+      "dealPrice": 489,
+      "mrp": 1499,
+      "savings": 1010,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "1,614",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61L02W60GvL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0C7GKYR2K?tag=looteradea0b5-21",
+      "postedAt": "2026-11-25T18:52:27.748Z"
+    },
     {
       "id": "amz:B0CQP27RXP",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/710+f7XX2FL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B09NKS6ZG6?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T05:52:03.241Z"
-    },
-    {
-      "id": "amz:B0FCFXML6Z",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Parachute SkinPure Hyaluron Body Lotion with Virgin Coconut Oil | Deep Hydration for All Skin Types | Moisturises for up to 72 Hours* | C...",
-      "description": "",
-      "dealPrice": 189,
-      "mrp": 465,
-      "savings": 276,
-      "discountPct": 59,
-      "rating": null,
-      "reviewCount": "341",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61p-qN8WCLL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FCFXML6Z?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T05:37:12.900Z"
     }
   ]
 }
