@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T13:07:44.427Z",
+  "updatedAt": "2026-11-25T13:22:42.885Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GF8G7955",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Spotzero By Milton Eelite Spin Mop I 2-in-1 Mop Bucket for Cleaning & Drying I 360° Spin Mechanism I High Absorbent Microfiber Refills I ...",
+      "description": "",
+      "dealPrice": 1099,
+      "mrp": 2199,
+      "savings": 1100,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "63,228",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71aAryzi0fL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GF8G7955?tag=looteradea0b5-21",
+      "postedAt": "2026-11-25T13:22:26.620Z"
+    },
     {
       "id": "cue:132936",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/513FWGu6CWL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H74SZKHV?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T03:37:21.158Z"
-    },
-    {
-      "id": "amz:B09VTDMRY7",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "FUR JADEN Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys ...",
-      "description": "",
-      "dealPrice": 699,
-      "mrp": 2000,
-      "savings": 1301,
-      "discountPct": 65,
-      "rating": null,
-      "reviewCount": "17,301",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61egMfcDWlL._SL1385_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B09VTDMRY7?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T02:07:00.212Z"
     }
   ]
 }
