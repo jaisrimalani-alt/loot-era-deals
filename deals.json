@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T20:22:41.898Z",
+  "updatedAt": "2026-11-25T20:37:36.647Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GDN67K5X",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Wall Mounted Kitchen Utensil Hanger with Adhesive Hooks | Heavy Duty Metal Spoon & Ladle Holder Rack | No Drilling Kitchen Organizer for ...",
+      "description": "",
+      "dealPrice": 229,
+      "mrp": 999,
+      "savings": 770,
+      "discountPct": 77,
+      "rating": null,
+      "reviewCount": "362",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/611-jyPuB3L._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GDN67K5X?tag=looteradea0b5-21",
+      "postedAt": "2026-11-25T20:37:25.142Z"
+    },
     {
       "id": "amz:B0FXRWPST1",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71FJEbzhezL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0D4N2934T?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T07:07:25.146Z"
-    },
-    {
-      "id": "amz:B0GHXWGJFS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Cetaphil Oily Skin Cleanser Face Wash 59ml | Deep Cleansing for Oily, Acne Prone Skin | Gentle Foaming, Non-Irritating, pH Balanced | Der...",
-      "description": "",
-      "dealPrice": 206,
-      "mrp": 359,
-      "savings": 153,
-      "discountPct": 43,
-      "rating": null,
-      "reviewCount": "21,065",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61667lS0E9L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GHXWGJFS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T06:37:15.359Z"
     }
   ]
 }
