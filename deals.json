@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T06:37:41.833Z",
+  "updatedAt": "2026-11-25T06:52:28.309Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132928",
+      "type": "cuelinks",
+      "source": "Kapiva",
+      "categoryName": "Brand Offer",
+      "title": "Enjoy Up to 40% Off + Special Freebies on Every Order!",
+      "description": "Grab up to 40% off on your favorite Kapiva products. Receive fun freebies with every order as our treat to you. This exclusive deal is time-sensitive—act fast! Join the Kapiva family and boost your health today!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "KAPIVA5",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fkapiva.in%2F",
+      "postedAt": "2026-11-25T06:52:28.306Z"
+    },
     {
       "id": "cue:132918",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71xW+4ya1qL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BP2QZ9M3?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T22:22:28.097Z"
-    },
-    {
-      "id": "amz:B0FZC3ZJTC",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Lifelong Vande Bharat Toy Train 43 Pcs Track Set for Kids, Electric Toy Train Set, 2 AAA Battery Toy Train, Lights & Sounds, Multi-Layout...",
-      "description": "",
-      "dealPrice": 579,
-      "mrp": 1599,
-      "savings": 1020,
-      "discountPct": 64,
-      "rating": null,
-      "reviewCount": "264",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71lE0uIBSoL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FZC3ZJTC?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T22:07:01.758Z"
     }
   ]
 }
