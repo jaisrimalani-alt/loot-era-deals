@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T14:22:49.394Z",
+  "updatedAt": "2026-11-25T14:37:05.054Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FJ8Z6K5B",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "BELLAVITA Date & Glam Woman | Long Lasting Perfume for Women | EDP 2x20ml | Pink Peper, Jasmine, Vanilla, Patchouli | Floral, Fruity, Cit...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 748,
+      "savings": 549,
+      "discountPct": 73,
+      "rating": null,
+      "reviewCount": "1,268",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61OwulU4yjL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FJ8Z6K5B?tag=looteradea0b5-21",
+      "postedAt": "2026-11-25T14:36:50.825Z"
+    },
     {
       "id": "amz:B0GF8G7955",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71mqtxaxkvL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DZBYCFP6?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T04:51:51.214Z"
-    },
-    {
-      "id": "amz:B0H74SZKHV",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Xiaomi Power Bank 5i 20000mAh 67W Turbo Charging PD 3.0 & PPS|in-Built Cable|12 Layer Protection|Digital Display|Triple Output Ports|Supp...",
-      "description": "",
-      "dealPrice": 3299,
-      "mrp": 5999,
-      "savings": 2700,
-      "discountPct": 45,
-      "rating": null,
-      "reviewCount": "16,398",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/513FWGu6CWL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H74SZKHV?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T03:37:21.158Z"
     }
   ]
 }
