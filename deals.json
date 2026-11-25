@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T04:52:30.920Z",
+  "updatedAt": "2026-11-25T05:07:26.871Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0B65H8SRF",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "RAMEX Allen Key Set, Allen Key Set Tools Kit, 9pc Hex Allen Key Set In Plastic Box Packet Size Allen Key Set Allen Keys",
+      "description": "",
+      "dealPrice": 136,
+      "mrp": 500,
+      "savings": 364,
+      "discountPct": 73,
+      "rating": null,
+      "reviewCount": "2,138",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71uDV8elBfL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0B65H8SRF?tag=looteradea0b5-21",
+      "postedAt": "2026-11-25T05:07:15.656Z"
+    },
     {
       "id": "amz:B07T5DKR5D",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41ot8W5Wn9L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FJMB2NZM?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T20:37:15.190Z"
-    },
-    {
-      "id": "amz:B0GRSJNR56",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Motivational Floral A5 Notebook Diary | 192 pages Softbound",
-      "description": "",
-      "dealPrice": 148,
-      "mrp": 599,
-      "savings": 451,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "67",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71HtPDV8vxL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GRSJNR56?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T18:52:19.358Z"
     }
   ]
 }
