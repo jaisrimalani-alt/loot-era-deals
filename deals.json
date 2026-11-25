@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T18:52:40.604Z",
+  "updatedAt": "2026-11-25T19:07:20.275Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GX6QZX48",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Cylinder Tube Tissue for Car, Pack of 4, 2-Ply Soft Facial Tissues, Universal Cup Holder Fit, 100% Bamboo Pulp, Unbleached, Highly Absorb...",
+      "description": "",
+      "dealPrice": 273,
+      "mrp": 796,
+      "savings": 523,
+      "discountPct": 66,
+      "rating": null,
+      "reviewCount": "74",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81TwDux6vPL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GX6QZX48?tag=looteradea0b5-21",
+      "postedAt": "2026-11-25T19:07:04.094Z"
+    },
     {
       "id": "amz:B0C7GKYR2K",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61qsIhub23L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CR7N9MD9?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T06:22:18.989Z"
-    },
-    {
-      "id": "amz:B09NKS6ZG6",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Men's Lace-up Formal Shoes",
-      "description": "",
-      "dealPrice": 771,
-      "mrp": 1299,
-      "savings": 528,
-      "discountPct": 41,
-      "rating": null,
-      "reviewCount": "4,310",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/710+f7XX2FL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B09NKS6ZG6?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T05:52:03.241Z"
     }
   ]
 }
