@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T02:22:41.843Z",
+  "updatedAt": "2026-11-25T02:37:34.564Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CHZ2NZXT",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Pikkme OnePlus 10R 5G / 10R Prime 5G Back Cover Soft Matte Liquid Silicone TPU | Camera Protection | Shockproof Slim Back Case for OnePlu...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 999,
+      "savings": 800,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "20,964",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61lBJIu0AVL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CHZ2NZXT?tag=looteradea0b5-21",
+      "postedAt": "2026-11-25T02:37:24.843Z"
+    },
     {
       "id": "amz:B0G1MW19HM",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51py9rdEJaL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0H8XQ49B8?tag=looteradea0b5-21",
       "postedAt": "2026-11-21T15:22:03.620Z"
-    },
-    {
-      "id": "amz:B0C1SZS2VQ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Analog Watch for Men with Round Dial & Water Resistant Man's Wrist Watches",
-      "description": "",
-      "dealPrice": 2297,
-      "mrp": 4595,
-      "savings": 2298,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "215",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61DIPG018mL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0C1SZS2VQ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-21T14:37:05.811Z"
     }
   ]
 }
