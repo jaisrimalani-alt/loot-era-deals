@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-25T21:37:41.264Z",
+  "updatedAt": "2026-11-25T21:52:00.638Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FCFSX424",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Parachute SkinPure Body Lotion with Vitamin C & Virgin Coconut Oil | Brightening Daily Moisturizer for Glowing Skin | Long-Lasting Hydrat...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 465,
+      "savings": 266,
+      "discountPct": 57,
+      "rating": null,
+      "reviewCount": "513",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61peQyMuNsL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FCFSX424?tag=looteradea0b5-21",
+      "postedAt": "2026-11-25T21:51:48.748Z"
+    },
     {
       "id": "amz:B0GDN67K5X",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51FzUoTd0pL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FVFBZ4YF?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T07:37:28.892Z"
-    },
-    {
-      "id": "amz:B0D4N2934T",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Minecraft Java & Bedrock Edition Bundle PC Code (No CD/DVD)",
-      "description": "",
-      "dealPrice": 2099,
-      "mrp": 3999,
-      "savings": 1900,
-      "discountPct": 48,
-      "rating": null,
-      "reviewCount": "523",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71FJEbzhezL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0D4N2934T?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T07:07:25.146Z"
     }
   ]
 }
