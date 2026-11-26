@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T03:07:39.680Z",
+  "updatedAt": "2026-11-26T03:22:43.688Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FTS37337",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Silicone Clear Rubber Door Bumper Stopers Wall Protectors for Furniture, 6Piece Pack Self Adhesive Door Handle Knob Wall Shield Bumper Gu...",
+      "description": "",
+      "dealPrice": 229,
+      "mrp": 999,
+      "savings": 770,
+      "discountPct": 77,
+      "rating": null,
+      "reviewCount": "599",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61-9mYLznIL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FTS37337?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T03:22:29.716Z"
+    },
     {
       "id": "amz:B0DCZ3WDTB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81Im3Q7AUAL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CDGYCZF9?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T09:07:19.228Z"
-    },
-    {
-      "id": "amz:B0GTRTR6VK",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Parachute Advansed Gold Vitamin E with Pure Coconut Hair Oil | 475ml| Soft & Smooth Hair | For All Hair Type| No Paraben & Silicones",
-      "description": "",
-      "dealPrice": 225,
-      "mrp": 400,
-      "savings": 175,
-      "discountPct": 44,
-      "rating": null,
-      "reviewCount": "1,937",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51mMuJsTHKL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GTRTR6VK?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T08:07:15.526Z"
     }
   ]
 }
