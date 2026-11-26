@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T19:07:17.146Z",
+  "updatedAt": "2026-11-26T19:22:20.157Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GZN9ZPRG",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "boAt 2026 Launch Airdopes Prime 800D, Surround Sound by Dolby Audio, 45H Battery, Quad Mic AI-ENx™, 11mm Drivers, ASAP™ Charge,App Suppor...",
+      "description": "",
+      "dealPrice": 1399,
+      "mrp": 4599,
+      "savings": 3200,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "5,401",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51nH84daelL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GZN9ZPRG?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T19:22:05.260Z"
+    },
     {
       "id": "amz:B00DUCIK7U",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51ga1DANA8L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B008FWZGSG?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T03:06:51.133Z"
-    },
-    {
-      "id": "amz:B0H3KZ4VQR",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Pikkme Flip Cover for Motorola Moto G37 Power 5G Leather Finish | Inside TPU with Card Pockets | Wallet Stand and Shock Proof | Complete ...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 999,
-      "savings": 800,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "58,873",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71tm+onvK+L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H3KZ4VQR?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T02:52:24.884Z"
     }
   ]
 }
