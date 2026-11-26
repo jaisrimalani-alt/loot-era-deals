@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T11:07:40.367Z",
+  "updatedAt": "2026-11-26T11:22:19.502Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B08GSKD5M7",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Home Play Football for Kids, Soft & Lightweight Toy Ball, Safe for Indoor Play, Size - 3 (Yellow), Pack of 1",
+      "description": "",
+      "dealPrice": 157,
+      "mrp": 285,
+      "savings": 128,
+      "discountPct": 45,
+      "rating": null,
+      "reviewCount": "845",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81EEhu1wFlL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B08GSKD5M7?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T11:22:06.800Z"
+    },
     {
       "id": "amz:B0DB5RV1YQ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61-a1EYCdoL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CNPQWW2G?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T19:07:00.626Z"
-    },
-    {
-      "id": "amz:B0GQV4ZTPF",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Parachute Advansed Protein Shampoo with Coconut Milk & Rosemary | Up to 96% Hair Fall Reduction & up to 23X Hair Fall Control | Protein L...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 370,
-      "savings": 171,
-      "discountPct": 46,
-      "rating": null,
-      "reviewCount": "1,113",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71A3Hg9-wZL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GQV4ZTPF?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T14:51:47.329Z"
     }
   ]
 }
