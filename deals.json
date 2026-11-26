@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T19:22:20.157Z",
+  "updatedAt": "2026-11-26T19:37:42.337Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DWLXNY1Z",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Analog Watch for Men with Round Dial & Water Resistant Man's Wrist Watches",
+      "description": "",
+      "dealPrice": 2529,
+      "mrp": 4995,
+      "savings": 2466,
+      "discountPct": 49,
+      "rating": null,
+      "reviewCount": "168",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71LnFIFr0CL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DWLXNY1Z?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T19:37:29.805Z"
+    },
     {
       "id": "amz:B0GZN9ZPRG",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61ayR4oRq1L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FCFC9ZTV?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T03:21:57.489Z"
-    },
-    {
-      "id": "amz:B008FWZGSG",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Samsung Original Type C to C Cable - 3.28 Feet (1 Meter), White",
-      "description": "",
-      "dealPrice": 294,
-      "mrp": 599,
-      "savings": 305,
-      "discountPct": 51,
-      "rating": null,
-      "reviewCount": "4,272",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51ga1DANA8L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B008FWZGSG?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T03:06:51.133Z"
     }
   ]
 }
