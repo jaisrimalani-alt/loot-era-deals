@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T18:22:46.114Z",
+  "updatedAt": "2026-11-26T18:37:21.724Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GS5BHX4N",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Havells 1000W Foldable Hair Dryer|Blow Dry for Men & Women|2 Temperature Settings|Travel Friendly|360° Radial Inlet| ThermoProtect Featur...",
+      "description": "",
+      "dealPrice": 699,
+      "mrp": 1300,
+      "savings": 601,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "4,161",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/714qsLukJDL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GS5BHX4N?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T18:37:04.736Z"
+    },
     {
       "id": "amz:B0CWGMLVRD",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71FQK6abekL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FSRNBCMT?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T23:07:04.469Z"
-    },
-    {
-      "id": "amz:B0HLPDXC9L",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Fire-Boltt Fire-Lens Dune Smart Glasses, Bluetooth Calling & Open-Ear Bluetooth Sunglasses with HD Sound & Smart Audio Touch Controls Voi...",
-      "description": "",
-      "dealPrice": 1599,
-      "mrp": 8999,
-      "savings": 7400,
-      "discountPct": 82,
-      "rating": null,
-      "reviewCount": "12,861",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51FvwTFi--L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HLPDXC9L?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T20:07:26.969Z"
     }
   ]
 }
