@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T21:07:36.710Z",
+  "updatedAt": "2026-11-26T21:22:38.644Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B086K654H9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Gwen Analogue Women's Watch (Gold Dial Womens Standard Colored)-Es4879 Gold Plated, Gold Strap - Gold-Plated",
+      "description": "",
+      "dealPrice": 7797,
+      "mrp": 12995,
+      "savings": 5198,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "929",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71GyfHYIR+L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B086K654H9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T21:22:23.920Z"
+    },
     {
       "id": "amz:B0G5PH7QLV",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51V9QaJnTxL._SL1200_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B00A0VCJPI?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T04:52:06.348Z"
-    },
-    {
-      "id": "amz:B0DJY485RB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "DIZORO Compatible for iPhone 16 Case 6.1, Slim Liquid Silicone 3 Layers Full Covered Soft Gel Rubber Phone Case Protective Cover 6.1 Inch...",
-      "description": "",
-      "dealPrice": 294,
-      "mrp": 899,
-      "savings": 605,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "6,520",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/614HEjkTWfL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DJY485RB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T04:37:16.228Z"
     }
   ]
 }
