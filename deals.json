@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T02:07:42.891Z",
+  "updatedAt": "2026-11-26T02:22:24.631Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B01N66F4CH",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "ASIAN Wonder-13 Men's Running Shoe | Lightweight Sports Design, Soft Cushioning, Reliable Grip for Casual, Travel & Gym",
+      "description": "",
+      "dealPrice": 597,
+      "mrp": 999,
+      "savings": 402,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "114,354",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61utX8kBDlL._SL1100_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B01N66F4CH?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T02:22:13.121Z"
+    },
     {
       "id": "amz:B0FCFSX424",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61+SW9nDTEL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B08TV2P1N8?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T07:52:19.608Z"
-    },
-    {
-      "id": "amz:B0FVFBZ4YF",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "EMBOX Extension Board 5 Meter Cable with Switches | 2000 W Extension Cord 4 Universal Sockets | Spike Guard, LED Indicator",
-      "description": "",
-      "dealPrice": 399,
-      "mrp": 999,
-      "savings": 600,
-      "discountPct": 60,
-      "rating": null,
-      "reviewCount": "919",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51FzUoTd0pL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FVFBZ4YF?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T07:37:28.892Z"
     }
   ]
 }
