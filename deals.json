@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T14:37:43.485Z",
+  "updatedAt": "2026-11-26T14:52:11.812Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CWGMLVRD",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Godrej Fab Liquid Detergent Refill Pouch for Machine & Bucket Wash (800g) (Pack of 1)",
+      "description": "",
+      "dealPrice": 99,
+      "mrp": 199,
+      "savings": 100,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "14,695",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61eKx6-Dn4L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CWGMLVRD?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T14:51:55.174Z"
+    },
     {
       "id": "amz:B0H8YVK6SZ",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51FvwTFi--L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HLPDXC9L?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T20:07:26.969Z"
-    },
-    {
-      "id": "amz:B0FN8B5RLL",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Silicone Socks Full Size Socks,Moisturizing Socks Foot Anti Cracking Care Skin Socks For Dry Feet Cracked Heel Repair Heel Softener Foot ...",
-      "description": "",
-      "dealPrice": 150,
-      "mrp": 499,
-      "savings": 349,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "127",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/31a1tV2HSgL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FN8B5RLL?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T19:37:01.963Z"
     }
   ]
 }
