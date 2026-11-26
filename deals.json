@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T19:37:42.337Z",
+  "updatedAt": "2026-11-26T19:52:32.846Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GNRN5619",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Havells Beard & Hair 7 in 1 Trimmer |2-in-1 Special Blade| Comes with 4 Beard & 2 Hair Combs|Type C Turbo Charge|No Nicks & Cuts|2 Year G...",
+      "description": "",
+      "dealPrice": 649,
+      "mrp": 1595,
+      "savings": 946,
+      "discountPct": 59,
+      "rating": null,
+      "reviewCount": "3,022",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/814a5kgKdJL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GNRN5619?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T19:52:20.759Z"
+    },
     {
       "id": "amz:B0DWLXNY1Z",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81aqZ5uIHEL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B073VKKNN9?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T04:21:51.621Z"
-    },
-    {
-      "id": "amz:B0FCFC9ZTV",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Boldfit Stainless Steel Water Bottle 1 Litre – BPA-Free, Leak-Proof & Rust-Free Metal Bottle with Handle – Lightweight, Food-Grade, Easy ...",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 799,
-      "savings": 650,
-      "discountPct": 81,
-      "rating": null,
-      "reviewCount": "2,042",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61ayR4oRq1L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FCFC9ZTV?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T03:21:57.489Z"
     }
   ]
 }
