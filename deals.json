@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T23:37:39.239Z",
+  "updatedAt": "2026-11-26T23:52:37.223Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B00H2ZDX00",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "End of Season Dean Analog Off-White Dial Men's Watch - FS4867",
+      "description": "",
+      "dealPrice": 8697,
+      "mrp": 14495,
+      "savings": 5798,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "2,157",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/716EIp28NCL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B00H2ZDX00?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T23:52:22.379Z"
+    },
     {
       "id": "amz:B00DUCIUDY",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81QvCA8w82L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BVQMQ1XS?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T05:37:18.467Z"
-    },
-    {
-      "id": "amz:B0DRKM7XH7",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Badminton Shoes for Man Lightweight Non Marking Shoes for Badminton Breathable Anti Skid Shoe for Man Shuttle Non Marking Indoor Shoe for...",
-      "description": "",
-      "dealPrice": 909,
-      "mrp": 3499,
-      "savings": 2590,
-      "discountPct": 74,
-      "rating": null,
-      "reviewCount": "3,403",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61YtGSDqdHL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DRKM7XH7?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T05:07:28.418Z"
     }
   ]
 }
