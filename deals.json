@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T18:37:21.724Z",
+  "updatedAt": "2026-11-26T18:52:41.475Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B08YY28JDD",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Vaseline Lip Care | Cocoa Butter Lip Balm Stick | Up to 48Hr Moisturization | with Cocoa & Shea Butter | Made in South Korea | 4.8g",
+      "description": "",
+      "dealPrice": 132,
+      "mrp": 229,
+      "savings": 97,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "403",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/413JK02Kc4L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B08YY28JDD?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T18:52:28.478Z"
+    },
     {
       "id": "amz:B0GS5BHX4N",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51GAIklpILL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FNN4954M?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T00:07:01.642Z"
-    },
-    {
-      "id": "amz:B0FSRNBCMT",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "SWAPKART (Pack of 5, 39 Inches) Door Guard Bottom Seal Strip Gap Filler for Doors,Soundproof, Noise Reduction, Energy Saving, Dust & Inse...",
-      "description": "",
-      "dealPrice": 182,
-      "mrp": 499,
-      "savings": 317,
-      "discountPct": 64,
-      "rating": null,
-      "reviewCount": "1,060",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71FQK6abekL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FSRNBCMT?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T23:07:04.469Z"
     }
   ]
 }
