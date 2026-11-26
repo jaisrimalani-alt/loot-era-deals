@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T02:30:58.114Z",
+  "updatedAt": "2026-11-26T02:37:15.556Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DCZ3WDTB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Xiaomi Power Bank 4i 20000mAh 33W Super Fast Charging PD |Smart 12 Layer Protection|Type C Input & Output|Triple Output Ports|Supports An...",
+      "description": "",
+      "dealPrice": 2149,
+      "mrp": 3999,
+      "savings": 1850,
+      "discountPct": 46,
+      "rating": null,
+      "reviewCount": "16,511",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41vBAaU8clL._SL1024_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DCZ3WDTB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T02:37:00.246Z"
+    },
     {
       "id": "amz:B01N66F4CH",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51mMuJsTHKL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GTRTR6VK?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T08:07:15.526Z"
-    },
-    {
-      "id": "amz:B08TV2P1N8",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "boAt Rockerz 255 Pro+, 60H Battery, Fast Charge, IPX7, Dual Pair,Low Latency,Magnetic Buds, App Support, in Ear Wireless Bluetooth Neckba...",
-      "description": "",
-      "dealPrice": 1199,
-      "mrp": 3990,
-      "savings": 2791,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "208,310",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61+SW9nDTEL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B08TV2P1N8?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T07:52:19.608Z"
     }
   ]
 }
