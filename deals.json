@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T10:07:38.383Z",
+  "updatedAt": "2026-11-26T10:22:34.302Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0DB5RV1YQ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Samsung Original 45W Type-C Travel Adaptor with Cable, Black",
+      "description": "",
+      "dealPrice": 895,
+      "mrp": 3799,
+      "savings": 2904,
+      "discountPct": 76,
+      "rating": null,
+      "reviewCount": "2,374",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71hUPwNiLfL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0DB5RV1YQ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T10:22:18.741Z"
+    },
     {
       "id": "amz:B0GSRJ7D2Q",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71A3Hg9-wZL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GQV4ZTPF?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T14:51:47.329Z"
-    },
-    {
-      "id": "amz:B0HMJSPTW6",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Acer Aspire Pro,Intel Core Ultra 5 Processor 125H,Office 2024+M365 Basic,16GB DDR5 RAM/512GB SSD, 35.56 cm /14.0\" WUXGA IPS Display, Win ...",
-      "description": "",
-      "dealPrice": 69990,
-      "mrp": 119999,
-      "savings": 50009,
-      "discountPct": 42,
-      "rating": null,
-      "reviewCount": "1",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71I9wylBRwL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HMJSPTW6?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T12:21:50.035Z"
     }
   ]
 }
