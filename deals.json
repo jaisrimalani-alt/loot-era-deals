@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T04:37:42.289Z",
+  "updatedAt": "2026-11-26T04:52:01.262Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G1C3PNMS",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Walking Shoes for Men Lightweight Men Shoes for Walk Flexible Shoe for man Stylish Breathable Sports Shoe for man Walking Running and Out...",
+      "description": "",
+      "dealPrice": 499,
+      "mrp": 2499,
+      "savings": 2000,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "346",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51aYYcrQ+UL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G1C3PNMS?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T04:51:47.603Z"
+    },
     {
       "id": "amz:B0CD49ZRT9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61IgAVQe1yL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G2H4R5YB?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T10:07:24.316Z"
-    },
-    {
-      "id": "amz:B0D8BL4SD2",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Instant Duo Shoe Cleaner Kit with two 150ml Sneaker Cleaner Foam & All-Purpose Brush | Daily Shoes Care Kit for Leather, Canvas, Rubber, ...",
-      "description": "",
-      "dealPrice": 378,
-      "mrp": 699,
-      "savings": 321,
-      "discountPct": 46,
-      "rating": null,
-      "reviewCount": "1,183",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71FPTQlD5FL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0D8BL4SD2?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T09:37:25.455Z"
     }
   ]
 }
