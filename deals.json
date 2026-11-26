@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T12:22:41.091Z",
+  "updatedAt": "2026-11-26T12:37:46.633Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H8YVK6SZ",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Microfiber Feather Duster with Extendable Long Pole (100 Inches), Bendable Head for Cleaning High Ceiling Fans, Interior Roof, Cobwebs – ...",
+      "description": "",
+      "dealPrice": 179,
+      "mrp": 799,
+      "savings": 620,
+      "discountPct": 78,
+      "rating": null,
+      "reviewCount": "225",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61-RN-+OjOL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H8YVK6SZ?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T12:37:31.980Z"
+    },
     {
       "id": "amz:B08GSKD5M7",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31a1tV2HSgL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FN8B5RLL?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T19:37:01.963Z"
-    },
-    {
-      "id": "amz:B0CNPQWW2G",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "Cellux 2X Ultra Cover Deep Brown Spray Paint | DIY, Quick Drying with Premium Gloss Finish for Metal, Wood, Wall & other Surfaces - 400 ML",
-      "description": "",
-      "dealPrice": 134,
-      "mrp": 250,
-      "savings": 116,
-      "discountPct": 46,
-      "rating": null,
-      "reviewCount": "3,482",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61-a1EYCdoL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CNPQWW2G?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T19:07:00.626Z"
     }
   ]
 }
