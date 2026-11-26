@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T06:22:41.904Z",
+  "updatedAt": "2026-11-26T06:37:20.104Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GSRJ7D2Q",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "Shatras Magic Eraser Cleaning Sponge – Multipurpose Melamine Foam Stain Remover Foam for Walls, Kitchen, Bathroom, Tiles & Shoes | Just A...",
+      "description": "",
+      "dealPrice": 189,
+      "mrp": 1299,
+      "savings": 1110,
+      "discountPct": 85,
+      "rating": null,
+      "reviewCount": "427",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71rbBeNMv7L._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GSRJ7D2Q?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T06:37:04.249Z"
+    },
     {
       "id": "amz:B0G1C3PNMS",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71I9wylBRwL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HMJSPTW6?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T12:21:50.035Z"
-    },
-    {
-      "id": "amz:B0G2H4R5YB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Kratos TW02 Ear Buds Wireless with 60H Playtime, Noise Isolation & Clear Calls, Bluetooth Earbuds with Voice Assistant, Ear Buds with Blu...",
-      "description": "",
-      "dealPrice": 499,
-      "mrp": 1999,
-      "savings": 1500,
-      "discountPct": 75,
-      "rating": null,
-      "reviewCount": "4,750",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61IgAVQe1yL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G2H4R5YB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T10:07:24.316Z"
     }
   ]
 }
