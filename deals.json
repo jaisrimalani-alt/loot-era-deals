@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T22:22:39.535Z",
+  "updatedAt": "2026-11-26T22:37:37.281Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B00DUCIUDY",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Decker Rose Gold Watch ES3352",
+      "description": "",
+      "dealPrice": 7197,
+      "mrp": 11995,
+      "savings": 4798,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "749",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51FhFiGfZVL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B00DUCIUDY?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T22:37:22.711Z"
+    },
     {
       "id": "amz:B086K654H9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61YtGSDqdHL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DRKM7XH7?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T05:07:28.418Z"
-    },
-    {
-      "id": "amz:B00A0VCJPI",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "TP-Link TL-WA850RE N300 Wireless Range Extender, Broadband/Wi-Fi Extender, Wi-Fi Booster/Hotspot with 1 Ethernet Port, Plug and Play, Bui...",
-      "description": "",
-      "dealPrice": 1499,
-      "mrp": 2499,
-      "savings": 1000,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "206,917",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51V9QaJnTxL._SL1200_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B00A0VCJPI?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T04:52:06.348Z"
     }
   ]
 }
