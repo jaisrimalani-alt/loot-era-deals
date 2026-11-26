@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-26T03:22:43.688Z",
+  "updatedAt": "2026-11-26T03:37:27.885Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CD49ZRT9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Zapcase Back Case Cover for iPhone 15 | Compatible for iPhone 15 Back Cover | Liquid Silicon Magic Case with Camera Protection | Black",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 899,
+      "savings": 600,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "39,163",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71DzOfEIl3L._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CD49ZRT9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-26T03:37:15.067Z"
+    },
     {
       "id": "amz:B0FTS37337",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71FPTQlD5FL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0D8BL4SD2?tag=looteradea0b5-21",
       "postedAt": "2026-11-22T09:37:25.455Z"
-    },
-    {
-      "id": "amz:B0CDGYCZF9",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Zapcase Back Case Cover for OnePlus Nord CE 3 5G | Compatible for OnePlus Nord CE 3 5G Back Case Cover | Matte Case | Liquid Silicon Magi...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 899,
-      "savings": 600,
-      "discountPct": 67,
-      "rating": null,
-      "reviewCount": "39,086",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81Im3Q7AUAL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CDGYCZF9?tag=looteradea0b5-21",
-      "postedAt": "2026-11-22T09:07:19.228Z"
     }
   ]
 }
