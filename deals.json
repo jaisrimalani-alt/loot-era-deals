@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T17:07:47.425Z",
+  "updatedAt": "2026-11-27T17:22:50.212Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GV3VYZM6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Gizga Pro Series 3-in-1 Laptop Cleaning Kit | 100ml Screen Cleaner Spray, Microfiber Cloth & Cleaning Brush | Alcohol-Free Laptop Screen ...",
+      "description": "",
+      "dealPrice": 149,
+      "mrp": 299,
+      "savings": 150,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "1,590",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/813IbZitr5L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GV3VYZM6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T17:22:35.194Z"
+    },
     {
       "id": "amz:B09YJ2YDGS",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.gharsoaps.shop%2F",
       "postedAt": "2026-11-24T10:22:27.049Z"
-    },
-    {
-      "id": "amz:B0H3T2WYMJ",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "LIT AC Remote Competible with Carrier ACS 6in1 Feature AC Remote for Carrier Exact Same Remote Will Work Please Match with Your Old Remot...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 999,
-      "savings": 700,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "18",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/616B3NYfM5L._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0H3T2WYMJ?tag=looteradea0b5-21",
-      "postedAt": "2026-11-24T09:37:25.080Z"
     }
   ]
 }
