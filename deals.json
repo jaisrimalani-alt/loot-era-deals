@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T10:22:46.054Z",
+  "updatedAt": "2026-11-27T10:37:29.918Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133033",
+      "type": "cuelinks",
+      "source": "Muscleblaze",
+      "categoryName": "Brand Offer",
+      "title": "Ultimate MuscleBlaze Black Friday Sale: Up to 50% Off + Add 15% Extra Savings!",
+      "description": "Shop stunning up to 50% off on all MuscleBlaze nutritional supplements! Open to all—don’t let this chance slip by! Get an extra 15% off with the coupon code! No minimum cart value required—shop freely!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "ZBLACK",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2F",
+      "postedAt": "2026-11-27T10:37:29.915Z"
+    },
     {
       "id": "cue:133019",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.sugarcosmetics.com%2F",
       "postedAt": "2026-11-23T14:22:28.579Z"
-    },
-    {
-      "id": "amz:B0HHRJZNF8",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Dubstep Squad Chrome Wired Earphones with USB Type-C, 14mm Dynamic Drivers, X-Bass® Technology, in-Line Microphone & Controls, Tangle-Fre...",
-      "description": "",
-      "dealPrice": 499,
-      "mrp": 999,
-      "savings": 500,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "24",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61omshvf07L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HHRJZNF8?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T14:22:27.255Z"
     }
   ]
 }
