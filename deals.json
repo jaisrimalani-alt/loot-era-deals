@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T01:07:41.642Z",
+  "updatedAt": "2026-11-27T01:22:43.410Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B08BXXFCKM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Rpi shop - 10 Meters in total Heat Shrink Tubes: 1 meter each of (1mm, 3mm, 5mm, 6mm, 8mm & 10mm) & 2 meter each of (2mm & 4mm) Total 10 ...",
+      "description": "",
+      "dealPrice": 107,
+      "mrp": 539,
+      "savings": 432,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "1,317",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Mjb36wVRL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B08BXXFCKM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T01:22:27.862Z"
+    },
     {
       "id": "amz:B00DUCIMCI",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.boat-lifestyle.com%2F",
       "postedAt": "2026-11-23T06:22:33.706Z"
-    },
-    {
-      "id": "amz:B0BL6S8KHM",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "ProElite Smart Case for iPad (A16) 11th/10th Generation (2025/2022) [Auto Sleep/Wake Cover] [Pencil Holder] [Soft Flexible Case] Recoil S...",
-      "description": "",
-      "dealPrice": 549,
-      "mrp": 1999,
-      "savings": 1450,
-      "discountPct": 73,
-      "rating": null,
-      "reviewCount": "5,905",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/618tNqgXWBL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BL6S8KHM?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T05:51:57.546Z"
     }
   ]
 }
