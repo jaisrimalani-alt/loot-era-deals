@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T08:37:41.116Z",
+  "updatedAt": "2026-11-27T08:52:28.808Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133018",
+      "type": "cuelinks",
+      "source": "Libas",
+      "categoryName": "Brand Offer",
+      "title": "Libas Black Friday Sale | Up to 70% Off + Rs. 200 Off Your Order!",
+      "description": "Unlock 70% savings on beautiful women's ethnic outfits. Take an extra Rs. 200 off your order of Rs. 2899 or more. Explore the latest styles and accessories. Order now.",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "SALE200",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.libas.in%2F%3Fclick_id%3D6b09328c2b5e68c3381c7f9d%26utm_campaign%3Dtrackier_2%26utm_source%3D5_301233_20261127clhojheluvtb%26utm_term%3D6b09328c2b5e68c3381c7f9d",
+      "postedAt": "2026-11-27T08:52:28.804Z"
+    },
     {
       "id": "cue:133015",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.aldoshoes.in%2F",
       "postedAt": "2026-11-23T12:52:31.514Z"
-    },
-    {
-      "id": "amz:B0HNS1PQSD",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Motorola Motobook 60 Full Metal WUXGA OLED Intel Core 5 210H - (16 GB/512 GB SSD/Windows 11 Home) 14IRH10R Thin and Light Laptop (14 inch...",
-      "description": "",
-      "dealPrice": 67990,
-      "mrp": 135000,
-      "savings": 67010,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "1",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61ciyeazc4L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HNS1PQSD?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T12:52:29.668Z"
     }
   ]
 }
