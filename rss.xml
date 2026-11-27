@@ -6,12 +6,22 @@
     <atom:link href="https://jaisrimalani-alt.github.io/loot-era-deals/rss.xml" rel="self" type="application/rss+xml" />
     <description>24x7 automated Indian loot deals from Amazon.in and top D2C Indian brands. Follow @loot_era_deals on Telegram.</description>
     <language>en-IN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:22:29 GMT</lastBuildDate>
     <image>
       <url>https://jaisrimalani-alt.github.io/loot-era-deals/logo.jpg</url>
       <title>Loot-era Deals</title>
       <link>https://jaisrimalani-alt.github.io/loot-era-deals/</link>
     </image>
+    <item>
+      <title>Epic Black Friday Savings: Enjoy Up to 65% Off + Extra 5% Off at Neemans!</title>
+      <link>https://linksredirect.com/?cid=335927&amp;source=api&amp;url=https%3A%2F%2Fneemans.com%2F%3Fview%3Dblack-friday</link>
+      <guid isPermaLink="false">cue:133015-2026-11-27T08:22:29.306Z</guid>
+      <pubDate>Fri, 27 Nov 2026 08:22:29 GMT</pubDate>
+      <category>Brand Offer</category>
+      <description><![CDATA[<p><strong>Neemans</strong> | Brand Offer</p><p>Transform your footwear collection with amazing discounts on our best-selling shoes! This offer is open to all shoppers—join the fun! Plus, save an additional 5% on your prepaid order! Look good and feel better about you</p><p><a href="https://linksredirect.com/?cid=335927&amp;source=api&amp;url=https%3A%2F%2Fneemans.com%2F%3Fview%3Dblack-friday">Grab Deal</a> | <a href="https://t.me/loot_era_deals">More live drops on @loot_era_deals</a></p><p><em>Affiliate disclosure: We may earn from qualifying purchases.</em></p>]]></description>
+      <enclosure url="https://jaisrimalani-alt.github.io/loot-era-deals/logo.jpg" type="image/jpeg" />
+      <media:content url="https://jaisrimalani-alt.github.io/loot-era-deals/logo.jpg" medium="image" />
+    </item>
     <item>
       <title>Unmissable Perfora Black Friday Extravaganza: Enjoy 30% Off Storewide!</title>
       <link>https://linksredirect.com/?cid=335927&amp;source=api&amp;url=https%3A%2F%2Fperforacare.com%2Fcollections%2Fall</link>
@@ -301,16 +311,6 @@
       <description><![CDATA[<p><strong>Amazon.in</strong> | Electronics</p><p>Deal Price: ₹299 (MRP ₹899, Save ₹600).</p><p><a href="https://www.amazon.in/dp/B0CD49ZRT9?tag=looteradea0b5-21">Grab Deal</a> | <a href="https://t.me/loot_era_deals">More live drops on @loot_era_deals</a></p><p><em>Affiliate disclosure: We may earn from qualifying purchases.</em></p>]]></description>
       <enclosure url="https://m.media-amazon.com/images/I/71DzOfEIl3L._SL1500_.jpg" type="image/jpeg" />
       <media:content url="https://m.media-amazon.com/images/I/71DzOfEIl3L._SL1500_.jpg" medium="image" />
-    </item>
-    <item>
-      <title>77% OFF — Silicone Clear Rubber Door Bumper Stopers Wall Protectors for Furniture, 6Piece Pack Self Adhesive Door Handle Knob Wall Shield Bu</title>
-      <link>https://www.amazon.in/dp/B0FTS37337?tag=looteradea0b5-21</link>
-      <guid isPermaLink="false">amz:B0FTS37337-2026-11-26T03:22:29.716Z</guid>
-      <pubDate>Thu, 26 Nov 2026 03:22:29 GMT</pubDate>
-      <category>Home Improvement</category>
-      <description><![CDATA[<p><strong>Amazon.in</strong> | Home Improvement</p><p>Deal Price: ₹229 (MRP ₹999, Save ₹770).</p><p><a href="https://www.amazon.in/dp/B0FTS37337?tag=looteradea0b5-21">Grab Deal</a> | <a href="https://t.me/loot_era_deals">More live drops on @loot_era_deals</a></p><p><em>Affiliate disclosure: We may earn from qualifying purchases.</em></p>]]></description>
-      <enclosure url="https://m.media-amazon.com/images/I/61-9mYLznIL._AC_UY654_FMwebp_QL65_.jpg" type="image/jpeg" />
-      <media:content url="https://m.media-amazon.com/images/I/61-9mYLznIL._AC_UY654_FMwebp_QL65_.jpg" medium="image" />
     </item>
   </channel>
 </rss>

@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T08:07:41.321Z",
+  "updatedAt": "2026-11-27T08:22:29.309Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133015",
+      "type": "cuelinks",
+      "source": "Neemans",
+      "categoryName": "Brand Offer",
+      "title": "Epic Black Friday Savings: Enjoy Up to 65% Off + Extra 5% Off at Neemans!",
+      "description": "Transform your footwear collection with amazing discounts on our best-selling shoes! This offer is open to all shoppers—join the fun! Plus, save an additional 5% on your prepaid order! Look good and feel better about you",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fneemans.com%2F%3Fview%3Dblack-friday",
+      "postedAt": "2026-11-27T08:22:29.306Z"
+    },
     {
       "id": "cue:133002",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61ciyeazc4L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HNS1PQSD?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T12:52:29.668Z"
-    },
-    {
-      "id": "cue:132811",
-      "type": "cuelinks",
-      "source": "khadi Natural",
-      "categoryName": "Brand Offer",
-      "title": "Don't Miss Out: Buy 3 Khadi Natural Products, Pay for 2 + Extra 5% Off with Prepaid!",
-      "description": "Shop Khadi Natural’s wide selection: shampoos, facial wash, serums, and beyond! Enjoy our Buy 3, Pay for 2 deal using the coupon code! No minimum spend required—snap up your favorites! Receive 5% off your total with prep",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "B3P2",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.khadinatural.com%2F",
-      "postedAt": "2026-11-23T12:37:34.036Z"
     }
   ]
 }
