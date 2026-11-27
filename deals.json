@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T02:37:43.261Z",
+  "updatedAt": "2026-11-27T02:52:40.551Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0BSRX62MB",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Pikkme Flip Cover Leather Finish | Inside TPU with Card Pockets | Wallet Stand and Shock Proof | Complete Protection Flip Case for Samsun...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 999,
+      "savings": 800,
+      "discountPct": 80,
+      "rating": null,
+      "reviewCount": "59,008",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71DLi5DeoXL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0BSRX62MB?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T02:52:25.434Z"
+    },
     {
       "id": "amz:B08BXXFCKM",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51Qqb0YPOZL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0F3XQGKDD?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T07:22:22.151Z"
-    },
-    {
-      "id": "cue:132769",
-      "type": "cuelinks",
-      "source": "Boat",
-      "categoryName": "Brand Offer",
-      "title": "Unlock an Instant Rs. 100 Off Your Purchase Today!",
-      "description": "Limited-time offer you don’t want to miss! Enjoy Rs. 100 off on Boat earbuds, speakers, smartwatches, and more. Apply the coupon code at checkout to enjoy your savings. Shop now and elevate your audio experience!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "BOAT100",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.boat-lifestyle.com%2F",
-      "postedAt": "2026-11-23T06:22:33.706Z"
     }
   ]
 }
