@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T11:37:40.248Z",
+  "updatedAt": "2026-11-27T11:52:35.792Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CB5M4G8M",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "ELECTOMANIA ® 500ML Plastic Retractable Handheld Bidet Portable of Antislip, Bidet Angled Nozzle Spray with Travel Bag (Purple)",
+      "description": "",
+      "dealPrice": 319,
+      "mrp": 999,
+      "savings": 680,
+      "discountPct": 68,
+      "rating": null,
+      "reviewCount": "2,037",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61T35J8ZuJL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CB5M4G8M?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T11:52:18.478Z"
+    },
     {
       "id": "amz:B0G4R3MXRT",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Mq8-H4I3L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FJMGWF5K?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T21:49:56.272Z"
-    },
-    {
-      "id": "amz:B0GNRF626K",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Health & Personal Care",
-      "title": "Havells 8 in 1 Grooming Kit |2-in-1 Special Blade|Nose & Ear Attachment|4 Beard & 2 Hair Combs|Type C Turbo Charge|No Nicks & Cuts|2 Year...",
-      "description": "",
-      "dealPrice": 1099,
-      "mrp": 1999,
-      "savings": 900,
-      "discountPct": 45,
-      "rating": null,
-      "reviewCount": "2,880",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81pnsfWB2mL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GNRF626K?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T21:36:49.557Z"
     }
   ]
 }
