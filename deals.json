@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T09:07:33.371Z",
+  "updatedAt": "2026-11-27T09:22:42.565Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133021",
+      "type": "cuelinks",
+      "source": "Libas",
+      "categoryName": "Brand Offer",
+      "title": "Save 10% When You Purchase 2 Plus Size Ethnic Styles!",
+      "description": "Receive a flat 10% off on stylish plus size ethnic apparel. Discount available on the purchase of 2 items. Get your items delivered quickly with express shipping. Order now.",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.libas.in%2Fcollections%2Fplus-size-special-offer%3Ffilter.p.m.custom.inventory_availability_types%3Dwarehouse_only%26filter.p.m.custom.inventory_availability_types%3Dboth",
+      "postedAt": "2026-11-27T09:22:42.560Z"
+    },
     {
       "id": "cue:133018",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fnutrabay.com%2Fsale%2Fnutrabay-sale",
       "postedAt": "2026-11-23T13:37:32.127Z"
-    },
-    {
-      "id": "cue:132810",
-      "type": "cuelinks",
-      "source": "Aldo",
-      "categoryName": "Brand Offer",
-      "title": "ALDO's Black Friday: Flat 50% OFF + Extra 5% OFF For You!",
-      "description": "Enjoy a whopping 50% off on all ALDO products. Plus, snag an additional 5% off your entire order! Act fast—these deals are available for a limited time. This offer is open to everyone. Grab your favorites now!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "NORETURN",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.aldoshoes.in%2F",
-      "postedAt": "2026-11-23T12:52:31.514Z"
     }
   ]
 }
