@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T11:22:48.156Z",
+  "updatedAt": "2026-11-27T11:37:40.248Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G4R3MXRT",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Fogg Black Night Wave |No Gas| Long Lasting Perfume Deodorant Spray for Men & Women-120 ML",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 399,
+      "savings": 200,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "347",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51BOPVJTUCL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G4R3MXRT?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T11:37:23.734Z"
+    },
     {
       "id": "cue:133037",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81pnsfWB2mL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GNRF626K?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T21:36:49.557Z"
-    },
-    {
-      "id": "amz:B0CLR9LP6T",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Watches",
-      "title": "Crest 1.43” AMOLED Smart Watch with BT Calling, AI Morning Briefs, Functional Crown, Health Tracking, Aluminium Body, 100+ Sports Modes, ...",
-      "description": "",
-      "dealPrice": 5999,
-      "mrp": 13995,
-      "savings": 7996,
-      "discountPct": 57,
-      "rating": null,
-      "reviewCount": "1,032",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81gfzrOzSJL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CLR9LP6T?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T14:51:46.725Z"
     }
   ]
 }
