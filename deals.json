@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T13:37:45.770Z",
+  "updatedAt": "2026-11-27T13:52:30.468Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133058",
+      "type": "cuelinks",
+      "source": "HealthKart",
+      "categoryName": "Brand Offer",
+      "title": "Black Friday Special: Extra 15% Off on Tees, Hoodies, and More!",
+      "description": "No min. purchase limit! Get 15% off on your favorite Tees, Hoodies, Joggers, and beyond! This offer is valid only on select itemsAct quickly and grab your favorites!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "ZBLACK",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.healthkart.com%2Fsale%2Fzverse-range",
+      "postedAt": "2026-11-27T13:52:30.465Z"
+    },
     {
       "id": "amz:B0GLPF5GBP",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsale%2Fbiozyme-gold-whey-2-kg-range",
       "postedAt": "2026-11-24T05:37:42.493Z"
-    },
-    {
-      "id": "amz:B0G15T6GFX",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "45W USB Type C Fast Charger Adapter Compatible with Google",
-      "description": "",
-      "dealPrice": 549,
-      "mrp": 3999,
-      "savings": 3450,
-      "discountPct": 86,
-      "rating": null,
-      "reviewCount": "14,316",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51tnUysYd1L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G15T6GFX?tag=looteradea0b5-21",
-      "postedAt": "2026-11-24T05:07:29.998Z"
     }
   ]
 }
