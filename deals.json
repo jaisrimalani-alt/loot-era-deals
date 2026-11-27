@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T06:22:44.044Z",
+  "updatedAt": "2026-11-27T06:36:48.362Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132997",
+      "type": "cuelinks",
+      "source": "Gonoise",
+      "categoryName": "Brand Offer",
+      "title": "Go Noise's Epic Black Friday: Save Up to 80% + Additional 10% Off",
+      "description": "Shop now for earbuds, headphones, and cutting-edge smartwatches at discounts of up to 80%! Use the promo code for an extra 10% Off your total. This offer is open to all—join the fun! Act fast, as this limited-time sale w",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "GN10",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.gonoise.com%2Fcollections%2Fblack-friday-sale-2026",
+      "postedAt": "2026-11-27T06:36:48.360Z"
+    },
     {
       "id": "cue:132989",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsv%2Fmuscleblaze-super-gainer-xxl-weight-gainer%2FSP-42633%3FnavKey%3DVRNT-91389",
       "postedAt": "2026-11-23T11:22:36.374Z"
-    },
-    {
-      "id": "cue:132801",
-      "type": "cuelinks",
-      "source": "Muscleblaze",
-      "categoryName": "Brand Offer",
-      "title": "Boost Your Gains: Premium 2kg Whey Protein from Rs. 6899!",
-      "description": "Maximize your workout potential with our exclusive whey protein packs. Save big with cost-effective 2kg options tailored for you. Visit the MuscleBlaze site to claim your savings. Grab yours starting at just Rs. 6899!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsale%2Fbiozyme-performance-2kg-products",
-      "postedAt": "2026-11-23T11:07:28.950Z"
     }
   ]
 }
