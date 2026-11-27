@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T10:52:32.885Z",
+  "updatedAt": "2026-11-27T11:07:31.524Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133037",
+      "type": "cuelinks",
+      "source": "Denver",
+      "categoryName": "Brand Offer",
+      "title": "Denver Black Friday Sale | Buy 3 Perfumes for Rs. 1000 + Chance to Win an iPhone",
+      "description": "Pick any 3 perfumes for just Rs. 1000! Get a chance to win an iPhone in our exciting draw! Limited period offer. Order now.",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fdenverformen.com%2Fproducts%2Fpack-of-3-110mls-byob",
+      "postedAt": "2026-11-27T11:07:31.521Z"
+    },
     {
       "id": "cue:133035",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81gfzrOzSJL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CLR9LP6T?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T14:51:46.725Z"
-    },
-    {
-      "id": "amz:B0FLJMYR9F",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Hairline Powder Instantly Conceals Hair Root Touch Up Hair Powder, Hair Toppers for Women & Men, Hair Fibers for Thinning Hair Non Sticky...",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 440,
-      "savings": 291,
-      "discountPct": 66,
-      "rating": null,
-      "reviewCount": "430",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/613oiWteChL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FLJMYR9F?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T14:37:01.585Z"
     }
   ]
 }
