@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T12:37:31.883Z",
+  "updatedAt": "2026-11-27T12:51:13.884Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133047",
+      "type": "cuelinks",
+      "source": "Denver",
+      "categoryName": "Brand Offer",
+      "title": "Flat 35% Off on Denver Luxury Perfumes",
+      "description": "Take advantage of a flat 35% discount on luxury perfumes. Prices beginning from just Rs. 1300. Luxury fragrances tailored specifically for men. Shop now.",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fdenverformen.com%2Fcollections%2Fluxury-perfumes",
+      "postedAt": "2026-11-27T12:51:13.881Z"
+    },
     {
       "id": "cue:133048",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51rHn5Af9+L._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BRL1DBR5?tag=looteradea0b5-21",
       "postedAt": "2026-11-24T03:07:18.776Z"
-    },
-    {
-      "id": "amz:B0B296NTFV",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Portronics Toad 23 Wireless Optical Mouse with 2.4GHz, USB Nano Dongle, Optical Orientation, Click Wheel, Adjustable DPI(Black)",
-      "description": "",
-      "dealPrice": 259,
-      "mrp": 599,
-      "savings": 340,
-      "discountPct": 57,
-      "rating": null,
-      "reviewCount": "17,322",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/41KuRShR97L._SL1200_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0B296NTFV?tag=looteradea0b5-21",
-      "postedAt": "2026-11-24T02:22:16.101Z"
     }
   ]
 }
