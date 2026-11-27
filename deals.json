@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T12:07:44.862Z",
+  "updatedAt": "2026-11-27T12:22:55.907Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CG17DT8T",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Parachute Advansed Coco Nourish Body Lotion with Pure Coconut Milk, 600ml",
+      "description": "",
+      "dealPrice": 168,
+      "mrp": 600,
+      "savings": 432,
+      "discountPct": 72,
+      "rating": null,
+      "reviewCount": "6,398",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51L6VMKVyfL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CG17DT8T?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T12:22:28.693Z"
+    },
     {
       "id": "amz:B0CB5M4G8M",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/716U6kZucML._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GKPNJ1J3?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T22:52:31.832Z"
-    },
-    {
-      "id": "amz:B0FJMGWF5K",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Lifelong Stainless Steel Heavy Bottom Saucepan | 1.5liter, 17cm Saucepan with Handle | Milk & Tea Boiling Pot for Kitchen | Induction & G...",
-      "description": "",
-      "dealPrice": 299,
-      "mrp": 999,
-      "savings": 700,
-      "discountPct": 70,
-      "rating": null,
-      "reviewCount": "1,007",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Mq8-H4I3L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FJMGWF5K?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T21:49:56.272Z"
     }
   ]
 }
