@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T12:22:55.907Z",
+  "updatedAt": "2026-11-27T12:37:31.883Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133048",
+      "type": "cuelinks",
+      "source": "Kindlife",
+      "categoryName": "Brand Offer",
+      "title": "kindlife's Black Friday Bonanza: Up to 70% Off Awaits You!",
+      "description": "Enjoy hassle-free shopping—no minimum order amount! Take advantage of up to 70% off on selected Korean skincare. Exclusive for everyone—hurry, don’t miss this chance! Grab this deal and choose kindness for your skin!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.kindlife.in%2F",
+      "postedAt": "2026-11-27T12:37:31.880Z"
+    },
     {
       "id": "amz:B0CG17DT8T",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41KuRShR97L._SL1200_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0B296NTFV?tag=looteradea0b5-21",
       "postedAt": "2026-11-24T02:22:16.101Z"
-    },
-    {
-      "id": "amz:B0GKPNJ1J3",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Desidiya® RGB Neon LED 5Mtr Strip Light with App & Remote Control | Music Sync | USB Powered | Waterproof & Flexible Led Rope Light Room,...",
-      "description": "",
-      "dealPrice": 579,
-      "mrp": 1999,
-      "savings": 1420,
-      "discountPct": 71,
-      "rating": null,
-      "reviewCount": "949",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/716U6kZucML._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GKPNJ1J3?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T22:52:31.832Z"
     }
   ]
 }
