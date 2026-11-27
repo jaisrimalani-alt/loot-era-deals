@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T00:52:41.201Z",
+  "updatedAt": "2026-11-27T01:07:41.642Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B00DUCIMCI",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Chronograph Black Dial Men's Watch-CH2891",
+      "description": "",
+      "dealPrice": 7797,
+      "mrp": 12995,
+      "savings": 5198,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "18,026",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71VWBUEea+L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B00DUCIMCI?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T01:07:27.144Z"
+    },
     {
       "id": "amz:B00H2ZDX00",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/618tNqgXWBL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BL6S8KHM?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T05:51:57.546Z"
-    },
-    {
-      "id": "amz:B0BVQMQ1XS",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Zapcase Back Case Cover for Oneplus 11R 5G | Compatible for Oneplus 11R 5G Back Cover | Liquid Silicon Magic Case with Camera Protection ...",
-      "description": "",
-      "dealPrice": 249,
-      "mrp": 899,
-      "savings": 650,
-      "discountPct": 72,
-      "rating": null,
-      "reviewCount": "39,108",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/81QvCA8w82L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BVQMQ1XS?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T05:37:18.467Z"
     }
   ]
 }
