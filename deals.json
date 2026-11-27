@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T14:07:48.117Z",
+  "updatedAt": "2026-11-27T14:22:35.069Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B092SXPTZM",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home & Kitchen",
+      "title": "Milton Appliances Go Electric Kettle 1.5 Litre I 3X Protection - Dry Boil, Auto Shut Off, Overheat I 1350 Watt I Super Fast Boiling I Sta...",
+      "description": "",
+      "dealPrice": 730,
+      "mrp": 1399,
+      "savings": 669,
+      "discountPct": 48,
+      "rating": null,
+      "reviewCount": "12,218",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71R8NU5Mu7L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B092SXPTZM?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T14:22:18.184Z"
+    },
     {
       "id": "cue:133058",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsale%2F2kg-iso-zero-range",
       "postedAt": "2026-11-24T05:42:02.417Z"
-    },
-    {
-      "id": "cue:132831",
-      "type": "cuelinks",
-      "source": "Muscleblaze",
-      "categoryName": "Brand Offer",
-      "title": "Grab Biozyme Gold Whey 2 kg for Only Rs. 8599 + Snag an Extra 6% MB Cashback Today!",
-      "description": "Check out the amazing price on Biozyme Gold Whey 2 kg! Shop at MuscleBlaze's website or mobile version now. Prices begin at an attractive Rs. 8599. And, get rewarded with a 6% MB Cashback!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsale%2Fbiozyme-gold-whey-2-kg-range",
-      "postedAt": "2026-11-24T05:37:42.493Z"
     }
   ]
 }
