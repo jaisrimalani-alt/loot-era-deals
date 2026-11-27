@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T04:07:42.541Z",
+  "updatedAt": "2026-11-27T04:22:01.864Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0756HZPSP",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Vaseline Blueseal Original Pure Petroleum Jelly, 50ml",
+      "description": "",
+      "dealPrice": 166,
+      "mrp": 300,
+      "savings": 134,
+      "discountPct": 45,
+      "rating": null,
+      "reviewCount": "22,863",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61XU4-MWG2L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0756HZPSP?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T04:21:48.681Z"
+    },
     {
       "id": "amz:B0G2B1S4YL",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61-vRq2ulOL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0BJ72WZQ7?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T08:52:18.671Z"
-    },
-    {
-      "id": "amz:B0DK5PFHGT",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Rexona Advanced Brightening Roll On Motion Activated Deodorant for Women | 72-Hour Freshness | 45 ML",
-      "description": "",
-      "dealPrice": 100,
-      "mrp": 199,
-      "savings": 99,
-      "discountPct": 50,
-      "rating": null,
-      "reviewCount": "230",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51NH3rxXg7L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0DK5PFHGT?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T07:52:04.403Z"
     }
   ]
 }
