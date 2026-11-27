@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T13:22:42.598Z",
+  "updatedAt": "2026-11-27T13:37:45.770Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0GLPF5GBP",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Watches",
+      "title": "Jupiter R3 1.38\" Ultra UV Round Display with Nitro Fast Charging,Single Sync BT Calling, HRM, SPO2, Upto 5 Days Battery Life Smart Watch ...",
+      "description": "",
+      "dealPrice": 1499,
+      "mrp": 2499,
+      "savings": 1000,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "625",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61-VJoyV5JL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0GLPF5GBP?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T13:37:27.946Z"
+    },
     {
       "id": "cue:133047",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51tnUysYd1L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G15T6GFX?tag=looteradea0b5-21",
       "postedAt": "2026-11-24T05:07:29.998Z"
-    },
-    {
-      "id": "amz:B0BRL1DBR5",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "YOHO Drizzle Soft Slippers for Women, Mild Acupressure, Lightweight, Anti Skid & Slip, Diabetic Footwear for Woman, Home Wear Bathroom Ch...",
-      "description": "",
-      "dealPrice": 559,
-      "mrp": 1499,
-      "savings": 940,
-      "discountPct": 63,
-      "rating": null,
-      "reviewCount": "4,271",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51rHn5Af9+L._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BRL1DBR5?tag=looteradea0b5-21",
-      "postedAt": "2026-11-24T03:07:18.776Z"
     }
   ]
 }
