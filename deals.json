@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T05:37:48.056Z",
+  "updatedAt": "2026-11-27T05:52:32.217Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:132989",
+      "type": "cuelinks",
+      "source": "Boat",
+      "categoryName": "Brand Offer",
+      "title": "Grab Boat's Black Friday Savings: Up to 80% Off Select Audio Products + 5% Extra Discount!",
+      "description": "Explore fabulous discounts on boAt earbuds, headphones, and travel gadgets. Everyone can use the coupon code for extra savings! Enjoy an additional 5% Off your total order! No minimum shopping amount needed—just dive in!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "BLKFRIDAY",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.boat-lifestyle.com%2Fpages%2Fblack-friday-sale",
+      "postedAt": "2026-11-27T05:52:32.213Z"
+    },
     {
       "id": "amz:B09XJ33TYD",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.muscleblaze.com%2Fsale%2Fbiozyme-performance-2kg-products",
       "postedAt": "2026-11-23T11:07:28.950Z"
-    },
-    {
-      "id": "amz:B0FBFXPRQL",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Slippers for Man Soft Cushioned Flip Flops for Man Comfortable Chappal for Men Lightweight Slippers for Men Indoor and Outdoor Chappal Me...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 999,
-      "savings": 800,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "527",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51LTvLoL5JL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FBFXPRQL?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T10:37:24.269Z"
     }
   ]
 }
