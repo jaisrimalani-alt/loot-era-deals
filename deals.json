@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T05:07:41.314Z",
+  "updatedAt": "2026-11-27T05:22:41.713Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B09XJ33TYD",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Women's Tinsel Frame Clutch | Ladies Purse Handbag",
+      "description": "",
+      "dealPrice": 559,
+      "mrp": 2499,
+      "savings": 1940,
+      "discountPct": 78,
+      "rating": null,
+      "reviewCount": "301",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/81jz2Dal-TL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B09XJ33TYD?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T05:22:26.086Z"
+    },
     {
       "id": "amz:B0D78Y3KRP",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51LTvLoL5JL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FBFXPRQL?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T10:37:24.269Z"
-    },
-    {
-      "id": "amz:B0FJLQL4TW",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "UB Unity Brand Multipurpose Double Sided Tape Heavy Duty - Adhesive Silicone Tape, Heat Resistant, Multi-Functional, Removable, Washable,...",
-      "description": "",
-      "dealPrice": 229,
-      "mrp": 999,
-      "savings": 770,
-      "discountPct": 77,
-      "rating": null,
-      "reviewCount": "2,806",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Lqe-zOjWL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0FJLQL4TW?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T10:22:05.350Z"
     }
   ]
 }
