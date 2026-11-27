@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T09:22:42.565Z",
+  "updatedAt": "2026-11-27T09:37:43.451Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133020",
+      "type": "cuelinks",
+      "source": "Libas",
+      "categoryName": "Brand Offer",
+      "title": "Elevate Your Winter Look: Up to 60% Off on Libas Women's Wear!",
+      "description": "Fashionable winter wear at unbeatable prices! Starting at just Rs. 1849. Discover options in various styles, including knitted and velvet. Shop now.",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.libas.in%2Fcollections%2Fwinter-wonders%3Ffilter.p.m.custom.inventory_availability_types%3Dwarehouse_only%26filter.p.m.custom.inventory_availability_types%3Dboth",
+      "postedAt": "2026-11-27T09:37:43.443Z"
+    },
     {
       "id": "cue:133021",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.aldoshoes.in%2Feverything-under-2499%2F",
       "postedAt": "2026-11-23T13:52:44.761Z"
-    },
-    {
-      "id": "cue:132821",
-      "type": "cuelinks",
-      "source": "Nutrabay",
-      "categoryName": "Brand Offer",
-      "title": "Grab Nutrabay's Black Friday Offers: Enjoy Up to 60% Off + Extra 5% on Proteins & Supplements!",
-      "description": "Take advantage of unbeatable discounts on our health and fitness products. Available for all—everyone can save on their favorites! Apply the coupon code for an extra 5% off. No minimum order required—dive into shopping!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "NUTRABAY5",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fnutrabay.com%2Fsale%2Fnutrabay-sale",
-      "postedAt": "2026-11-23T13:37:32.127Z"
     }
   ]
 }
