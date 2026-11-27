@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T03:37:19.181Z",
+  "updatedAt": "2026-11-27T03:52:17.744Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G2B1S4YL",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Redmi 15C 5G Prime Edition (Dusk Purple, 4GB + 128GB) | Massive 6000mAh Battery | Segment's Largest 17.53cm Display Up to 120Hz | MediaTe...",
+      "description": "",
+      "dealPrice": 15999,
+      "mrp": 26999,
+      "savings": 11000,
+      "discountPct": 41,
+      "rating": null,
+      "reviewCount": "903",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/711q7oij2qL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G2B1S4YL?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T03:52:02.125Z"
+    },
     {
       "id": "amz:B0BSRX62MB",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51NH3rxXg7L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DK5PFHGT?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T07:52:04.403Z"
-    },
-    {
-      "id": "amz:B0F3XQGKDD",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Pikkme Back Cover for Samsung Galaxy A34 5G | Slim Soft Matte Silicone Cover with Camera Protection & Shockproof Bumper Case (Black)",
-      "description": "",
-      "dealPrice": 149,
-      "mrp": 999,
-      "savings": 850,
-      "discountPct": 85,
-      "rating": null,
-      "reviewCount": "20,930",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51Qqb0YPOZL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0F3XQGKDD?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T07:22:22.151Z"
     }
   ]
 }
