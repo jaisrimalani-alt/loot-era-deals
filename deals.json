@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T10:37:29.918Z",
+  "updatedAt": "2026-11-27T10:52:32.885Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133035",
+      "type": "cuelinks",
+      "source": "Jaypore",
+      "categoryName": "Brand Offer",
+      "title": "Jaypore's Spectacular Black Friday Sale | Get Up to 60% Off on Select Styles Now!",
+      "description": "Don’t miss out on fabulous savings of up to 60%! Find your perfect ethnic outfits, dazzling jewelry, and more. This sale is for a limited time only! Shop before it's too late!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.jaypore.com%2F%3Futm_source%3Daffiliate%26utm_medium%3Dicubeswire_10674_20261127clsf2ryrew4r",
+      "postedAt": "2026-11-27T10:52:32.881Z"
+    },
     {
       "id": "cue:133033",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/613oiWteChL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0FLJMYR9F?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T14:37:01.585Z"
-    },
-    {
-      "id": "cue:132825",
-      "type": "cuelinks",
-      "source": "Sugar Cosmetics",
-      "categoryName": "Brand Offer",
-      "title": "Special Treat: Buy 2 Beauty Products, Get 1 Free!",
-      "description": "Dive into your beauty favorites with premium collection. Enjoy a free product when you purchase 2. Boost your beauty game while saving money! This offer won't last long—shop today!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "B2G1",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.sugarcosmetics.com%2F",
-      "postedAt": "2026-11-23T14:22:28.579Z"
     }
   ]
 }
