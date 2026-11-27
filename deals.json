@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T09:37:43.451Z",
+  "updatedAt": "2026-11-27T09:52:45.243Z",
   "count": 80,
   "deals": [
+    {
+      "id": "cue:133019",
+      "type": "cuelinks",
+      "source": "Libas",
+      "categoryName": "Brand Offer",
+      "title": "Ethnic Fashion for Women: Stylish Finds Under Rs. 699!",
+      "description": "Get ethnic outfits without breaking the bank. Get your order delivered quickly and efficiently. Browse a fabulous selection of kurtas and more. Claim your stylish pieces now!",
+      "dealPrice": null,
+      "mrp": null,
+      "savings": null,
+      "discountPct": null,
+      "rating": null,
+      "reviewCount": "",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "",
+      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.libas.in%2Fcollections%2Funder-699%3Ffilter.p.m.custom.inventory_availability_types%3Dwarehouse_only%26filter.p.m.custom.inventory_availability_types%3Dboth",
+      "postedAt": "2026-11-27T09:52:45.240Z"
+    },
     {
       "id": "cue:133020",
       "type": "cuelinks",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61omshvf07L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HHRJZNF8?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T14:22:27.255Z"
-    },
-    {
-      "id": "cue:132822",
-      "type": "cuelinks",
-      "source": "Aldo",
-      "categoryName": "Brand Offer",
-      "title": "ALDO's Must-Have Footwear Sale - Prices Start at Rs.2499",
-      "description": "Refresh your shoe collection with ALDO’s fabulous finds! Stylish selections await you, with everything under Rs. 2,499. Hurry, this sale is fleeting—don’t wait! Everyone can join in—get yours while they last!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.aldoshoes.in%2Feverything-under-2499%2F",
-      "postedAt": "2026-11-23T13:52:44.761Z"
     }
   ]
 }
