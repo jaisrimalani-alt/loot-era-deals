@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T21:07:49.298Z",
+  "updatedAt": "2026-11-27T21:22:35.647Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H2JFDXXY",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Home Improvement",
+      "title": "LEAWALL Modern White Flower Pot with Stand | Large Indoor Outdoor Planter for Home Garden Balcony Living Room | Italian Ribbed Design Tal...",
+      "description": "",
+      "dealPrice": 589,
+      "mrp": 1499,
+      "savings": 910,
+      "discountPct": 61,
+      "rating": null,
+      "reviewCount": "184",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/71jPxGvibcL._AC_UY654_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H2JFDXXY?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T21:22:21.530Z"
+    },
     {
       "id": "amz:B0G6KFL1T7",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.hkvitals.com%2Fsv%2Fhk-vitals-melt-in-mouth-marine-collagen%2FSP-145243%3FnavKey%3DVRNT-296001",
       "postedAt": "2026-11-24T11:07:37.591Z"
-    },
-    {
-      "id": "amz:B0CXLQGJ7R",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Shoes & Bags",
-      "title": "Quick Shoe Foam Cleaner | Contains 150ml Foam Shoe Cleaner | Sneaker Cleaning Kit | Suitable for Sneakers, Nubuck, Leather, Suede & Sport...",
-      "description": "",
-      "dealPrice": 179,
-      "mrp": 299,
-      "savings": 120,
-      "discountPct": 40,
-      "rating": null,
-      "reviewCount": "635",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61alOJS4bEL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CXLQGJ7R?tag=looteradea0b5-21",
-      "postedAt": "2026-11-24T10:37:27.629Z"
     }
   ]
 }
