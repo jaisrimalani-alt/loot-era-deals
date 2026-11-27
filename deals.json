@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-27T04:22:01.864Z",
+  "updatedAt": "2026-11-27T04:37:36.846Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FR5DJGWW",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Health & Personal Care",
+      "title": "Oral-B Kids Moana Battery Electric Toothbrush, 90 Day Battery, 2 Year Warranty by Oral-B, IPX7 Water Resistant, Soft Bristles, Removes 10...",
+      "description": "",
+      "dealPrice": 479,
+      "mrp": 799,
+      "savings": 320,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "24,788",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61dBOoZfwRL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FR5DJGWW?tag=looteradea0b5-21",
+      "postedAt": "2026-11-27T04:37:19.818Z"
+    },
     {
       "id": "amz:B0756HZPSP",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61R6eRGisYL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0DK1CJKM3?tag=looteradea0b5-21",
       "postedAt": "2026-11-23T10:07:21.913Z"
-    },
-    {
-      "id": "amz:B0BJ72WZQ7",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38&#34; TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rat...",
-      "description": "",
-      "dealPrice": 1599,
-      "mrp": 4999,
-      "savings": 3400,
-      "discountPct": 68,
-      "rating": null,
-      "reviewCount": "58,201",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61-vRq2ulOL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0BJ72WZQ7?tag=looteradea0b5-21",
-      "postedAt": "2026-11-23T08:52:18.671Z"
     }
   ]
 }
