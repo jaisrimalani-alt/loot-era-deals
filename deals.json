@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T06:07:41.583Z",
+  "updatedAt": "2026-11-28T06:22:19.545Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FBGTCN41",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Shoes & Bags",
+      "title": "Shoe Cleaner Shoe Wipes, Fast & Easy Cleanup, Resealable Travel Friendly Shoe Cleaning Wipes, Multi-Use Sneaker Wipes for All Shoes, Bags...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 599,
+      "savings": 400,
+      "discountPct": 67,
+      "rating": null,
+      "reviewCount": "425",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61dzrRDylnL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FBGTCN41?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T06:22:01.088Z"
+    },
     {
       "id": "amz:B000LQUA6M",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61CD+raxj7L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0G1MW19HM?tag=looteradea0b5-21",
       "postedAt": "2026-11-24T21:52:20.216Z"
-    },
-    {
-      "id": "amz:B0GDTK3VR6",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Computers & Accessories",
-      "title": "Zebronics Wireless Mouse, Dual Mode 2.4GHz + BT, Up to 1600 DPI, USB Nano Receiver, Lightweight Design, Multicolor LED Lights, Rechargeab...",
-      "description": "",
-      "dealPrice": 411,
-      "mrp": 799,
-      "savings": 388,
-      "discountPct": 49,
-      "rating": null,
-      "reviewCount": "10,253",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51vPJoXxvjL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0GDTK3VR6?tag=looteradea0b5-21",
-      "postedAt": "2026-11-24T19:52:31.882Z"
     }
   ]
 }
