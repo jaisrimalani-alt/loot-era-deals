@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T01:37:42.054Z",
+  "updatedAt": "2026-11-28T01:52:16.359Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FPG86ZS9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "DIZORO Compatible with iPhone 17 Case 6.3, Slim Liquid Silicone 3 Layers Full Covered Soft Gel Rubber Phone Cases Protective Back Cover 6...",
+      "description": "",
+      "dealPrice": 295,
+      "mrp": 1299,
+      "savings": 1004,
+      "discountPct": 77,
+      "rating": null,
+      "reviewCount": "6,570",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51FJGnIz9wL._SL1264_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FPG86ZS9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T01:52:01.139Z"
+    },
     {
       "id": "amz:B0FY5QH8T5",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fmywakeup.in%2F",
       "postedAt": "2026-11-24T11:51:54.386Z"
-    },
-    {
-      "id": "amz:B0HLZ779GB",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home & Kitchen",
-      "title": "Lifelong Smartchoice 4HP Brushless Motorized Treadmill for Home | Daily Walking, Jogging & Running | 2-Level Manual Incline | 10 km/h Spe...",
-      "description": "",
-      "dealPrice": 9799,
-      "mrp": 36999,
-      "savings": 27200,
-      "discountPct": 74,
-      "rating": null,
-      "reviewCount": "2,266",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71plReNWa1L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0HLZ779GB?tag=looteradea0b5-21",
-      "postedAt": "2026-11-24T11:51:49.634Z"
     }
   ]
 }
