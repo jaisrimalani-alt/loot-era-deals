@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T06:52:20.651Z",
+  "updatedAt": "2026-11-28T07:07:36.929Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B00TGXJBNE",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Philips India's No.1 Hair Styling Brand Selfie Hair Straightener, Minimized Heat Damage,SilkPro Care, Ceramic Plates,Smooth Shiny Straigh...",
+      "description": "",
+      "dealPrice": 861,
+      "mrp": 1495,
+      "savings": 634,
+      "discountPct": 42,
+      "rating": null,
+      "reviewCount": "58,417",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B00TGXJBNE?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T07:07:19.712Z"
+    },
     {
       "id": "amz:B0H8TG6ZM2",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51D37uhFFBL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B07T5DKR5D?tag=looteradea0b5-21",
       "postedAt": "2026-11-25T04:22:18.663Z"
-    },
-    {
-      "id": "amz:B0CHZ2NZXT",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Pikkme OnePlus 10R 5G / 10R Prime 5G Back Cover Soft Matte Liquid Silicone TPU | Camera Protection | Shockproof Slim Back Case for OnePlu...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 999,
-      "savings": 800,
-      "discountPct": 80,
-      "rating": null,
-      "reviewCount": "20,964",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61lBJIu0AVL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0CHZ2NZXT?tag=looteradea0b5-21",
-      "postedAt": "2026-11-25T02:37:24.843Z"
     }
   ]
 }
