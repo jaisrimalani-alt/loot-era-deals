@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T06:37:19.870Z",
+  "updatedAt": "2026-11-28T06:52:20.651Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H8TG6ZM2",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Motorola g37 Power (Pantone Impenetrable, 4GB RAM, 64GB Storage) | MediaTek Dimensity 6400 Octa-Core Processor | 50MP AI Rear Camera | 8M...",
+      "description": "",
+      "dealPrice": 14899,
+      "mrp": 26499,
+      "savings": 11600,
+      "discountPct": 44,
+      "rating": null,
+      "reviewCount": "109",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61iP3Z2jTuL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H8TG6ZM2?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T06:52:03.148Z"
+    },
     {
       "id": "amz:B0FBGTCN41",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61lBJIu0AVL._SL1500_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0CHZ2NZXT?tag=looteradea0b5-21",
       "postedAt": "2026-11-25T02:37:24.843Z"
-    },
-    {
-      "id": "amz:B0G1MW19HM",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Beauty & Grooming",
-      "title": "Soft Silicone Back Scrubber Long Handle Bath Brush + Body Scrubber + Scalp Massager for Hair + Face Scrubber | 4-in-1 Bath Brush Set Comb...",
-      "description": "",
-      "dealPrice": 199,
-      "mrp": 1149,
-      "savings": 950,
-      "discountPct": 83,
-      "rating": null,
-      "reviewCount": "911",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/61CD+raxj7L._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G1MW19HM?tag=looteradea0b5-21",
-      "postedAt": "2026-11-24T21:52:20.216Z"
     }
   ]
 }
