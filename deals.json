@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T03:22:49.512Z",
+  "updatedAt": "2026-11-28T03:36:42.780Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0H2HVVNXN",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Bombay Shaving Company Sensi Smart 3 Annual Shave Pack (1 Razor + 12 Blades) | Shaving Razor and Cartridges for Man | Aloe and Argan Oil ...",
+      "description": "",
+      "dealPrice": 599,
+      "mrp": 999,
+      "savings": 400,
+      "discountPct": 40,
+      "rating": null,
+      "reviewCount": "247",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/7141dij9hIL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0H2HVVNXN?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T03:36:28.572Z"
+    },
     {
       "id": "amz:B0CCDG2LY6",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.charleskeith.in%2Fin",
       "postedAt": "2026-11-24T12:37:31.037Z"
-    },
-    {
-      "id": "cue:132888",
-      "type": "cuelinks",
-      "source": "Gonoise",
-      "categoryName": "Brand Offer",
-      "title": "Experience Ultimate Sound with Clutch HP-P01 Gaming Headphones for Rs. 4,949!",
-      "description": "Check out the amazing Clutch HP-P01 Gaming Headphones at a special price! Yours for just Rs. 4,949 – don’t miss this chance! Limited offer – act now to secure yours! This deal is for everyone; grab it while you can!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.gonoise.com%2Fproducts%2Fnoise-clutch-hp-p01-gaming-headphone",
-      "postedAt": "2026-11-24T12:22:40.358Z"
     }
   ]
 }
