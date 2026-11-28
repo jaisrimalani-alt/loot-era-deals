@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T08:52:43.193Z",
+  "updatedAt": "2026-11-28T09:07:33.476Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CJY4RL6Y",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "LADOR Perfect Hair Fill Up 3 Seconds Intensive Keratin Hair Mask Rinse Off Treatment for Bleached Frizzy Damaged Dry Hair, Deep Condition...",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 2300,
+      "savings": 2001,
+      "discountPct": 87,
+      "rating": null,
+      "reviewCount": "988",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/415YKnGt7HL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CJY4RL6Y?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T09:07:16.458Z"
+    },
     {
       "id": "amz:B0FRG77LZ9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fkapiva.in%2F",
       "postedAt": "2026-11-25T06:52:28.306Z"
-    },
-    {
-      "id": "cue:132918",
-      "type": "cuelinks",
-      "source": "RealMe",
-      "categoryName": "Brand Offer",
-      "title": "Flash Sale: realme P4s 5G at 30% Discount!",
-      "description": "Don't miss your chance to buy the realme P4s 5G with 30% discount. Get yours for only Rs. 33,999! Limited time only — seize this opportunity! Available for all – shop now and save!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F822",
-      "postedAt": "2026-11-25T06:07:24.644Z"
     }
   ]
 }
