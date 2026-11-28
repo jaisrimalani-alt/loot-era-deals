@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T00:37:37.899Z",
+  "updatedAt": "2026-11-28T00:52:21.031Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FY5QH8T5",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Dove Men + Care|150ml Oil Control facewash|with Kaolin Clay|Soap-free facewash|For Normal to Oily Skin",
+      "description": "",
+      "dealPrice": 299,
+      "mrp": 599,
+      "savings": 300,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "65",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41RULsEgnsL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FY5QH8T5?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T00:52:04.060Z"
+    },
     {
       "id": "amz:B0CX221RTT",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71plReNWa1L._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0HLZ779GB?tag=looteradea0b5-21",
       "postedAt": "2026-11-24T11:51:49.634Z"
-    },
-    {
-      "id": "cue:132874",
-      "type": "cuelinks",
-      "source": "Hkvitals",
-      "categoryName": "Brand Offer",
-      "title": "Get Liposomal Berberine Capsules - Now Only Rs. 1487!",
-      "description": "Get your hands on 60 capsules of Liposomal Berberine for an amazing price. Just Rs. 1,487—this deal won’t last long! Act quickly; it's a time-sensitive offer. Available to all health enthusiasts looking to elevate their",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.hkvitals.com%2Fsv%2Fhk-vitals-liposomal-berberine%2FSP-141055%3FnavKey%3DVRNT-285453",
-      "postedAt": "2026-11-24T11:22:39.437Z"
     }
   ]
 }
