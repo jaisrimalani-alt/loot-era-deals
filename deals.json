@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T07:37:42.792Z",
+  "updatedAt": "2026-11-28T07:52:36.280Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0FRG77LZ9",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Conscious Chemist® Blackhead Melting Water | 130ml | Gentle Pore treatment with Succinic, Glycolic Acid & CICA Exosome | Unclogs Pores, D...",
+      "description": "",
+      "dealPrice": 152,
+      "mrp": 499,
+      "savings": 347,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "316",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61hmO7enETL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0FRG77LZ9?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T07:52:19.445Z"
+    },
     {
       "id": "amz:B0G4MZ85QG",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fbuy.realme.com%2Fin%2Fgoods%2F822",
       "postedAt": "2026-11-25T06:07:24.644Z"
-    },
-    {
-      "id": "amz:B0B65H8SRF",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Home Improvement",
-      "title": "RAMEX Allen Key Set, Allen Key Set Tools Kit, 9pc Hex Allen Key Set In Plastic Box Packet Size Allen Key Set Allen Keys",
-      "description": "",
-      "dealPrice": 136,
-      "mrp": 500,
-      "savings": 364,
-      "discountPct": 73,
-      "rating": null,
-      "reviewCount": "2,138",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/71uDV8elBfL._AC_UY654_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0B65H8SRF?tag=looteradea0b5-21",
-      "postedAt": "2026-11-25T05:07:15.656Z"
     }
   ]
 }
