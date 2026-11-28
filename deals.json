@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T07:22:39.864Z",
+  "updatedAt": "2026-11-28T07:37:42.792Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0G4MZ85QG",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Electronics",
+      "title": "Kratos Selfie Stick with Tripod Stand,Extendable Selfie Stick for Mobile Phone with Bluetooth Remote,3-in-1 Multifunctional Design for Re...",
+      "description": "",
+      "dealPrice": 199,
+      "mrp": 659,
+      "savings": 460,
+      "discountPct": 70,
+      "rating": null,
+      "reviewCount": "4,043",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61YUCBUcpPL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0G4MZ85QG?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T07:37:25.067Z"
+    },
     {
       "id": "amz:B00TGXJBNE",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71uDV8elBfL._AC_UY654_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0B65H8SRF?tag=looteradea0b5-21",
       "postedAt": "2026-11-25T05:07:15.656Z"
-    },
-    {
-      "id": "amz:B07T5DKR5D",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "ZEBRONICS BRO 3.5mm Wired Earphones, in-Line MIC, Deep Bass, 1.2m Strong and Long Lasting Cable, Light Weight, Compatible with Mobile | T...",
-      "description": "",
-      "dealPrice": 122,
-      "mrp": 299,
-      "savings": 177,
-      "discountPct": 59,
-      "rating": null,
-      "reviewCount": "30,699",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/51D37uhFFBL._SL1500_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B07T5DKR5D?tag=looteradea0b5-21",
-      "postedAt": "2026-11-25T04:22:18.663Z"
     }
   ]
 }
