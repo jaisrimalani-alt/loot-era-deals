@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T04:37:42.850Z",
+  "updatedAt": "2026-11-28T04:52:42.835Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B07VLKB66C",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Vaseline Lip Care | Original Lip Balm Stick | Up to 48Hr Moisturization | with Petroleum Jelly & Vitamin E | Made in South Korea | 4.8g",
+      "description": "",
+      "dealPrice": 137,
+      "mrp": 299,
+      "savings": 162,
+      "discountPct": 54,
+      "rating": null,
+      "reviewCount": "540",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/41wX0MSGVwL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B07VLKB66C?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T04:52:28.265Z"
+    },
     {
       "id": "amz:B0H2HVVNXN",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Ftheformalclub.in%2Fcollections%2Fblack-friday-sales",
       "postedAt": "2026-11-24T12:52:34.714Z"
-    },
-    {
-      "id": "cue:132894",
-      "type": "cuelinks",
-      "source": "Charles & Keith",
-      "categoryName": "Brand Offer",
-      "title": "Limited-Time Charles & Keith Black Friday Sale: Enjoy Up to 40% Off + Extra 5% Discount",
-      "description": "Discover savings of up to 40% on exclusive handbags, elegant sandals, trendy wallets, and stylish sunglasses. Plus, get an extra 5% Off your order! This amazing offer is valid for all shoppers! Shop now and elevate your",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.charleskeith.in%2Fin",
-      "postedAt": "2026-11-24T12:37:31.037Z"
     }
   ]
 }
