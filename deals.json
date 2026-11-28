@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T02:07:11.150Z",
+  "updatedAt": "2026-11-28T02:22:18.927Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B0CCDG2LY6",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Godrej Professional Probio Honey Moisture Duo All Hair Type (250Ml, 200G),1 Count",
+      "description": "",
+      "dealPrice": 499,
+      "mrp": 1050,
+      "savings": 551,
+      "discountPct": 52,
+      "rating": null,
+      "reviewCount": "266",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/416Hr6SIcuL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B0CCDG2LY6?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T02:22:03.833Z"
+    },
     {
       "id": "amz:B098NS6PVG",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.gonoise.com%2Fproducts%2Fnoise-clutch-hp-p01-gaming-headphone",
       "postedAt": "2026-11-24T12:22:40.358Z"
-    },
-    {
-      "id": "cue:132889",
-      "type": "cuelinks",
-      "source": "Gonoise",
-      "categoryName": "Brand Offer",
-      "title": "Exciting Offer: Up to 50% Off Kids' Smartwatches + Extra 10% HDFC Discount!",
-      "description": "Get up to 50% off on trendy smartwatches for kids! Receive an additional 10% off when using HDFC Bank cards. Hurry, this special offer won’t last long! Claim your savings today and surprise your little ones!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.gonoise.com%2Fcollections%2Fmade-for-kids-smartwatch",
-      "postedAt": "2026-11-24T12:07:30.498Z"
     }
   ]
 }
