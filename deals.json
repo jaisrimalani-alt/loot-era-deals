@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T05:52:56.101Z",
+  "updatedAt": "2026-11-28T06:07:41.583Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B000LQUA6M",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Beauty & Grooming",
+      "title": "Simple Kind To Skin Refreshing Facial Wash 150 ml | 100% Soap-Free Facewash that doesn't dry out your skin| For All Skin Types",
+      "description": "",
+      "dealPrice": 247,
+      "mrp": 490,
+      "savings": 243,
+      "discountPct": 50,
+      "rating": null,
+      "reviewCount": "39,445",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/51wqZYWGr+L._SL1000_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B000LQUA6M?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T06:07:23.457Z"
+    },
     {
       "id": "amz:B08RWR63JD",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51vPJoXxvjL._AC_UL960_FMwebp_QL65_.jpg",
       "affiliateUrl": "https://www.amazon.in/dp/B0GDTK3VR6?tag=looteradea0b5-21",
       "postedAt": "2026-11-24T19:52:31.882Z"
-    },
-    {
-      "id": "amz:B0G2B251KD",
-      "type": "amazon",
-      "source": "Amazon.in",
-      "categoryName": "Electronics",
-      "title": "Redmi 15C 5G Prime Edition (Moonlight Blue, 6GB + 128GB) | Massive 6000mAh Battery | Segment's Largest Display 17.53cm Up to 120Hz | Medi...",
-      "description": "",
-      "dealPrice": 19999,
-      "mrp": 31999,
-      "savings": 12000,
-      "discountPct": 38,
-      "rating": null,
-      "reviewCount": "1,396",
-      "couponCode": "",
-      "validTill": "",
-      "imageUrl": "https://m.media-amazon.com/images/I/815IEApVGvL._AC_UL960_FMwebp_QL65_.jpg",
-      "affiliateUrl": "https://www.amazon.in/dp/B0G2B251KD?tag=looteradea0b5-21",
-      "postedAt": "2026-11-24T18:22:33.257Z"
     }
   ]
 }
