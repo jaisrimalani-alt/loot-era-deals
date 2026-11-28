@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-28T01:52:16.359Z",
+  "updatedAt": "2026-11-28T02:07:11.150Z",
   "count": 80,
   "deals": [
+    {
+      "id": "amz:B098NS6PVG",
+      "type": "amazon",
+      "source": "Amazon.in",
+      "categoryName": "Computers & Accessories",
+      "title": "Ambrane Unbreakable 3A Fast Charging 1.5m Braided Type C Cable for Smartphones, Tablets & other Type C devices, 480Mbps Data Sync, Quick ...",
+      "description": "",
+      "dealPrice": 170,
+      "mrp": 349,
+      "savings": 179,
+      "discountPct": 51,
+      "rating": null,
+      "reviewCount": "39,511",
+      "couponCode": "",
+      "validTill": "",
+      "imageUrl": "https://m.media-amazon.com/images/I/61W8xeZTwxL._SL1500_.jpg",
+      "affiliateUrl": "https://www.amazon.in/dp/B098NS6PVG?tag=looteradea0b5-21",
+      "postedAt": "2026-11-28T02:06:53.182Z"
+    },
     {
       "id": "amz:B0FPG86ZS9",
       "type": "amazon",
@@ -1502,25 +1521,6 @@
       "imageUrl": "",
       "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fwww.gonoise.com%2Fcollections%2Fmade-for-kids-smartwatch",
       "postedAt": "2026-11-24T12:07:30.498Z"
-    },
-    {
-      "id": "cue:132885",
-      "type": "cuelinks",
-      "source": "Wakeup",
-      "categoryName": "Brand Offer",
-      "title": "Don't Miss Out: Billion Festival Sale - Up to 70% Off + Extra 4% Discount!",
-      "description": "Seize astonishing discounts on mattresses, pillows, sofas, and more! Get up to 70% off your online purchase today! Use the coupon code to snag an extra 4% discount! No minimum purchase means everyone can save!",
-      "dealPrice": null,
-      "mrp": null,
-      "savings": null,
-      "discountPct": null,
-      "rating": null,
-      "reviewCount": "",
-      "couponCode": "BILLION",
-      "validTill": "",
-      "imageUrl": "",
-      "affiliateUrl": "https://linksredirect.com/?cid=335927&source=api&url=https%3A%2F%2Fmywakeup.in%2F",
-      "postedAt": "2026-11-24T11:51:54.386Z"
     }
   ]
 }
